@@ -1,0 +1,37 @@
+<!doctype HTML>
+<html>
+<head>
+  <title> Congressional Debates </title>
+  <script src="get_request.js"></script>
+  <script src="wordfreq.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+
+<style type="text/css">
+
+#line {
+    fill: none;
+    stroke: #0074d9;
+    stroke-width: 4;
+}
+#dot {
+    fill: #ff4136;
+    stroke: #fff;
+}
+
+</style>
+<body style="width: 800px; margin: auto">
+  <h1> Congressional Debates </h1>
+  <hr>
+  <h3> Frequency </h3>
+    Searchword:
+    <input type="text" name="searchword" id="searchword"> 
+    <button type="button" onclick="frequency_request()"> Get Frequency</button>
+
+    <div style="margin-left: -100px; width: 900px; height: 600px;" id="wordfreq"></div>
+    </div>
+
+
+</body>
+</html>
+
