@@ -15,6 +15,8 @@ def index():
 @app.route('/frequency', methods=['GET'])
 def get_frequency():
     word = request.args.get('word', type = str)
+
+    ## doesn't work
     num_cores = multiprocessing.cpu_count()
     freq_array = frequency(word, num_cores)
     response = jsonify(freq_array)

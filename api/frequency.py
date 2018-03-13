@@ -20,10 +20,10 @@ def get_count (dirname, fname, searchword):
     words = doc.split(" ")
     return words.count(searchword), len(words)
 
-def frequency (searchword):
-    dates = get_dates()
-    path = '/var/www/html/debates/text/'
+def frequency (searchword, num_cores):
+    path = '../text/'
     freqs = [] 
+    dates = []
     for i in range (23, 43): #for each Congress
         print ("Processing Congress Number: ", i)
         #get the sessions
@@ -32,32 +32,18 @@ def frequency (searchword):
             dirnames.append(dirname)
 
 
+        dirnames.sort()
         for dirname in dirnames:
-            if "session" in dirname:
-                print ("processing session number:", dirname)
-
+            if "session" in dirname and os.listdir(dirname):
+                date = get_date(str(i) + "_" + dirname.split('/')[-1])
                 total_occurances = 0
                 total_words = 0
-               
                 filelist = os.listdir(dirname)
-                num_cores = multiprocessing.cpu_count()
-
-                ### get list of word counts each entry is different file
                 occurances = Parallel(n_jobs=num_cores)(delayed(get_count)(dirname, fname, searchword) for fname in filelist)
-
-                ### get list of total word counts for each file
-               # wc = Parallel(n_jobs=num_cores)(delayed(get_wordcount)(dirname, fname) for fname in filelist)
-
-                for i,k in occurances: 
-                    total_occurances = total_occurances + i 
+                for j,k in occurances: 
+                    total_occurances = total_occurances + j 
                     total_words = total_words + k 
 
-                #
-                #for fname in filelist:
-                #    total_occurances = total_occurances + get_count(dirname, fname, searchword)
-                #    total_words = total_words + get_wordcount (dirname, fname) 
-
-                ## if session dir is empty or the word never occured!
                 if (total_occurances != 0 and total_words != 0):
                     frequency = float(total_occurances) / total_words
                 else:
@@ -67,6 +53,7 @@ def frequency (searchword):
                     freqs.append(math.log10(frequency))
                 else:
                     freqs.append(0)
+                dates.append(date)
 
     session = {}
     sessions = [] 
