@@ -6,7 +6,7 @@ from joblib import Parallel, delayed
 
 def get_dates ():
     dates = []
-    datefile = "/var/www/html/congress/text/dates.csv"
+    datefile = "/var/www/html/debates/text/dates.csv"
     with open(datefile, "r") as f:
         for line in f:
             if line[0] != '#':
@@ -18,18 +18,11 @@ def get_count (dirname, fname, searchword):
     f = open(dirname + '/' + fname, "r")
     doc = f.read()
     words = doc.split(" ")
-    return words.count(searchword)
-
-def get_wordcount (dirname, fname):
-    f = open(dirname + '/' + fname, "r")
-    doc = f.read()
-    words = doc.split(" ")
-    return len(words)
-
+    return words.count(searchword), len(words)
 
 def frequency (searchword):
     dates = get_dates()
-    path = '/var/www/html/congress/text/'
+    path = '/var/www/html/debates/text/'
     freqs = [] 
     for i in range (23, 43): #for each Congress
         print ("Processing Congress Number: ", i)
@@ -41,6 +34,7 @@ def frequency (searchword):
 
         for dirname in dirnames:
             if "session" in dirname:
+                print ("processing session number:", dirname)
 
                 total_occurances = 0
                 total_words = 0
@@ -52,11 +46,11 @@ def frequency (searchword):
                 occurances = Parallel(n_jobs=num_cores)(delayed(get_count)(dirname, fname, searchword) for fname in filelist)
 
                 ### get list of total word counts for each file
-                wc = Parallel(n_jobs=num_cores)(delayed(get_wordcount)(dirname, fname) for fname in filelist)
+               # wc = Parallel(n_jobs=num_cores)(delayed(get_wordcount)(dirname, fname) for fname in filelist)
 
-                for i in range(0, len(occurances)):
-                    total_occurances = total_occurances + occurances[i]
-                    total_words = total_words + wc[i]
+                for i,k in occurances: 
+                    total_occurances = total_occurances + i 
+                    total_words = total_words + k 
 
                 #
                 #for fname in filelist:

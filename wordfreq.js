@@ -58,6 +58,13 @@ function drawplot(dataset)
   // ==================================================================================================
 
   var data= JSON.parse(dataset);
+  for (var i =0; i < data.length; i++)
+  {
+    var obj = data[i];
+    if (obj['frequency'] == 0){
+      data.splice(i, 1);
+    }
+  }
 
   // ==================================================================================================
   //
@@ -77,7 +84,8 @@ function drawplot(dataset)
   // ==================================================================================================
 
   x.domain(d3.extent(data, function(d) { return d.date; }));
-  y.domain([d3.min(data, function(d) { return d.frequency; }), d3.max(data, function(d) { return d.frequency; })]);
+  //y.domain([d3.min(data, function(d) { return d.frequency; }), d3.max(data, function(d) { return d.frequency; })]);
+  y.domain([-7, 0]);
 
   // ==================================================================================================
   //
