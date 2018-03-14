@@ -57,14 +57,16 @@ function drawplot(dataset)
   //
   // ==================================================================================================
 
-  var data= JSON.parse(dataset);
-  for (var i =0; i < data.length; i++)
+  var temp= JSON.parse(dataset);
+  var data = [];
+  console.log(temp.length);
+  for (var i =0; i < temp.length; i++)
   {
-    var obj = data[i];
-    if (obj['frequency'] == 0){
-      data.splice(i, 1);
+    if (temp[i]['frequency'] != 0){
+      data.push(temp[i]);
     }
   }
+  console.log(data.length);
 
   // ==================================================================================================
   //

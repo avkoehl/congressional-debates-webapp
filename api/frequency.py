@@ -4,15 +4,15 @@ import matplotlib.pyplot as plt
 import multiprocessing
 from joblib import Parallel, delayed
 
-def get_dates ():
-    dates = []
-    datefile = "/var/www/html/debates/text/dates.csv"
+def get_date (sessionid):
+    datefile = "../text/dates.csv"
     with open(datefile, "r") as f:
         for line in f:
             if line[0] != '#':
                 tokens = line.rstrip().split(',')
-                dates.append(tokens[1])
-    return dates 
+                if tokens[0] == sessionid:
+                    date = tokens[1]
+                    return date
 
 def get_count (dirname, fname, searchword):
     f = open(dirname + '/' + fname, "r")
@@ -63,3 +63,4 @@ def frequency (searchword, num_cores):
         sessions.append(session.copy())
     return sessions
 
+result = frequency("test", 30)

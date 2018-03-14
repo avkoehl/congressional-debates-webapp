@@ -26,6 +26,9 @@ function php_request()
   var params = "word=" + searchword;
   var base_url = "frequency.php";
 
+  document.getElementById("status").innerHTML = "processing request for word: " + searchword;
+  document.getElementById("wordfreq").innerHTML = "";
+
 
   var xmlHttp = new XMLHttpRequest();
   xmlHttp.open("POST", base_url, true);
@@ -36,7 +39,8 @@ function php_request()
   {
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
     {
-      console.log(xmlHttp.responseText);
+      //console.log(xmlHttp.responseText);
+      document.getElementById("status").innerHTML = searchword;
       drawplot(xmlHttp.responseText);
     }//if
   }//on readystate change
