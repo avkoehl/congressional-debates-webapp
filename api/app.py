@@ -16,7 +16,7 @@ def index():
 def get_frequency():
     word = request.args.get('word', type = str)
 
-    os.system("python3.5 frequency.py" + " " +  word + " " + str(30))
+    os.system("/usr/local/bin/python3.5 frequency.py" + " " +  word + " " + str(30))
     myfile = open("./outputs/" + word + ".txt", "r")
     result = myfile.read()
     return (result);
