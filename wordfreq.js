@@ -233,6 +233,10 @@ function drawlinearplot(dataset)
       data[j]['frequency'] = Math.pow(10, temp[i]['frequency']) * 100;
       j = j + 1
     }
+    else {
+      data.push(temp[i]);
+      j = j + 1;
+    }
   }
   console.log(data.length);
   console.log(data);
