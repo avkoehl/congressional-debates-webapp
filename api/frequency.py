@@ -1,8 +1,9 @@
 #python 3
-import math, os, re
+import math, os, re, sys
 import matplotlib.pyplot as plt
 import multiprocessing
 from joblib import Parallel, delayed
+import json
 
 def get_date (sessionid):
     datefile = "../text/dates.csv"
@@ -63,4 +64,12 @@ def frequency (searchword, num_cores):
         sessions.append(session.copy())
     return sessions
 
-result = frequency("test", 30)
+
+word = sys.argv[1]
+cores = sys.argv[2]
+
+f = open ("./outputs/" + word + ".txt", "w")
+result = frequency(word, int(cores))
+json = json.dumps(result)
+print (json, file=f)
+print (json)

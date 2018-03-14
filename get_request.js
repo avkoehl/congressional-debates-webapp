@@ -39,9 +39,9 @@ function php_request()
   {
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
     {
-      //console.log(xmlHttp.responseText);
+      console.log(xmlHttp.responseText);
       document.getElementById("status").innerHTML = searchword;
-      drawplot(xmlHttp.responseText);
+      drawlinearplot(xmlHttp.responseText);
     }//if
   }//on readystate change
 }
