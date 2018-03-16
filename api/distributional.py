@@ -1,5 +1,5 @@
 #python 3
-import os, time, gensim
+import os, time, gensim, sys, json
 from gensim.models import translation_matrix
 from gensim.models import KeyedVectors
 import matplotlib.pyplot as plt
@@ -96,6 +96,7 @@ def intersection_align_gensim(m1,m2, words=None):
 
 
 def get_distances (fname, word):
+    print ("processing model: ", fname)
     path = "./models/"
     bmodel = gensim.models.Word2Vec.load("./models/23_session1.model")
     model = gensim.models.Word2Vec.load(path + fname)
@@ -103,15 +104,47 @@ def get_distances (fname, word):
     model.init_sims()
     aligned = smart_procrustes_align_gensim (bmodel, model)
 
-    base = bmodel.wv[word]
-    current = aligned.wv[word]
+    if word in bmodel.wv.vocab and word in aligned.wv.vocab:
+      base = bmodel.wv[word]
+      current = aligned.wv[word]
+      sim = 1 - spatial.distance.cosine(base, current)
+    else:
+      sim = -1 ### IF NOT IN SESSION
 
-    return (1 - spatial.distance.cosine(base, current))
+    cong = fname[0:2]
+    sid = fname.split('.')[0][-1]
+    date = get_date(cong + "_session" + sid)
 
-word = "South"
-num_cores = 8
+    return date, sim 
+
+def get_date (sessionid):
+    datefile = "../text/dates.csv"
+    with open(datefile, "r") as f:
+        for line in f:
+            if line[0] != '#':
+                tokens = line.rstrip().split(',')
+                if tokens[0] == sessionid:
+                    date = tokens[1]
+                    return date
+
+def make_json (distances):
+    session = {}
+    sessions = []
+    for j,k in distances: 
+      session['date'] = j 
+      session['similarity'] = k 
+      sessions.append(session.copy())
+    return json.dumps(sessions)
+
+word = sys.argv[1] 
+num_cores = int(sys.argv[2])
+
+
 filelist = sorted(os.listdir("./models/"))
+f = open ("./outputs/dist" + word + ".txt", "w")
 distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(fname, word) for fname in filelist)
-print (distances)
+json = make_json(distances)
+print (json, file=f)
+print (json)
 
 

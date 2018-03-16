@@ -21,6 +21,19 @@ def get_frequency():
     result = myfile.read()
     return (result);
 
+
+@app.route('/distribution', methods=['GET'])
+def get_distribution():
+    word = request.args.get('word', type = str)
+
+    os.system("/usr/local/bin/python3.5 distributional.py" + " " +  word + " " + str(30))
+    myfile = open("./outputs/dist" + word + ".txt", "r")
+    result = myfile.read()
+    return (result);
+
+
+
+
 if __name__ == '__main__':
     app.run(debug=True)
 

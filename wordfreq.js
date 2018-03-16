@@ -259,7 +259,7 @@ function drawlinearplot(dataset)
   // ==================================================================================================
 
   x.domain(d3.extent(data, function(d) { return d.date; }));
-  y.domain([d3.min(data, function(d) { return d.frequency; }), d3.max(data, function(d) { return d.frequency; })]);
+  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
   //y.domain([-7, 0]);
 
   // ==================================================================================================
