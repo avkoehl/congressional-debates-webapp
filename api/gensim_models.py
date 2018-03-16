@@ -2,6 +2,7 @@
 import os, time, gensim
 import multiprocessing
 from joblib import Parallel, delayed
+import json
 
 """ Generate the word2vec models for each time slot using gensim skip grams model
         For each time slot,
@@ -12,19 +13,29 @@ from joblib import Parallel, delayed
 
 def get_sentences(dirname, fname):
     myfile = open(dirname + '/' + fname, "r")
-    lines =  myfile.readlines()
+    lines = []
+    for line in myfile:
+      lines.append(line.lower())
     return lines
 
 def gen_models(dirname, all_sentences, i):
-    model = gensim.models.Word2Vec(all_sentences, sg=1, window=5, workers=8)
+    model = gensim.models.Word2Vec(all_sentences, sg=1, window=5, workers=30)
     sessionid = str(i) + "_" + dirname.split('/')[-1]
-    print (model.wv["slave"])
-    model.save(sessionid + ".model")
-
+    print (sessionid)
+    model.save("./models/" + sessionid + ".model")
+    modeldict = {}
+    vocab = []
+    for word in model.wv.vocab:
+      vocab.append(word)
+    modeldict["vocabulary"] = vocab
+    modeldict["id"] = sessionid
+    f = open("./vocab/all.vocab", "a")
+    Json = json.dumps(modeldict)
+    print (Json, file=f)
     return
 
 def models ():
-    path = "/var/www/html/congress/text/"
+    path = "../text/"
 
     for i in range (23, 42):
         dirnames = []
@@ -39,16 +50,17 @@ def models ():
                 num_cores = multiprocessing.cpu_count()
 
                 sentences = Parallel(n_jobs=num_cores)(delayed(get_sentences)(dirname, fname) for fname in filelist)
-                end = time.time()
-                start1 = time.time()
-                print ("parse sentence time: ", end - start)
 
 
                 for k in range(len(sentences)):
                     for j in range(len(sentences[k])):
                         all_sentences.append(sentences[k][j].split())
 
+                end = time.time()
+                print ("parse sentence time: ", end - start)
 
+
+                start1 = time.time()
                 if all_sentences:
                     gen_models(dirname, all_sentences, i)
                     end2 = time.time()

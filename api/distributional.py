@@ -95,25 +95,20 @@ def intersection_align_gensim(m1,m2, words=None):
     return (m1,m2)
 
 
-def get_distances (fname, word):
-    print ("processing model: ", fname)
-    path = "./models/"
-    bmodel = gensim.models.Word2Vec.load("./models/23_session1.model")
-    model = gensim.models.Word2Vec.load(path + fname)
+def get_distances (base, fname, word):
+    sid = fname.split('/')[-1].split('.')[0]
+    date = get_date(sid)
+    print ("processing model: ", sid, date)
+    bmodel = gensim.models.Word2Vec.load(base)
+    model = gensim.models.Word2Vec.load(fname)
     bmodel.init_sims()
     model.init_sims()
     aligned = smart_procrustes_align_gensim (bmodel, model)
 
-    if word in bmodel.wv.vocab and word in aligned.wv.vocab:
-      base = bmodel.wv[word]
-      current = aligned.wv[word]
-      sim = 1 - spatial.distance.cosine(base, current)
-    else:
-      sim = -1 ### IF NOT IN SESSION
+    base = bmodel.wv[word]
+    current = aligned.wv[word]
+    sim = 1 - spatial.distance.cosine(base, current)
 
-    cong = fname[0:2]
-    sid = fname.split('.')[0][-1]
-    date = get_date(cong + "_session" + sid)
 
     return date, sim 
 
@@ -136,13 +131,32 @@ def make_json (distances):
       sessions.append(session.copy())
     return json.dumps(sessions)
 
-word = sys.argv[1] 
+def get_filelist(word):
+  f = open("./vocab/all.vocab","r")
+  sessions = []
+  contain_word = []
+
+  for line in f:
+    sessions.append(json.loads(line))
+
+  for i in range (0, len(sessions)):
+    session = sessions[i]
+    if word in session["vocabulary"]:
+      contain_word.append("./models/"+session["id"]+".model")
+
+  return contain_word[0], contain_word
+
+
+word = sys.argv[1].lower()
 num_cores = int(sys.argv[2])
 
 
-filelist = sorted(os.listdir("./models/"))
+base, filelist = get_filelist(word)
+print (filelist)
+
+
 f = open ("./outputs/dist" + word + ".txt", "w")
-distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(fname, word) for fname in filelist)
+distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(base, fname, word) for fname in filelist)
 json = make_json(distances)
 print (json, file=f)
 print (json)

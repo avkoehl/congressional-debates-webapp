@@ -24,7 +24,7 @@ def get_frequency():
 
 @app.route('/distribution', methods=['GET'])
 def get_distribution():
-    word = request.args.get('word', type = str)
+    word = request.args.get('word', type = str).lower()
 
     os.system("/usr/local/bin/python3.5 distributional.py" + " " +  word + " " + str(30))
     myfile = open("./outputs/dist" + word + ".txt", "r")
