@@ -31,6 +31,15 @@ def get_distribution():
     result = myfile.read()
     return (result);
 
+@app.route('/distance', methods=['GET'])
+def get_distance():
+    word = request.args.get('word', type = str).lower()
+    word2 = request.args.get('word2', type = str).lower()
+
+    os.system("/usr/local/bin/python3.5 word2word.py" + " " +  word + " " + word2 + " " +  str(30))
+    myfile = open("./outputs/2dist" + word + word2 + ".txt", "r")
+    result = myfile.read()
+    return (result);
 
 
 

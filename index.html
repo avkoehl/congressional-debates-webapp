@@ -5,6 +5,7 @@
   <script src="get_request.js"></script>
   <script src="wordfreq.js"></script>
   <script src="worddist.js"></script>
+  <script src="wordw2w.js"></script>
   <script src="tabs.js"></script>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 </head>
@@ -99,7 +100,18 @@ color: #333;
     <p id="dist_status"> </p>
 
     <div style="margin-left: -100px; width: 900px; height: 600px;" id="worddist"></div>
+
+
+    <hr>
+    <p> Enter two words seperated by a comma to plot a timeseries tracking the amount their distributional distance has changed. </p>
+    Searchword:
+    <input type="text" name="w2w_searchword" id="w2w_searchword"> 
+    <button type="button" onclick="php_distance_request()"> Get distance time series</button>
+
+    <p id="w2w_status"> </p>
+    <div style="margin-left: -100px; width: 900px; height: 600px;" id="wordw2w"></div>
   </div>
+
 
   <div id="syntax" class="tab" style="display: none">
     <p> Enter a searchword to plot a timeseries demonstrating how much the distribution of its parts of speech changed. </p>
