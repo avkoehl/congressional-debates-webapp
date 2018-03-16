@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import multiprocessing
 from joblib import Parallel, delayed
 import json
+import time
 
 def get_date (sessionid):
     datefile = "../text/dates.csv"
@@ -16,12 +17,14 @@ def get_date (sessionid):
                     return date
 
 def get_count (dirname, fname, searchword):
+        
     f = open(dirname + '/' + fname, "r")
-    doc = f.read()
+    doc = f.read().lower()
     words = doc.split(" ")
     return words.count(searchword), len(words)
 
 def frequency (searchword, num_cores):
+    searchword =searchword.lower()
     path = '../text/'
     freqs = [] 
     dates = []
@@ -67,9 +70,11 @@ def frequency (searchword, num_cores):
 
 word = sys.argv[1]
 cores = sys.argv[2]
-
+start = time.time()
 f = open ("./outputs/" + word + ".txt", "w")
 result = frequency(word, int(cores))
 json = json.dumps(result)
+end = time.time()
 print (json, file=f)
 print (json)
+print (end - start)
