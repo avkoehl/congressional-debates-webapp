@@ -62,6 +62,7 @@ function drawdistplot(dataset)
   var temp= JSON.parse(dataset);
   var data = [];
   console.log(temp.length);
+  console.log(temp);
   j = 0
   for (var i =0; i < temp.length; i++)
   {
