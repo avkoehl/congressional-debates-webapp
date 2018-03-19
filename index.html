@@ -2,61 +2,20 @@
 <html>
 <head>
   <title> Congressional Debates </title>
-  <script src="get_request.js"></script>
-  <script src="wordfreq.js"></script>
-  <script src="worddist.js"></script>
-  <script src="wordw2w.js"></script>
-  <script src="tabs.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+  <link rel="stylesheet" type="text/css" href="./stylesheets/style.css" >
+  <script src="./javascript/example/data.js"></script>
+  <script src="./javascript/defaults.js"></script>
+  <script src="./javascript/get_request.js"></script>
+  <script src="./javascript/wordfreq.js"></script>
+  <script src="./javascript/worddist.js"></script>
+  <script src="./javascript/wordw2w.js"></script>
+  <script src="./javascript/tabs.js"></script>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 </head>
 
-<style type="text/css">
-
-body {
-  font-family: "Arial, sans-serif";
-  font-size: 16px;
-  line-height: 1.4;
- background-color: #fff;
- }
-
- h1 {
- color: #333;
-}
-
-h3 {
-color: #333;
-}
-
- .tabs {
- overflow: hidden;
- background-color: #ddd;
-}
- .tabs button {
-  background-color: inherit;
-  float: left;
-  border: none;
-  outline: none;
-  padding: 14px 16px;
-  font-size: 18px;
- }
-
- .tablink:hover {
-  background-color: #bbb;
- }
-
- .tablink.active {
-  background-color: #bbb;
- }
-
- p {
- margin-top: 20px;
-}
-
-</style>
-
-
-<body style="width: 800px; margin: auto">
-  <h1> Congressional Debates <span style="float:right">Arthur Koehl</span> </h1>
+<body style="width: 800px; margin: auto" onload="default_freq()">
+  <center><h1> Congressional Debates</h1></center>
 
       <!-- TABS -->
       <div class="tabs">
@@ -67,7 +26,7 @@ color: #333;
         <button class="tablink" onclick="openTab(event, 'resources')">Resources</button>
        </div>
 
-  <div id="intro" class="tab">
+  <div id="intro" class="tab"> 
   <p> This website provides an API to several Natural Language Processing methods implemented on the Congressional Globe corpus (<a href="https://memory.loc.gov/ammem/amlaw/lwcg.html">https://memory.loc.gov</a>).
       The Congressional Globe contains the recorded transcription of the proceedings of each session of Congress from the 23rd to the 42nd Congress, covering the time period 1833 to 1873.
       I am most interested in models that attempt to track chronologically when the meaning of a word has significantly changed. 
@@ -75,17 +34,16 @@ color: #333;
       The second tab, "Distributional Models", interfaces with my implementation of different models for tracking linguisitic word shift that have been presented recently and seem to hold lots of potential.
       Please keep in mind that the results are experimental and are meant more to provide a first glance of this complex corpus, and hopefully, a place to start looking. 
  </p>
-    <div style="margin-left: -100px; width: 900px; height: 600px;" ></div>
   </div>
 
       
   <div id="freq" class="tab" style="display: none">
-    <p> Enter a searchword to plot its relative frequency accross each session of Congress. </p>
-    Searchword:
-    <input type="text" name="searchword" id="searchword"> 
-    <button type="button" onclick="php_frequency_request()"> Get Frequency</button>
-
-    <p id="status"> </p>
+  <center>
+      <p id="status" style="color: #222; font-size: 25px">mexico</p>
+      Searchword:
+      <input type="text" name="searchword" id="searchword" value="mexico">
+      <button type="button" onclick="php_frequency_request()"> Get Frequency</button>
+     </center>
 
     <div style="margin-left: -100px; width: 900px; height: 600px;" id="wordfreq"></div>
   </div>
