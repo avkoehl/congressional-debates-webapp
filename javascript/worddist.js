@@ -108,7 +108,7 @@ function drawdistplot(dataset)
     .call(xAxis)
     .style("font-size","16px")
     .style("font-famliy","sans-serif")
-    .style("stroke", "black")
+    .style("stroke", "#555555")
     .style("stroke-width", 1.0);
   axisX.selectAll("line").attr("fill","none");
   axisX.selectAll("path").attr("fill","none");
@@ -118,10 +118,8 @@ function drawdistplot(dataset)
         "translate(" + (0.85*width) + " ," + 
         (height + margin.top ) + ")")
     .style("text-anchor", "middle")
-    //.style("font-style","Italic")
     .style("font-size","18px")
     .style("font-famliy","sans-serif")
-    //.style("font-weight","Bold");
 
   // ==================================================================================================
   //
@@ -131,11 +129,9 @@ function drawdistplot(dataset)
 
   var axisY = svg.append("g")
     .call(yAxis)
-    //.style("font-style","Italic")
     .style("font-famliy","sans-serif")
     .style("font-size","14px")
-    //.style("font-weight","Bold")
-    .style("stroke", "black")
+    .style("stroke", "#555555")
     .style("stroke-width", 1.0);
   axisY.selectAll("line").attr("fill","none");
   axisY.selectAll("path").attr("fill","none");
@@ -147,10 +143,8 @@ function drawdistplot(dataset)
     .attr("dy", "0.75em")
     .attr("transform", "rotate(-90)")
     .text("Cosign Similarity")
-    //.style("font-style","Italic")
     .style("font-famliy","sans-serif")
     .style("font-size","18px")
-    //.style("font-weight","Bold");
 
   // ==================================================================================================
   //
@@ -164,7 +158,7 @@ function drawdistplot(dataset)
 
   svg.append("path")
     .attr("class", "line")
-    .style("stroke", "blue")
+    .style("stroke", "#ff4136")
     .style("stroke-width", 1.0)
     .attr("fill","none")
     .attr("d", valueline(data));
@@ -178,8 +172,8 @@ function drawdistplot(dataset)
   svg.selectAll("dot")
     .data(data)
     .enter().append("circle")
-    .attr("fill","red")
-    .attr("r", 3.5)
+    .attr("fill","#ff4136")
+    .attr("r", 2.5)
     .attr("cx", function(d) { return x(d.date); })
     .attr("cy", function(d) { return y(d.similarity); });
 

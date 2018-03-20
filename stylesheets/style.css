@@ -6,11 +6,14 @@ html
 
 body 
 {
+  width: 800px;
+  margin: auto;
   font-family: "Lato", "sans-serif";
   font-size: 16px;
   line-height: 1.4;
   background-color: #fff;
 }
+
 
 h1, h3
 {
@@ -20,8 +23,11 @@ h1, h3
 
 .tabs
 {
-  margin: 40px 0px;
+  margin: 0 auto;
   overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 .tablink 
 {

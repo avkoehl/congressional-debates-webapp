@@ -14,8 +14,10 @@
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 </head>
 
-<body style="width: 800px; margin: auto" onload="default_freq()">
-  <center><h1> Congressional Debates</h1></center>
+<body onload="default_all()">
+<center>
+  <h1> Congressional Debates</h1>
+ </center>
 
       <!-- TABS -->
       <div class="tabs">
@@ -40,24 +42,22 @@
   <div id="freq" class="tab" style="display: none">
   <center>
       <p id="status" style="color: #222; font-size: 25px">mexico</p>
-      Searchword:
       <input type="text" name="searchword" id="searchword" value="mexico">
-      <button type="button" onclick="php_frequency_request()"> Get Frequency</button>
-     </center>
+      <button type="button" onclick="php_frequency_request()"> Search</button>
+  </center>
 
-    <div style="margin-left: -100px; width: 900px; height: 600px;" id="wordfreq"></div>
+    <div style="margin-left: -100px; width: 1000px; height: 600px;" id="wordfreq"></div>
   </div>
 
 
   <div id="dist" class="tab" style="display: none">
-    <p> Enter a searchword to plot a timeseries tracking the amount its context changed. </p>
-    Searchword:
-    <input type="text" name="dist_searchword" id="dist_searchword"> 
-    <button type="button" onclick="php_distribution_request()"> Get Distributional Model</button>
+  <center>
+      <p id="dist_status" style="color: #222; font-size: 25px">money</p>
+      <input type="text" name="dist_searchword" id="dist_searchword" value="money">
+      <button type="button" onclick="php_distribution_request()"> Search</button>
+  </center>
 
-    <p id="dist_status"> </p>
-
-    <div style="margin-left: -100px; width: 900px; height: 600px;" id="worddist"></div>
+    <div style="margin-left: -100px; width: 1000px; height: 600px;" id="worddist"></div>
 
 
     <hr>
