@@ -1,13 +1,39 @@
-#python 3
-import math, os, re, sys
-import matplotlib.pyplot as plt
-import multiprocessing
-from joblib import Parallel, delayed
-import json
-import time
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
-def get_date (sessionid):
-    datefile = "../text/dates.csv"
+
+##
+# input parameters:
+#       argv[1] = word
+#       argv[2] = num_cores
+#       argv[3] = corpus
+#
+# several helper functions and main for each corpus
+# functions with cg_ in front are congression globe
+#                wor_ is for war of rebellion
+##
+
+# dependencies
+import math, os, re, sys, json, time
+import multiprocessing
+import matplotlib.pyplot as plt
+from joblib import Parallel, delayed
+
+
+# paths
+def get_paths(corpus):
+    dfilepath = './data/' + corpus + '/dates.csv'
+    corpuspath =  './data/' + corpus + '/'
+# given directory get the number of words and number of occurances
+def get_count (dirname, fname, searchword):
+    f = open(dirname + '/' + fname, "r")
+    doc = f.read().lower()
+    words = doc.split(" ")
+    return words.count(searchword), len(words)
+
+# given session id return the date 
+def cg_get_date (sessionid):
+    datefile = './data/congressional-globe/dates.csv'
     with open(datefile, "r") as f:
         for line in f:
             if line[0] != '#':
@@ -16,16 +42,10 @@ def get_date (sessionid):
                     date = tokens[1]
                     return date
 
-def get_count (dirname, fname, searchword):
-        
-    f = open(dirname + '/' + fname, "r")
-    doc = f.read().lower()
-    words = doc.split(" ")
-    return words.count(searchword), len(words)
-
-def frequency (searchword, num_cores):
+# different function for each corpus  
+def cg_frequency (searchword, num_cores):
     searchword =searchword.lower()
-    path = '../text/'
+    path = './data/congressional-globe/'
     freqs = [] 
     dates = []
     for i in range (23, 43): #for each Congress
@@ -39,7 +59,7 @@ def frequency (searchword, num_cores):
         dirnames.sort()
         for dirname in dirnames:
             if "session" in dirname and os.listdir(dirname):
-                date = get_date(str(i) + "_" + dirname.split('/')[-1])
+                date = cg_get_date(str(i) + "_" + dirname.split('/')[-1])
                 total_occurances = 0
                 total_words = 0
                 filelist = os.listdir(dirname)
@@ -57,6 +77,7 @@ def frequency (searchword, num_cores):
                     freqs.append(math.log10(frequency))
                 else:
                     freqs.append(0)
+
                 dates.append(date)
 
     session = {}
@@ -68,13 +89,21 @@ def frequency (searchword, num_cores):
     return sessions
 
 
-word = sys.argv[1]
-cores = sys.argv[2]
-start = time.time()
-f = open ("./outputs/" + word + ".txt", "w")
-result = frequency(word, int(cores))
-json = json.dumps(result)
-end = time.time()
-print (json, file=f)
-print (json)
-print (end - start)
+def main():
+    word = sys.argv[1]
+    cores = sys.argv[2]
+    f = open ("./outputs/" + word + ".txt", "w")
+
+    start = time.time()
+    result = cg_frequency(word, int(cores))
+    end = time.time()
+
+    res_json = json.dumps(result)
+
+    print (res_json, file=f)
+    print (res_json)
+    print ("time elapsed:", end - start)
+
+
+if __name__ == "__main__":
+    main()
