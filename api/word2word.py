@@ -18,7 +18,7 @@ def get_distances (fname, word, word2):
     return date, sim 
 
 def get_date (sessionid):
-    datefile = "../text/dates.csv"
+    datefile = "./data/congressional-debates/dates.csv"
     with open(datefile, "r") as f:
         for line in f:
             if line[0] != '#':
@@ -37,7 +37,7 @@ def make_json (distances):
     return json.dumps(sessions)
 
 def get_filelist(word, word2):
-  f = open("./vocab/all.vocab","r")
+  f = open("./data/embeddings/vocab/all.vocab","r")
   sessions = []
   contain_word = []
 
@@ -47,7 +47,7 @@ def get_filelist(word, word2):
   for i in range (0, len(sessions)):
     session = sessions[i]
     if word in session["vocabulary"] and word2 in session["vocabulary"]:
-      contain_word.append("./models/"+session["id"]+".model")
+      contain_word.append("./data/embeddings/models/"+session["id"]+".model")
 
   return contain_word
 
