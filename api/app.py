@@ -24,10 +24,8 @@ def get_frequency():
 def get_distribution():
     word = request.args.get('word', type = str).lower()
 
-    os.system("/usr/local/bin/python3.5 distributional.py" + " " +  word + " " + str(30))
-    myfile = open("./outputs/dist" + word + ".txt", "r")
-    result = myfile.read()
-    return (result);
+    result = subprocess.check_output("/usr/local/bin/python3.5 distributional.py" + " " +  word + " " + str(30), shell=True)
+    return (result.decode("utf-8").rstrip());
 
 @app.route('/distance', methods=['GET'])
 def get_distance():

@@ -100,7 +100,7 @@ def intersection_align_gensim(m1,m2, words=None):
 def get_distances (base, fname, word):
     sid = fname.split('/')[-1].split('.')[0]
     date = get_date(sid)
-    print ("processing model: ", sid, date)
+    #print ("processing model: ", sid, date)
     bmodel = gensim.models.Word2Vec.load(base)
     model = gensim.models.Word2Vec.load(fname)
     bmodel.init_sims()
@@ -152,13 +152,11 @@ def get_filelist(word):
 def main():
     word = sys.argv[1].lower()
     num_cores = int(sys.argv[2])
-    f = open ("./outputs/dist" + word + ".txt", "w")
 
     base, filelist = get_filelist(word)
 
     distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(base, fname, word) for fname in filelist)
     json = make_json(distances)
-    print (json, file=f)
     print (json)
 
 
