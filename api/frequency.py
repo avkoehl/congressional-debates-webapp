@@ -91,10 +91,6 @@ def cg_frequency (searchword, num_cores):
     return session_list
 
 
-word = sys.argv[1]
-
-
-
 def main():
     word = sys.argv[1]
     cores = sys.argv[2]

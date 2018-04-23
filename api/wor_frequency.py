@@ -18,7 +18,7 @@ def frequency (searchword, num_cores):
     dirnames = []
     total_words = 0
 
-    for dirname, subdirlist, filelist in os.walk("../WoR/"):
+    for dirname, subdirlist, filelist in os.walk("./data/war-of-rebellion/"):
         dirnames.append(dirname)
 
     dirnames =dirnames[1:]
@@ -37,6 +37,6 @@ def frequency (searchword, num_cores):
     
     return freqs
 
-result = frequency("slavery", 30)
+result = frequency("soldier", 30)
 for r in result:
     print (r)
