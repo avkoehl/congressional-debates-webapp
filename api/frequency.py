@@ -45,7 +45,6 @@ def cg_get_date (sessionid):
 def cg_calc_frequency (searchword, dirname):
 
     date = cg_get_date(dirname.split('/')[-2] + "_" + dirname.split('/')[-1])
-    print ("Processing session: ", dirname.split('/')[-2] + "_" + dirname.split('/')[-1])
     total_occurances = 0
     total_words = 0
     frequency = 0
@@ -99,17 +98,12 @@ word = sys.argv[1]
 def main():
     word = sys.argv[1]
     cores = sys.argv[2]
-    f = open ("./outputs/" + word + ".txt", "w")
 
-    start = time.time()
     result = cg_frequency(word, int(cores))
-    end = time.time()
 
     res_json = json.dumps(result)
 
-    print (res_json, file=f)
     print (res_json)
-    print ("time elapsed:", end - start)
 
 
 if __name__ == "__main__":
