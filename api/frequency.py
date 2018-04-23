@@ -19,11 +19,11 @@ import multiprocessing
 import matplotlib.pyplot as plt
 from joblib import Parallel, delayed
 
-
 # paths
 def get_paths(corpus):
     dfilepath = './data/' + corpus + '/dates.csv'
     corpuspath =  './data/' + corpus + '/'
+
 # given directory get the number of words and number of occurances
 def get_count (dirname, fname, searchword):
     f = open(dirname + '/' + fname, "r")

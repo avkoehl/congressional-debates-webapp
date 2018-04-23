@@ -1,4 +1,6 @@
-#python 3
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 import os, time, gensim, sys, json
 from gensim.models import translation_matrix
 from gensim.models import KeyedVectors
@@ -113,7 +115,7 @@ def get_distances (base, fname, word):
     return date, sim 
 
 def get_date (sessionid):
-    datefile = "../text/dates.csv"
+    datefile = './data/congressional-globe/dates.csv'
     with open(datefile, "r") as f:
         for line in f:
             if line[0] != '#':
@@ -132,33 +134,34 @@ def make_json (distances):
     return json.dumps(sessions)
 
 def get_filelist(word):
-  f = open("./vocab/all.vocab","r")
-  sessions = []
-  contain_word = []
+    f = open("./data/embeddings/vocab/all.vocab","r")
+    sessions = []
+    contain_word = []
 
-  for line in f:
-    sessions.append(json.loads(line))
+    for line in f:
+        sessions.append(json.loads(line))
 
-  for i in range (0, len(sessions)):
-    session = sessions[i]
-    if word in session["vocabulary"]:
-      contain_word.append("./models/"+session["id"]+".model")
+    for i in range (0, len(sessions)):
+        session = sessions[i]
+        if word in session["vocabulary"]:
+            contain_word.append("./data/embeddings/models/"+session["id"]+".model")
 
-  return contain_word[0], contain_word
-
-
-word = sys.argv[1].lower()
-num_cores = int(sys.argv[2])
+    return contain_word[0], contain_word
 
 
-base, filelist = get_filelist(word)
-print (filelist)
+def main():
+    word = sys.argv[1].lower()
+    num_cores = int(sys.argv[2])
+    f = open ("./outputs/dist" + word + ".txt", "w")
+
+    base, filelist = get_filelist(word)
+
+    distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(base, fname, word) for fname in filelist)
+    json = make_json(distances)
+    print (json, file=f)
+    print (json)
 
 
-f = open ("./outputs/dist" + word + ".txt", "w")
-distances = Parallel(n_jobs=num_cores)(delayed(get_distances)(base, fname, word) for fname in filelist)
-json = make_json(distances)
-print (json, file=f)
-print (json)
-
+if __name__ == "__main__":
+    main()
 
