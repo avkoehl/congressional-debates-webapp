@@ -42,51 +42,58 @@ def cg_get_date (sessionid):
                     date = tokens[1]
                     return date
 
-# different function for each corpus  
+def cg_calc_frequency (searchword, dirname):
+
+    date = cg_get_date(dirname.split('/')[-2] + "_" + dirname.split('/')[-1])
+    print ("Processing session: ", dirname.split('/')[-2] + "_" + dirname.split('/')[-1])
+    total_occurances = 0
+    total_words = 0
+    frequency = 0
+    occurances = []
+
+    total_occurances, total_words = get_count(dirname, "all.txt", searchword)
+
+    if (total_occurances != 0 and total_words != 0):
+       frequency = float(total_occurances) / total_words
+    else:
+       frequency = 0  
+
+    if (frequency > 0):
+       return date, math.log10(frequency)
+    else:
+       return date, 0
+
 def cg_frequency (searchword, num_cores):
     searchword =searchword.lower()
     path = './data/congressional-globe/'
     freqs = [] 
     dates = []
+    sessions = []
+    dirnames = []
     for i in range (23, 43): #for each Congress
-        print ("Processing Congress Number: ", i)
-        #get the sessions
-        dirnames = []
         for dirname, subdirlist, filelist in os.walk(path + str(i)):
             dirnames.append(dirname)
 
+    dirnames.sort()
+    directories = []
 
-        dirnames.sort()
-        for dirname in dirnames:
-            if "session" in dirname and os.listdir(dirname):
-                date = cg_get_date(str(i) + "_" + dirname.split('/')[-1])
-                total_occurances = 0
-                total_words = 0
-                filelist = os.listdir(dirname)
-                occurances = Parallel(n_jobs=num_cores)(delayed(get_count)(dirname, fname, searchword) for fname in filelist)
-                for j,k in occurances: 
-                    total_occurances = total_occurances + j 
-                    total_words = total_words + k 
+    for dirname in dirnames:
+       if "session" in dirname and os.listdir(dirname):
+          directories.append(dirname)
 
-                if (total_occurances != 0 and total_words != 0):
-                    frequency = float(total_occurances) / total_words
-                else:
-                    frequency = 0  
-
-                if (frequency > 0):
-                    freqs.append(math.log10(frequency))
-                else:
-                    freqs.append(0)
-
-                dates.append(date)
+    sessions = (Parallel(n_jobs=num_cores)(delayed(cg_calc_frequency)(searchword, d) for d in directories))
 
     session = {}
-    sessions = [] 
-    for i in range (0, len(freqs)):
-        session['date'] = dates[i] 
-        session['frequency'] = freqs[i]
-        sessions.append(session.copy())
-    return sessions
+    session_list = [] 
+    for i in range (0, len(sessions)):
+        session['date'] = sessions[i][0] 
+        session['frequency'] = sessions[i][1]
+        session_list.append(session.copy())
+    return session_list
+
+
+word = sys.argv[1]
+
 
 
 def main():
