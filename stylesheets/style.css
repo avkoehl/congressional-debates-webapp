@@ -10,16 +10,51 @@ body
   margin: auto;
   font-family: "Lato", "sans-serif";
   font-size: 16px;
+  color: grey;
   line-height: 1.4;
   background-color: #fff;
+}
+
+.navigation {
+  font-family: "Lato", "sans-serif";
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.corpus {
+  flex-direction: row;
+}
+
+.select {
+  text-decoration: none;
+  margin-top: 16px;
+  border: 1px solid #909090;
+  background-color: #fff;
+}
+
+
+a:link {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 
 h1, h3
 {
   font-family: "Lato", "sans-serif";
-  color: #333;
+  color: #909090;
 }
+
+.title
+{
+  margin-top: 16px;
+}
+
 
 .tabs
 {
@@ -27,23 +62,24 @@ h1, h3
   overflow: hidden;
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: stretch;
 }
 .tablink 
 {
+  flex: 1;
   background-color: #fff;
   float: left;
-  padding: 14px 16px;
-  font-size: 18px;
+  padding: 10px 10px;
+  font-size: 16px;
   font-family: "Lato", "sans-serif";
   border: none;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #909090;
   color: #909090;
 }
 
 .tablink:hover
 {
-  color: #222;
+  color: #909090;
 }
 
 button:focus 
@@ -53,10 +89,10 @@ button:focus
 .tablink.active
 {
   border-bottom: 1px solid #fff;
-  border-left: 1px solid grey;
-  border-right: 1px solid grey;
-  border-top: 1px solid grey;
-  color: #222;
+  border-left: 1px solid #909090;
+  border-right: 1px solid #909090;
+  border-top: 1px solid #909090;
+  color: #909090;
 }
 
 p

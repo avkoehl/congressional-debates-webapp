@@ -15,26 +15,39 @@
 </head>
 
 <body onload="default_all()">
-<center>
-  <h1> Congressional Debates</h1>
- </center>
+  <div class="navigation">
+  <h3 class="title"> Civil War NLP</h3>
+  <div class="corpus">
+    <button class="select"> Congressional Debates </button>
+    <button class="select"> War of Rebellion </button>
+  </div>
+  </div>
 
       <!-- TABS -->
       <div class="tabs">
         <button class="tablink active" onclick="openTab(event, 'intro')">Introduction</button>
         <button class="tablink" onclick="openTab(event, 'freq')">Frequency</button>
-        <button class="tablink" onclick="openTab(event, 'dist')">Distributional Models</button>
-        <button class="tablink" onclick="openTab(event, 'syntax')">Syntactic Model</button>
+        <button class="tablink" onclick="openTab(event, 'dist')">Embeddings</button>
+        <button class="tablink" onclick="openTab(event, 'syntax')">Parts of Speech</button>
         <button class="tablink" onclick="openTab(event, 'resources')">Resources</button>
        </div>
 
   <div id="intro" class="tab"> 
-  <p> This website provides an API to several Natural Language Processing methods implemented on the Congressional Globe corpus (<a href="https://memory.loc.gov/ammem/amlaw/lwcg.html">https://memory.loc.gov</a>).
-      The Congressional Globe contains the recorded transcription of the proceedings of each session of Congress from the 23rd to the 42nd Congress, covering the time period 1833 to 1873.
-      I am most interested in models that attempt to track chronologically when the meaning of a word has significantly changed. 
-      The first tab, "Frequency" simply allows for you to search for any word to follow the change in its relative usage throughout the congressional debates.
-      The second tab, "Distributional Models", interfaces with my implementation of different models for tracking linguisitic word shift that have been presented recently and seem to hold lots of potential.
+  <p> This website provides an API to several Natural Language Processing methods implemented on a variety of corpora covering the 20th century.
+      I am most interested in models that attempt to track chronologically when the meaning of a specific word has changed. 
+      Each method generates a time series visualization for a given search word in order to find when something about that word's usage has changed.
       Please keep in mind that the results are experimental and are meant more to provide a first glance of this complex corpus, and hopefully, a place to start looking. 
+  </p>
+  <p>
+      The first tab, "Frequency" simply allows for you to search for any word to follow the change in its relative usage throughout the corpus.
+      The second tab, "Embeddings", interfaces with my implementation of different models for tracking linguisitic word shift that have been presented recently and seem to hold lots of potential.
+      The third tab, "Parts of Speech", visualizes the change in distribution of a particular words parts of speech.
+
+
+ </p>
+ <p>
+      The current corpuses that can be accessed are the transcriptions of the congressional debates in the congressional globe and the war of rebellion corpus hosted by Ohio State University.
+      The Congressional Globe contains the recorded transcription of the proceedings of each session of Congress from the 23rd to the 42nd Congress, covering the time period 1833 to 1873.
  </p>
   </div>
 
