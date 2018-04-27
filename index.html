@@ -1,7 +1,7 @@
 <!doctype HTML>
 <html>
 <head>
-  <title> Congressional Debates </title>
+  <title> Civil War NLP </title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
   <link rel="stylesheet" type="text/css" href="./stylesheets/style.css" >
   <script src="./javascript/example/data.js"></script>
@@ -54,12 +54,15 @@
       
   <div id="freq" class="tab" style="display: none">
   <center>
-      <p id="status" style="color: #222; font-size: 25px">mexico</p>
-      <input type="text" name="searchword" id="searchword" value="mexico">
-      <button type="button" onclick="php_frequency_request()"> Search</button>
-  </center>
+  <div style="border: 1px dotted #909090; margin-top: 50px">
 
-    <div style="margin-left: -100px; width: 1000px; height: 600px;" id="wordfreq"></div>
+      <input style="margin-top: 15px" type="text" name="searchword" id="searchword" value="mexico">
+      <button type="button" onclick="php_frequency_request()"> Search</button>
+      <p id="status" style="color: #222; font-size: 15px;"></p>
+
+    <div style="margin-left: -70px; width: 830px; height: 500px;" id="wordfreq"></div>
+   </div>
+  </center>
   </div>
 
 

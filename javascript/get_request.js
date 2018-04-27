@@ -18,7 +18,7 @@ function php_frequency_request()
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
     {
       //console.log(xmlHttp.responseText);
-      document.getElementById("status").innerHTML = searchword;
+      document.getElementById("status").innerHTML = "";
       drawlinearplot(xmlHttp.responseText);
     }//if
   }//on readystate change
