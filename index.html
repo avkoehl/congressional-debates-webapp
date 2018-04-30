@@ -68,23 +68,28 @@
 
   <div id="dist" class="tab" style="display: none">
   <center>
-      <p id="dist_status" style="color: #222; font-size: 25px">money</p>
-      <input type="text" name="dist_searchword" id="dist_searchword" value="money">
+  <div style="border: 1px dotted #909090; margin-top: 50px">
+      <input style="margin-top: 15px" type="text" name="dist_searchword" id="dist_searchword" value="money">
       <button type="button" onclick="php_distribution_request()"> Search</button>
+      <p id="dist_status" style="color: #222; font-size: 15px"></p>
+
+
+    <div style="margin-left: -70px; width: 830px; height: 500px;" id="worddist"></div>
+  </div>
   </center>
 
-    <div style="margin-left: -100px; width: 1000px; height: 600px;" id="worddist"></div>
 
 
-    <hr>
+  <center>
     <p> Enter two words seperated by a comma to plot a timeseries tracking the amount their distributional distance has changed. </p>
-    Searchword:
-    <input type="text" name="w2w_searchword" id="w2w_searchword"> 
+  <div style="border: 1px dotted #909090; margin-top: 50px">
+    <input style="margin-top: 15px" type="text" name="w2w_searchword" id="w2w_searchword"> 
     <button type="button" onclick="php_distance_request()"> Get distance time series</button>
 
     <p id="w2w_status"> </p>
-    <div style="margin-left: -100px; width: 900px; height: 600px;" id="wordw2w"></div>
+    <div style="margin-left: -70px; width: 830px; height: 500px;" id="wordw2w"></div>
   </div>
+  </div> <!-- dist tab -->
 
 
   <div id="syntax" class="tab" style="display: none">

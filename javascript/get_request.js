@@ -44,7 +44,7 @@ function php_distribution_request()
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
     {
       //console.log(xmlHttp.responseText);
-      document.getElementById("dist_status").innerHTML = searchword;
+      document.getElementById("dist_status").innerHTML = "";
       drawdistplot(xmlHttp.responseText);
     }//if
   }//on readystate change
@@ -73,7 +73,7 @@ function php_distance_request()
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
     {
       console.log(xmlHttp.responseText);
-      document.getElementById("w2w_status").innerHTML = word + " " + word2;
+      document.getElementById("w2w_status").innerHTML = "";
       draww2wplot(xmlHttp.responseText);
     }//if
   }//on readystate change
