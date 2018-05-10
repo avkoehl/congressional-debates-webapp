@@ -7,8 +7,8 @@ indexfile = open("index.txt")
 ## get the serial number and and number of pages
 for line in indexfile:
     elements = line.split(' ')
-    serial = '%03d' % elements[0]
-    npages = elements[1]
+    serial = '%03d' % int(elements[0])
+    npages = int(elements[1])
 
     print ("Processing serial: ", serial)
 
@@ -20,12 +20,12 @@ for line in indexfile:
     ## for each serial, get data from each page
     for i in range(npages + 1):
         page = '%04d' % i
-        ofile = odir + str(i) + ".txt"
+        ofile = open(odir + str(i) + ".txt", "w")
         text = "" 
 
         print ("page: ", page)
 
-        fullrul = url + page
+        fullurl = url + page
         source = urlopen(fullurl).read()
 
         soup = BeautifulSoup(source, 'html.parser')
