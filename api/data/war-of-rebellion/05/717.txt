@@ -1,0 +1,97 @@
+
+Brigade	 Brigade	 Brigade	 Division	 Divisi	 Divisio
+
+and	 sick	 percenta	 strength	 on	 n perc
+
+regiment	 	 ge	 	 sick	 entage
+
+SICKLES'S
+
+BRIGADE
+
+First	 ..	 ..	 ..	 ..	 ..
+
+Excelsior
+
+Second	 ..	 ..	 ..	 ..	 ..
+
+Excelsior
+
+Third	 ..	 ..	 ..	 ..	 ..
+
+Excelsior
+
+Fourth	 ..	 ..	 ..	 ..	 ..
+
+Excelsior
+
+Fifth	 193	 4.32 	 ..	 ..	 ..
+
+Excelsior
+
+COWDIN'S
+
+BRIGADE
+
+First	 ..	 ..	 ..	 ..	 ..
+
+Massachuse
+
+tts
+
+Eleventh 	 ..	 ..	 ..	 ..	 ..
+
+Massachuse
+
+tts
+
+Twenty-	 ..	 ..	 ..	 ..	 ..
+
+sixth
+
+Pennsylvan
+
+ia
+
+Second New	 ..	 ..	 ..	 ..	 ..
+
+Hampshire
+
+Third	 136	 3.25	 ..	 ..	 ..
+
+Indiana
+
+Cavalry
+
+Colonel
+
+S. H.
+
+STARR'S
+
+BRIGADE
+
+Fifth New	 ..	 ..	 ..	 ..	 ..
+
+Jersey
+
+Volunteers
+
+Sixth New	 ..	 ..	 ..	 ..	 ..
+
+Jersey
+
+Volunteers
+
+Seventh	 ..	 ..	 ..	 ..	 ..
+
+New Jersey
+
+Volunteers
+
+Eighteenth	 198	 5.321	 12,458	 527	 4.22
+
+New Jersey
+
+Volunteers
+
