@@ -1,0 +1,207 @@
+
+No. 471. Return of Casualties in Early's division.
+
+[Compiled from nominal lists.]
+
+Killed	Wounded	 Missing
+
+Command	Officers	Men	Officers	Men	Officers	Men	Aggregate 	Officers
+
+killed.
+
+Engagement	---	 1	 1	 5 	---	---	 7
+
+around
+
+Winchester,
+
+Va., June
+
+13-15.
+
+Hays'
+
+brigade:
+
+5th
+
+Louisiana
+
+6th	---	 7	 5	 31	---	---	 43
+
+Louisiana
+
+7th	 1	---	 3	 19	---	 1	 24	Lieutenant V. P.
+
+Louisiana								Terry.
+
+8th	 1	 1	---	 3	---	 2	 7	Captain
+
+Louisiana								Albert
+
+Dejean.
+
+9th	---	 3	 1	 10	---	---	 14
+
+Louisiana
+
+TOTAL	 2	 12	 10	 68	---	 3	 95
+
+Hoke's	---	 1	---	 2	---	---	 3
+
+brigade:
+
+57th North
+
+Carolina
+
+1st North	---	---	---	 1	---	---	 1
+
+Carolina
+
+Battalion
+
+TOTAL	---	 1	---	 3	---	---	 4
+
+Smith's	---	---	---	 1	---	---	 1
+
+brigade:
+
+31st
+
+Virginia
+
+49th	---	---	---	 1	---	---	 1
+
+Virginia
+
+52nd	---	---	---	 1	---	---	 1
+
+Virginia
+
+TOTAL	---	---	---	 3	---	---	 3
+
+Gordon's	---	 3	 1	 9	---	---	 13
+
+brigade:
+
+13th
+
+Georgia
+
+26th	---	---	 1	 11	---	---	 12
+
+Georgia
+
+31st	---	---	---	 8	---	---	 8
+
+Georgia
+
+38th	 1	 5	---	 13	---	---	 19	Captain
+
+Georgia								C. A.
+
+Hawkins
+
+60th	 1	 5	 2	 14	---	---	 22	Captain
+
+Georgia								J. B.
+
+Colding
+
+TOTAL	 2 	 13	 4	 55	---	--- 	 74
+
+GRAND TOTAL	 4	 26	 14	 129	---	 3	 176
+
+Skirmish at
+
+Wrightsvile
+
+Pa, June
+
+28.
+
+Gordon's	---	---	---	 1	---	---	 1
+
+brigade:
+
+60th
+
+Georgia
+
+TOTAL	---	---	---	 1	---	---	 1
+
+Battle of	 1	---	---	 8	---	 7	 16	Captain F.
+
+Gettysburg, 								Richardson
+
+July 1.
+
+Hays'brig.
+
+: 5th
+
+Louisiana
+
+6th	---	---	---	---	---	 5	 5
+
+Louisiana
+
+7th	---	---	---	 8	---	---	 8
+
+Louisiana
+
+8th	---	 4	 1	 16	---	 1	 22
+
+Louisiana
+
+9th	---	 2	 3	 5	---	 2	 12
+
+Louisiana
+
+TOTAL	 1	 6	 4	 37	---	 15	 63
+
+Hoke's	 1	 12	 5	 66	---	---	 84	Captain J.
+
+brigade:								H.
+
+6th North								Burns.
+
+Carolina
+
+21st North	---	 5	 2	 35	---	---	 42
+
+Carolina
+
+57th North	 1	 3	 2	 13	---	---	 19	Lieutenant L. H.
+
+Carolina								Roney
+
+TOTAL	 2	 20	 9	 114	---	---	 145
+
+Gordon's	 2	 18	 6	 77	---	---	 103	Captain V.
+
+brigade:								T.
+
+13th								Nunelie
+
+Georgia								and
+
+Lieutenant R. W.
+
+Meachum
+
+26th	---	 2	---	 4	---	 	 11
+
+Georgia						5
+
+31st	 2	 7	 1	 33	---	---	 43	Lieuts.
+
+Georgia								T. J.
+
+Fergusson and W.
+
+B.
+
+Patterson
+

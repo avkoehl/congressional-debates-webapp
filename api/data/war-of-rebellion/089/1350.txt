@@ -1,0 +1,399 @@
+
+SCHEDULE A.
+
+No.	Articles.	Quality.	Descrip-tion.	Quantity.	Price.
+
+1	Wheat	Prime	White or	Per bushel	 $ 7.50
+
+red	of 60 pounds
+
+2	Flour	Good,
+
+------
+
+Per barrel	 33.00
+
+fine		of 196
+
+pounds
+
+2	---do----	Super-fine
+
+-------
+
+----do----	 37.50
+
+2 	----do----	Extra
+
+-------
+
+----do----	 39.75
+
+super-fine
+
+2	----do----	Family
+
+-------
+
+----do----	 42.00
+
+3 	Corn	Prime	White or	Per bushel	 5.00
+
+yellow	of 56 pounds
+
+4 	Corn meal	Good
+
+-------
+
+Per bushel	 5.20
+
+of 50 pounds
+
+5	Rye	Prime
+
+------
+
+Per bushel	 5.00
+
+of 56 pounds
+
+6 	Cleaned oats	---do--
+
+------
+
+Per bushel	 4.00
+
+of 32 pounds
+
+7	Wheat bran	Good
+
+------
+
+Per bushel	 0.75
+
+of 17 pounds
+
+8 	Shorts	---do--
+
+------
+
+Per bushel	 1.05
+
+of 22 pounds
+
+9	Brown stuff	---do--
+
+------
+
+Per bushel	 1.35
+
+of 28 pounds
+
+10	Ship stuff	---do--
+
+------
+
+Per bushel	 2.10
+
+of 37 pounds
+
+11	Bacon	---do--	Hog round	Per pound---	 2.75
+
+12	Pork, salt	---do--
+
+------
+
+---do---	 2.30
+
+13	Pork, fresh	Fat and
+
+------
+
+Per pound,	 1.82
+
+good		net weight
+
+14	Lard	Good
+
+------
+
+---do---	 2.75
+
+15	Horses and	First	Artillery	Average	 800.00
+
+mules	class	&amp; c. 	price per
+
+head
+
+16	Wool	Fair or	Washed	Per pound---	 8.00
+
+Merino
+
+17	---do---	---do--	Unwashed	---do---	 6.00
+
+18	Pease	Good
+
+------
+
+Per bushel--	 5.00
+
+19	Beans	---do--
+
+------
+
+---do---	 5.00
+
+20	Potatoes	---do--	Irish	---do---	 4.00
+
+21	---do---	---do--	Sweet	---do---	 4.00
+
+22	Onions	---do--
+
+------
+
+---do--	 8.00
+
+23	Dried peaches	---do--	Peeled	---do---	 8.00
+
+24	---do---	---do--	Unpeeled	---do---	 4.50
+
+25	Dried apples	---do--	Peeled	---do---	 5.00
+
+26	Hay, baled	---do--	Timothy	Per 100	 3.90
+
+or clover	pounds
+
+27	---do---	---do--	Orchard	---do---	 3.90
+
+or herd
+
+grass
+
+28	Hay, unbaled	---do--	---do---	---do---	 3.00
+
+29	Sheaf oats,	---do--
+
+------
+
+---do---	 5.25
+
+baled
+
+30	Sheaf oats,	---do--
+
+------
+
+---do---	 4.75
+
+unbaled
+
+31	Blade fodder,	---do--
+
+------
+
+---do---	 3.90
+
+baled
+
+32	Blade fodder,	---do--
+
+------
+
+---do---	 3.00
+
+unbaled
+
+33	Shucks, baled	---do--
+
+------
+
+---do---	 2.60
+
+34	Shucks,	---do--
+
+------
+
+---do---	 1.70
+
+unbaled
+
+35	Wheat straw,	---do--
+
+------
+
+---do---	 2.20
+
+baled
+
+36	Wheat straw,	---do--
+
+------
+
+---do---	 1.30
+
+unbaled
+
+37	Pasturage	---do--	Interior	Per head,	 3.00
+
+per month
+
+38	---do---	Superior	---do---	---do---	 4.00
+
+39	---do---	First	---do---	---do---	 5.00
+
+rate
+
+40	---do---	Good	Near	---do---	 5.00
+
+cities
+
+41	---do---	Superior	---do---	---do---	 6.00
+
+42	---do---	First	---do---	---do---	 7.00
+
+rate
+
+43	Salt	Good
+
+------
+
+Per bushel	 5.00
+
+of 50 pounds
+
+44	Soap	---do--
+
+------
+
+Per pound	 1.00
+
+45	Candles	---do--	Tallow	---do---	 3.00
+
+46	Vinegar	---do--	Cider	Per gallon	 2.00
+
+47	Whisky	---do--	Trade	---do---	 10.00
+
+48	Sugar	---do--	Brown	Per pound	 3.00
+
+49	Molasses	---do--	New	Per gallon	 25.00
+
+Orleans
+
+50	Rice	---do--
+
+------
+
+Per pound	 0.50
+
+51	Coffee	---do--	Rio	---do---	 3.00
+
+52	Tea	---do--	Trade	---do---	 7.00
+
+53	Vinegar	---do--	Manufac-tured	Per gallon	 1.00
+
+54	Pig-iron	---do--	Numbers 1	Per ton	 350.00
+
+quality
+
+55	---do---	---do---	Numbers 2	---do---	 314.00
+
+quality
+
+56	---do---	---do--	Numbers 3	---do---	 278.00
+
+quality
+
+57	Bloom iron	---do--
+
+------
+
+---do---	 710.00
+
+58	Smith's iron	---do--	Round,	---do---	1030.00
+
+plate, or
+
+bar
+
+59	Railroad iron	Servi-ceable
+
+------
+
+---do---	 400.00
+
+60	Leather	Good	Harness	Per pound	 3.90
+
+61	---do---	---do--	Sole	---do---	 3.60
+
+62	---do---	---do--	Upper	---do---	 4.20
+
+63	Beef-cattle	---do--	Gross	Per 100	 30.00
+
+weight	pounds
+
+64	---do---	Superior	---do---	---do---	 35.00
+
+65	---do---	First	---do---	--do---	 40.00
+
+rate
+
+66	Salt beef	Good
+
+------
+
+Per pound,	 1.50
+
+net
+
+67	Sheep	Fair
+
+------
+
+Per head	 35.00
+
+68	Army woolen	Good	10 ounces	Per yard	 5.00
+
+cloth, 3-4		per yard
+
+yard
+
+69	---do---	---do--	Pro rata
+
+------
+
+----
+
+as to
+
+greater
+
+or less
+
+width or
+
+weight
+
+70	Army woolen	---do--	20 ounces
+
+------
+
+10.00
+
+cloth, 6-4		per yard
+
+71	---do---	---do--	Pro rata
+
+------
+
+----
+
+as to
+
+greater
+
+or less
+
+width or
+
+weight.
+

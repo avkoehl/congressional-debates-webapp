@@ -1,0 +1,391 @@
+
+Below is the amount and kind of ammunition expended by each battery in this command during the campaign; also the casualties in each battery in this command during the campaign:
+
+12-pounder guns.
+
+Command	 Number	 Solid	 Spherical	 Fuse	 Canister
+
+ of guns	 shot	 case	 shell
+
+6th Ohio Light	 4	 128	 228	 48	 76
+
+Battery, First
+
+Lieutenant A. P.
+
+Baldwin.
+
+Bridges'	 4	 -	 -	 -	 -
+
+Battery
+
+Illinois Light
+
+Artillery,
+
+Lieutenant
+
+Lyman A. White.
+
+Battery A, 1st	 4	 39	 91	 28	 16
+
+Light
+
+Artillery,
+
+Captain
+
+Charles W.
+
+Scovill.
+
+Battery G, 1st	 -	 -	 -	 -	 -
+
+Ohio Light
+
+Artillery,
+
+Captain
+
+Alexander
+
+Marshall.
+
+1st Kentucky	 4	 -	 -	 -	 -
+
+Light Battery,
+
+Captain
+
+Theodore
+
+S. Thomasson.
+
+Battery B,	 4	 163	 272	 219	 30
+
+Pennsylvania
+
+Veteran
+
+Volunteers,
+
+Captain Jacob
+
+Ziegler.
+
+Battery M,4th	 4	 107	 214	 74	 100
+
+U. S. Artillery,
+
+First
+
+Lieutenant
+
+Samuel Canby.
+
+20th Ohio Light	 4	 33	 49	 58	 29
+
+Battery, Second
+
+Lieutenant
+
+J. S. Burdick.
+
+Total	 34	 470	 854	 427	 251
+
+3-inch rifle guns.
+
+Command	 Percussion	 Fuse	 Case	 Canister	 Total
+
+ shell	 shell	 shot	 	 expend
+
+ 	 	 	 	 ed
+
+6th Ohio Light	 -	 -	 -	 -	 480
+
+Battery, First
+
+Lieutenant A. P.
+
+Baldwin.
+
+Bridges'	 113	 26	 171	 -	 310
+
+Battery
+
+Illinois Light
+
+Artillery,
+
+Lieutenant
+
+Lyman A. White.
+
+Battery A, 1st	 -	 -	 -	 -	 174
+
+Light
+
+Artillery,
+
+Captain
+
+Charles W.
+
+Scovill.
+
+Battery G, 1st	 47	 231	 361	 126	 765
+
+Ohio Light
+
+Artillery,
+
+Captain
+
+Alexander
+
+Marshall.
+
+1st Kentucky	 44	 -	 15	 48	 107
+
+Light Battery,
+
+Captain
+
+Theodore
+
+S. Thomasson.
+
+Battery B,	 -	 -	 -	 -	 684
+
+Pennsylvania
+
+Veteran
+
+Volunteers,
+
+Captain Jacob
+
+Ziegler.
+
+Battery M,4th	 -	 -	 -	 -	 495
+
+U. S. Artillery,
+
+First
+
+Lieutenant
+
+Samuel Canby.
+
+20th Ohio Light	 -	 -	 -	 -	 169
+
+Battery, Second
+
+Lieutenant
+
+J. S. Burdick.
+
+Total	 204	 257	 547	 174	 3,184
+
+Casualties during campaign.
+
+Officers
+
+Command	 Killed	 Wounded	 Missing	 Total
+
+6th Ohio Light	 - 	 -	 -	 -
+
+Battery, First
+
+Lieutenant A. P.
+
+Baldwin.
+
+Bridges'	 -	 -	 -	 -
+
+Battery
+
+Illinois Light
+
+Artillery,
+
+Lieutenant
+
+Lyman A. White.
+
+Battery A, 1st	 -	 1	 -	 1
+
+Light
+
+Artillery,
+
+Captain
+
+Charles W.
+
+Scovill.
+
+Battery G, 1st	 -	 -	 -	 -
+
+Ohio Light
+
+Artillery,
+
+Captain
+
+Alexander
+
+Marshall.
+
+1st Kentucky	 -	 -	 -	 -
+
+Light Battery,
+
+Captain
+
+Theodore
+
+S. Thomasson.
+
+Battery B,	 -	 -	 -	 -
+
+Pennsylvania
+
+Veteran
+
+Volunteers,
+
+Captain Jacob
+
+Ziegler.
+
+Battery M,4th	 -	 -	 -	 -
+
+U. S. Artillery,
+
+First
+
+Lieutenant
+
+Samuel Canby.
+
+20th Ohio Light	 1	 -	 -	 1
+
+Battery, Second
+
+Lieutenant
+
+J. S. Burdick.
+
+Total	 1	 1	 -	 2
+
+Men
+
+Command	 Killed	 Wound	 Missi	 Total	 Aggre	 Horses
+
+ 	 ed	 ng	 	 gate	 killed
+
+ 	 	 	 	 	 and
+
+ 	 	 	 	 	 disabled
+
+6th Ohio Light	 -	 4 	 -	 4	 4	 2
+
+Battery, First
+
+Lieutenant A. P.
+
+Baldwin.
+
+Bridges'	 -	 7	 -	 7	 7	 1
+
+Battery
+
+Illinois Light
+
+Artillery,
+
+Lieutenant
+
+Lyman A. White.
+
+Battery A, 1st	 1	 1	 -	 2	 3	 4
+
+Light
+
+Artillery,
+
+Captain
+
+Charles W.
+
+Scovill.
+
+Battery G, 1st	 2	 14	 -	 16	 16	 8
+
+Ohio Light
+
+Artillery,
+
+Captain
+
+Alexander
+
+Marshall.
+
+1st Kentucky	 2	 8	 5	 15	 15	 4
+
+Light Battery,
+
+Captain
+
+Theodore
+
+S. Thomasson.
+
+Battery B,	 -	 3	 -	 3	 3	 4
+
+Pennsylvania
+
+Veteran
+
+Volunteers,
+
+Captain Jacob
+
+Ziegler.
+
+Battery M,4th	 2	 8	 -	 10	 10	 -
+
+U. S. Artillery,
+
+First
+
+Lieutenant
+
+Samuel Canby.
+
+20th Ohio Light	 3	 9	 -	 12	 13	 -
+
+Battery, Second
+
+Lieutenant
+
+J. S. Burdick.
+
+Total	 10	 54	 5	 69	 71	 23
+
+Annexed are the reports of the several battery commanders of the part taken by their commands during the campaign.
+
+I have the honor to be, major, very respectfully, your obedient servant,
+
+LYMAN BRIDGES,
+
+Captain Bridges' Battery Illinois Light Artillery,
+
+and Chief of Artillery, Fourth Army Corps,
+
+Major W. H. SINCLAIR,
+
+Assistant Adjutant-General, Fourth Army Corps.
+

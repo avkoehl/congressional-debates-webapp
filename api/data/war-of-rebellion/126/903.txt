@@ -1,0 +1,325 @@
+
+537	 James B. Mulky	 ...do...	 3 	 ...do...
+
+538	 John R. B. Glasscock	 Commissione	 3 	 ...do...
+
+ 	 r
+
+539	 Albert G. Collier	 Surgeon	 3 	 ...do...
+
+540	 John C. McQuiston	 Provost-	 4	 ...do...
+
+ 	 marshal
+
+541	 Henry B. Hill	 ...do...	 4	 ...do...
+
+542	 Henry B. Hill	 Commissione	 4	 ...do...
+
+ 	 r
+
+543	 Robert D. Brown	 ...do...	 4	 ...do...
+
+544	 Edward P. Bond	 Surgeon	 4	 ...do...
+
+545	 Isaac Kinley	 Provost-	 5	 ...do...
+
+ 	 marshal
+
+546	 James A. McMeans	 Commissione	 5	 ...do...
+
+ 	 r
+
+547 	 John E. Beverley	 Surgeon	 5	 ...do...
+
+548	 David Braden	 Provost-	 6	 ...do...
+
+ 	 marshal
+
+549	 William J. Wallace	 Commissione	 6	 ...do...
+
+ 	 r
+
+550	 Dennis Gregg	 ...do...	 6	 ...do...
+
+551	 Thomas B. Harvey	 Surgeon	 6	 ...do...
+
+552	 Richard W. Thompson	 Provost-	 7	 ...do...
+
+ 	 marshal
+
+553	 Daniel A. Conover	 ...do...	 7	 ...do...
+
+554	 George K. Steele	 Commissione	 7	 ...do...
+
+ 	 r
+
+555	 Daniel A. Conover	 ...do...	 7	 ...do...
+
+556	 Thomas C. Bailey	 ...do...	 7	 ...do...
+
+557	 Albert G. Preston	 Surgeon	 7	 ...do...
+
+558	 James Park	 Provost-	 8	 ...do...
+
+ 	 marshal
+
+559	 William C. Kise	 Commissione	 8	 ...do...
+
+ 	 r
+
+560	 William S. Lingle	 ...do...	 8	 ...do...
+
+561	 George Nebeker	 ...do...	 8	 ...do...
+
+562	 Zacharian B. Gentry	 Surgeon	 8	 ...do...
+
+563	 William Wirt Wallace	 Provost-	 9	 ...do...
+
+ 	 marshal
+
+564	 K. G. Shryock	 ...do...	 9	 ...do...
+
+565	 James B. Belford	 Commissione	 9	 ...do...
+
+ 	 r
+
+566	 Daniel Dayton	 Surgeon	 9	 ...do...
+
+567	 Hiram Iddings	 Provost-	 10	 ...do...
+
+ 	 marshal
+
+568	 William S. Smith	 Commissione	 10	 ...do...
+
+ 	 r
+
+569	 Stephen Morris	 Surgeon	 10	 ...do...
+
+570	 Thomas B. McCarty	 Provost-	 11	 ...do...
+
+ 	 marshal
+
+571	 Calvin Cowgill	 ...do...	 11	 ...do...
+
+572	 J. G. Stilwell	 Commissione	 11	 ...do...
+
+ 	 r
+
+573	 John L. Knight	 ...do...	 11	 ...do...
+
+574	 Constantine Lomax	 Surgeon	 11 	 ...do...
+
+575	 William T.	 ...do...	 11	 ...do...
+
+ Mendenhall
+
+576	 William James	 Provost-	 1	 [Illinois]
+
+ 	 marshal
+
+577	 Isaac L. Milliken	 Commissione	 1	 ...do...
+
+ 	 r
+
+578	 Joseph W. Freer	 Surgeon	 1	 ...do...
+
+579	 Amos B. Coon	 Provost-	 2	 ...do...
+
+ 	 marshal
+
+580	 William D. Barry	 Commissione	 2	 ...do...
+
+ 	 r
+
+581	 Aaron Lewis	 Surgeon	 2	 ...do...
+
+582	 John V. Eustace	 Provost-	 3	 ...do...
+
+ 	 marshal
+
+583	 W. A. Youngman	 Commissione	 3	 ...do...
+
+ 	 r
+
+584	 Chancellor Martin	 Surgeon	 3	 ...do...
+
+537	 April 5, 1865.	 Honorably discharged Oct. 31,
+
+ 	 1865.
+
+538	 May 1, 1863.	 Honorably discharged May 8,
+
+ 	 1865.
+
+539	 May 1, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+540	 May 1, 1863.	 Resigned March 2, 1864.
+
+541	 March 11, 1864.	 Honorably discharged Oct.
+
+ 	 31.1965.
+
+542	 May 1, 1863.	 Appointed provost-marshal March
+
+ 	 11, 1864.
+
+543	 March 15, 1864.	 Honorably discharged May 8,
+
+ 	 1865.
+
+544	 May 1, 1863. 	 Honorably discharged May 30,
+
+ 	 1865.
+
+545	 May 1, 1863.	 Honorably discharged Aug. 19,
+
+ 	 1865.
+
+546	 May 16, 1863.	 Honorably discharged May 8,
+
+ 	 1865.
+
+547 	 May 16, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+548	 May 1, 1863.	 Honorably discharged December
+
+ 	 31, 1865.
+
+549	 May 1, 1863.	 Resigned Jan. 19, 1865.
+
+550	 Jan. 27, 1865.	 Honorably discharged May 8,
+
+ 	 1865.
+
+551	 May 1, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+552	 May 1, 1863.	 Resigned Feb. 23, 1865.
+
+553	 Feb. 28, 1865.	 Honorably discharged Oct.
+
+ 	 31.1865.
+
+554	 May 1, 1863.	 Resigned Oct. 9, 1864.
+
+555	 Oct. 17, 1864.	 Appointed provost-marshal Feb.
+
+ 	 28, 1865.
+
+556	 Feb. 28, 1865.	 Honorably discharged May 8,
+
+ 	 1865.
+
+557	 May 1, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+558	 May 1, 1863.	 Honorably discharged Oct. 31,
+
+ 	 1865.
+
+559	 May 1, 1863.	 Appointment canceled Oct. 24,
+
+ 	 1863.
+
+560	 Oct. 24, 1863.	 Appointment revoked Jan. 16,
+
+ 	 1864.
+
+561	 Jan. 28, 1864. 	 Honorably discharged May 8,
+
+ 	 1865.
+
+562	 May 1, 1863.	 Resigned April 20, 1865.
+
+563	 May 1, 1863.	 Appointment revoked Nov. 21,
+
+ 	 1863.
+
+564	 Nov. 21, 1863.	 Honorably discharged Oct.
+
+ 	 31.1865.
+
+565	 May 1, 1863.	 Honorably discharged May 8,
+
+ 	 1865.
+
+566	 May 1, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+567	 May 1, 1863.	 Honorably discharged Oct. 31,
+
+ 	 1865.
+
+568	 May 18, 1863. 	 Honorably discharged May 8,
+
+ 	 1865.
+
+569	 May 1, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+570	 May 1, 1863.	 Resigned May 30, 1863.
+
+571	 June 2, 1863.	 Honorably discharged Oct. 31,
+
+ 	 1863.
+
+572	 May 1, 1863.	 Resigned December 6, 1864.
+
+573	 December 14, 1864. 	 Honorably discharged May 8,
+
+ 	 1865.
+
+574	 May 1, 1863.	 Resigned March 21, 1865.
+
+575	 March 31, 1865.	 Honorably discharged May 30,
+
+ 	 1865.
+
+576	 May 7, 1863.	 Honorably discharged December
+
+ 	 31, 1865.
+
+577	 May 20, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+578	 May 7, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+579	 May 7, 1863.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+580	 May 7, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+581	 May 7, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+582	 May 7, 1863.	 Resigned Nov. 7, 1864;
+
+ 	 reappointed Nov. 15, 1864;
+
+ 	 honorably discharged Oct. 15,
+
+ 	 1865.
+
+583	 May 7, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+584	 May 7, 1863.	 Died March 14, 1864.
+
+*Again appointed September 13, 1864; resigned November 9, 1864.
+

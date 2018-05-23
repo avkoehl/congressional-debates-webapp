@@ -1,0 +1,109 @@
+
+Bridges-Continued.
+
+No.	 Locations.	 Height.	 Length.	 Remarks.
+
+ 	 Feet.	 Feet.
+
+28	 Crow Creek, Numbers 6.	 8	 100	 Not
+
+ 	 	 	 destroyed.
+
+29	 Crow Creek, Numbers 7.	 12	 155	 Rebuilt.
+
+30	 Crow Creek, Numbers 8.	 15	 143	 Do.
+
+31	 Crow Creek, Numbers 9.	 11	 234	 Not
+
+ 	 	 	 destroyed.
+
+32	 Crow Creek, Numbers	 21	 240	 Rebuilt.
+
+ 10.
+
+33	 Crow Creek, Numbers	 ...	 226	 Do.
+
+ 11.
+
+34	 Tennessee River.	 ...	 1,520
+
+35	 Ben's Creek.	 10	 100
+
+36	 Widow's Creek.	 24	 127	 Do.
+
+37	 Dry Creek, Numbers 1.	 22	 140
+
+38	 Nickajack.	 34	 200	 Rebuilt
+
+ 	 	 	 twice.
+
+39	 Dry Creek, Numbers 2.	 34	 203	 Rebuilt.
+
+40	 Dry Trestle.	 16	 301
+
+41	 Running Water.	 120	 789
+
+42	 Lookout Creek.	 36	 155	 Rebuilt
+
+ 	 	 	 twice.
+
+43	 Chattanooga.	 38	 263	 Rebuilt.
+
+Lineal feet.
+
+Total bringing............................... 10,543
+
+Amount rebuilt............................... 12,236
+
+-------
+
+Total length of bringing on this line........ 22,779
+
+Bridges not destroyed........................ 1,052
+
+-------
+
+Total built by Government.................... 21,727
+
+Or 4 miles 607 feet.
+
+A portion of this bridging was built by contract. The total cost of contract work was $385,216.71.
+
+Water stations.
+
+Where built.	 Number of tanks.
+
+Nashville.	 5
+
+Florence.	 1
+
+Ghristiana.	 2
+
+Bellbuckle.	 2
+
+Normandy.	 3
+
+Cowan.	 2
+
+Anderson.	 4
+
+Poison Hollow.	 1
+
+Antioch.	 1
+
+Murfreesborough.	 2
+
+Fosterville.	 2
+
+Garrison's Fork.	 2
+
+Decherd.	 2
+
+Tantalon.	 2
+
+Stevenson.	 2
+
+Chattanooga.	 2
+
+Total.	 35
+

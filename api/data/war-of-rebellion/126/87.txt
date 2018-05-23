@@ -1,0 +1,125 @@
+
+Stores and troops were transported from Nashville at the following rate per month:
+
+Month.	 Cars,	 Cars,	 Cars,	 Tota
+
+stores.	 troops.	 empty.	 cars.
+
+July	 3,208	 300	 ---	 3,508
+
+August	 3,166	 325	 282	 3,773
+
+September	 2,698	 144	 1,081	 3,923
+
+October	 3,698	 563	 1,699	 5,960
+
+November	 1,671	 1,249	 1,307	 4,227
+
+December	 360	 137	 783	 1,280
+
+January	 2,420	 346	 479	 3,245
+
+February	 2,415	 399	 854	 3,668
+
+March	 2,169	 588	 195	 2,952
+
+April	 2,639	 330	 738	 3,707
+
+May	 1,935	 406	 1,020	 3,361
+
+June	 2,677	 886	 244	 3,807
+
+Total	 29,056	 5,673	 8,682	 43,411
+
+Month.	 Stores.	 Number of
+
+troops.
+
+Tons.
+
+July	 	 18,000
+
+25,664
+
+August	 25,328	 19,100
+
+September	 21,584	 10,297
+
+October	 29,584	 31,150
+
+November	 13,368	 65,450
+
+December	 2,880	 6,850
+
+January	 19,360	 17,300
+
+February	 19,320	 19,950
+
+March	 17,352	 24,400
+
+April	 21,112	 16,500
+
+May	 15,480	 20,300
+
+June	 21,416	 34,419
+
+Total	 232,448	 283,716
+
+The foregoing is the business ordered by Captain S. B. Brown, and embraces nothing of the large business done by the Quartermaster's Department in Chattanooga, Huntsville, Knoxville, and Atlanta, sending the army over portions of our road and finally dispatching it back to Nashville when mustered out of service.
+
+During the fiscal year the following monthly report will show the actual number of cars moved upon the roads centering in Nashville:
+
+Month.	 Year.	 Forwarded.	 Received.	 Total.
+
+July	 1864	 4,618	 4,493	 9,111
+
+August	 1864	 4,781	 4,744	 9,525
+
+September	 1864	 4,384	 4,058	 8,442
+
+October	 1864	 6,225	 6,031	 12,256
+
+November	 1864	 4,764	 5,569	 10,333
+
+December	 1864	 1,754	 1,622	 3,376
+
+January	 1865	 4,571	 4,271	 8,842
+
+Month.	 Year.	 Forwarded.	 Received.	 Total.
+
+February	 1865	 4,710	 4,718	 9,428
+
+March	 1865	 3,990	 4,349	 8,339
+
+April	 1865	 5,110	 5,331	 10,441
+
+May	 1865	 4,113	 4,584	 8,697
+
+June	 1865	 4,437	 4,793	 9,230
+
+Total	 ----	 53,457	 54,563	 108,020
+
+Making a total of 108,020 cars actually forwarded and received at this station. The order of General Sherman of April 10, 1864, stopping all travel on private account over military roads was in full force until December, 1864.
+
+In December, 1864, and again in March, 1865, these orders were so far modified as to allow passengers and freight to be carried when not interfering with the business of the Government. The receipts from the express company, private freights, and passengers during the fiscal year are as follows, viz:
+
+Month.	 Express	 Freight.	 Passengers.	 Total.
+
+service.
+
+1864.
+
+$17,389.22	 ---	 ---	 $17,389.22
+
+July
+
+August	 11,756.52	 $2,062.11	 ---	 13,818.63
+
+September	 7,381.44	 235.60	 ---	 7,617.04
+
+October	 7,578.06	 2,800.00	 ---	 10,378.06
+
+November	 7,975.53	 6,041.80	 ---	 14,017.33
+
+December	 3,246.64	 ---	 ---	 3,246.64
+

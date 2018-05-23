@@ -1,0 +1,402 @@
+
+New lines.
+
+ Battery	 Redoubt	 Secessi	 Work	 Work	 Work
+
+ Ryan	 Numbers	 onville	 Numbers	 Numbers	 Numbers
+
+ (right)	 1.	 .	 1.	 2.	 3.
+
+32-	 ...	 ...	 40	 ...	 ...	 ...
+
+pounder
+
+conical
+
+shot.
+
+32-	 ...	 55	 291	 ...	 108	 ...
+
+pounder
+
+spheric
+
+al
+
+shot.
+
+32-	 ...	 ...	 52	 ...	 ...	 ...
+
+pounder
+
+conical
+
+shell.
+
+32-	 ...	 30	 276	 ...	 50	 ...
+
+pounder
+
+grape.
+
+32-	 ...	 59	 275	 ...	 98	 ...
+
+pounder
+
+caniste
+
+r.
+
+24-	 ...	 ...	 32	 40	 26	 70
+
+pounder
+
+grape.
+
+24-	 ...	 ...	 161	 112	 52	 94
+
+pounder
+
+caniste
+
+r.
+
+24-	 ...	 ...	 10	 8	 ...	 ...
+
+pounder
+
+shell.
+
+24-	 ...	 ...	 60	 158	 67	 219
+
+pounder
+
+shot.
+
+24-	 ...	 ...	 52	 ...	 ...	 ...
+
+pounder
+
+conical
+
+shot.
+
+24-	 ...	 ...	 125	 ...	 ...	 ...
+
+pounder
+
+conical
+
+shell.
+
+18-	 ...	 ...	 65	 ...	 ...	 261
+
+pounder
+
+shot.
+
+18-	 ...	 ...	 15	 ...	 ...	 162
+
+pounder
+
+grape.
+
+18-	 ...	 ...	 39	 ...	 ...	 98
+
+pounder
+
+caniste
+
+r.
+
+6-	 ...	 ...	 150	 ...	 ...	 ...
+
+pounder
+
+shot.
+
+6-	 ...	 ...	 128	 ...	 ...	 ...
+
+pounder
+
+caniste
+
+r.
+
+8-inch	 ...	 ...	 ...	 12	 ...	 ...
+
+howitze
+
+r
+
+shell.
+
+8-inch	 ...	 ...	 ...	 ...	 ...	 ...
+
+howitze
+
+r
+
+grape.
+
+8-inch	 ...	 ...	 ...	 12	 ...	 ...
+
+howitze
+
+r
+
+caniste
+
+r.
+
+12-	 106	 ...	 ...	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+shell.
+
+12-	 157	 ...	 ...	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+spheric
+
+al
+
+case.
+
+12-	 235	 ...	 ...	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+caniste
+
+r.
+
+24-	 ...	 ...	 43	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+caniste
+
+r.
+
+24-	 ...	 ...	 ...	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+shell.
+
+24-	 ...	 ...	 ...	 ...	 ...	 ...
+
+pounder
+
+howitze
+
+r
+
+spheric
+
+al
+
+case.
+
+Cartrid
+
+ges:
+
+14-	 ...	 ...	 ...	 ...	 ...	 ...
+
+pound.
+
+10-	 ...	 ...	 ...	 ...	 ...	 ...
+
+pound.
+
+9-	 ...	 ...	 ...	 ...	 ...	 ...
+
+pound.
+
+8-	 ...	 ...	 619	 ...	 400	 ...
+
+pound.
+
+7-	 ...	 ...	 255	 ...	 ...	 ...
+
+pound.
+
+6-	 ...	 ...	 1.047	 105	 100	 195
+
+pound.
+
+5-	 ...	 ...	 303	 ...	 ...	 ...
+
+pound.
+
+4-	 ...	 ...	 119	 76	 ...	 402
+
+pound.
+
+3-	 ...	 ...	 8	 200	 ...	 ...
+
+pound.
+
+2-	 ...	 ...	 ...	 89	 ...	 ...
+
+pound.
+
+1 1/4-	 ...	 ...	 100	 ...	 ...	 ...
+
+pound.
+
+Cannon	 ...	 ...	 ...	 ...	 ...	 ...
+
+powder.
+
+New lines.
+
+ Work	 Work	 Batter	 Batter	 Fort
+
+ Number	 Number	 y	 y	 Pember
+
+ s 4.	 s 5.	 Pringl	 Tynes.	 ton.
+
+ 	 	 e.
+
+32-pounder conical	 ...	 ...	 39	 39	 72
+
+shot.
+
+32-pounder spherical	 192	 ...	 ...	 ...	 348
+
+shot.
+
+32-pounder conical	 ...	 ...	 60	 ...	 53
+
+shell.
+
+32-pounder grape.	 50	 ...	 6	 6	 60
+
+32-pounder canister.	 99	 ...	 ...	 49	 70
+
+24-pounder grape. 	 52	 30	 ...	 ...	 ...
+
+24-pounder canister. 	 50	 91	 ...	 ...	 ...
+
+24-pounder shell. 	 ...	 ...	 ...	 ...	 ...
+
+24-pounder shot. 	 ...	 ...	 ...	 ...	 ...
+
+24-pounder conical	 87	 ...	 ...	 ...	 ...
+
+shot.
+
+24-pounder conical	 ...	 ...	 ...	 ...	 ...
+
+shell.
+
+18-pounder shot. 	 ...	 ...	 ...	 ...	 ...
+
+18-pounder grape. 	 ...	 ...	 ...	 ...	 ...
+
+18-pounder canister. 	 ...	 ...	 ...	 ...	 ...
+
+6-pounder shot. 	 ...	 ...	 ...	 ...	 ...
+
+6-pounder canister. 	 ...	 ...	 ...	 ...	 ...
+
+8-inch howitzer	 46	 ...	 ...	 ...	 ...
+
+shell.
+
+8-inch howitzer	 19	 ...	 ...	 ...	 ...
+
+grape.
+
+8-inch howitzer	 47	 ...	 ...	 ...	 ...
+
+canister.
+
+12-pounder howitzer	 ...	 ...	 ...	 ...	 ...
+
+shell.
+
+12-pounder howitzer	 ...	 ...	 ...	 ...	 ...
+
+spherical case.
+
+12-pounder howitzer	 ...	 ...	 ...	 ...	 ...
+
+canister.
+
+24-pounder howitzer	 ...	 21	 ...	 ...	 ...
+
+canister.
+
+24-pounder howitzer	 ...	 33	 ...	 ...	 ...
+
+shell.
+
+24-pounder howitzer	 ...	 56	 ...	 ...	 ...
+
+spherical case.
+
+Cartridges:
+
+14-pound. 	 ...	 ...	 139	 ...	 ...
+
+10-pound. 	 ...	 ...	 262	 ...	 ...
+
+9-pound. 	 ...	 ...	 97	 29	 ...
+
+8-pound. 	 296	 ...	 263	 237	 ...
+
+7-pound. 	 ...	 ...	 149	 100	 ...
+
+6-pound. 	 196	 ...	 ...	 403	 ...
+
+5-pound. 	 ...	 ...	 ...	 ...	 ...
+
+4-pound. 	 ...	 ...	 ...	 ...	 ...
+
+3-pound. 	 ...	 ...	 ...	 ...	 ...
+
+2-pound. 	 ...	 ...	 ...	 ...	 ...
+
+1 1/4-pound. 	 ...	 ...	 ...	 ...	 ...
+
+Cannon powder. 	 ...	 ...	 100	 ...	 ...
+SPECIAL ORDERS, HDQRS. DEPT. OF S. C., GA., AND FLA., Numbers 144. Charleston, S. C., May 25, 1864.
+
+I. Major General Lafayette McLaws, Provisional Army, C. S., having reported at these headquarters in pursuance of paragraph XXIII, Special Orders, 115, Adjutant and Inspector General's Office, current series, is assigned to duty in this department, and will proceed to Savannah, Ga., and assume command of the District of Georgia and the Third Military District of South Carolina, relieving Major General J. F. Gilmer.
+
+On being relieved Major General J. F. Gilmer will comply with the instructions he has received from the War Department.
+
+* * * * *
+
+By command of Major-General Jones:
+
+H. W. FEILDEN,Assistant Adjutant-General.
+
+33 R R-VOL XXXV, PT II
+

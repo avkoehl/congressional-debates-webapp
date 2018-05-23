@@ -1,0 +1,59 @@
+
+Pieces of artillery.
+
+Command. 	 Aggregate	 Aggregate	 Heavy. 	 Field.
+
+ present. 	 present
+
+ 	 and
+
+ 	 absent.
+
+Staff. 	 7	 8	 . . . 	 . . .
+
+2nd Texas Volunteer	 508	 696	 . . . 	 . . .
+
+Infantry.
+
+8th Texas Volunteer 	 377	 502	 . . . 	 . . .
+
+Infantry.
+
+20th Texas Volun	 766	 1,128	 . . . 	 . . .
+
+teer Infantry.
+
+Timmons' volunteer	 399	 556	 . . . 	 . . .
+
+infantry.
+
+Cook's First Regi	 645	 828	 . . . 	 . . .
+
+ment Heavy Artil
+
+lery.
+
+Dege's battery	 126	 164	 . . . 	 8
+
+light artillery.
+
+Mann's Regiment	 449	 594	 . . . 	 . . .
+
+(cavalry).
+
+Pyron's Regiment	 197	 296	 . . . 	 . . .
+
+(cavalry).
+
+Border's Regiment	 273	 545	 . . . 	 . . .
+
+(cavalry).
+
+1st Battalion Engi	 38	 97	 . . . 	 . . .
+
+neer Troops, Compa
+
+ny E.
+
+Total. 	 3,785	 5,414	 . . . 	 8
+

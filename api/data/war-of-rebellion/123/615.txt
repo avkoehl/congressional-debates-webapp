@@ -1,0 +1,355 @@
+
+109. So soon as the muster is completed the fact will be reported to the Adjutant-General of the Army. Notice will be given when the troops will be equipped and ready to march. If arms, equipments, clothing, &amp;c., have not been required for, the mustering officer will promptly submit the necessary requisitions to the respective departments concerned.
+
+A.-Statement of the cost of clothing, camp and garrison equipage for the Army of the United States, with the allowance of clothing to each soldier during enlistment, and his proportion for each year respectively.
+
+Engin	 Hospi	 Ordna	 Ordn	 Cava	 Ligh	 Artil
+
+eer	 tal	 nce	 ance	 lry.	 t	 lery.
+
+Clothing.	 troop	 stewa	 serge	 mech	 	 arti
+
+s	 rds.	 ants.	 anic	 	 ller
+
+s	 	 y.
+
+Uniform hat	 $1.55	 $1.55	 $1.55	 $1.5	 $1.5	 $1.5	 $1.55
+
+5	 5	 5
+
+Uniform hat	 .13	 .13	 .13	 .13	 .13	 .13	 .13
+
+feather	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2
+
+Uniform hat cord	 .13	 .13	 .13	 .13	 .13	 .13	 .13
+
+and tassel	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2
+
+Uniform hat	 .01	 01.	 01.	 .01	 01.	 01.	 01.
+
+eagle	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2	 1/2
+
+Uniform hat	 .06	 -	 -	 -	 -	 -	 -
+
+castle	 1/2
+
+Uniform hat	 -	 -	 .06	 .06	 -	 -	 -
+
+shell and flame
+
+Uniform hat	 -	 -	 -	 -	 .02	 -	 -
+
+saber
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+trumpet
+
+Uniform hat	 -	 -	 -	 -	 -	 .02	 .02
+
+cannon
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+bugle
+
+Uniform hat	 -	 -	 -	 -	 01.	 01.1	 01.
+
+letter	 	 	 	 	 1/4	 /4	 1/4
+
+Uniform hat	 -	 -	 -	 -	 .01	 .01	 .01
+
+number
+
+Uniform cap, old	 -	 -	 -	 -	 -	 1.13	 -
+
+pattern
+
+Uniform cap	 -	 -	 -	 -	 -	 .07	 -
+
+tulip
+
+Uniform cap cord	 -	 -	 -	 -	 -	 .56	 -
+
+and tassel
+
+Uniform cap	 -	 -	 -	 -	 -	 .03	 -
+
+plate	 	 	 	 	 	 3/4
+
+Uniform cap	 -	 -	 -	 -	 -	 .05	 -
+
+rings, pair
+
+Uniform cap hair	 -	 -	 -	 -	 -	 .62	 -
+
+plume
+
+Forage cap	 .63	 0.63	 .63	 .63	 .63	 .63	 .63
+
+Uniform coats:
+
+Musicians"	 7.07	 -	 -	 -	 -	 -	 7.09
+
+Privates"	 6.71	 6.71	 6.71	 6.71	 -	 -	 6.71
+
+Uniform jackets:
+
+Musicians"	 -	 -	 -	 -	 6.48	 6.48	 -
+
+Privates"	 -	 -	 -	 -	 5.84	 5.48	 -
+
+Chevrons:
+
+Non-commissioned	 -	 -	 1.25	 -	 1.25	 -	 1.25
+
+staff, pair
+
+First	 .40	 -	 -	 -	 .40	 .40	 .40
+
+sergeants", pair
+
+Sergeants", pair	 .25	 -	 -	 -	 .25	 .25	 .25
+
+Corporals", pair	 .20	 -	 -	 -	 .20	 .20	 .20
+
+Caducenus	 -	 .95	 -	 -	 -	 -	 -
+
+Shoulder scales,
+
+brass, pair:
+
+Non-commissioned	 -	 .54	 .54	 -	 .54	 .54	 .54
+
+staff
+
+Sergeants"	 .50	 -	 -	 -	 .50	 .50	 .50
+
+Privates"	 .40	 -	 -	 .40	 .40	 .40	 .40
+
+Shoulder scales,
+
+bronze, pair:
+
+Non-commissioned	 -	 -	 -	 -	 -	 -	 -
+
+staff
+
+Sergeants"	 -	 -	 -	 -	 -	 -	 -
+
+Privates"	 -	 -	 -	 -	 -	 -	 -
+
+Trowsers:
+
+Sergeants"	 3.28	 3.28	 3.28	 -	 4.18	 4.18	 3.28
+
+Corporals"	 3.15	 -	 -	 -	 4.05	 4.05	 3.15
+
+Privates"	 3.03	 -	 -	 3.03	 4.00	 4.00	 3.03
+
+Sash	 2.63	 2.63	 2.63	 -	 2.63	 2.63	 2.63
+
+Blue flannel	 2.15	 2.15 	 2.15	 2.15	 2.15	 2.15	 2.15
+
+sack coats	 2.63	 -	 -	 -	 2.63	 2.63	 2.63
+
+Flannel shirts	 .88	 .88	 .88	 .88	 .88	 .88	 .88
+
+Drawers	 .50	 .50	 .50	 .50	 .50	 .50	 .50
+
+Bootees, pair	 1.94	 1.94	 1.94	 1.94	 1.94	 1.94	 1.94
+
+Boots, pair	 -	 -	 -	 -	 3.33	 3.33	 3.33
+
+Stockings, pair	 .26	 .26	 .26	 .26	 .26	 .26	 .26
+
+Greatcoats	 7.20	 7.20	 7.20	 7.20	 9.75	 9.75	 7.20
+
+Greatcoat	 .12	 .12	 .12	 .12	 -	 -	 12
+
+straps, sets
+
+Blankets	 2.95	 2.95	 2.95	 2.95	 2.95	 2.95	 2.95
+
+Leather stocks	 .14	 .14	 .14	 .14	 .14	 .14	 .14
+
+Knapsacks and	 2.57	 2.57	 2.57	 2.57	 2.57	 2.57	 2.57
+
+straps
+
+Haversacks	 .48	 .48	 .48	 .48	 .48	 .48	 .48
+
+Proportion for each year.
+
+Infan	 First	 Secon	 Thir	 Four	 Fift	 Allow
+
+try.	 .	 d.	 d.	 th.	 h.	 ance
+
+for 5
+
+Clothing.	 	 	 	 	 	 	 years
+
+Uniform hat	 $1.55	 1	 1	 1	 1	 1	 5
+
+Uniform hat	 .13	 1	 1	 1	 1	 1	 5
+
+feather	 1/2
+
+Uniform hat cord	 .13	 1	 1	 1	 1	 1	 5
+
+and tassel	 1/2
+
+Uniform hat	 01.	 -	 -	 -	 -	 -	 -
+
+eagle	 1/2
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+castle
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+shell and flame
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+saber
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+trumpet
+
+Uniform hat	 -	 -	 -	 -	 -	 -	 -
+
+cannon
+
+Uniform hat	 .02	 -	 -	 -	 -	 -	 -
+
+bugle
+
+Uniform hat	 01.	 -	 -	 -	 -	 -	 -
+
+letter	 1/4
+
+Uniform hat	 .01	 -	 -	 -	 -	 -	 -
+
+number
+
+Uniform cap, old	 -	 1	 1	 1	 1	 1	 5
+
+pattern
+
+Uniform cap	 -	 -	 -	 -	 -	 -	 -
+
+tulip
+
+Uniform cap cord	 -	 -	 -	 -	 -	 -	 -
+
+and tassel
+
+Uniform cap	 -	 -	 -	 -	 -	 -	 -
+
+plate
+
+Uniform cap	 -	 -	 -	 -	 -	 -	 -
+
+rings, pair
+
+Uniform cap hair	 -	 -	 -	 -	 -	 -	 -
+
+plume
+
+Forage cap	 .63	 1	 1	 1	 1	 1	 5
+
+Uniform coats:
+
+Musicians"	 7.09	 1	 1	 1	 1	 1	 5
+
+Privates"	 6.71	 1	 1	 1	 1	 1	 5
+
+Uniform jackets:
+
+Musicians"	 -	 1	 1	 1	 1	 1 	 5
+
+Privates"	 -	 1	 1	 1	 1	 1	 5
+
+Chevrons:
+
+Non-commissioned	 1.25	 1	 1	 1	 1	 1	 5
+
+staff, pair
+
+First	 .40	 1	 1	 1	 1	 1	 5
+
+sergeants", pair
+
+Sergeants", pair	 .25	 1	 1	 1	 1	 1	 5
+
+Corporals", pair	 .20	 1	 1	 1	 1	 1	 5
+
+Caducenus	 -	 1	 1	 1	 1	 1	 5
+
+Shoulder scales,
+
+brass, pair:
+
+Non-commissioned	 .54	 -	 -	 -	 -	 -	 -
+
+staff
+
+Sergeants"	 .50	 -	 -	 -	 -	 -	 -
+
+Privates"	 .40	 -	 -	 -	 -	 -	 -
+
+Shoulder scales,
+
+bronze, pair:
+
+Non-commissioned	 -	 -	 -	 -	 -	 -	 -
+
+staff
+
+Sergeants"	 -	 -	 -	 -	 -	 -	 -
+
+Privates"	 -	 -	 -	 -	 -	 -	 -
+
+Trowsers:
+
+Sergeants"	 3.28	 3	 2	 3	 2	 3	 13
+
+Corporals"	 3.15	 3	 2	 3	 2	 3	 13
+
+Privates"	 3.03	 3	 2	 3	 2	 3	 13
+
+Sash	 2.63	 -	 -	 -	 -	 	 -
+
+Blue flannel	 2.15	 2	 2	 2	 2	 2	 10
+
+sack coats	 2.63
+
+Flannel shirts	 .88	 3	 3	 3	 3	 3	 15
+
+Drawers	 .50	 3	 2	 2	 2	 2	 11
+
+Bootees, pair	 1.94	 4	 4	 4	 4	 4 	 20
+
+Boots, pair	 -	 1	 1	 1	 1	 1	 5
+
+Stockings, pair	 .26	 4	 4	 4	 4	 4	 20
+
+Greatcoats	 7.20	 1	 0	 0	 0	 0	 -
+
+Greatcoat	 .12	 -	 -	 -	 -	 -	 -
+
+straps, sets
+
+Blankets	 2.95	 1	 0	 1	 0	 0	 2
+
+Leather stocks	 .14	 1	 0	 1	 0	 0	 2
+
+Knapsacks and	 2.57	 -	 -	 -	 -	 -	 -
+
+straps
+
+Haversacks	 .48	 -	 -	 -	 -	 -	 -
+

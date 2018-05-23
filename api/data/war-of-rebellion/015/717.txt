@@ -1,0 +1,355 @@
+
+Numbers 60. Return of Casualties in the Confederate forces at the battle of Cross Keys and engagement at Port Republic.
+
+[Compiled from the reports.]
+
+Killed Wounded
+
+Command	Offi-cers	Enli-sted	Total	Offi-cers	Enli-sted	Total
+
+men			men
+
+JACKSON'S
+
+DIVISION
+
+First
+
+Brigade
+
+2nd Virginia	 1	..... 	 1	 1	 23	 24
+
+4th Virginia	.....	.....	.....	.....	 4	 4
+
+5th Virginia	.....	 4	 4	 3	 86	 89
+
+27th
+
+Virginia	 1	 6	 8	 2	 26	 28
+
+33rd	.....	.....	.....	.....	.....	.....
+
+Virginia
+
+Second
+
+Brigade
+
+21st
+
+Virginia	.....	.....	.....	.....	.....	.....
+
+42nd	.....	 1	 1	.....	 2	 2
+
+Virginia
+
+48th
+
+Virginia	.....	 3	 3	 2	 12	 14
+
+1st Virginia	.....	.....	.....	.....	.....	.....
+
+Battalion
+
+Third
+
+Brigade
+
+10th
+
+Virginia	.....	.....	.....	.....	.....	.....
+
+23rd	.....	.....	.....	.....	.....	.....
+
+Virginia
+
+37th
+
+Virginia	.....	.....	.....	.....	.....	.....
+
+Artillery
+
+(batteries)
+
+Carpenter's	.....	.....	.....	.....	 4	 4
+
+Caskie's	.....	.....	.....	 1	..... 	 1
+
+Carrington's	.....	.....	.....	.....	.....	.....
+
+Cutshaw's	.....	.....	.....	.....	.....	.....
+
+Poague's	.....	.....	.....	 1	 3	 4
+
+Wooding's	.....	.....	.....	.....	.....	.....
+
+Total	 2	 14	 17	 10	 160	 170
+
+EWELL'S
+
+DIVISION	.....	.....	.....	 1	.....	 1
+
+Second
+
+Brigade	.....	..... 	.....	 3	.....	 3
+
+1st Maryland	.....	.....	.....	 1	 28	 29
+
+44th
+
+Virginia	 1	 14 	 15	 4	 34	 38
+
+52nd	 2	 12	 14	 6	 81	 87
+
+Virginia
+
+58th
+
+Virginia	 1	 8	 4	 3	 70	 73
+
+Fourth
+
+Brigade	 1	.....	 1	 1	.....	 1
+
+12th Georgia	.....	 2	 2	.....	 12	 12
+
+13th
+
+Virginia	.....	 2	 2	.....	 13	 13
+
+25th
+
+Virginia	.....	.....	.....	 4	 25	 29
+
+31st
+
+Virginia	 2	 12	14	 3	 76	 79
+
+Seventh
+
+Brigade	.....	.....	.....	 1	.....	 1
+
+15th Alabama	 2	 7	 9	 2	 35 	 37
+
+21st Georgia	.....	 4	 4	 1	 22	 23
+
+16th
+
+Mississippi	.....	 6	 6	 2	 25	 27
+
+21st North
+
+Carolina	.....	 2	 2	 1	 10	 11
+
+Eighth
+
+Brigade	.....	.....	.....	 2	.....	 2
+
+6th
+
+Louisiana	 1	 10	 11	 2	 53	 55
+
+7th
+
+Louisiana	 2	 8	 10	 5	 117	 122
+
+8th
+
+Louisiana	 1	 8	 9	 3	 34	 37
+
+9th
+
+Louisiana	 1	 3	 4	.....	 36	 36
+
+Wheat's
+
+battalion	.....	 2	 2	 5	 14	 19
+
+Missing
+
+Command	Officers	Enlisted	Total	Aggrega-te	Remarks
+
+men
+
+JACKSON'S
+
+DIVISION
+
+First
+
+Brigade
+
+2nd Virginia	.....	.....	.....	 25
+
+4th Virginia	.....	.....	.....	 4
+
+5th Virginia	.....	 20	 20	 113
+
+27th
+
+Virginia	.....	 11	 11	 46
+
+33rd	.....	.....	.....	.....	No cas-ualties
+
+Virginia
+
+Second
+
+Brigade
+
+21st
+
+Virginia	.....	.....	.....	.....	No
+
+report
+
+42nd	.....	.....	.....	 3
+
+Virginia
+
+48th
+
+Virginia	.....	.....	.....	 17
+
+1st Virginia	.....	.....	.....	.....	No cas-ualties
+
+Battalion
+
+Third
+
+Brigade
+
+10th
+
+Virginia	.....	.....	.....	.....	No
+
+report
+
+23rd	.....	.....	.....	.....	No
+
+Virginia					report
+
+37th					No
+
+Virginia	.....	.....	.....	.....	report
+
+Artillery
+
+(batteries)
+
+Carpenter's	.....	.....	.....	 4
+
+Caskie's	.....	.....	.....	 1
+
+Carrington's	.....	.....	.....	.....	No
+
+report
+
+Cutshaw's	.....	.....	.....	.....	No
+
+report
+
+Poague's	.....	 1	 1	 5
+
+Wooding's	.....	.....	.....	.....	No
+
+report
+
+Total	.....	 32	 32	 218
+
+EWELL'S					Divi-sion
+
+DIVISION	.....	.....	.....	 1	staff
+
+Second
+
+Brigade	.....	.....	.....	 3	Field
+
+and
+
+staff
+
+1st Maryland	.....	.....	.....	 29
+
+44th
+
+Virginia	.....	.....	.....	 53
+
+52nd	.....	.....	.....	 101
+
+Virginia
+
+58th
+
+Virginia	.....	.....	.....	 77
+
+Fourth					Field
+
+Brigade	.....	.....	.....	 2	and
+
+staff
+
+12th Georgia	.....	.....	.....	 14
+
+13th
+
+Virginia	.....	 1	 1	 16
+
+25th
+
+Virginia	.....	.....	.....	 29
+
+31st
+
+Virginia	.....	 4	 4	 97
+
+Seventh					Field
+
+Brigade	.....	.....	.....	 1	and
+
+staff
+
+15th Alabama	 1	 4	 5	 51
+
+21st Georgia	.....	 1	 1	 28
+
+16th
+
+Mississippi	.....	.....	.....	 33
+
+21st North
+
+Carolina	.....	.....	.....	 13
+
+Eighth					Field
+
+Brigade	.....	.....	.....	 2	and
+
+staff
+
+6th
+
+Louisiana	.....	.....	.....	 66
+
+7th
+
+Louisiana	.....	.....	.....	 132
+
+8th
+
+Louisiana	.....	.....	.....	 46
+
+9th
+
+Louisiana	.....	.....	.....	 40
+
+Wheat's
+
+battalion	.....	.....	.....	 21
+
+---------------
+
+*The losses in this division are stated separately for June 8 and 9 in inclosures to Ewell's report. Numbers 90, p. 778.
+
+---------------
+

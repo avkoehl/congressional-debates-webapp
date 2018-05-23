@@ -1,0 +1,195 @@
+
+Infantry regimetns now organizing.
+
+Regiment.	 Colonel.	 Camp.	 Location.
+
+50th	 Stephen J.	 Beckett.	 Hamilton.
+
+McGroarty.
+
+52nd	 Charles H.	 Dennison.	 Near
+
+Sargent.	 	 Cincinnati.
+
+58th	 V. Bausenwein.	 Chase.	 Columbus.
+
+59th	 James P.	 Kenton.	 Kentucky.
+
+Fylle.
+
+60th	 William H.	 Mitchell.	 Hillsborough.
+
+Trimble.
+
+61st	 Newton	 Medill.	 Lancaster.
+
+Schleich.
+
+69th	 Lewis D.	 Hamilton.	 Hamilton.
+
+Campbell.
+
+70th	 J. R.	 Ripley.	 Ripley.
+
+Cockerill.
+
+74th	 Granville	 Lowe.	 Xenia.
+
+Moody.
+
+50th	 2	 7	 345
+
+52nd	 3	 10	 693
+
+58th	 6	 7	 307
+
+59th	 2	 8	 584
+
+60th	 5	 5	 486
+
+61st	 5	 6	 545
+
+69th	 6	 8	 663
+
+70th	 7	 7	 732
+
+74th	 5	 7	 579
+
+Cavalry regiments, companies, and squadrons now in the field.
+
+Command.	 Commander.	 Station.
+
+1st Regiment.	 Colonel Minor	 Kentucky. a
+
+Milliken.
+
+4th Regiment.	 Colonel John	 Do.
+
+Kennett.
+
+3rd Independent	 Captain Philip	 Virginia.
+
+Company.	 Pfau.
+
+4th Independent	 Captain John S.	 Missouri.
+
+Company.	 Foster.
+
+5th Independent	 Captain James L.	 Do.
+
+Company.	 Foley.
+
+6th Independent	 Captain Jeptha	 Virginia.
+
+Company.	 Garrard.
+
+1st Squadron.	 Major McLaughlin.	 Kentucky.
+
+a Two companies in Virginia.
+
+Cavalry regiments and companies completed.
+
+Command.	 Commander.	 Locati	 Full	 Number	 Number
+
+on.	 compan	 of	 of men.
+
+ies.	 compani
+
+es.
+
+2nd	 Colonel 	 Camp	 12	 12	 1,141
+
+Regiment.	 Charles	 Dennis
+
+Doubleday.	 on.
+
+3rd	 Colonel Lewis	 Do.	 12 	 12	 1,132
+
+Regiment.	 Zahm.
+
+5th	 Colonel W. H.	 Do.	 12	 12	 1,164
+
+Regiment.	 H. Taylor.
+
+6th	 Colonel W. R.	 Do.	 12	 12	 1,124
+
+Regiment.	 Lloyd.
+
+7th	 Captain J. l.	 Do.	 ...	 ...	 94
+
+Independent	 Barber.
+
+Company.
+
+Artillery batteries now in the field.
+
+Command.	 Commander.	 Location.
+
+Battery A, 1st	 Captain Cotter.	 Kentucky.
+
+Regiment.
+
+Battery B, 1st	 Captain Standart.	 Do.
+
+Regiment.
+
+Battery C, 1st	 Captain Kenny.	 Do.
+
+Regiment.
+
+Battery D, 1st	 Captain Konkle.	 Do.
+
+Regiment.
+
+Battery E, 1st	 Captain Edgarton.	 Do.
+
+Regiment.
+
+Battery F, 1st	 Captain Cockerill.	 Do.
+
+Regiment.
+
+Batterh H, 1st	 Captain Huntington.	 Virginia.
+
+Regiment.
+
+Battery L, 1st	 Captain Robinson.	 Do.
+
+Regiment.
+
+Battery M, 1st	 Captain Schultz.	 Kentucky.
+
+Regiment.
+
+1st Independent	 Captain J. R.	 Missouri.
+
+Battery.	 McMullin.
+
+2nd Independent	 Captain T. J.	 Do.
+
+Battery.	 Carlin.
+
+4th Independent	 Captain Louis	 Do.
+
+Battery.	 Hoffmann.
+
+5th Independent	 Captain A.	 Do.
+
+Battery.	 Hickenlooper.
+
+6th Independent	 Capta. Cullen	 Kentucky.
+
+Battery.	 Bradley.
+
+9th Independent	 Captain H. S.	 Do.
+
+Battery.	 Wetmore.
+
+11th Independent	 Captain Frank C.	 Missouri.
+
+Battery.	 Sands.
+
+16th Independent	 Captain James A.	 Do.
+
+Battery.	 Mitchell.
+

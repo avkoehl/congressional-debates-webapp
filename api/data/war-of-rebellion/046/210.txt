@@ -1,0 +1,295 @@
+
+Numbers 2. Return of Casualties in the Union forces.
+
+[Compiled from nominal list of casualties, returns, &amp;c.]
+
+Killed. Wounded.
+
+Events, &c.	 Offi-	 Enli-	 Offi-	 Enli-
+
+ cers.	 sted	 cers.	 sted
+
+ 	 men.	 	 men.
+
+Attack on Morris Island, July	 1	 14	 1	 90
+
+10.
+
+First assault on Battery
+
+Wagner, July 11.
+
+7th Connecticut (Companies A,	 2	 11	 1	 28
+
+B, I, and K).
+
+9th Maine.	 ...	 1	 ...	 32
+
+76th Pennsylvania.	 2	 33	 2	 60
+
+Total July 11.	 4	 45	 3	 120
+
+Second assault on Battery
+
+Wagner, July 18.
+
+General officers.	 ...	 ...	 2	 ...
+
+6gh Connecticut.	 2	 13	 4	 73
+
+9th Maine.	 1	 3	 8	 86
+
+54th Massachusetts (Colored).	 3	 31	 11	 135
+
+3rd New Hampshire.	 1	 1	 5	 33
+
+7th New Hampshire.	 7	 34	 11	 108
+
+48th New York.	 3	 51	 7	 105
+
+100th New York.	 3	 46	 5	 92
+
+62nd Ohio.	 5	 21	 10	 77
+
+67th Ohio.	 2	 17	 10	 72
+
+76th Pennsylvania.	 1	 1	 2	 18
+
+3rd Rhode Island Heavy	 ...	 ...	 ...	 2
+
+Artillery, Battery C.
+
+3rd U. S. Artillery, Battery	 ...	 ...	 ...	 5
+
+E.
+
+Total July 18.	 28	 218	 75	 805
+
+Siege of Battery Wagner, July
+
+18-September 7.
+
+7th Connecticut.	 ...	 2	 ..	 7
+
+10th Connecticut.	 ...	 ...	 1	 1
+
+17th Connecticut.	 ...	 1	 ...	 1
+
+39th Illinois.	 ...	 1	 ...	 9
+
+9th Maine.	 ...	 4	 ...	 12
+
+11th Maine (detachment).	 ...	 ...	 ...	 2
+
+24th Massachusetts.	 1	 3	 ...	 7
+
+40th Massachusetts.	 ...	 ...	 ...	 6
+
+54th Massachusetts (Colored).	 ...	 3	 ...	 5
+
+3rd New Hampshire.	 ...	 4	 3	 24
+
+4th New Hampshire.	 ...	 3	 ...	 10
+
+7th New Hampshire.	 ...	 1	 ...	 6
+
+1st New York Engineers.	 ...	 4	 2	 15
+
+3rd New York Light Artillery,	 ...	 .....	 ...	 5
+
+Batteries B and F.
+
+47th New York.	 ....	 ...	 ...	 2
+
+100th New York.	 ...	 11	 2	 29
+
+144th New York.	 ...	 1	 ...	 1
+
+157th New York.	 ...	 1	 ...	 ...
+
+Enfans Perdus (New York).	 ...	 2	 ...	 1
+
+62nd Ohio.	 ...	 1	 ...	 2
+
+67th Ohio.	 ...	 2	 ...	 11
+
+75th Ohio.	 ...	 1	 ...	 3
+
+52nd Pennsylvania.	 ...	 ...	 ...	 3
+
+85th Pennsylvania.	 1	 9	 3	 55
+
+97th Pennsylvania.	 ...	 3	 ...	 6
+
+104th Pennsylvania.	 ...	 2	 ...	 15
+
+3rd Rhode Island Heavy	 ...	 3	 1	 12
+
+Artillery.
+
+3rd U. S. Colored Troops.	 ...	 6	 ...	 12
+
+1st U. S. Artillery, Battery	 ...	 ......	 ...	 3
+
+B.
+
+1st U. S. Artillery, Battery	 ...	 ...	 ...	 1
+
+C.
+
+3rd U. S. Artillery, Battery	 ...	 1	 ...	 ...
+
+C.
+
+Total, siege of Battery	 2	 69	 12	 266
+
+Wagner, July 18-September 7.
+
+Grand total, operations on	 35	 346	 91	 1,281
+
+Morris Island.
+
+Captured or missing.
+
+Events, &c.	 Officers	 Enlisted	 Aggregate
+
+ 	 men.
+
+Attack on Morris Island, July	 ...	 ...	 106
+
+10.
+
+First assault on Battery
+
+Wagner, July 11.
+
+7th Connecticut (Companies A,	 4	 57	 103
+
+B, I, and K).
+
+9th Maine.	 1	 22	 56
+
+76th Pennsylvania.	 2	 81	 180
+
+Total July 11.	 7	 160	 339
+
+Second assault on Battery
+
+Wagner, July 18.
+
+General officers.	 ...	 ...	 2
+
+6gh Connecticut.	 2	 44	 138
+
+9th Maine.	 ...	 19	 117
+
+54th Massachusetts (Colored).	 ...	 92	 272
+
+3rd New Hampshire.	 ...	 6	 272
+
+7th New Hampshire.	 ...	 56	 216
+
+48th New York.	 3	 73	 242
+
+100th New York.	 1	 28	 175
+
+62nd Ohio.	 1	 37	 151
+
+67th Ohio.	 1	 24	 126
+
+76th Pennsylvania.	 ...	 2	 24
+
+3rd Rhode Island Heavy	 ..	 ...	 1
+
+Artillery, Battery C.
+
+3rd U. S. Artillery, Battery	 ...	 ...	 5
+
+E.
+
+Total July 18.	 8	 381	 1,515
+
+Siege of Battery Wagner, July
+
+18-September 7.
+
+7th Connecticut.	 ...	 ...	 9
+
+10th Connecticut.	 2	 ...	 4
+
+17th Connecticut.	 ...	 ...	 2
+
+39th Illinois.	 ...	 ....	 10
+
+9th Maine.	 ...	 ...	 16
+
+11th Maine (detachment).	 ...	 ...	 2
+
+24th Massachusetts.	 ...	 1	 12
+
+40th Massachusetts.	 ...	 ...	 6
+
+54th Massachusetts (Colored).	 ...	 ...	 8
+
+3rd New Hampshire.	 ...	 ...	 31
+
+4th New Hampshire.	 ...	 ...	 13
+
+7th New Hampshire.	 ...	 ....	 7
+
+1st New York Engineers.	 ...	 ...	 21
+
+3rd New York Light Artillery,	 ...	 ...	 5
+
+Batteries B and F.
+
+47th New York.	 ...	 ...	 2
+
+100th New York.	 ...	 6	 48
+
+144th New York.	 ...	 ...	 2
+
+157th New York.	 ...	 ...	 1
+
+Enfans Perdus (New York).	 ...	 ....	 3
+
+62nd Ohio.	 ...	 ....	 3
+
+67th Ohio.	 ...	 ....	 13
+
+75th Ohio.	 ....	 ....	 4
+
+52nd Pennsylvania.	 ...	 ...	 3
+
+85th Pennsylvania.	 ....	 ...	 68
+
+97th Pennsylvania.	 ...	 ...	 9
+
+104th Pennsylvania.	 ...	 ...	 17
+
+3rd Rhode Island Heavy	 ...	 ....	 16
+
+Artillery.
+
+3rd U. S. Colored Troops.	 ...	 ...	 18
+
+1st U. S. Artillery, Battery	 ...	 ...	 3
+
+B.
+
+1st U. S. Artillery, Battery	 ...	 ...	 1
+
+C.
+
+3rd U. S. Artillery, Battery	 ...	 ...	 1
+
+C.
+
+Total, siege of Battery	 2	 7	 358
+
+Wagner, July 18-September 7.
+
+Grand total, operations on	 17	 548	 2,318
+
+Morris Island.
+

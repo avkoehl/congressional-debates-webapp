@@ -1,0 +1,141 @@
+
+[Inclosure.]
+
+Penetrating wounds.
+
+ Number	 Fatal	 Successful
+
+Head a	 11	 9	 1
+
+Thorax	 17	 7	 5
+
+Abdomen	 27	 20	 3
+
+Pelvis	 11	 5	 6
+
+Knee joint b	 6	 . . . . . . .	 5
+
+Shoulder joint c	 10	 1	 9
+
+Total	 82	 41	 29
+
+a One case still living; case doubtful.
+
+b Amputated.
+
+c One amputation at joint perfectly healed in fourteen days.
+
+Recapitulation.
+
+ Number	 Fatal	 Successful
+
+Amputations: a
+
+Lower extremity	 39	 1	 23
+
+Upper extremity	 25	 . . . . .	 25
+
+ 	 . .
+
+Exsections: Forearm	 1	 . . . . .	 1
+
+ 	 . .
+
+Total number received into	 567	 1	 517
+
+hospital
+
+a Of Second Division. It may be observed but one case of operations died; three cases of fracture of femur so high that nothing short to amputation at the joint promised success proved fatal in from six to eight days. Chloroform was used in the generality of cases with good result.
+
+Total wounded during campaign. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 723
+
+Total killed during campaign. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+
+Total died of disease during campaign. . . . . . . . . . . . . . . . . . . . . . . . 28
+
+Amputations.
+
+Position	 Total	 Fatal	 Successful
+
+Thigh:
+
+Upper third	 3 	 . . . . . .	 2
+
+ 	 . . . .
+
+Middle third a	 3	 1	 2
+
+Lower third	 13	 . . . . . .	 13
+
+ 	 . . .
+
+Leg:
+
+Upper third	 6	 . . . . . .	 6
+
+ 	 . . .
+
+Middle third	 3	 . . . . . .	 3
+
+ 	 . . .
+
+Lower third	 2	 . . . . . .	 2
+
+ 	 . . .
+
+Arm: b
+
+Upper third c	 12	 . . . . . .	 12
+
+ 	 . . .
+
+Middle third	 10	 . . . . . .	 10
+
+ 	 . . .
+
+Lower third	 1	 . . . . . .	 1
+
+ 	 . . .
+
+Forearm: b
+
+Upper third	 1	 . . . . . .	 1
+
+ 	 . . .
+
+Middle third	 . . . . . .	 . . . . . .	 . . . . . .
+
+ . 	 . . . 	 . .
+
+Lower third	 2	 . . . . . .	 2
+
+ 	 . . .
+
+Shoulder joint	 1	 . . . . . .	 1
+
+ 	 . . .
+
+Foot d	 9	 . . . . . .	 9
+
+ 	 . . .
+
+Total	 66	 1	 65
+
+Exsections: Forearm	 1	 . . . . . .	 1
+
+e	 	 . . . .
+
+a Secondary operation for secondary hemorrhage.
+
+b Hospital gangrene attacked nine stumps. Treatment: removing all unsound flesh and then applying nitric acid. Success attended case and wounds doing well.
+
+c One was at the shoulder joint; four were very near it.
+
+d One "Chopart's" operation.
+
+e Four inches of radius.
+
+W. C. DANIELS,
+
+Surgeon, U. S. Volunteers, and Medical Director.
+

@@ -1,0 +1,363 @@
+
+Numbers 5.- Monthly statement of clothing reported on hand, &amp;c.- Continued.
+
+Articles	 Harris-	 Wheeling	 Indiana-	 Columbus.	 Fort
+
+of	 burg.	 .	 polis.	 	 Leaven-
+
+clothing.	 	 	 	 	 worth.
+
+Ponchos	 4,194	 4,350	 1	 10,164	 ...
+
+Talmas	 ...	 ...	 ...	 ...	 ...
+
+Sack
+
+coast:
+
+Lined	 401	 3,042	 ...	 3,526	 13,995
+
+Unlined	 15,388	 674	 20,599	 ...	 4,919
+
+Knit	 ...	 ...	 ...	 ...	 ...
+
+Bootees	 33,878	 4,950	 43,109	 32,832	 33,535
+
+Boots	 2,911	 407	 2,173	 2,173	 4,061
+
+Leggings,	 ...	 ...	 ...	 ...	 ...
+
+zopuave,
+
+&c
+
+Stockings	 45,287	 6,234	 16,632	 16,632	 30,199
+
+Stocks,	 589	 1,323	 16,095	 16,095	 22,373
+
+leather
+
+Uniform
+
+hats:
+
+Trimmed	 ...	 ...	 ...	 ...	 ...
+
+Untrimmed	 7,220	 2,802	 10,418	 2,655	 23,484
+
+Uniform	 ...	 ...	 ...	 ...	 ...
+
+caps
+
+Forage	 18,046	 3,493	 20,685	 13, 189	 20,816
+
+caps
+
+Zouave	 ...	 ...	 ...	 ...	 ..
+
+caps
+
+Cap covers	 5,076	 4,086	 ...	 15,380	 47
+
+Srable	 2,032	 ...	 922	 1,955	 ...
+
+frocks
+
+Sashes	 ...	 30	 157 	 200	 216
+
+Gloves	 ...	 ...	 ...	 200	 ...
+
+Mittens	 2,441	 ...	 ...	 ...	 14,020
+
+Knapsacks	 20,767	 5,044	 29,583	 9,352	 7,673
+
+Haversacks	 35,039	 8,355	 27,052	 6,035	 8,039
+
+Canteens	 180,628	 2,174	 25,706	 8,085	 9,498
+
+Articles	 Quincy.	 Steuben-	 Pittsburg	 Detroit.
+
+of	 	 ville.	 .
+
+clothing.
+
+Ponchos	 ...	 ...	 ...	 1
+
+Talmas	 ...	 ...	 ...	 ...
+
+Sack
+
+coast:
+
+Lined	 358	 1,954	 826	 208
+
+Unlined	 1,176	 776	 568	 ...
+
+Knit	 ...	 ...	 ...	 ...
+
+Bootees	 297	 ...	 3,105	 2,306
+
+Boots	 154	 ...	 1,360	 1,339
+
+Leggings,	 ...	 ...	 ...	 ..
+
+zopuave,
+
+&c
+
+Stockings	 267	 ...	 4,719	 5,759
+
+Stocks,	 ...	 ...	 3,985	 2,769
+
+leather
+
+Uniform
+
+hats:
+
+Trimmed	 ...	 ...	 ...	 ...
+
+Untrimmed	 140	 ...	 2,163	 17
+
+Uniform	 ...	 ...	 ...	 ...
+
+caps
+
+Forage	 44	 ...	 12,875	 2,799
+
+caps
+
+Zouave	 ...	 ...	 ...	 ...
+
+caps
+
+Cap covers	 ...	 ...	 7,550	 ...
+
+Srable	 ...	 ...	 3,199	 2,140
+
+frocks
+
+Sashes	 ...	 ...	 ...	 10
+
+Gloves	 ...	 ...	 ...	 ...
+
+Mittens	 ...	 ...	 12	 ...
+
+Knapsacks	 775	 ...	 10,501	 2,211
+
+Haversacks	 537	 ...	 7,939	 2,026
+
+Canteens	 347	 ...	 5,523	 4,735
+
+Articles	 Louisville.	 Davenport.	 Chicago.	 Madison.
+
+of
+
+clothing.
+
+Uniform
+
+coats:
+
+Engineers	 ...	 ...	 ...	 ...
+
+Ordnance	 ...	 13	 ...	 4
+
+Artillery	 500	 1	 ...	 500
+
+Infantry	 6,022	 2,299	 2,642	 2,992
+
+Uniform
+
+Jackets:
+
+Cavalry	 1,966	 13	 2,440	 1,273
+
+Artillery	 1,017	 ...	 1,726	 546
+
+Infantry	 230	 ...	 119	 ...
+
+Zouave	 ...	 ...	 ...	 ...
+
+Knit	 8,870	 ...	 3,985	 ...
+
+Invalid	 ...	 ...	 ...	 ...
+
+Corps
+
+Uniform
+
+trousers:
+
+Footmen 	 15,803	 6,543	 8,636	 3,427
+
+Horsemen	 14,358	 280	 2,147	 67
+
+Zouave	 ...	 ...	 ...	 ...
+
+Knit	 ...	 ...	 ...	 ...
+
+Cotton-	 ...	 ...	 ...	 ...
+
+duck
+
+trousers
+
+Zouave	 ...	 ...	 ...	 ...
+
+vests
+
+Overalls	 900	 ...	 ...	 ...
+
+Deawers	 26,722	 14,009	 1,341	 7,537
+
+Shirts:
+
+Flannel	 33,150	 13,203	 12,319	 6,350
+
+Knit	 ...	 ...	 ...	 ...
+
+Zouave	 ...	 ...	 ...	 ...
+
+Greatcoats
+
+:
+
+Footmen	 7,639	 5,258	 10,216	 3,940
+
+Horsemen	 3,902	 100	 2,815	 2,098
+
+Straps for	 11,834	 550	 2,752	 56
+
+greatcoats
+
+Blankets:
+
+Woolen	 8,347 	 7,808	 9,605	 3,161
+
+Rubber and	 4	 6,410	 5,213	 4,474
+
+painted
+
+Ponchos	 10,800	 26	 2	 ...
+
+Talmas	 4	 ...	 ...	 ...
+
+Sack
+
+coats:
+
+Line	 19,847	 6,809	 5,044	 3,614
+
+Unlined	 ...	 ...	 3,519	 3,000
+
+Knit	 ...	 ...	 ...	 ...
+
+Bootees	 18,543	 8,697	 15,370	 6,721
+
+Articles	 Springfield	 Saint Paul.	 Cairo.	 Total on
+
+of	 .	 	 	 hand.
+
+clothing.
+
+Uniform
+
+coats:
+
+Engineers	 ...	 ...	 ...	 3,222
+
+Ordnance	 ..	 ...	 ...	 2,114
+
+Artillery	 ...	 ...	 ...	 43,888
+
+Infantry	 11,715	 6,397	 3,871	 301,928
+
+Uniform
+
+Jackets:
+
+Cavalry	 3,532	 3,301	 700	 105,431
+
+Artillery	 1,042	 ...	 566	 53,617
+
+Infantry	 ...	 ...	 313	 11,977
+
+Zouave	 ...	 ...	 ...	 72
+
+Knit	 ...	 ...	 ...	 17,054
+
+Invalid	 935	 ...	 ...	 32,645
+
+Corps
+
+Uniform
+
+trousers:
+
+Footmen 	 19,125	 7,530	 ...	 337,392
+
+Horsemen	 5,179	 4,556 	 678	 165,999
+
+Zouave	 ...	 ...	 ...	 46
+
+Knit	 ...	 ...	 ...	 ...
+
+Cotton-	 ...	 ...	 67	 67
+
+duck
+
+trousers
+
+Zouave	 ...	 ...	 ...	 70
+
+vests
+
+Overalls	 ...	 ...	 ...	 18,547
+
+Deawers	 36,359	 9,572	 ...	 1,337,091
+
+Shirts:
+
+Flannel	 27,051	 9,289	 204	 1,892,009
+
+Knit	 1,815	 ...	 368	 122,707
+
+Zouave	 ...	 ...	 ...	 ...
+
+Greatcoats
+
+:
+
+Footmen	 10,329	 7,490	 190	 571,037
+
+Horsemen	 4,555	 1,417	 299	 251,392
+
+Straps for	 5,400	 2,865	 ...	 1,227,210
+
+greatcoats
+
+Blankets:
+
+Woolen	 23,907	 7,392	 73	 419,540
+
+Rubber and	 321	 350 	 616	 121,691
+
+painted
+
+Ponchos	 10,468	 548	 113	 172,202
+
+Talmas	 ...	 ...	 ...	 4
+
+Sack
+
+coats:
+
+Line	 12,306	 846	 2,270	 332,903
+
+Unlined	 ...	 1,081	 1,526	 194,117
+
+Knit	 85	 1,966	 ...	 3,681
+
+Bootees	 23,156	 14,534	 1,401	 1,591,094
+

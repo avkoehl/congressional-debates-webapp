@@ -1,0 +1,347 @@
+
+Articles. 	 Description. 	 Quantity. 	 Price.
+
+Fodder. . 	 Unbaled. . 	 Per cwt. . 	 $2.
+
+ 	 	 05
+
+Hog, fat. . 	 Net. . 	 . . . Do. . .	 75.
+
+ 	 . . . . . . 	 00
+
+Do. . 	 Gross. . 	 . . . Do. . .	 60.
+
+ 	 . . . . . . 	 00
+
+Hogs,	 . . . Do. . .	 . . . Do. . .	 52.
+
+unfatted. . 	 . . . . . . 	 . . . . . . 	 50
+
+Hay. . 	 Native grass,	 . . . Do. . .	 2.
+
+ baled. . 	 . . . . . . 	 25
+
+Do. . 	 Native grass,	 . . . Do. . .	 2.
+
+ unbaled. . 	 . . . . . . 	 00
+
+Do. . 	 Timothy or	 . . . Do. . .	 3.
+
+ clover, baled.	 . . . . . . 	 00
+
+ .
+
+Do. . 	 Timothy or	 . . . Do. . .	 2.
+
+ clover,	 . . . . . . 	 75
+
+ unbaled. .
+
+Hides, good. .	 Dry. . 	 Per pound. . 	 1.
+
+ 	 	 88
+
+Do. . 	 Green. . 	 . . . Do. . .	 .
+
+ 	 . . . . . . 	 94
+
+Horses. . 	 First-class	 . . . . . . .	 750.
+
+ artillery. . 	 . . . . . . . 	 00
+
+Do. . 	 Second-class	 . . . . . . .	 600.
+
+ artillery. . 	 . . . . . . . 	 00
+
+Do. . 	 Third-class	 . . . . . . .	 450.
+
+ artillery. . 	 . . . . . . . 	 00
+
+Do. . 	 First-class	 . . . . . . .	 . . . . . . .
+
+ cavalry. . 	 . . . . . . . 	 . . . . . . .
+
+Do. . 	 Second-class	 . . . . . . .	 . . . . . . .
+
+ cavalry. . 	 . . . . . . . 	 . . . . . . .
+
+Do. . 	 Third-class	 . . . . . . .	 . . . . . . .
+
+ cavalry. . 	 . . . . . . . 	 . . . . . . .
+
+Iron. . 	 Pig, Nos. 1,	 Per gross ton.	 110.
+
+ 2, 3, average.	 . 	 00
+
+ .
+
+Do. . 	 Square or	 Per net ton. .	 450.
+
+ round. . 	 	 00
+
+Do. . 	 Flat of band.	 . . . Do. . .	 400.
+
+ . 	 . . . . . . 	 00
+
+Do. . 	 Hoop. . 	 . . . Do. . .	 550.
+
+ 	 . . . . . . 	 00
+
+Do. . 	 Boiler plate.	 . . . Do. . .	 625.
+
+ . 	 . . . . . . 	 00
+
+Do. . 	 Serviceable	 Per gross ton.	 210.
+
+ railroad T. . 	 . 	 00
+
+Do. . 	 Unserviceable	 . . . Do. . .	 100.
+
+ railroad T. . 	 . . . . . . 	 00
+
+Do. . 	 Trap rail	 . . . Do. . .	 150.
+
+ railroad T. . 	 . . . . . . 	 00
+
+Jeans,	 . . . . . . .	 Per yard. . 	 10.
+
+country. . 	 . . . . . . . 	 	 00
+
+Kettles. . 	 Camp, iron. . 	 Per pound. . 	 1.
+
+ 	 	 50
+
+Lard. . 	 . . . . . . .	 . . . Do. . .	 1.
+
+ . . . . . . . 	 . . . . . . 	 31
+
+Leather. . 	 Harness. . 	 . . . Do. . .	 3.
+
+ 	 . . . . . . 	 75
+
+Do. . 	 Sole. . 	 . . . Do. . .	 3.
+
+ 	 . . . . . . 	 75
+
+Do. . 	 Upper. . 	 . . . . . . .	 4.
+
+ 	 . . . . . . . 	 50
+
+Lumber. . 	 Square. . 	 Per 1,000	 40.
+
+ 	 feet. . 	 00
+
+Do. . 	 Rough edge. . 	 . . . Do. . .	 20.
+
+ 	 . . . . . . 	 00
+
+Molasses. . 	 Cuba cane. . 	 Per gallon. . 	 6.
+
+ 	 	 00
+
+Do. . 	 Chinese cane.	 . . . Do. . .	 3.
+
+ . 	 . . . . . . 	 00
+
+Mules. . 	 First class. .	 Each. . 	 600.
+
+ 	 	 00
+
+Do. . 	 Second class.	 . . . Do. . .	 525.
+
+ . 	 . . . . . . 	 00
+
+Do. . 	 Third class. .	 . . . Do. . .	 375.
+
+ 	 . . . . . . 	 00
+
+Oats. . 	 Baled. . 	 Per cwt. . 	 1.
+
+ 	 	 88
+
+Do. . 	 Unbaled. . 	 . . . Do. . .	 1.
+
+ 	 . . . . . . 	 69
+
+Do. . 	 Shelled. . 	 Per bushel of	 1.
+
+ 	 34 pounds. . 	 88
+
+Onions. . 	 . . . . . . .	 Per bushel. . 	 5.
+
+ . . . . . . . 	 	 00
+
+Potatoes. . 	 Irish. . 	 . . . Do. . .	 4.
+
+ 	 . . . . . . 	 00
+
+Do. . 	 Sweet. . 	 Per bushel of	 1.
+
+ 	 60 pounds. . 	 75
+
+Peans. . 	 . . . . . . .	 Per bushel. . 	 3.
+
+ . . . . . . . 	 	 00
+
+Peaches. . 	 Dried, peeled.	 Per bushel of	 5.
+
+ . 	 38 pounds. . 	 00
+
+Pans. . 	 Mess, sheet	 Per pound. . 	 1.
+
+ iron. . 	 	 50
+
+Rye. . 	 . . . . . . .	 Per bushel of	 3.
+
+ . . . . . . . 	 56 pounds. . 	 75
+
+Rice. . 	 . . . . . . .	 Per pound. . 	 .
+
+ . . . . . . . 	 	 20
+
+Sugar, brown.	 Common. . 	 . . . Do. . .	 1.
+
+. 	 	 . . . . . . 	 75
+
+Do. . 	 Fair. . 	 . . . Do. . .	 1.
+
+ 	 . . . . . . 	 90
+
+Do. . 	 Fully fair. . 	 . . . Do. . .	 2.
+
+ 	 . . . . . . 	 00
+
+Do. . 	 Prime. . 	 . . . Do. . .	 2.
+
+ 	 . . . . . . 	 35
+
+Do. . 	 Strictly	 . . . Do. . .	 2.
+
+ prime. . 	 . . . . . . 	 50
+
+Do. . 	 Choice. . 	 . . . Do. . .	 2.
+
+ 	 . . . . . . 	 80
+
+Do. . 	 Extra choice.	 . . . Do. . .	 3.
+
+ . 	 . . . . . . 	 00
+
+Do. . 	 Clarified. . 	 . . . Do. . .	 3.
+
+ 	 . . . . . . 	 50
+
+Sugar, white.	 . . . Do. . .	 . . . Do. . .	 4.
+
+. 	 . . . . . . 	 . . . . . . 	 00
+
+Salt. . 	 . . . . . . .	 Per bushel of	 7.
+
+ . . . . . . . 	 58 pounds. . 	 50
+
+Socks. . 	 Woolen. . 	 Per pair. . 	 2.
+
+ 	 	 00
+
+Do. . 	 Cotton. . 	 . . . Do. . .	 1.
+
+ 	 . . . . . . 	 50
+
+Soap. . 	 Hard. . 	 Per pound. . 	 .
+
+ 	 	 75
+
+Do. . 	 Soft. . 	 . . . Do. . .	 .
+
+ 	 . . . . . . 	 37 1/2
+
+Shoes. . 	 Army. . 	 Per pair. . 	 15.
+
+ 	 	 00
+
+Shovels. . 	 . . . . . . .	 Per dozen. . 	 80.
+
+ . . . . . . . 	 	 00
+
+Spades. . 	 . . . . . . .	 . . . Do. . .	 80.
+
+ . . . . . . . 	 . . . . . . 	 00
+
+Sheep. . 	 Sheared. . 	 Each. . 	 15.
+
+ 	 	 00
+
+Do. . 	 Unsheared. . 	 . . . Do. . .	 20.
+
+ 	 . . . . . . 	 00
+
+Shucks. . 	 Baled. . 	 Per cwt. . 	 1.
+
+ 	 	 50
+
+Do. . 	 Unbaled. . 	 . . . Do. . .	 1.
+
+ 	 . . . . . . 	 25
+
+Tallow. . 	 . . . . . . .	 Per pound. . 	 1.
+
+ . . . . . . . 	 	 31
+
+Tea. . 	 Black. . 	 . . . Do. . .	 10.
+
+ 	 . . . . . . 	 00
+
+Do. . 	 Green. . 	 . . . Do. . .	 15.
+
+ 	 . . . . . . 	 00
+
+Vinegar. . 	 Cider. . 	 Per gallon. . 	 1.
+
+ 	 	 50
+
+Do. . 	 Manufactured.	 . . . Do. . .	 .
+
+ . 	 . . . . . . 	 60
+
+Wheat. . 	 . . . . . . .	 Per bushel. . 	 5.
+
+ . . . . . . . 	 	 63
+
+Wheat straw. .	 Baled. . 	 Per cwt. . 	 1.
+
+ 	 	 00
+
+Do. . 	 Unbaled. . 	 . . . Do. . .	 .
+
+ 	 . . . . . . 	 75
+
+Whisky. . 	 . . . . . . .	 Per gallon. . 	 3.
+
+ . . . . . . . 	 	 50
+
+Wool. . 	 Washed. . 	 Per pound. . 	 4.
+
+ 	 	 00
+
+Do. . 	 Unwashed. . 	 . . . . . . .	 3.
+
+ 	 . . . . . . . 	 00
+
+Wagons. . 	 Wooden axle, 4	 Each. . 	 350.
+
+ horse. . 	 	 00
+
+Do. . 	 Iron axle, 4-	 . . . Do. . .	 450.
+
+ horse. . 	 . . . . . . 	 00
+
+Do. . 	 Wooden axle,	 . . . Do. . .	 250.
+
+ 2-horse. . 	 . . . . . . 	 00
+
+Do. . 	 Iron axle, 2-	 . . . Do. . .	 350.
+
+ horse. . 	 . . . . . . 	 00
+
+45 R R-SERIES IV, VOL III
+

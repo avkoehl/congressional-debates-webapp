@@ -1,0 +1,237 @@
+
+[Inclosure.]
+
+Number of horses-
+
+Command. 	 Received.	 Lost in	 Turned	 Number
+
+ 	 action. 	 in. 	 of
+
+ 	 	 	 recruits
+
+ 	 	 	 furnishe
+
+ 	 	 	 d.
+
+6th U. S. 	 663	 440	 492	 6
+
+Cavalry.
+
+First Division. 	 8. 228	 1. 804	 4. 951	 179
+
+Second Division. 	 4. 943	 2. 217	 3. 554	 258
+
+Third Division. 	 4. 842	 3. 409	 3. 653	 242
+
+Total. 	 18. 676	 7. 870	 12. 350	 685
+
+Abstract from return to the Army of the Potomac, Major General George G. Meade, U. S. Army, commanding, for the moth of October, 1863. a
+
+Present for duty.
+
+Command. 	 Officers. 	 Men. 	 Aggregate
+
+ 	 	 present.
+
+General headquarters b. 	 130	 1. 080	 1. 364
+
+Engineer troops (Benham	 46	 1. 224	 1. 527
+
+and Mendell).
+
+Artillery reserve (Hunt). 	 89	 2. 602	 2. 974
+
+First Army Corps (Newton).	 623	 11. 473	 13. 819
+
+Second Army corps	 682	 10. 720	 12. 556
+
+(Warren).
+
+Third Army Corps (French).	 881	 15. 668	 18. 659
+
+Fifth Army Corps (Sykes). 	 661	 11. 273	 13. 135
+
+Sixth Army Corps	 916	 15. 063	 17. 734
+
+(Sedgwick).
+
+Cavalry Corps	 652	 10. 538	 13. 687
+
+(Pleasonton).
+
+Total. 	 4. 680	 79. 641	 95. 455
+
+Pieces of artillery.
+
+Command. 	 Aggregate	 Heavy. 	 Field.
+
+ present
+
+ and
+
+ absent.
+
+General headquarters b. 	 1. 943	 . . . 	 . . .
+
+Engineer troops (Benham	 1. 875	 . . . 	 . . .
+
+and Mendell).
+
+Artillery reserve (Hunt). 	 4. 301	 8	 80
+
+First Army Corps (Newton).	 21. 787	 . . . 	 34
+
+Second Army corps	 22. 640	 . . . 	 31
+
+(Warren).
+
+Third Army Corps (French).	 28. 184	 . . . 	 46
+
+Fifth Army Corps (Sykes). 	 20. 049	 . . . 	 32
+
+Sixth Army Corps	 23. 813	 . . . 	 46
+
+(Sedgwick).
+
+Cavalry Corps	 27. 263	 . . . 	 30
+
+(Pleasonton).
+
+Total. 	 151. 855	 8	 299
+
+a For abstract from the tri-monthly returns of this army for October 10 and 20, see Part I, p. 226.
+
+b Including provost guard, orderlies, and signal corps.
+
+Abstract from return of the Department of Washington, Major General Christopher C. Augur, U. S. Army, commanding, for the moth of October, 1863.
+
+Present for duty.
+
+Command. 	 Officers. 	 Men. 	 Aggregate
+
+ 	 	 present.
+
+General headquarters. 	 28	 22	 50
+
+Artillery Camp of	 49	 1. 346	 1. 595
+
+Instruction (Barry).
+
+District of Washington	 129	 2. 221	 3. 446
+
+(Martindale) a.
+
+Defenses North of the	 213	 5. 676	 7. 218
+
+Potomac (Haskin).
+
+Provisional brigades	 38	 939	 1. 103
+
+(Casey).
+
+Defenses South of the	 229	 4. 875	 6. 435
+
+Potomac (De Russy).
+
+Corcoran's division	 128	 2. 226	 2. 734
+
+(formerly King's)
+
+Cavalry forces (Lowell). 	 56	 804	 1. 314
+
+District of Alexandria	 91	 1. 303	 1. 908
+
+(Slough) b.
+
+Camp Convalescent, &amp;c. 	 77	 1. 553	 6. 020
+
+(McKelvy).
+
+Falls Church, Va. 	 19	 567	 680
+
+(Tracy).
+
+Glymont Landing, Md. 	 6	 59	 127
+
+(Sharra).
+
+Government farms (Greene)	 5	 77	 97
+
+c.
+
+For Washington, Md. 	 7	 129	 173
+
+(Brooks).
+
+Total. 	 1. 075	 21. 797	 32. 900
+
+Pieces of artillery.
+
+Command. 	 Aggregate	 Heavy. 	 Field.
+
+ present
+
+ and
+
+ absent.
+
+General headquarters. 	 51	 . . . 	 . . .
+
+Artillery Camp of	 1. 745	 . . . 	 60
+
+Instruction (Barry).
+
+District of Washington	 4. 269	 . . . 	 . . .
+
+(Martindale) a.
+
+Defenses North of the	 7. 814	 . . . 	 . . .
+
+Potomac (Haskin).
+
+Provisional brigades	 1. 237	 . . . 	 . . .
+
+(Casey).
+
+Defenses South of the	 7. 795	 326	 118
+
+Potomac (De Russy).
+
+Corcoran's division	 3. 417	 . . . 	 6
+
+(formerly King's)
+
+Cavalry forces (Lowell). 	 1. 921	 . . . 	 . . .
+
+District of Alexandria	 3. 253	 . . . 	 6
+
+(Slough) b.
+
+Camp Convalescent, &c. 	 6. 561	 . . . 	 . . .
+
+(McKelvy).
+
+Falls Church, Va. 	 982	 . . . 	 . . .
+
+(Tracy).
+
+Glymont Landing, Md. 	 168	 . . . 	 . . .
+
+(Sharra).
+
+Government farms (Greene)	 128	 . . . 	 . . .
+
+c.
+
+For Washington, Md. 	 177	 70	 3
+
+(Brooks).
+
+Total. 	 39. 518	 396	 193
+
+a Including 1st District of Columbia Cavalry.
+
+b And 164th New York.
+
+c Detachment of 11th New York, before reported at general headquarters.
+

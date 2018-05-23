@@ -1,0 +1,161 @@
+
+Numbers 2.- CANNON, BALLS, SHELLS, AND PROJECTILES FOR RIFLED GUNS.
+
+Field guns.	 Siege guns.	 Sea-coast
+
+guns.
+
+For smooth-bore	 343,885 	 54,272	 297,130
+
+guns
+
+Parrott	 199,096	 36,421	 5,028
+
+projectiles
+
+James projectiles	 28,000	 ...	 34,910
+
+Hotchkiss	 66,962	 ...	 ...
+
+projectiles
+
+Schenkl	 66,370	 ...	 ...
+
+projectiles
+
+Other model	 108,959	 45,036	 24,680
+
+projectiles
+
+Total	 813,272	 135,729	 361,748
+
+Total.	 Total weight.	 Cost.
+
+Pounds.
+
+For smooth-bore	 695,287	 29,593,074	 $1,029,377.72
+
+guns
+
+Parrott	 240,545	 3,664,999	 358,248.54
+
+projectiles
+
+James projectiles	 62,910 	 2,651,045	 278,214.42
+
+Hotchkiss	 66,962	 694,047	 92,737.68
+
+projectiles
+
+Schenkl	 66,370	 611,840	 152,207.61
+
+projectiles
+
+Other model	 178,675	 3,569,199	 272,870.60
+
+projectiles
+
+Total	 1,130,749	 40,784,204	 2,
+
+183,656.57
+
+Numbers 3.- ARTILLERY CARRIAGES.
+
+Field-gun carriages.............................. 1,311
+
+Siege-gun carriages.............................. 56
+
+Sea-coast gun carriages.......................... 35
+
+Mortar beds...................................... 92
+
+Caissons......................................... 1,691
+
+Traveling forges................................. 269
+
+Battery wagons................................... 148
+
+------
+
+Total carriages of all kinds..................... 3,602
+
+------------
+
+Total cost.......................................$1,328,260.62
+
+TOTAL OF CANNON, PROJECTILES, AND CARRIAGES PURCHASED.
+
+Number.	 Weight.	 Cost.
+
+Pounds.
+
+Cannon	 2,121	 5,625,491	 $ 972,100.59
+
+Projectiles	 1,310,749	 40,784,204	 2, 185,656.59
+
+Artillery	 3,602 	 ...	 1,328,260.62
+
+carriages
+
+Total	 ...	 46,436,695	 4,484,017.78
+
+Numbers 4.- MUSKETS AND RIFLES.
+
+Foreign manufacture:
+
+English Tower muskets............................. 8,999
+
+Enfield rifles.................................... 116,740
+
+Prussian rifles................................... 6,409
+
+Prussian muskets.................................. 105,140
+
+Austrian rifles................................... 135,755
+
+Austrian muskets.................................. 34,500
+
+Belgian rifles.................................... 23,994
+
+Belgian muskets................................... 33,200
+
+French rifles..................................... 48,108
+
+French muskets.................................... 4,850
+
+Minie rifles...................................... 5,179
+
+Other foreign rifles.............................. 203,831
+
+-------
+
+Total foreign..................................... 726,705
+
+Manufactured in the United States:
+
+Common sportsman's rifle.......................... 2,707
+
+Army rifles with bayonet.......................... 14,267
+
+Colt revolving rifles............................. 2,890
+
+Sharps rifles..................................... 3,213
+
+Merrill rifles.................................... 120
+
+Smooth-bore muskets............................... 5,423
+
+Hall rifles....................................... 2,168
+
+------
+
+Total American.................................... 30,788
+
+--------------
+
+Total purchased................................... 775,493
+
+--------------
+
+Total cost of rifles and muskets..................$10,229,677.99
+

@@ -1,0 +1,179 @@
+
+Quantities for three months.
+
+For field service. For hospital service.
+
+Articles.	 100	 200	 500	 1,0	 100	 200	 500	 1,00
+
+hor	 hor	 hor	 00	 hor	 hors	 hors	 0
+
+ses	 ses	 sse	 hor	 ses	 es.	 es.	 hors
+
+.	 .	 s.	 ses	 .	 	 	 es.
+
+.
+
+Hartshorn...	 1/4	 1/2	 3/4	 1	 1/2	 1	 1	 2
+
+gallons..	 	 	 	 	 	 	 1/2
+
+Lunar caustic...	 1/4	 1/2	 3/4	 1	 	 1	 1	 2
+
+[ounces]..	 	 	 	 	 1/2	 	 1/2
+
+Laudanum....	 1	 1	 2	 4	 2	 3	 4	 8
+
+quarts...	 	 1/2
+
+Simple carate..	 2	 5	 5	 10	 5	 10	 10	 20
+
+pounds...	 1/2
+
+Mercurial	 1/2	 1	 1	 2	 1	 2	 3	 4
+
+cintment.. do...	 	 	 1/2
+
+Mustang	 2 	 3	 4	 6	 4	 6	 8	 12
+
+liniment...
+
+Olive	 1/2	 1	 2	 3	 1	 2	 4	 6
+
+oil..gallons..
+
+Oil, linseed...	 1/2	 1	 2	 3	 1	 2	 4	 6
+
+do.
+
+turpentine.. do.	 1/4	 1/2	 1	 1	 1/2	 1	 2	 3
+
+3/4	 	 	 	 1/2
+
+Powell's	 2	 3	 4	 6	 4	 6	 8	 12
+
+liniment..
+
+bottles.
+
+Resin.. pounds	 1/2	 1	 1	 2	 1	 2	 3	 4
+
+1/2
+
+Salts.. do.	 2	 3	 4	 6	 4	 6	 8	 12
+
+Sulphur.. do.	 1/4	 1/2	 1	 2	 1/2	 1	 2	 4
+
+Saltpeter.. do.	 1	 2	 3	 5	 2	 4	 6	 10
+
+Sweet spirits	 1/2	 1	 2	 3	 1	 2	 4	 6
+
+nioter.. quarters.
+
+Sugar lead..	 1	 2	 4	 5	 2	 4	 8	 10
+
+pounds.
+
+Tar.. gallons.	 1/4	 1/2	 1	 1 	 1/2	 1	 2	 3
+
+3/4	 	 	 	 1/2
+
+Tartar emetic..	 1/4	 1/2	 3/4	 1	 1/2	 1	 1	 2
+
+pounds..	 	 	 	 	 	 	 1/2
+
+DRESSING.	 1	 1	 2	 4	 2	 3	 4	 8
+
+1/2
+
+Adhesive plaster..
+
+yards..
+
+Muslin (coarse)..	 10	 12	 15	 20	 10	 24	 30	 40
+
+do
+
+Red finnel	 2	 3	 4	 6	 4	 6	 8	 12
+
+(coarse).. do.
+
+Sponge.. pounds. 	 3/4	 1	 3	 4	 1	 3	 6	 8
+
+1/2	 	 	 1/2
+
+Silk for	 1/4	 1/4	 1/2	 1	 1/2	 1/2	 1	 2
+
+ligature..
+
+ounces..
+
+INSTRUCTIONS.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Abscess knife (2-
+
+blade)..
+
+Ball forceps..	 1	 1	 1	 1	 2	 2	 2	 2
+
+number.
+
+Corkscrews... do.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Funnels.. do.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Graduate glasses..	 1	 1	 1	 1	 2	 2	 2	 4
+
+do.
+
+Mortar and pestles	 1	 1	 1	 1	 2	 2	 2	 2
+
+(iron).. do.
+
+Needles.. dozen.	 1/2	 1/2	 1/2	 1/2	 1	 1	 1	 1
+
+Probes.. number.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Rowling needles..	 1	 1	 1	 1	 2	 2	 2	 2
+
+do.
+
+Scales and	 1	 1	 1	 1	 2	 2	 2	 2
+
+weights.. do.
+
+Springs [syringes]	 1	 1	 1	 1	 2	 2	 2	 4
+
+.. do.
+
+Springs lancet..	 1	 1	 1	 1	 2	 2	 2	 2
+
+do.
+
+Straight	 1	 1	 1	 1	 2	 2	 2	 2
+
+scissors...do.
+
+Spatulas.. do.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Trocar... do.	 1	 1	 1	 1	 2	 2	 2	 2
+
+Tenaculum.. do.	 1	 1	 1	 1	 2	 2	 2	 2
+
+II. Regulations for the Veterinary Department:
+
+1. The standard of horse medicines for the army in the field and in hospitals is the supply table.
+
+This table will not be deviated from except in extreme regencies, and then only for hospital use, when the reasons must be clearly and satisfactorily stated.
+
+2. Requisition will be made quarterly and duplicate, conforming strictly to the standard supply table.
+
+3. Quartermasters will hold veterinary surgeon strictly responsible for the instructions issued to them, and in case of loss through carelessness or damage from neglect, the cost price of the instructments so lost or damaged will be charged to them.
+
+4. Quartermaster responsible for medicines and dressings will take care that these articles are used for their legitimate purpose, and will hold the veterinary surgeon strictly accountable for their loss or damage through neglect, &amp;c.
+
+By order of the Secretary of War:
+
+E. D. TOWNSED,
+
+Assistant Adjutant-General.
+

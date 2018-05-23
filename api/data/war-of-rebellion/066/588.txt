@@ -1,0 +1,96 @@
+
+ Company Milton	 Kilcrease	 horse
+
+ Artillery	 Artillery	 artillery
+
+12-pounder	 1	 --	 --
+
+Napoleon
+
+12-pounder	 1	 2	 1
+
+howitzers
+
+6-pounder	 --	 2	 --
+
+Napoleon
+
+3-inch rifle	 --	 --	 1
+
+12-pounder	 --	 78	 --
+
+shell
+
+12-pounder	 34	 --	 --
+
+shot
+
+12-pounder	 115 	 126	 --
+
+spherical case
+
+12-pounder	 83	 64	 7
+
+canister
+
+6-pounder shot	 --	 131	 --
+
+6-pounder	 --	 125	 --
+
+spherical case
+
+6-pounder	 --	 74	 --
+
+canister
+
+3-inch rifle	 --	 --	 41
+
+shell
+
+NOTE.-Company B, Milton Artillery, not inspected.
+
+[Indorsement.]
+HEADQUARTERS CHIEF OF ARTILLERY, Charleston, July 23, 1864.
+
+Approved and respectfully forwarded.
+
+The district ordnance officer is not responsible, but the officer in command of a battery or work, for the condition of a magazine; defect of construction or want of repair being chargeable to the engineers.
+
+A. J. GONZALES,Colonel and Chief of Artillery of the Department.
+
+CHARLESTON, S. C., July 13, 1864.
+
+General JOSEPH E. JOHNSTON,
+
+Atlanta, Ga.:
+
+The men of the Fourth Georgia Cavalry, who were ordered to Charleston during the late attack, leave for Atlanta to-morrow morning.
+
+SAM. JONES,
+
+Major-General.
+
+CHARLESTON, S. C., July 13, 1864.
+
+Brigadier General JAMES CHESNUT,
+
+Columbia, S. C.:
+
+Do not stop the troops already en route for this point. I intended to say that I did not need more troops than you had already ordered. My reply referred to the two additional battalion which you said you would send if necessary.
+
+SAM. JONES,
+
+Major-General.
+
+CHARLESTON, S. C., July 13, 1864.
+
+Brigadier General W. B. TALIAFERRO,
+
+Royall's:
+
+Send back at once to General Robertson and Colonel Colcock all the troops from their districts now you, except the companies of the Thirty-second Georgia Regiment.
+
+CHAS. S. STRINGFELLOW,
+
+Assistant Adjutant-General.
+

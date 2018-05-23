@@ -1,0 +1,247 @@
+
+Table specifying the money value of clothing allowed to the Army of the United States for the year ending June 30, 1860.
+
+First	 Second	 Third
+
+year.	 year.	 year.
+
+Non-commissioned staff:
+
+Dragoons and cavalry	 $51.36	 $35.74 	 $42.45
+
+Mounted riflemen	 51.36	 35.74	 42.45
+
+Artillery	 47.75	 35.03	 40.64
+
+Infantry	 47.75	 35.03	 40.64
+
+Chief musician:
+
+Dragoons and cavalry	 51.71	 36.09	 43.37
+
+Mounted riflemen	 51.71	 36.09	 43.37
+
+Infantry	 48.14	 35.42	 41.03
+
+First sergeant:
+
+Engineers	 47.59	 34.87	 40.48
+
+Dragoons, cavalry, and	 50.49	 34.87	 41.58
+
+light artillery
+
+Mounted riflemen	 50.49	 34.87	 41.58
+
+Artillery	 46.88	 34.16	 39.77
+
+Infantry	 46.99	 34.16	 39.77
+
+Sergeant:
+
+Engineers	 47.47	 34.75	 40.36
+
+Ordnance	 48.54	 44.83	 41.43
+
+Dragoons and cavalry	 50.37	 34.75	 41.46
+
+Mounted riflemen	 50.37	 34.75	 41.46
+
+Light artillery	 50.37	 34.75	 41.46
+
+Artillery	 46.66	 34.04	 39.65
+
+Infantry	 46.66	 34.04	 39.65
+
+Hospital steward	 48.25	 44.54	 41.14
+
+Corporal:
+
+Engineers	 47.02	 34.43	 39.91
+
+Dragoons and cavalry	 49.76	 34.45	 40.85
+
+Mounted riflemen	 49.76	 34.45	 40.85
+
+Light artillery	 49.76	 34.45	 40.85
+
+Artillery	 46.31	 33.72	 39.20
+
+Infantry	 46.31	 33.72	 39.20
+
+Musician:
+
+Engineers	 47.01	 34.47	 39.90
+
+Dragoons and cavalry	 50.63	 35.19	 41.72
+
+Mounted riflemen	 50.63	 35.19	 41.72
+
+Light artillery	 50.63	 35.19	 41.72
+
+Artillery	 46.30	 33.76	 39.19
+
+Infantry	 46.30	 33.76	 39.19
+
+Artificer and private:
+
+Engineers	 46.68	 34.14	 39.57
+
+Ordnance	 46.68	 34.14	 39.57
+
+Dragoons and cavalry	 49.58	 34.14	 40.67
+
+Mounted riflemen	 49.58	 34.14	 40.67
+
+Light artillery	 49.58	 34.14	 40.67
+
+Artillery	 45.97	 33.43	 38.86
+
+Infantry	 45.97	 33.43	 38.86
+
+Fourth	 Fifth.	 Total.
+
+year.	 year.
+
+Non-commissioned staff:
+
+Dragoons and cavalry	 $35.74	 $39.79	 $205.08
+
+Mounted riflemen	 35.74	 39.79	 205.08
+
+Artillery	 35.03	 38.03	 196.48
+
+Infantry	 35.03	 38.03	 196.48
+
+Chief musician:
+
+Dragoons and cavalry	 36.09	 40.14	 207.40
+
+Mounted riflemen	 36.09	 40.14	 207.40
+
+Infantry	 35.42	 38.42	 198.43
+
+First sergeant:
+
+Engineers	 34.87	 37.87	 195.68
+
+Dragoons, cavalry, and	 34.87	 38.92	 200.73
+
+light artillery
+
+Mounted riflemen	 34.87	 38.92	 200.73
+
+Artillery	 34.16	 37.16	 192.13
+
+Infantry	 34.16	 37.16	 192.13
+
+Sergeant:
+
+Engineers	 34.75	 37.75	 195.08
+
+Ordnance	 44.83	 47.83	 227.46
+
+Dragoons and cavalry	 34.75	 38.80	 200.13
+
+Mounted riflemen	 34.75	 38.80	 200.13
+
+Light artillery	 34.75	 38.80	 200.13
+
+Artillery	 34.04	 37.04	 191.43
+
+Infantry	 34.04	 37.04	 191.43
+
+Hospital steward	 44.54 	 47.54	 226.01
+
+Corporal:
+
+Engineers	 34.43	 37.30	 193.09
+
+Dragoons and cavalry	 34.45	 38.19	 197.70
+
+Mounted riflemen	 34.45	 38.19	 197.70
+
+Light artillery	 34.45	 38.19	 197.70
+
+Artillery	 33.72	 36.59	 189.54
+
+Infantry	 33.72	 36.59	 189.54
+
+Musician:
+
+Engineers	 34.47	 37.29	 193.14
+
+Dragoons and cavalry	 35.19	 39.06	 201.79
+
+Mounted riflemen	 35.19 	 39.06	 201.79
+
+Light artillery	 35.19	 39.06	 201.79
+
+Artillery	 33.76	 36.58	 189.59
+
+Infantry	 33.76	 36.58	 189.59
+
+Artificer and private:
+
+Engineers	 34.14	 36.96	 191.49
+
+Ordnance	 34.14	 36.96	 191.49
+
+Dragoons and cavalry	 34.14	 38.01	 196.54
+
+Mounted riflemen	 34.14	 38.01	 196.54
+
+Light artillery	 34.14	 38.01	 196.54
+
+Artillery	 33.43	 36.25	 187.94
+
+Infantry 	 33.43	 36.25	 187.94
+
+Statement of the cost of horse equipments, pattern 1859.
+
+Price	 Price per	 Total
+
+Parts.	 per	 set.	 cost.
+
+piece
+
+SADDLE.
+
+Saddle-tree, covered with	 $3.87	 $3.87
+
+rawhide, with metal mountings
+
+attached
+
+Saddle-flaps with brass	 1.18	 2.36
+
+screws, each
+
+Back straps, with screws,	 .52	 1.04
+
+rivete, and D's, each
+
+Girth strap:
+
+Long	 .36	 .36
+
+Short	 .23	 .23
+
+Cloak straps, each	 .17	 1.02
+
+Stirrup leathers, each	 .57	 1.14
+
+Sweat leathers, each	 .30	 .60
+
+Stirrups, with hoods, each	 .38	 .76
+
+Carbine socket and strap	 .47	 .47
+
+Saddle bags	 3.50	 3.50
+
+Crupper	 1.01	 1.01
+
+Girth	 .66	 .66
+
+Surcingle	 1.16	 1.16	 $18.18
+

@@ -1,0 +1,265 @@
+
+[Addends.]
+
+Return of casualties in Ewell's division at the battle of Sharpsburg, September 17, 1862.
+
+Killed Wounded.
+
+Command.	 Officers	 Enlisted	 Officers	 Enlisted
+
+ 	 men	 	 men
+
+Staff	 -	 2	 -	 -
+
+Lawton's brigade:
+
+13th Georgia	 5	 43	 9	 157
+
+26th Georgia	 1	 5	 2	 47
+
+31st Georgia	 -	 6	 3	 39
+
+38th Georgia	 1	 17	 6	 46
+
+60th Georgia	 -	 12	 3	 45
+
+61st Georgia	 2	 14	 8	 73
+
+Total	 9	 97	 33	 407
+
+Early's brigade:
+
+13th Virginia	 -	 -	 -	 5
+
+25th Virginia	 1	 2	 2	 18
+
+31st Virginia	 1	 -	 2	 5
+
+44th Virginia	 -	 2	 2	 30
+
+49th Virginia	 -	 8	 5	 64
+
+52nd Virginia	 1	 3	 1	 23
+
+58th Virginia	 -	 -	 -	 10
+
+Total	 3	 15	 12	 155
+
+Trimble's brigade
+
+Staff	 - 	 -	 2	 -
+
+15th Alabama	 -	 8	 4	 61
+
+12th Georgia	 2	 11	 6	 39
+
+21st Georgia.	 -	 3	 3	 61
+
+21st North	 -	 2	 2	 14
+
+Carolina
+
+Bedford	 -	 1	 -	 10
+
+Artillery*
+
+Total	 2	 25	 17	 185
+
+Hays' brigade
+
+Staff	 -	 -	 1	 -
+
+5th Louisiana	 2	 7	 9	 31
+
+6th Louisiana	 5	 6	 8	 33
+
+7th Louisiana	 2	 9	 9	 47
+
+8th Louisiana	 1	 6	 14	 82
+
+14th Louisiana	 -	 6	 5	 42
+
+Louisiana Guard	 -	 1	 -	 8
+
+Battery
+
+Total	 10	 35	 46	 243
+
+Missing.
+
+Command.	 Office	 Enlist	 Aggrega	 Remarks.
+
+ rs	 ed men	 te
+
+Staff	 -	 -	 2
+
+Lawton's brigade:
+
+13th Georgia	 -	 2	 216	 Colonel M.
+
+ 	 	 	 Douglass and
+
+ 	 	 	 Lieuts. J. D. Hill,
+
+ 	 	 	 J. A. Adair, E. S.
+
+ 	 	 	 Bass, and Edwin
+
+ 	 	 	 Dallas killed.
+
+26th Georgia	 -	 6	 61	 Lieutenant
+
+ 	 	 	 D. P. Rice killed.
+
+31st Georgia	 1	 4	 53
+
+38th Georgia	 -	 1	 71	 Captain W. H.
+
+ 	 	 	 Battery killed.
+
+60th Georgia	 -	 -	 60
+
+61st Georgia	 1	 6	 104	 Major A. P. Mac
+
+ 	 	 	 Rae and Captain
+
+ 	 	 	 W. J. Mathews
+
+ 	 	 	 killed.
+
+Total	 2	 19	 567
+
+Early's brigade:
+
+13th Virginia	 -	 -	 5
+
+25th Virginia	 -	 -	 23	 Lieutenant
+
+ 	 	 	 Charles W. Delay
+
+ 	 	 	 killed.
+
+31st Virginia	 -	 -	 8	 Captain Allison
+
+ 	 	 	 D. Robinson
+
+ 	 	 	 killed.
+
+44th Virginia	 -	 -	 34
+
+49th Virginia	 -	 8	 85
+
+52nd Virginia	 -	 1	 29	 Lieutenant Wm.
+
+ 	 	 	 F. Dold killed.
+
+58th Virginia	 -	 -	 10
+
+Total	 -	 9	 194
+
+Trimble's brigade
+
+Staff	 -	 -	 2
+
+15th Alabama	 -	 6	 79
+
+12th Georgia	 -	 1	 59	 Captain James G.
+
+ 	 	 	 Rodgers and
+
+ 	 	 	 Lieutenant A.
+
+ 	 	 	 Henderson killed.
+
+21st Georgia.	 -	 -	 67
+
+21st North	 -	 1	 19
+
+Carolina
+
+Bedford	 -	 -	 11
+
+Artillery*
+
+Total	 -	 8	 237
+
+Hays' brigade
+
+Staff	 -	 -	 1
+
+5th Louisiana	 -	 -	 49	 Lieuts. N. A.
+
+ 	 	 	 Canfield and
+
+ 	 	 	 Robert Gerrold
+
+ 	 	 	 killed.
+
+6th Louisiana	 -	 -	 52	 Colonel
+
+ 	 	 	 H. B. Strong,
+
+ 	 	 	 Capts. A. M.
+
+ 	 	 	 Callaway and H.
+
+ 	 	 	 Bain Ritchie, and
+
+ 	 	 	 Lieuts. M. Little
+
+ 	 	 	 and Geo. Lynne
+
+ 	 	 	 killed.
+
+7th Louisiana	 -	 2	 69	 Captain E.
+
+ 	 	 	 McFarland and
+
+ 	 	 	 Lieutenant
+
+ 	 	 	 William P. Newman
+
+ 	 	 	 killed.
+
+8th Louisiana	 -	 -	 103	 Lieutenant B. F.
+
+ 	 	 	 Birdsall killed.
+
+14th Louisiana	 -	 -	 53
+
+Louisiana Guard	 -	 -	 9
+
+Battery
+
+Total	 -	 2	 336
+
+RECAPITULATION.
+
+General	 -	 -	 2	 -	 -	 -	 2
+
+staff
+
+Lawton's	 9	 97	 33	 407	 2	 19	 567
+
+brigade
+
+Early's	 3	 15	 12	 155	 -	 9	 194
+
+brigade
+
+Trimble's	 2	 25	 17	 185	 -	 8	 237
+
+brigade
+
+Hays'	 10	 35	 46	 243	 -	 2	 336
+
+brigade
+
+Grand total	 24	 172	 110	 990	 2	 38	 1,336
+
+---------------
+
+*John R. Johnson's (Virginia) battery.
+
+---------------
+

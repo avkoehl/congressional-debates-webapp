@@ -1,0 +1,299 @@
+
+809	 Will R. Hervey	 Commissione	 5	 ...do...
+
+ 	 r
+
+810	 Alexander Magruder	 ...do...	 5	 ...do...
+
+811	 Theo. S. Bell	 Surgeon	 5	 ...do...
+
+812	 James Gardner	 ...do...	 5	 ...do...
+
+813	 G. W. Berry	 Provost-	 6	 ...do...
+
+ 	 marshal
+
+814	 Edward H. Samuels	 ...do...	 6	 ...do...
+
+815	 George W. Hawkins	 Commissione	 6	 ...do...
+
+ 	 r
+
+816	 Robert A. Athey	 ...do...	 6	 ...do...
+
+817	 E. P. Buckner	 Surgeon	 6	 ...do...
+
+818	 Thomas H. Moore	 Provost-	 7	 ...do...
+
+ 	 marshal
+
+819	 William Goodloe	 ...do...	 7	 ...do...
+
+820	 Orlando Brown	 Commissione	 7	 ...do...
+
+ 	 r
+
+821	 Stephen F. Gano	 Surgeon	 7	 ...do...
+
+822	 Robert Hays	 Provost-	 8 	 ...do...
+
+ 	 marshal
+
+823	 Harmon K. Wilson	 Commissione	 8	 ...do...
+
+ 	 r
+
+824	 James D. Foster	 Surgeon	 8	 ...do...
+
+825	 William C. Grier	 Provost-	 9	 ...do...
+
+ 	 marshal
+
+826	 William L. Hurst	 Commissione	 9	 ...do...
+
+ 	 r
+
+827	 F. B. Trussell	 ...do...	 9	 ...do...
+
+828	 Joshua Barnes	 Surgeon	 9	 ...do...
+
+829	 Alfred Spalding	 ...do...	 9	 ...do...
+
+830	 James McCahon	 Provost-	 1	 Kansas
+
+ 	 marshal
+
+831	 Clark J. Hanks	 ...do...	 1	 ...do...
+
+832	 Edward Russell	 Commissione	 1	 ...do...
+
+ 	 r
+
+833	 William Tholen	 ...do...	 1	 ...do...
+
+834	 Martin R. Dutton	 ...do...	 1	 ...do...
+
+835	 Tiffin Sinks	 Surgeon	 1	 ...do...
+
+836	 Alexander R. Banks	 Provost-	 2	 ...do...
+
+ 	 marshal
+
+837	 A. J. Shannon	 ...do...	 2	 ...do...
+
+838	 Theo. C. Sears	 ...do...	 2	 ...do...
+
+839	 F. B. Baker	 Commissione	 2	 ...do...
+
+ 	 r
+
+840	 George J. Tallman	 Surgeon	 2	 ...do...
+
+841	 Samuel C. Harrington	 ...do...	 2	 ...do...
+
+842	 Oscar F. Davis	 Provost-	 1	 Nebraska
+
+ 	 marshal	 	 Territory.
+
+843	 John Wanless	 ...do...	 1	 Colorado
+
+ 	 	 	 Territory.
+
+844	 Robert Cleveland	 ...do...	 1 	 ...do...
+
+845	 William H. Parks	 ...do...	 1	 California.
+
+846	 Joshua C. Sargent	 ...do...	 1	 ...do...
+
+847	 William B. Latham,	 Commissione	 1	 ...do...
+
+ jr.	 r
+
+848	 Lorenzo Hubbard	 Surgeon	 1	 ...do...
+
+849	 Robert Robinson	 Provost-	 2 	 ...do...
+
+ 	 marshal
+
+850	 Sylvester Tryon	 Commissione	 2	 ...do...
+
+ 	 r
+
+851	 A. B. Nixon	 Surgeon	 2	 ...do...
+
+852	 A. Jones Jackson	 Provost-	 3	 ...do...
+
+ 	 marshal
+
+853	 David Dwyer	 Commissione	 3	 ...do...
+
+ 	 r
+
+854	 Edward W. Roberts	 ...do...	 3	 ...do...
+
+855	 L. C. Lane	 Surgeon	 3	 ...do...
+
+809	 May 25, 1863.	 Resigned March 2, 1865.
+
+810	 March 14, 1865.	 Honorably discharged May 5,
+
+ 	 1865.
+
+811	 May 8, 1863.	 Resigned Feb. 1, 1865.
+
+812	 Feb. 16, 1865.	 Honorably discharged June 15,
+
+ 	 1865.
+
+813	 May 8, 1863.	 Died June 17, 1864.
+
+814	 July 1, 1864.	 Resigned Nov. 28, 1864.
+
+815	 May 8, 1863.	 Resigned Aug. 19, 1864.
+
+816	 Aug. 29, 1864.	 Honorably discharged May 5,
+
+ 	 1865.
+
+817	 May 8, 1863.	 Honorably discharged June 15,
+
+ 	 1865.
+
+818	 May 8, 1863.	 Appointment revoked March 20,
+
+ 	 1865.
+
+819	 March 20, 1865.	 Honorably discharged December
+
+ 	 31.1865.
+
+820	 may 27, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+821	 May 8, 1863.	 Honorably discharged June 15,
+
+ 	 1865.
+
+822	 May 8, 1863.	 Honorably discharged Oct.
+
+ 	 31.1865.
+
+823	 May 8, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+824	 May 8, 1863.	 Honorably discharged June 15,
+
+ 	 1865.
+
+825	 May 8, 1863.	 Resigned May 29, 1865.
+
+826	 June 2, 1863.	 Appointment revoked Feb. 13,
+
+ 	 1865.
+
+827	 Feb. 13, 1865.	 Honorably discharged May 5,
+
+ 	 1865.
+
+828	 June 13, 1863.	 Resigned Nov. 9, 1863.
+
+829	 Nov. 30, 1863.	 Honorably discharged June 15,
+
+ 	 1865.
+
+830	 July 7, 1863.	 Appointment revoked April 5,
+
+ 	 1865.
+
+831	 April 5, 1863.	 Honorably discharged Aug. 21,
+
+ 	 1865.
+
+832	 April 30, 1863.	 Resigned Aug. 23, 1865.
+
+833	 Aug. 30, 1864.	 Appointment revoked April 5,
+
+ 	 1865.
+
+834	 April 5, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+835	 April 30, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+836	 April 30, 1863.	 Appointment revoked Oct. 7,
+
+ 	 1863.
+
+837	 Oct. 7, 1863.	 Resigned December 29, 1864.
+
+838	 Jan. 13, 1865.	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+839	 Oct. 7, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+840	 July 7, 1863.	 Appointment revoked April 5,
+
+ 	 1865.
+
+841	 April 5, 1865.	 Honorably discharged May 30,
+
+ 	 1865.
+
+842	 May 4, 1863.	 Honorably discharged May 20,
+
+ 	 1865.
+
+843	 April 30, 1863.	 Resigned March 27, 1865.
+
+844	 March 27, 1865.	 Honorably discharged May 20,
+
+ 	 1865.
+
+845	 July 31, 1865.	 Appointment revoked May 12,
+
+ 	 1865.
+
+846	 May 12, 1865.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+847	 July 31, 1863.	 Honorably discharged April 30,
+
+ 	 1865.
+
+848	 July 31, 1863.	 Do.
+
+849	 July 31, 1863.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+850	 July 31, 1863.	 Honorably discharged April 30,
+
+ 	 1865.
+
+851	 July 31, 1863.	 Do.
+
+852	 July 31, 1863.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+853	 July 31, 1863.	 Resigned March 22, 1864.
+
+854	 Aug. 16, 1864.	 Honorably discharged April 30,
+
+ 	 1865.
+
+855	 July 31, 1863.	 Do.
+
+*Again appointed March 28, 1864; resigned August 22, 1864.
+
++Again appointed August 27, 1864; honorably discharged May 5, 1865.
+

@@ -1,0 +1,161 @@
+
+Numbers 18. Return of Casualties in the Confederate forces.
+
+[Compiled from nominal list.]
+
+Killed Wounded
+
+Command	 Officers	 Enlisted	 Officers	 Enlisted
+
+ 	 men	 	 men
+
+Forrest's brigade
+
+Biffle's regiment a	 1	 5	 .......	 15
+
+Cox's regiment b	 ......	 1	 1	 8
+
+Edmondson's regiment	 .......	 .......	 .......	 9
+
+3rd [4th] Tennessee	 .......	 2	 3	 18
+
+c
+
+McCann's battalion	 .......	 ....... 	 .......	 3
+
+Body-guard d	 .......	 ........ 	 1	 ........
+
+Total	 1	 8	 5	 53
+
+MARTIN'S (FIRST)
+
+DIVISION
+
+Cosby's brigade
+
+1st Mississippi	 ......	 ........	 ....... 	 1
+
+28th Mississippi	 .......	 ........	 ....... 	 2
+
+Total	 .......	 .......	 ....... 	 3
+
+JACKSON'S (SECOND)
+
+DIVISION.
+
+Armstrong's brigade
+
+3rd Arkansas e	 3	 3	 4	 24
+
+4th Mississippi	 .......	 9	 2	 35
+
+Sanders' battalion g	 1	 6	 .......	 14
+
+Jenkins' (Alabama)	 .......	 2	 2	 10
+
+squadron h
+
+Total	 4	 20	 8	 83
+
+Whitfield's brigade
+
+3rd Texas i	 1	 6	 1	 24
+
+6th Texas j	 .......	 2	 4	 30
+
+9th Texas k	 1	 2	 4	 15
+
+Whitfield's legion l	 2	 9	 5	 54
+
+Total 	 4	 19	 14 	 123
+
+Grand total	 9	 47	 27 	 262
+
+Missing
+
+Command	 Officers	 Enlisted men	 Aggregate
+
+Forrest's brigade
+
+Biffle's regiment a	 ........	 ..........	 21
+
+Cox's regiment b	 .........	 ..........	 10
+
+Edmondson's regiment	 .........	 ..........	 9
+
+3rd [4th] Tennessee c	 .........	 ..........	 23
+
+McCann's battalion	 .........	 2	 5
+
+Body-guard d	 .........	 .......... 	 1
+
+Total	 .........	 2	 69
+
+MARTIN'S (FIRST)
+
+DIVISION
+
+Cosby's brigade
+
+1st Mississippi	 .........	 ..........	 1
+
+28th Mississippi	 .........	 ...........	 2
+
+Total	 .........	 ..........	 3
+
+JACKSON'S (SECOND)
+
+DIVISION.
+
+Armstrong's brigade
+
+3rd Arkansas e	 .........	 ..........	 34
+
+4th Mississippi	 .........	 .........	 46
+
+Sanders' battalion g	 .........	 ...........	 21
+
+Jenkins' (Alabama)	 .........	 ...........	 14
+
+squadron h
+
+Total	 .........	 ...........	 115
+
+Whitfield's brigade
+
+3rd Texas i	 .........	 2	 34
+
+6th Texas j	 ..........	 ..........	 36
+
+9th Texas k	 .........	 1	 23
+
+Whitfield's legion l	 1 	 6	 77
+
+Total 	 1	 9	 170
+
+Grand total	 1	 11	 357
+
+a Lieutenant J. R. Johnson killed.
+
+b Lieutenant-Colonel [E. B.] Trezevent mortally wounded.
+
+c Captain A. A. Dysart mortally wounded, and Lieuts. Tilman A. Boyd and [John B.] Poston wounded.
+
+d Captain Montgomery Little mortally wounded.
+
+e Colonel S. G. Earle, Captain S. Jester, and Lieutenant E. D. Ward killed, and Capts. William H. Blackwell and [J. F.] Earle and Lieutenants [D. F.] Hines and H. C. Cleaver wounded.
+
+f Captain John Gaddis and Lieutenant A. J. Hamilton wounded.
+
+g Captain L. E. Hill killed.
+
+h Lieuts. W. J. Moncrief and D. C. Whitley wounded.
+
+i Lieutenant R. S. Tunnell killed.
+
+j Captain R. A. Rawlins and Lieuts. James McWilson, P. S. Taylor, and R. C. White wounded.
+
+k Lieutenant S. L. Garrett killed, and Lieuts. W. H. Boyle, J. C. Hensley, W. P. Hicks, and S. McAnear wounded.
+
+l Capts. J. W. Bayzer and Lieutenant Cornelius H. Roberts killed. Capts. James A. Broocks and B. Hn Norsworthy, and Lieuts. Adam Adams, Francis P. Halley, and J. L. Nance wounded.
+

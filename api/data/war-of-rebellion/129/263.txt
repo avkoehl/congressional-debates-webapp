@@ -1,0 +1,229 @@
+
+Articles. 	 Quality. 	 Description. 	 Quantity.
+
+Ambulances. 	 First	 Complete with	 Each.
+
+ class. 	 harness.
+
+Do. 	 Second	 do. 	 do.
+
+ class.
+
+Do. 	 Third	 do. 	 do.
+
+ class.
+
+Apples. 	 Good. 	 Dried, peeled. 	 Bushel of 28
+
+ 	 	 pounds.
+
+Axes. 	 New. 	 With handles. 	 Each.
+
+Do. 	 do. 	 Without handles. 	 do.
+
+Do. 	 do. 	 Hand, with	 do.
+
+ 	 handles.
+
+Bacon. 	 Good. 	 Sides, corn fed. 	 Per pound.
+
+Do. 	 do. 	 Sides, mast or	 do.
+
+ 	 pindar fed.
+
+Do. 	 do. 	 Hams, corn fed. 	 do.
+
+Do. 	 do. 	 Hams, mast or	 do.
+
+ 	 pindar fed.
+
+Do. 	 do. 	 Shoulders, corn	 do.
+
+ 	 fed.
+
+Do. 	 do. 	 Shoulders, mast or	 do.
+
+ 	 pindar fed.
+
+Beans. 	 do. 	 . . . . 	 Bushel of 60
+
+ 	 	 pounds.
+
+Beef-cattle. 	 First	 Stall fed, first	 Per pound,
+
+ class. 	 quality. 	 net.
+
+Do. 	 do. 	 Other kind. 	 do.
+
+Blankets. 	 do. 	 Woolen thread. 	 Per pair.
+
+Do. 	 do. 	 Felt. 	 Each.
+
+Brandy. 	 do	 Peach or apple. 	 Per gallon.
+
+Do. 	 do. 	 Best French. 	 do.
+
+Cam-kettles. 	 do. 	 Iron. 	 Each.
+
+Candles. 	 do. 	 Star. 	 Per pound.
+
+Do. 	 do. 	 Tallow. 	 do.
+
+Chains. 	 do. 	 Trace. 	 Per pair.
+
+Cloth. 	 do. 	 Woolen, 3-4 wide,	 Per yard.
+
+ 	 1 ounce per yard,
+
+ 	 and pro rate for
+
+ 	 greater or less
+
+ 	 width.
+
+Coffee. 	 do. 	 . . . 	 Per pound.
+
+Do. 	 Second	 . . . 	 do.
+
+ class.
+
+Do. 	 Third	 . . . 	 do.
+
+ class.
+
+Corn. 	 Prime. 	 Shelled. 	 Bushel of 56
+
+ 	 	 pounds.
+
+Do. 	 do. 	 Unshelled. 	 Bushel of 70
+
+ 	 	 pounds.
+
+Do. 	 do. 	 In the field. 	 Bushel of 56
+
+ 	 	 pounds.
+
+Corn-meal. 	 do. 	 Bolted. 	 Bushel of 50
+
+ 	 	 pounds.
+
+Do. 	 do. 	 Unbolted. 	 do.
+
+Drills. 	 Good. 	 7-8 wide, 3 yards	 Per yard.
+
+ 	 to the pound, and
+
+ 	 pro rate for
+
+ 	 greater or less
+
+ 	 width or weight.
+
+Flannel. 	 do. 	 3-4 wide, 6 ounces	 do.
+
+ 	 per yard.
+
+Flour. 	 Extra	 . . . 	 Barrel of
+
+ family. 	 	 196 pounds.
+
+Do. 	 do. 	 . . . 	 Sack of 100
+
+ 	 	 pounds.
+
+Do. 	 Superfine. 	 . . . 	 Barrel of
+
+ 	 	 196 pounds.
+
+Do. 	 do. 	 . . . 	 Sack of 100
+
+ 	 	 pounds.
+
+Do. 	 Fine. 	 . . . 	 Barrel of
+
+ 	 	 196 pounds.
+
+District.
+
+Articles. 	 First. 	 Second. 	 Third. 	 Fourth.
+
+Ambulances. 	 $600. 00	 $600. 00	 $600. 00	 $600. 00
+
+Do. 	 500. 00	 500. 00	 500. 00	 500. 00
+
+Do. 	 400. 00	 400. 00	 400. 00	 400. 00
+
+Apples. 	 4. 00	 4. 00	 4. 00	 4. 00
+
+Axes. 	 7. 00	 7. 00	 7. 00	 7. 00
+
+Do. 	 6. 50	 6. 50	 6. 50	 6. 50
+
+Do. 	 6. 00	 6. 00	 6. 00	 6. 00
+
+Bacon. 	 1. 60	 1. 60	 1. 60	 1. 75
+
+Do. 	 1. 40	 1. 40	 1. 40	 1. 50
+
+Do. 	 1. 50	 1. 50	 1. 50	 1. 65
+
+Do. 	 1. 30	 1. 30	 1. 30	 1. 45
+
+Do. 	 1. 30	 1. 30	 1. 30	 1. 45
+
+Do. 	 1. 15	 1. 15	 1. 15	 1. 25
+
+Beans. 	 2. 00	 2. 00	 2. 00	 2. 00
+
+Beef-cattle. 	 . 50	 . 50	 . 50	 . 50
+
+Do. 	 . 35	 . 35	 . 35	 . 35
+
+Blankets. 	 30. 00	 30. 00	 30. 00	 30. 00
+
+Do. 	 15. 00	 15. 00	 15. 00	 15. 00
+
+Brandy. 	 8. 00	 8. 00	 8. 00	 8. 00
+
+Do. 	 25. 00	 25. 00	 25. 00	 25. 00
+
+Cam-kettles. 	 7. 00	 7. 00	 7. 00	 7. 00
+
+Candles. 	 3. 00	 3. 00	 3. 00	 3. 00
+
+Do. 	 2. 00	 2. 00	 2. 00	 2. 00
+
+Chains. 	 5. 00	 5. 00	 5. 00	 5. 00
+
+Cloth. 	 8. 00	 8. 00	 8. 00	 8. 00
+
+Coffee. 	 5. 00	 5. 00	 5. 00	 5. 00
+
+Do. 	 4. 00	 4. 00	 4. 00	 4. 00
+
+Do. 	 3. 00	 3. 00	 3. 00	 3. 00
+
+Corn. 	 1. 75	 2. 10	 2. 60	 3. 10
+
+Do. 	 1. 65	 2. 00	 2. 50	 3. 00
+
+Do. 	 . . 	 . . 	 . . 	 . .
+
+Corn-meal. 	 2. 25	 2. 50	 2. 75	 3. 00
+
+Do. 	 2. 00	 2. 25	 2. 50	 2. 75
+
+Drills. 	 2. 75	 2. 75	 2. 75	 2. 75
+
+Flannel. 	 . . 	 . . 	 . . 	 . .
+
+Flour. 	 50. 00	 50. 00	 50. 00	 50. 00
+
+Do. 	 25. 00	 25. 00	 25. 00	 25. 00
+
+Do. 	 48. 00	 48. 00	 48. 00	 48. 00
+
+Do. 	 24. 00	 24. 00	 24. 00	 24. 00
+
+Do. 	 45. 00	 45. 00	 45. 00	 45. 00
+

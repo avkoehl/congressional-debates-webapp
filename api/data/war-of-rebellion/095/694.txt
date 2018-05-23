@@ -1,0 +1,219 @@
+
+Command.	 Average	 Average	 Average	 Average	 Daily
+
+ strength	 number on	 number on	 number on	 ratio of
+
+ present	 sick	 sick	 sick	 sick per
+
+ during	 report	 report	 report	 1.000
+
+ March,	 daily	 daily	 daily	 men of
+
+ 1865.	 during	 during	 during	 average
+
+ 	 month.	 month.	 month.	 strength
+
+ 	 	 	 	 present.
+
+ 	 In	 In	 Total.
+
+ 	 hospital.	 quarters.
+
+Second
+
+Brigade.
+
+1st	 488	 10	 7	 17	 35
+
+Massachu
+
+setts
+
+105th	 431	 1	 5	 6	 14
+
+Pennsylv
+
+ania
+
+141st	 226	 2	 3	 5	 22
+
+Pennsylv
+
+ania
+
+93rd New	 331	 9	 3	 12	 36
+
+York
+
+57th	 502	 4	 4	 8	 16
+
+Pennsylv
+
+ania
+
+5th	 424	 7	 8	 15	 36
+
+Michigan
+
+Third
+
+Brigade.
+
+120th	 363	 4	 9	 13	 36
+
+New York
+
+11th New	 421	 5	 9	 14	 33
+
+Jersey
+
+7th New	 695	 7	 10	 17	 24
+
+Yersey
+
+11th	 345	 3	 3	 6	 17
+
+Massachu
+
+setts
+
+8th New	 600	 10	 6	 16	 27
+
+Jersey
+
+Total	 8,479	 134	 137	 271	 31.95
+
+Third
+
+Division
+
+Artiller	 1,949	 2	 	 20	 10.26
+
+y	 	 	 18
+
+Brigade
+
+Total in	 23,834	 313	 419	 732	 30.72
+
+corps
+
+The field division hospitals were situated during the month at Patrick's Station. The following give their constitution immediately before the commencement of the campaign:
+
+Hos	 Site	 Wate	 Drai	 sink	 Medi	 	 Othe	 Hosp	 Enli	 Ten
+
+pit	 .	 r.	 nage	 s.	 cal	 Chap	 r	 ital	 sted 	 ts.
+
+al.	 	 	 .	 	 offi	 lain	 comm	 stew	 men.
+
+ 	 	 	 	 cers	 s.	 issi	 ards
+
+ 	 	 	 	 .	 	 oned	 .
+
+ 	 	 	 	 	 	 offi
+
+ 	 	 	 	 	 	 cers
+
+ 	 	 	 	 	 	 .
+
+Fir	 Good	 Good	 Good	 Good	 5	 1	 1 	 2	 56
+
+st	 ..	 ..	 ..	 ..	 	 	 	 	 	 24
+
+Div
+
+isi
+
+on
+
+Sec	 Good	 Good	 Good	 Good	 3	 1	 1	 1	 45	 17
+
+ond	 ..	 ..	 ..	 ..
+
+Div
+
+isi
+
+on
+
+Thi	 Fair	 Good	 Fair	 Good	 7	 	 	 	 38	 19
+
+rd	 ..	 ..	 ..	 ..	 	 2	 1	 3
+
+Div
+
+isi
+
+on
+
+Art	 Good	 Good	 Good	 Good	 1	 	 	 1	 11	 5
+
+ill	 ..	 ..	 ..	 ..	 	 ...	 ...
+
+ery
+
+Bri
+
+gad
+
+e
+
+Tot 	 	 	 	 	 16	 	 	 	 	 65
+
+al	 ...	 ...	 ...	 ....	 	 4	 3	 7	 150
+
+Hos	 How	 Vent	 Huts	 Clea	 Cook	 Supp	 Comp	 Neat	 Medi	 Arm
+
+pit	 warm	 ilat	 .	 nlin	 ing.	 lies	 lete	 ness	 cal	 y
+
+al.	 ed.	 ion.	 	 ess,	 	 .	 ness	 .	 wago	 wag
+
+ 	 	 	 &amp;c.	 	 	 .	 	 ns.	 ons
+
+ 	 	 	 	 	 	 	 	 	 .
+
+Fir	 Wood	 Good	 9	 Good	 Good	 Fair	 Comp	 Fair	 1
+
+st	 en	 .	 	 .	 .	 .	 lete	 .	 	 6
+
+Div	 chim	 	 	 	 	 	 .
+
+isi	 mney
+
+on 	 s
+
+Sec	 ...d	 Good	 6	 Good	 Good	 Fair	 Comp	 Fair	 2	 5
+
+ond	 o...	 .	 	 .	 .	 .	 lete	 .
+
+Div	 	 	 	 	 	 	 .
+
+isi
+
+on
+
+Thi	 ...d	 Good	 4	 Good	 Good	 Fair	 Comp	 Fair	 1	 2
+
+rd	 o...	 .	 	 .	 . 	 .	 lete	 .
+
+Div	 	 	 	 	 	 	 .
+
+isi
+
+on
+
+Art	 ...d	 Good	 	 Good	 Good	 Fair	 Comp	 Fair	 	 2
+
+ill	 o...	 .	 4	 .	 .	 .	 lete	 .	 1
+
+ery	 	 	 	 	 	 	 .
+
+Bri
+
+gad
+
+e
+
+Tot	 ....	 ....	 	 ....	 ....	 ..	 ...	 ....	 5	 20
+
+al.	 	 .	 24
+

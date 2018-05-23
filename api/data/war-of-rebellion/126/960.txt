@@ -1,0 +1,485 @@
+
+Recapitulation of cost of materials used and labor performed for construction and maintenance of way on the U. S. military railroads on the Military Division of the Mississippi.
+
+Track
+
+Name of road.	 From -	 To -	 Lengt	 Brid-	 Main
+
+ 	 	 h.	 ges	 track.
+
+ 	 	 	 built
+
+ 	 	 	 by
+
+ 	 	 	 Govern
+
+ 	 	 	 ment.
+
+ 	 	 Miles	 Lin.	 Miles.
+
+ 	 	 .	 feet.
+
+Nashville and	 Nashville.	 Chatta-	 151	 21,727	 129.75
+
+Chattanooga..	 	 nooga
+
+Shelbyville	 Wartrace.	 Shelby-	 9	 ...	 ...
+
+Branch a..	 	 ville
+
+McMinnville and	 Tullahoma.	 McMinn-	 35	 ...	 ...
+
+Manchester a..	 	 ville
+
+Nashville and	 Nashville.	 Decatur	 120	 24,275	 31.50
+
+Decatur..	 	 Junction
+
+Mount Pleasant	 Columbia.	 Mount	 12	 ...	 ...
+
+Branch..	 	 Pleasant
+
+Memphis and	 Stevenson.	 Decatur	 80	 4,943	 3.50
+
+Charleston	 	 Junction
+
+(Eastern
+
+Division)..
+
+Chattanooga and	 Chatta-	 Knoxville	 112 	 4,002	 35.00
+
+Knoxville	 nooga.
+
+Cleveland and	 Cleveland.	 Dalton	 27	 ...	 ...
+
+Dalton Branch. b
+
+Nashville and	 Nashville.	 Johnson-	 78	 21,320	 46.50
+
+Northwestern	 	 ville
+
+Chattanooga and	 Chatta-	 Atlanta	 136	 13,676	 130.75
+
+Atlanta	 nooga.
+
+Rome Branch c..	 Kingston.	 Rome	 17	 ...	 ...
+
+Atlanta and	 Atlanta.	 Rough and	 11	 ...	 ...
+
+Macon d..	 	 Ready
+
+Nashville and	 Nashville.	 Clarks-	 62	 3,433
+
+Clarksville	 	 ville	 	 	 1.62
+
+Knoxville and	 Knoxville.	 Bristol	 110	 4.168
+
+Bristol	 	 	 	 	 12.50
+
+Rogersville	 Junction.	 Rogers-	 12	 ...	 ...
+
+Branch e..	 	 ville
+
+Memphis and	 Memphis.	 Pocahon-	 75	 ...	 ...
+
+Charleston	 	 tas
+
+(Western
+
+Division).
+
+Mississippi	 Grand	 Tallahat-	 48	 ...	 ...
+
+Central f..	 Junction.	 chie
+
+ 	 River
+
+Mobile and Ohio	 Columbus,	 Crockett,	 35	 ...	 ...
+
+ Ky.	 Tenn.
+
+Louisville City	 River	 Louis-	 2	 ...	 ...
+
+g	 landing.	 ville and
+
+ 	 Nashville
+
+ 	 Railroad
+
+ 	 Depot.
+
+Total	 .........	 .........	 1,132	 97,544	 391.12
+
+ 	 .
+
+laid by Govern-
+
+ment.
+
+Name of road.	 From -	 To -	 Sidings.	 Total.
+
+ 	 	 Miles.	 Miles.
+
+Nashville and	 Nashville.	 Chatta-	 19.00	 148.75
+
+Chattanooga..	 	 nooga
+
+Shelbyville	 Wartrace.	 Shelby-	 ...	 ...
+
+Branch a..	 	 ville
+
+McMinnville and	 Tullahoma.	 McMinn-	 ...	 ...
+
+Manchester a..	 	 ville
+
+Nashville and	 Nashville.	 Decatur	 2.65	 34.15
+
+Decatur..	 	 Junction
+
+Mount Pleasant	 Columbia.	 Mount	 ...	 ...
+
+Branch..	 	 Pleasant
+
+Memphis and	 Stevenson.	 Decatur	 1.07	 4.57
+
+Charleston	 	 Junction
+
+(Eastern
+
+Division)..
+
+Chattanooga and	 Chatta-	 Knoxville	 3.38	 38.38
+
+Knoxville	 nooga.
+
+Cleveland and	 Cleveland.	 Dalton	 ...	 ...
+
+Dalton Branch. b
+
+Nashville and	 Nashville.	 Johnson-	 4.25	 50.75
+
+Northwestern	 	 ville
+
+Chattanooga and	 Chatta-	 Atlanta	 10.75	 141.50
+
+Atlanta	 nooga.
+
+Rome Branch c..	 Kingston.	 Rome	 ...	 ...
+
+Atlanta and	 Atlanta.	 Rough and	 ...	 ...
+
+Macon d..	 	 Ready
+
+Nashville and	 Nashville.	 Clarks-	 .13	 1.75
+
+Clarksville	 	 ville
+
+Knoxville and	 Knoxville.	 Bristol	 1.09	 13.59
+
+Bristol
+
+Rogersville	 Junction.	 Rogers-	 ...	 ...
+
+Branch e..	 	 ville
+
+Memphis and	 Memphis.	 Pocahontas	 ...	 ...
+
+Charleston
+
+(Western
+
+Division).
+
+Mississippi	 Grand	 Tallahat-	 ...	 ...
+
+Central f..	 Junction.	 chie River
+
+Mobile and Ohio	 Columbus,	 Crockett,	 ...	 ...
+
+ Ky.	 Tenn.
+
+Louisville City	 River	 Louisville	 ...	 ...
+
+g	 landing.	 and
+
+ 	 Nashville
+
+ 	 Railroad
+
+ 	 Depot.
+
+Total	 .........	 ..........	 42.32	 433.44
+
+Cost.
+
+Name of	 From -	 To -	 Materials.	 Labor.
+
+road.
+
+Nashville	 Nashville	 Chatta-	 $1,747,741.00	 $1,946,533.62
+
+and	 .	 nooga
+
+Chattanooga.
+
+.
+
+Shelbyville	 Wartrace.	 Shelby-	 ...	 ...
+
+Branch a..	 	 ville
+
+McMinnville	 Tullahoma	 McMinn-	 ...	 ...
+
+and	 .	 ville
+
+Manchester
+
+a..
+
+Nashville	 Nashville	 Decatur	 416,480.00 	 692,835.91
+
+and	 .	 Junc-
+
+Decatur..	 	 tion
+
+Mount	 Columbia.	 Mount	 ... 	 ...
+
+Pleasant	 	 Plea-
+
+Branch..	 	 sant
+
+Memphis and	 Stevenson	 Decatur	 75,685.00	 216,308.18
+
+Charleston	 .	 Junc-
+
+(Eastern	 	 tion
+
+Division)..
+
+Chattanooga	 Chatta-	 Knox-	 542,030.50	 506,554.45
+
+and	 nooga.	 ville
+
+Knoxville
+
+Cleveland	 Cleveland	 Dalton	 ...	 ...
+
+and Dalton	 .
+
+Branch. b
+
+Nashville	 Nashville	 Johnso	 489,779.12	 798,829.7.
+
+and	 .	 n-ville
+
+Northwestern
+
+Chattanooga	 Chatta-	 Atlanta	 1,377,145.00	 1,150,746.06
+
+and Atlanta	 nooga.
+
+Rome Branch	 Kingston.	 Rome	 ...	 ...
+
+c..
+
+Atlanta and	 Atlanta.	 Rough	 ... 	 ...
+
+Macon d..	 	 and
+
+ 	 Ready
+
+Nashville	 Nashville	 Clarks-	 18,210.00	 148,455.92
+
+and	 .	 ville
+
+Clarksville
+
+Knoxville	 Knoxville	 Bristol	 156,580.00	 195,321.24
+
+and Bristol	 .
+
+Rogersville	 Junction.	 Rogers-	 ... 	 ...
+
+Branch e..	 	 ville
+
+Memphis and	 Memphis.	 Pocaho	 134,194.77 	 72,893.12
+
+Charleston	 	 n-tas
+
+(Western
+
+Division).
+
+Mississippi	 Grand	 Talla-	 ...	 ...
+
+Central f..	 Junction.	 hatchie
+
+ 	 River
+
+Mobile and	 Columbus,	 Crock-	 3,762.44	 16,582.88
+
+Ohio	 Ky.	 ett,
+
+ 	 Tenn.
+
+Louisville	 River	 Louis-	 ... 	 ...
+
+City g	 landing.	 ville
+
+ 	 and
+
+ 	 Nash-
+
+ 	 ville
+
+ 	 Rail-
+
+ 	 road
+
+ 	 Depot.
+
+Total	 .........	 .......	 4,961,607.83	 5,745,081.11
+
+Name of	 From -	 To -	 Contract	 Total.
+
+road.	 	 	 work.
+
+Nashville	 Nashville	 Chatta-	 $385,216.71	 $4,079,511.33
+
+and	 .	 nooga
+
+Chattanooga.
+
+.
+
+Shelbyville	 Wartrace.	 Shelby-	 ...	 ...
+
+Branch a..	 	 ville
+
+McMinnville	 Tullahoma	 McMinn-	 ...	 ...
+
+and	 .	 ville
+
+Manchester
+
+a..
+
+Nashville	 Nashville	 Decatur	 549,326.13	 1,658,642.04
+
+and	 .	 Junc-
+
+Decatur..	 	 tion
+
+Mount	 Columbia.	 Mount	 ...	 ...
+
+Pleasant	 	 Pleas-
+
+Branch..	 	 ant
+
+Memphis and	 Stevenson	 Decatur	 88,442.33	 380,435.51
+
+Charleston	 .	 Junc-
+
+(Eastern	 	 tion
+
+Division)..
+
+Chattanooga	 Chatta-	 Knox-	 161,990.26	 1,210,575.21
+
+and	 nooga.	 ville
+
+Knoxville
+
+Cleveland	 Cleveland	 Dalton	 ...	 ...
+
+and Dalton	 .
+
+Branch. b
+
+Nashville	 Nashville	 Johnso	 182,789.11	 1,471,397.96
+
+and	 .	 n-ville
+
+Northwestern
+
+Chattanooga	 Chatta-	 Atlanta	 41,427.63 	 2,569,318.69
+
+and Atlanta	 nooga.
+
+Rome Branch	 Kingston.	 Rome	 ...	 ...
+
+c..
+
+Atlanta and	 Atlanta.	 Rough	 ...	 ...
+
+Macon d..	 	 and
+
+ 	 Ready
+
+Nashville	 Nashville	 Clarks-	 ...	 166,665.92
+
+and	 .	 ville
+
+Clarksville
+
+Knoxville	 Knoxville	 Bristol	 ...	 351,901.24
+
+and Bristol	 .
+
+Rogersville	 Junction.	 Rogers-	 ...	 ...
+
+Branch e..	 	 ville
+
+Memphis and	 Memphis.	 Pocaho	 ...	 207,087.89
+
+Charleston	 	 n-tas
+
+(Western
+
+Division).
+
+Mississippi	 Grand	 Tallah-	 ...	 ...
+
+Central f..	 Junction.	 atchie
+
+ 	 River
+
+Mobile and	 Columbus,	 Crock-	 ...	 20,345.32
+
+Ohio	 Ky.	 ett,
+
+ 	 Tenn.
+
+Louisville	 River	 Louis-	 ...	 ...
+
+City g	 landing.	 ville
+
+ 	 and
+
+ 	 Nash-
+
+ 	 ville
+
+ 	 Rail-
+
+ 	 road
+
+ 	 Depot.
+
+Total	 .........	 .......	 1,409,192.17	 12,115,881.11
+
+a Cost included in Nashville and Chattanooga Railroad.
+
+b Cost included in Chattanooga and Knoxville Railroad.
+
+c Cost included in Chattanooga and Atlanta Railroad.
+
+d Used but a few days.
+
+e Included in Knoxville and Bristol Railroad.
+
+f Cost included in Memphis and Charleston Railroad (Western Division).
+
+g Taken up by Government.
+

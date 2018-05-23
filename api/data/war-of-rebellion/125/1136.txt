@@ -1,0 +1,59 @@
+
+Third. The total excess of years of service of men raised by all the States since the previous draft and up to the 31st of December, 1864, is 488,322. The years of service is the only basis that can be taken to arrive at the service rendered by the several districts, as some furnished men for one, others for two, and others for three years.
+
+Fourth. Now, as we require 290,000 men and have an excess of 488,322 years of service over former calls, we are to apportion among the districts these two numbers, to do which the 290,000 men must be brought to the same denomination, or years of service of three-years" men, making 870,000 years to be added to the 488,322, producing 1,358,322 years of service to be distributed and apportioned among all the districts.
+
+Fifth. Hence the application of the rule will be: as 2,219,922 (the total enrollment of men) is to 1,358,322 (years of service that have been and still remain to be furnished by all the districts) so is 11,443 men enrolled in a particular district (for example) to 6,998 years of such service for such district of 11,443 enrolled men.
+
+Sixth. But this 6,998 years of service has to be decreased by its real or full excess (or part of 488,322) in that particular district, which, in the case taken as an example, is 2,096 years of service, leaving 4,092 years of service to be provided by the draft, or 1,634 men for one, two, or three years, according as the district may desire to pay bounty in anticipation of men for another year under any subsequent call or draft.
+
+Seventh. We may simplify the labor of calculation by finding the following process:
+
+The whole enrollment of the United States divided by the present call for 290,000 men, plus the excess already furnished by all the States over and above the last draft, and we have a decimal of 0.6118.
+
+Eighth. Then multiply the enrollment of a district by this decimal, 0.6118, deduct the excess already furnished by such district, divide the residue by 3, and we get the quota of such district.
+
+The application of these principles and rules has been made to the several States and districts thereof by me, and the following results deduced from the accompanying facts of enrollments and excesses received from the Provost-Marshal-General:
+
+ILLINOIS.
+
+District.	 Total	 Excess	 Quotas to
+
+enrollment	 raised by	 be
+
+of men.	 the	 furnished
+
+district of	 by the
+
+years of	 district in
+
+service.	 men.
+
+First	 34,827	 11,480	 3,276
+
+Second	 16,969	 5,258	 1,708
+
+Third	 18,956	 6,054	 1,848
+
+Fourth	 21,769	 4,276	 3,114
+
+Fifth	 26,691	 4,170	 4,053
+
+Sixth	 17,198	 4,670	 1,951
+
+Seventh	 24,344	 5,225	 3,223
+
+Eighth	 28,540	 4,634	 4,275
+
+Ninth	 21,013	 3,696	 3,053
+
+Tenth	 23,544	 3,558	 3,615
+
+Eleventh	 20,925	 7,781	 1,673
+
+Twelfth	 13,730	 3,745	 1,552
+
+Thirteenth	 21,218	 6,342	 2,314
+
+Total	 290,218	 70,889	 35,555
+

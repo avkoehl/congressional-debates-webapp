@@ -1,0 +1,91 @@
+
+Guns bearing on Charleston Harbor-Continued.
+
+FORT BEAUREGARD.
+
+Kind of ordnance	 Caliber	 Num	 Bar	 Cas	 Fie	 Sie	 Na
+
+ 	 ber	 bet	 ema	 ld	 ge	 va
+
+ 	 of	 te	 te	 car	 car	 l
+
+ 	 gun	 car	 car	 ria	 ria	 ca
+
+ 	 s	 ria	 ria	 ges	 ges	 rr
+
+ 	 	 ges	 ges	 	 	 ia
+
+ 	 	 	 	 	 	 ge
+
+ 	 	 	 	 	 	 s
+
+8-inch columbiad	 8-inch	 1	 1 	 --	 --	 --	 -
+
+8-inch sea-coast	 8-inch	 1	 1	 --	 --	 --	 -
+
+howitzer
+
+32-pounder	 32-pounder	 1	 1	 --	 --	 --	 -
+
+32-pounder rifled	 32-pounder	 1 	 1	 --	 --	 --	 -
+
+24-pounder	 24-pounder	 2	 2	 --	 --	 --	 -
+
+FORT MOULTRIE.
+
+8-inch columbiad	 8-inch	 9	 9	 -	 -	 -	 -
+
+8-inch sea-coat	 8-inch	 3	 3	 -	 -	 -	 -
+
+howitzer
+
+42-pounder rifled	 42-pounder	 1	 1	 -	 -	 -	 -
+
+32-pounder	 32-pounder	 6	 6	 -	 -	 -	 -
+
+32-pounder rifled 	 32-pounder	 4	 4	 -	 -	 -	 -
+
+24-pounder	 24-pounder	 11	 11	 -	 -	 -	 -
+
+24-pounder	 24-pounder	 3	 3	 -	 -	 -	 -
+
+howitzer
+
+6-pounder	 6-pounder	 1	 --	 -	 -	 -	 -
+
+ENFILADE BATTERY.
+
+10-inch columbiad	 10-inch	 3	 3	 -	 -	 - 	 -
+
+CASLTE PINCKNEY.
+
+24-pounder	 24-pounder	 9	 6	 3	 -	 -	 -
+
+24-pounder rifled	 24-pounder	 1	 1	 -	 -	 -	 -
+
+BATTERY ON MORRIS ISLAND AND FLOATING BATTERY.
+
+8-inch naval shell	 8-inch	 4	 -	 -	 -	 -	 4
+
+gun
+
+33-pounder rifled	 33-pounder	 2	 -	 -	 -	 -	 2
+
+32-pounder	 32-pounder	 3	 2	 -	 -	 -	 -
+
+24-pounder rifled	 24-pounder	 1	 -	 -	 -	 1	 -
+
+FORT JOHNSON.
+
+8-inch columbiad	 8-inch	 1	 1	 -	 -	 -	 -
+
+32-pounder	 32-pounder	 2	 2 	 -	 -	 -	 -
+
+32-pounder rifled	 32-pounder	 1	 1	 -	 -	 -	 -
+
+BATTERY AT LAWTON'S.
+
+32-pounder	 32-pounder	 4	 4	 -	 -	 -	 -
+
+6-pounder rifled	 6-pounder	 1	 1	 -	 -	 -	 -
+

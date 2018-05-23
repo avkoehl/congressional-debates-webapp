@@ -1,0 +1,121 @@
+
+Guns in vicinity of Charleston not bearing on harbor.
+
+BREACH INLET BATTERY.
+
+Kind of ordnance	 Caliber	 Num	 Bar	 Cas	 Fiel	 Sieg	 Nav
+
+ 	 ber	 bet	 ema	 d	 e	 al
+
+ 	 of	 ter	 te	 carr	 carr	 car
+
+ 	 gun	 car	 car	 iage	 iage	 ria
+
+ 	 s	 ria	 ria	 s	 s	 ges
+
+ 	 	 ges	 ges
+
+8-inch sea-coast	 8-inch	 1	 1	 -	 -	 - 	 -
+
+howitzer
+
+32-pounder	 32-pounder	 2	 2 	 -	 -	 -	 -
+
+24-pounder	 24-pounder	 1	 1	 -	 -	 -	 -
+
+12-pounder	 12-pounder	 3	 -	 -	 -	 3	 -
+
+12-pounder	 12-pounder	 1	 -	 -	 -	 1	 -
+
+rifled
+
+FORT LAMAR, SECESSIONVILLE.
+
+8-inch columbiad	 8-inch	 2	 1	 -	 -	 -	 1
+
+32-pounder	 32-pounder	 6	 3	 3	 -	 -	 -
+
+32-pounder rifled	 32-pounder	 1 	 -	 -	 -	 -	 1
+
+18-pounder	 18-pounder	 1	 -	 -	 -	 1	 -
+
+10-inch mortar	 10-inch	 1 	 -	 -	 -	 -	 -
+
+8-inch mortar	 8-inch	 1 	 -	 -	 -	 -	 -
+
+24-pounder rifled	 24-pounder	 2	 -	 -	 -	 2	 -
+
+EAST LINES, JAMES ISLAND.
+
+8-inch howitzer	 8-inch	 1	 -	 -	 -	 1	 -
+
+32-pounder	 32-pounder	 4	 2	 -	 -	 2	 -
+
+24-pounder	 24-pounder	 14	 4	 -	 -	 10	 -
+
+24-pounder	 24-pounder	 1	 -	 -	 -	 1	 -
+
+rifled
+
+18-pounder	 18-pounder	 2	 -	 -	 -	 2	 -
+
+18-pounder	 18-pounder	 1	 -	 -	 -	 1	 -
+
+rifled
+
+WEST LINES, JAMES ISLAND.
+
+8-inch sea-coast	 8-inch	 1	 -	 -	 -	 1	 -
+
+howitzer
+
+42-pounder	 42-pounder	 2	 -	 -	 -	 2	 -
+
+32-pounder	 32-pounder	 4	 1	 -	 -	 3	 -
+
+24-pounder	 24-pounder	 4	 -	 -	 -	 4	 -
+
+12-pounder	 12-pounder	 3	 - 	 -	 -	 3	 -
+
+12-pounder rifled	 12-pounder	 2	 -	 -	 -	 2	 -
+
+FORT PEMBERTON.
+
+10-inch columbiad	 10-inch	 2	 2	 -	 -	 -	 -
+
+8-inch columbiad	 8-inch	 2	 2	 -	 -	 -	 -
+
+42-pounder	 42-pounder	 2	 2	 -	 -	 -	 -
+
+32-pounder	 32-pounder	 4	 4	 -	 - 	 -	 -
+
+32-pounder rifled	 32-pounder	 2	 2	 -	 -	 -	 -
+
+24-pounder rifled	 24-pounder	 4	 -	 -	 -	 4	 -
+
+18-pounder	 18-pounder	 2	 -	 -	 -	 2	 -
+
+12-pounder 	 12-pounder	 1	 -	 -	 -	 1	 -
+
+12-pounder rifled	 12-pounder	 1	 -	 -	 -	 1	 -
+
+32-pounder	 32-pounder	 1	 -	 -	 -	 1	 -
+
+howitzer
+
+ADJUTANT AND INSPECTOR GENERAL'S OFFICE,
+
+Richmond, Va., September 23, 1862.
+
+Major General J. C. PEMBERTON,
+
+Charleston, S. C.:
+
+Suspend the march of Aiken's battalion Partisan Rangers from Columbia and order them to the coast.
+
+By order of the Secretary of War:
+
+S. COOPER,
+
+Adjutant and Inspector General
+

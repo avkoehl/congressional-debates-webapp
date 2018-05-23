@@ -1,0 +1,181 @@
+
+[Inclosure A.]
+
+Armament of positions and estimate of force necessary for defense of James Island.
+
+Present armament.
+
+Position.	 Guns.	 Mortars.	 Armament
+
+Fort Johnson.	 5	 1	 6
+
+Battery Glover.	 5	 ...	 5
+
+Battery Means.	 2	 ...	 8-10
+
+Lines (Eastern Division).	 18	 ...	 24-38
+
+Lines (Western Division).	 17	 ...	 30
+
+Secessionville.	 13	 2	 17
+
+Bridge Neck	 ...	 ...	 3
+
+Reed Battery	 2	 ...	 6
+
+Cross-Roads Line* {...	 ...	 20
+
+Fort Pemberton.	 15	 ...	 20-25
+
+Total.	 75	 3	 120
+
+Position.	 Artille-	 Infantry	 Infantry
+
+ ry.	 	 reserve.
+
+Fort Johnson.	 90	 ...	 ...
+
+Battery Glover.	 75	 ...	 ...
+
+Battery Means.	 120	 ...	 ...
+
+Lines (Eastern Division).	 450	 2,200	 1,200
+
+Lines (Western Division).	 450	 2,300	 1,300
+
+Secessionville.	 250	 600	 ...
+
+Bridge Neck	 45	 200	 ...
+
+Reed Battery	 90	 200	 ...
+
+Cross-Roads Line* {300	 1,600	 ...
+
+Fort Pemberton.	 300	 ...	 ...
+
+Total.	 1,735	 5,100	 2,500
+
+---------------
+
+*This, being an advanced line, is not included in the total.
+
+---------------
+
+SUMMARY.
+
+Artillery force, heavy and light, including
+
+eight light batteries................................. 1,700
+
+Infantry force........................................ 5,100
+
+Infantry reserve, movable............................. 2,500
+
+-----
+
+Total................................................. 9,300
+
+[Inclosure B.]
+
+Armament of positions and estimate of force necessary for defense of Saint Andrew's Parish.
+
+Armament.
+
+Position.	 Pre-	 Inten-	 Arti-	 Infan-
+
+ sent.	 ded.	 llery.	 try.
+
+Haig's.	 2	 2	 30	 ...
+
+John's Island Ferry.	 6	 6	 80	 ....
+
+O'Hear's.	 ...	 4	 60	 ...
+
+Bulow's.	 ...	 4	 60	 600
+
+Wilkes', two regiments.	 ...	 12	 180	 600
+
+Point of Pines.	 ...	 4	 60	 1,200
+
+Magwood's barn.	 ...	 5	 75	 2,500
+
+Gaillard's.	 ...	 5	 75	 1,200
+
+Banks.	 ...	 7	 100	 50
+
+Cross-Roads redoubt.	 ...	 14	 210	 240
+
+Church Creek.	 ...	 6	 90	 600
+
+Tete-de-pont.	 ...	 8	 120	 300
+
+Total.	 8	 77	 1,140	 7,390
+
+Position.	 Infantry	 Remarks.
+
+ for
+
+ intervals
+
+ and
+
+ reserve.
+
+Haig's.	 ...	 Interior detached
+
+ 	 work.
+
+John's Island Ferry.	 ...	 Advanced works to be
+
+ 	 abandoned and forces
+
+ 	 withdrawn if
+
+ 	 necessary.
+
+O'Hear's.	 ...
+
+Bulow's.	 ...	 Main line of defense
+
+ 	 from Stone to
+
+ 	 advanced and
+
+ 	 detached works.
+
+Wilkes', two regiments.	 ...
+
+Point of Pines.	 ...
+
+Magwood's barn.	 ...
+
+Gaillard's.	 ...
+
+Banks.	 ...	 Ashley River.
+
+Cross-Roads redoubt.	 ...	 New bridge.
+
+Church Creek.	 ...
+
+Tete-de-pont.	 ...
+
+Total.	 *2,500
+
+---------------
+
+*Reserve movable from James Island.
+
+---------------
+
+SUMMARY.
+
+Artillery force, heavy and light, six light batteries....... 900
+
+Infantry force.............................................. 6,100
+
+Cavalry force............................................... 1,000
+
+-----
+
+Total....................................................... 8,000
+

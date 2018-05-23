@@ -1,0 +1,309 @@
+
+Numbers 136. Field return of the Confederate forces that marched from Corinth to the Tennessee River, April 3, 1862.
+
+PRESENT.
+
+For duty. Sick.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps*.	 561	 8,440	 48	 1,343
+
+Second Corps.	 1,000	 14,590	 141	 3,569
+
+Third Corps.	 339	 4,108	 41	 811
+
+Reserve Corps.	 479	 6,132	 64	 1,000
+
+Total infantry.	 2,379	 33,270	 294	 6,723
+
+ARTILLERY.
+
+First Corps.	 20	 331
+
+--------
+
+34
+
+Second Corps.	 28	 661	 1	 109
+
+Third Corps.	 16	 284	 1	 28
+
+Reserve Corps.	 19	 581	 2	 39
+
+Total artillery.	 83	 1,857	 4	 210
+
+Cavalry.	 125	 1,884	 13	 712
+
+Grand total.	 2,587	 37,011	 311	 7,645
+
+CONTINUATION:
+
+PRESENT.
+
+Extra duty. In arrest.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps*.	 18	 548	 5	 36
+
+Second Corps.	 23	 624	 3	 42
+
+Third Corps.	 8	 439	 5	 4
+
+Reserve Corps.	 11	 151	 2	 7
+
+Total infantry.	 60	 1,762	 15	 89
+
+ARTILLERY.
+
+First Corps.
+
+--------
+
+10
+
+--------
+
+5
+
+Second Corps.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Third Corps.	 2	 23
+
+--------
+
+3
+
+Reserve Corps.	 1	 18
+
+--------
+
+5
+
+Total artillery.	 3	 51
+
+--------
+
+13
+
+Cavalry.	 8	 187	 1	 2
+
+Grand total.	 71	 2,000	 16	 104
+
+CONTINUATION:
+
+PRESENT.
+
+Command.	 Effective total.	 Total.	 Aggregate.
+
+INFANTRY.
+
+First Corps*.	 9,024	 10,367	 10,999
+
+Second Corps.	 14,868	 18,435	 19,564
+
+Third Corps.	 4,545	 5,365	 5,750
+
+Reserve Corps.	 6,290	 7,290	 7,846
+
+Total infantry.	 34,727	 41,457	 44,159
+
+ARTILLERY.
+
+First Corps.	 398	 432	 452
+
+Second Corps.	 661	 770	 779
+
+Third Corps.	 310	 338	 457
+
+Reserve Corps.	 604	 643	 665
+
+Total artillery.	 1,973	 2,183	 2,353
+
+Cavalry.	 2,073	 2,785	 2,932
+
+Grand total.	 38,773	 46,425	 49,444
+
+CONTINUATION:
+
+ABSENT.
+
+Detached duty. With leave.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps*.	 26	 152	 73	 922
+
+Second Corps.	 48	 432	 111	 2,288
+
+Third Corps.	 13	 159	 22	 281
+
+Reserve Corps.	 10	 137	 60	 653
+
+Total infantry.	 97	 880	 276	 4,144
+
+ARTILLERY.
+
+First Corps.
+
+--------
+
+3	 2	 37
+
+Second Corps.
+
+--------
+
+--------
+
+4	 99
+
+Third Corps.	 1	 1
+
+--------
+
+1
+
+Reserve Corps.	 1	 7
+
+--------
+
+10
+
+Total artillery.	 2	 11	 6	 147
+
+Cavalry.	 14	 359	 1	 57
+
+Grand total.	 113	 1,250	 283	 4,348
+
+CONTINUATION:
+
+ABSENT.
+
+Without leave. Sick.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps*.	 30	 408	 9	 60
+
+Second Corps.	 9	 481	 3	 85
+
+Third Corps.	 1	 255	 45	 942
+
+Reserve Corps.	 5	 153	 71	 887
+
+Total infantry.	 45	 1,297	 128	 1,974
+
+ARTILLERY.
+
+First Corps.	 1	 5
+
+--------
+
+-------
+
+Second Corps.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Third Corps.
+
+--------
+
+5	 1	 37
+
+Reserve Corps.
+
+--------
+
+11	 3	 81
+
+Total artillery.	 1	 21	 4	 118
+
+Cavalry.
+
+--------
+
+16	 19	 466
+
+Grand total.	 46	 1,334	 151	 2,558
+
+CONTINUATION:
+
+PRESENT AND ABSENT.
+
+Command.	 Total.	 Aggregate.
+
+INFANTRY.
+
+First Corps*.	 11,909	 12,679
+
+Second Corps.	 22,071	 23,371
+
+Third Corps.	 6,988	 7,462
+
+Reserve Corps.	 9,120	 9,822
+
+Total infantry.	 50,088	 53,334
+
+ARTILLERY.
+
+First Corps.	 480	 501
+
+Second Corps.	 869	 902
+
+Third Corps.	 380	 405
+
+Reserve Corps.	 752	 778
+
+Total artillery.	 2,481	 2,586
+
+Cavalry.	 3,683	 3,854
+
+Grand total.	 57,252	 59,774
+
+---------------
+
+*Colonel Hill's regiment (Tennessee) came upon the [field] during the engagement on Monday.
+
+---------------
+
+Respectfully submitted and forwarded.
+
+[JUNE 30, 1862.]
+
+BRAXTON BRAGG,
+
+General, Commanding.
+

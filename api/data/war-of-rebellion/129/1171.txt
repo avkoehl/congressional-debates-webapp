@@ -1,0 +1,355 @@
+
+SCHEDULE A.
+
+ Articles.	 Quality. 	 Descripti	 Quantity.	 Price.
+
+ 	 	 on.
+
+1 	 Wheat. 	 Prime. 	 White or	 Per	 $25.
+
+ 	 	 red. 	 bushel of	 00
+
+ 	 	 	 60 lbs.
+
+2 	 Flour. 	 Fine. 	 . . . 	 Per bbl	 123.
+
+ 	 	 	 of 196	 00
+
+ 	 	 	 lbs.
+
+2	 . . . 	 Superfine	 . . . 	 . . . 	 125.
+
+ Do. . . 	 . 	 	 Do. . . 	 00
+
+2	 . . . 	 Extra	 . . . 	 . . . 	 126.
+
+ Do. . . 	 superfine	 	 Do. . . 	 00
+
+ 	 .
+
+2	 . . . 	 Family. 	 . . . 	 . . . 	 128.
+
+ Do. . . 	 	 	 Do. . . 	 00
+
+3	 Corn. 	 Prime. 	 White or	 Per	 20.
+
+ 	 	 yellow. 	 bushel of	 00
+
+ 	 	 	 56 libs.
+
+4	 Corn-	 Good. 	 . . . 	 Per	 21.
+
+ meal. 	 	 	 bushel of	 00
+
+ 	 	 	 50 lbs.
+
+5	 Rye. 	 Prime. 	 . . . 	 Per	 20.
+
+ 	 	 	 bushel of	 00
+
+ 	 	 	 56 lbs.
+
+6	 Cleaned	 . . . 	 . . . 	 Per	 15.
+
+ oats. 	 Do. . . 	 	 bushel of	 00
+
+ 	 	 	 32 lbs.
+
+7	 Wheat	 Good. 	 . . . 	 Per	 3.
+
+ bran. 	 	 	 bushel of	 00
+
+ 	 	 	 17 lbs.
+
+8	 Shorts. 	 . . . 	 . . . 	 Per	 4.
+
+ 	 Do. . . 	 	 bushel of	 00
+
+ 	 	 	 22 lbs.
+
+9	 Brown	 . . . 	 . . . 	 Per	 5.
+
+ stuff. 	 Do. . . 	 	 bushel of	 00
+
+ 	 	 	 28 lbs.
+
+10	 Ship	 . . . 	 . . . 	 Per	 8.
+
+ stuff. 	 Do. . . 	 	 bushel of	 00
+
+ 	 	 	 37 lbs.
+
+11	 Bacon. 	 . . . 	 Hog	 Per	 4.
+
+ 	 Do. . . 	 round. 	 pound. 	 00
+
+12	 Pork,	 . . . 	 . . . 	 . . . 	 3.
+
+ salt. 	 Do. . . 	 	 Do. . . 	 25
+
+13	 Pork,	 Fat and	 Hog	 Per lb.,	 2.
+
+ fresh. 	 good. 	 round. 	 net	 75
+
+ 	 	 	 weight.
+
+14	 Lard. 	 Good. 	 . . . 	 . . . 	 4.
+
+ 	 	 	 Do. . . 	 00
+
+15	 Horses	 First	 Artillery	 Average	 1,200.
+
+ and	 class., &amp;c. 	 price per	 00
+
+ mules. 	 	 	 head.
+
+16	 Wool. 	 Fair or	 Washed. 	 Per	 10.
+
+ 	 merino. 	 	 pound. 	 00
+
+17	 . . . 	 . . . 	 Unwashed.	 . . . 	 8.
+
+ Do. . . 	 Do. . . 	 	 Do. . . 	 00
+
+18	 Peas. 	 Good. 	 . . . 	 Per	 30.
+
+ 	 	 	 bushel. 	 00
+
+19	 Beans. 	 . . . 	 . . . 	 . . . 	 30.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+20	 Potatoes.	 . . . 	 Irish. 	 . . . 	 20.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+21	 . . . 	 . . . 	 Sweet. 	 . . . 	 20.
+
+ Do. . . 	 Do. . . 	 	 Do. . . 	 00
+
+22	 Onions. 	 . . . 	 . . . 	 . . . 	 50.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+23	 Dried	 . . . 	 Peeled. 	 . . . 	 20.
+
+ peaches. 	 Do. . . 	 	 Do. . . 	 00
+
+24	 . . . 	 . . . 	 Unpeeled.	 . . . 	 15.
+
+ Do. . . 	 Do. . . 	 	 Do. . . 	 00
+
+25	 Dried	 . . . 	 Peeled. 	 . . . 	 15.
+
+ apples. 	 Do. . . 	 	 Do. . . 	 00
+
+26	 Hay,	 . . . 	 Timothy	 Per 100	 7.
+
+ baled. 	 Do. . . 	 or	 pounds. 	 00
+
+ 	 	 clover.
+
+27	 . . . 	 . . . 	 Orchard	 . . . 	 7.
+
+ Do. . . 	 Do. . . 	 or herd	 Do. . . 	 00
+
+ 	 	 grass.
+
+28	 Hay,	 . . . 	 . . . 	 . . . 	 6.
+
+ unbaled. 	 Do. . . 	 Do. . . 	 Do. . . 	 00
+
+29	 Sheaf	 . . . 	 . . . 	 . . . 	 11.
+
+ oats,	 Do. . . 	 	 Do. . . 	 00
+
+ baled.
+
+30	 Sheaf	 . . . 	 . . . 	 . . . 	 10.
+
+ oats,	 Do. . . 	 	 Do. . . 	 00
+
+ unbaled.
+
+31	 Blade	 . . . 	 . . . 	 . . . 	 7.
+
+ fodder,	 Do. . . 	 	 Do. . . 	 00
+
+ baled.
+
+32	 Blade	 . . . 	 . . . 	 . . . 	 6.
+
+ fodder,	 Do. . . 	 	 Do. . . 	 00
+
+ unbaled.
+
+33	 Shucks,	 . . . 	 . . . 	 . . . 	 5.
+
+ baled. 	 Do. . . 	 	 Do. . . 	 00
+
+34	 Shucks,	 . . . 	 . . . 	 . . . 	 4.
+
+ unbaled. 	 Do. . . 	 	 Do. . . 	 00
+
+35	 Wheat	 . . . 	 . . . 	 . . . 	 3.
+
+ straw,	 Do. . . 	 	 Do. . . 	 00
+
+ baled.
+
+36	 Pasturage	 . . . 	 . . . 	 . . . 	 2.
+
+ . 	 Do. . . 	 	 Do. . . 	 00
+
+37	 . . . 	 . . . 	 Interior.	 Per head	 5.
+
+ Do. . . 	 Do. . . 	 	 per	 00
+
+ 	 	 	 month.
+
+38	 . . . 	 Superior.	 . . . 	 . . . 	 6.
+
+ Do. . . 	 	 Do. . . 	 Do. . . 	 00
+
+39	 . . . 	 First	 . . . 	 . . . 	 7.
+
+ Do. . . 	 rate. 	 Do. . . 	 Do. . . 	 00
+
+40	 . . . 	 Good. 	 Near	 . . . 	 8.
+
+ Do. . . 	 	 cities. 	 Do. . . 	 00
+
+41	 . . . 	 Superior.	 . . . 	 . . . 	 9.
+
+ Do. . . 	 	 Do. . . 	 Do. . . 	 00
+
+42	 . . . 	 First	 . . . 	 . . . 	 10.
+
+ Do. . . 	 rate. 	 Do. . . 	 Do. . . 	 00
+
+43	 Salt. 	 Good. 	 . . . 	 Per	 10.
+
+ 	 	 	 bushel of	 00
+
+ 	 	 	 50 lbs.
+
+44	 Soap. 	 . . . 	 . . . 	 Per	 3.
+
+ 	 Do. . . 	 	 pound. 	 00
+
+45	 Candles. 	 . . . 	 Tallow. 	 . . . 	 7.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+46	 Vinegar. 	 . . . 	 Cider. 	 Per	 5.
+
+ 	 Do. . . 	 	 gallon. 	 00
+
+47	 Whisky. 	 . . . 	 Trade. 	 . . . 	 25.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+48	 Sugar. 	 . . . 	 Brown. 	 Per	 5.
+
+ 	 Do. . . 	 	 pound. 	 00
+
+49	 Molasses.	 . . . 	 New	 Per	 15.
+
+ 	 Do. . . 	 Orleans. 	 gallon. 	 00
+
+50	 Rice. 	 . . . 	 . . . 	 Per	 1.
+
+ 	 Do. . . 	 	 pound. 	 00
+
+51	 Coffee. 	 . . . 	 Rio. 	 . . . 	 10.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+52	 Tea. 	 . . . 	 Trade. 	 . . . 	 15.
+
+ 	 Do. . . 	 	 Do. . . 	 00
+
+53	 Vinegar. 	 . . . 	 Manufactu	 Per	 2.
+
+ 	 Do. . . 	 red. 	 gallon. 	 00
+
+54	 Pig-iron.	 . . . 	 No 1	 Per ton. 	 400.
+
+ 	 Do. . . 	 quality. 	 	 00
+
+55	 . . . 	 . . . 	 No. 2	 . . . 	 364.
+
+ Do. . . 	 Do. . . 	 quality. 	 Do. . . 	 00
+
+56	 . . . 	 . . . 	 No. 3	 . . . 	 328.
+
+ Do. . . 	 Do. . . 	 quality. 	 Do. . . 	 00
+
+57	 Bloom	 . . . 	 . . . 	 . . . 	 760.
+
+ iron. 	 Do. . . 	 	 Do. . . 	 00
+
+58	 Smith's	 . . . 	 Round	 . . . 	 1,100.
+
+ iron. 	 Do. . . 	 plate and	 Do. . . 	 00
+
+ 	 	 bar.
+
+59	 Railroad	 Serviceab	 . . . 	 . . . 	 450.
+
+ iron. 	 le. 	 	 Do. . . 	 00
+
+60	 Leather. 	 Good. 	 Harness. 	 Per	 8.
+
+ 	 	 	 pound. 	 00
+
+61	 . . . 	 . . . 	 Sole. 	 . . . 	 7.
+
+ Do. . . 	 Do. . . 	 	 Do. . . 	 00
+
+62	 . . . 	 . . . 	 Upper. 	 . . . 	 9.
+
+ Do. . . 	 Do. . . 	 	 Do. . . 	 00
+
+63	 Beef-	 . . . 	 Gross	 Per 100	 50.
+
+ cattle. 	 Do. . . 	 weight. 	 pounds. 	 00
+
+64	 . . . 	 Superior.	 . . . 	 . . . 	 60.
+
+ Do. . . 	 	 Do. . . 	 Do. . . 	 00
+
+65	 . . . 	 First	 . . . 	 . . . 	 70.
+
+ Do. . . 	 rate. 	 Do. . . 	 Do. . . 	 00
+
+66	 Salt	 Good. 	 . . . 	 Net per	 2.
+
+ beef. 	 	 	 pound. 	 00
+
+67	 Sheep. 	 Fair. 	 . . . 	 Per 100	 70.
+
+ 	 	 	 pounds. 	 00
+
+68	 Army	 Good. 	 10 ounces	 Per yard.	 15.
+
+ woolen	 	 per yard.	 	 00
+
+ cloth, 3-
+
+ 4 yard.
+
+69	 . . . 	 . . . 	 . . . 	 . . . 	 (a)
+
+ Do. . . 	 Do. . .
+
+70	 Army	 . . . 	 20 ounces	 Per yard.	 30.
+
+ woolen,	 Do. . . 	 per yard.	 	 00
+
+ cloth, 6-
+
+ 4
+
+a Pro rata as to greater or less width or weight.
+

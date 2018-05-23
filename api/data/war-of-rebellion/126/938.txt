@@ -1,0 +1,269 @@
+
+Sidings.
+
+Location.	 Feet.
+
+Eaton Depot	 1,000
+
+Nashville Junction	 8,025
+
+Brentwood	 300
+
+Franklin	 290
+
+Columbia	 1,150
+
+Prospect	 600
+
+Athens	 1,480
+
+Decatur Junction	 1,170
+
+ 14,015
+
+Add main track rebuilt	 163,680
+
+Total	 177,695
+
+Or 34 miles 815 feet.
+
+Bridges.
+
+No.	 Location.	 Height.	 Length.
+
+ 	 Feet.	 Feet.
+
+1	 Brown's Creek
+
+ 	 12	 38
+
+2	 Little Harpeth	 14	 74
+
+3	 Spencer's Creek	 17	 38
+
+4	 Big Harpeth	 38	 187
+
+5	 West Harpeth	 13	 58
+
+6	 Near Spring Hill	 12	 53
+
+7	 Spring Creek	 15	 21
+
+8	 Carter's Creek, No. 1.	 18	 112
+
+9	 Carter's Creek, No. 2.	 21	 184
+
+10 	 Carter's Creek, No. 3.	 20	 94
+
+11	 Carter's Creek, No. 4.	 20	 94
+
+12	 Carter's Creek, No. 5.	 30	 235
+
+13	 Rutherford's Creek, No. 1.	 26	 130
+
+14	 Rutherford's Creek, No. 2.	 27	 265
+
+15	 Rutherford's Creek, No. 3.	 30	 295
+
+16	 Rutherford's Creek, No. 4.	 50	 270
+
+17	 Duck River	 72	 627
+
+18	 Lytle's Creek	 14	 22
+
+19	 Hurricane Creek	 14	 22
+
+20	 Harris Trestle	 29	 232
+
+21	 Kalioka Trestle	 37	 1,130
+
+22	 Grace's Trestle	 42	 637
+
+23	 Robinson's Forks	 18	 126
+
+24	 Richland Creek, No. 1	 32	 160
+
+25	 Richland Creek, No. 2	 37	 180
+
+26	 Richland Creek, No. 3	 35	 180
+
+27	 Pigeon Roost Creek	 12	 50
+
+28	 Richland Creek, No. 4	 41	 315
+
+29	 Tunnel Trestle	 38	 822
+
+30	 Elk River	 40 	 625
+
+31
+
+-----------
+
+10	 48
+
+32	 Mill Creek	 30	 330
+
+33	 White Sulphur	 71	 570
+
+34	 Mud Creek	 5	 62
+
+35	 ....do....	 9	 102
+
+36	 Athens Creek	 10	 134
+
+37	 ....do....	 11	 64
+
+38	 Swan Creek	 11	 340
+
+39	 ....do....	 11	 129
+
+40 	 Black Creek	 6	 225
+
+41	 Junction Trestle	 16	 275
+
+ Total	 ----	 9,555
+
+No.	 Remarks.	 Rebuilt.
+
+ 	 Feet.
+
+1	 Not destroyed
+
+ 	 ---
+
+2
+
+-------------
+
+---
+
+3
+
+-------------
+
+---
+
+4	 Rebuilt twice and partly rebuilt twice	 454
+
+5
+
+-------------
+
+---
+
+6
+
+-------------
+
+---
+
+7
+
+-------------
+
+---
+
+8	 Rebuilt twice and partly rebuilt twice	 286
+
+9	 ....do....	 470
+
+10 	 ....do....	 235
+
+11	 Rebuilt twice and partly rebuilt once	 228
+
+12	 Rebuilt twice and partly rebuilt twice	 587
+
+13	 Rebuilt three times and partly rebuilt	 455
+
+ twice.
+
+14	 Rebuilt twice and partly rebuilt three	 723
+
+ times.
+
+15	 ....do....	 811
+
+16	 Rebuilt twice and partly rebuilt twice	 676
+
+17	 Rebuilt twice	 1,254
+
+18
+
+--------------
+
+---
+
+19
+
+--------------
+
+---
+
+20
+
+--------------
+
+---
+
+21	 Rebuilt	 1,130
+
+22	 ....do....	 637
+
+23	 ....do....	 126
+
+24	 Rebuilt twice	 320
+
+25	 ....do....	 360
+
+26	 ....do....	 360
+
+27	 Rebuilt	 50
+
+28	 Rebuilt twice	 630
+
+29	 Rebuilt	 822
+
+30	 Rebuilt three times	 1,875
+
+31
+
+--------------
+
+---
+
+32	 Rebuilt	 330
+
+33	 ....do....	 570
+
+34	 ....do....	 62
+
+35	 ....do....	 102
+
+36	 ....do....	 134
+
+37	 ....do....	 64
+
+38	 ....do....	 340
+
+39	 ....do....	 129
+
+40 	 ....do....	 225
+
+41	 ....do....	 275
+
+ 	 14,720
+
+Feet.
+
+Total bridging................................. 9,555
+
+Amount rebuilt.................................14,720
+
+------
+
+Total built by Government.....................24,475
+
+Or 4 miles 3,155 feet.
+
+A portion of this bridging was built by contract, the cost of which amounted to $637,768.46.
+

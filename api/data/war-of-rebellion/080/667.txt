@@ -1,0 +1,27 @@
+
+one made as an experiment. The first car broke under the shock, a second, prepared by the engineers in charge of the military railroad, answered its purpose admirably; it consisted of an ordinary truck car, strengthened by additional beams tied strongly by iron rods, and covered by iron plating. Fired with fourteen pounds powder the mortar recoiled upon the car less than two feet, and upon the track some ten or twelve feet. It was a decided success. On one occasion three different observed reported that a shell burst under a gun, and blew it and its carriage entirely above the parapet. Certain it is, that the mortar was much dreaded by the enemy. During the campaign it has been necessary to conduct certain experiments to facilitate the fire of the batteries. Among them was the deducing of a table of ranges for the 8-inch siege mortar, which differs materially from the old model in this respect, owing to the substitution of the elliptical for the gomer chamber. Its ranges were determined with care, and the following table exhibits the result:
+
+Ranges of 8-inch siege mortar (model 1861).a
+
+Projectile.	 Charge.	 Elevation	 Range.	 Time.
+
+ Lbs. Oz.	 Degrees.	 Yards.	 Seconds.
+
+Shell...........	 8	 45	 360	 8
+
+Do..............	 12	 45	 703	 12.5
+
+Do..............	 1 0	 45	 1,082	 15
+
+Do..............	 1 4	 45	 1,412	 17
+
+Do..............	 1 8	 45	 1,741	 18.5
+
+Do..............	 1 12	 45	 1,985	 20
+
+Do..............	 2 0	 45	 2,225	 21
+
+a Ranges obtained from experiments conducted near Petersburg by the First Connecticut Artillery in September, 1864.
+
+Another experiment was to test a new shell invented by Mr. Pevey. It consists of two concentric shells thinner than usual and connected firmly by studs; the open space between is filled with small iron balls or incendiary composition. Shells for trial, both 10-inch and 8-inch were ordered by General Butler, and the result indicated by bursting them over water and over a duty plain was highly satisfactory. In my judgment they will break into more than double the number of fragments of the ordinary shell, and consequently have fully double the effect. They bore the shock without injury, although one 10-inch shell was thrown from a sea-coast mortar with a charge of about seven pounds of powder. Another experiment was to test the light balls furnished for our 8-inch mortars. It was found that on ground of ordinary hardness no larger charge than six ounces of powder, giving a range of only 255 yards, could be used without causing the ball to break into fragments from the force of its fall. This range is entirely too short for our purposes. Possibly, by using an elevation less than 45 degrees, the range might be lengthened, but in my opinion the balls are not made of sufficient strength to be practically useful. The subject of mantles, to protect the gunners, has received considerable attention. Those furnished by the Engineer Department are made of rope, five feet by four and a half feet and about six inches thick, weighing nearly feet by four and a half feet and about six inches thick, weighing nearly 600 pounds each. They are excellent for protection, but their great weight makes them difficult to handle. In my judgment, it might be safely reduced by lessening their thickness. The penetration in them of an elongated bullet from a Springfield rifle musket at twenty paces is less than three inches. I had also an opportunity to see the effect of
+

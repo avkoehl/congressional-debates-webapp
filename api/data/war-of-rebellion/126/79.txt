@@ -1,0 +1,365 @@
+
+[Table 2.]
+
+U. S. MILITARY RAILROADS.
+
+Number of persons employed each month during fiscal year ending June 30, 1865.
+
+Month.	 Chief engineer and	 Superintendents.	 Engineers.
+
+general
+
+superintendent.
+
+July	 1	 3	 3
+
+August	 1	 3	 3
+
+September	 1	 4	 3
+
+October	 1	 4	 4
+
+November	 1	 4	 3
+
+December	 1	 4	 3
+
+January	 1	 4	 3
+
+February	 1	 4	 3
+
+March	 1	 6	 4
+
+April	 1	 5	 4
+
+May	 1	 4	 4
+
+June	 1	 4	 3
+
+Total	 12	 49	 40
+
+Month.	 Fuel	 Clerks.	 Printers	 Agents,	 Draughtsm
+
+agents.	 	 	 &amp;c.	 en.
+
+July	 1	 22	 1 	 15	 1
+
+August	 1	 17	 1	 9	 1
+
+September	 1	 17	 1	 11	 1
+
+October	 1	 17	 1	 12	 2
+
+November	 1	 16	 1	 16	 2
+
+December	 1	 19	 1	 19	 1
+
+January	 1	 20	 1	 19	 1
+
+February	 1	 20	 2	 18	 1
+
+March	 1	 20	 2	 21	 2
+
+April	 1	 23	 2	 22	 2
+
+May	 ---	 22	 2	 22	 1
+
+June	 ---	 19	 1	 24	 1
+
+Total	 10	 232	 16	 208	 16
+
+Month.	 Supervisors	 Store-	 Timber	 Conduct	 Brakemen
+
+keepers.	 inspect	 ors.
+
+ors.
+
+July	 4	 1	 1	 60	 121
+
+August	 10	 2	 1	 29	 63
+
+September	 11	 2	 1	 33	 78
+
+October	 10	 2 	 1	 39	 125
+
+November	 14	 2	 2	 55	 149
+
+December	 10	 2	 2	 56	 149
+
+January	 11	 2	 2	 60	 166
+
+February	 11	 2	 2	 53	 151
+
+March	 13	 2	 2 	 55 	 151
+
+April	 15	 1	 2	 75	 209
+
+May	 14	 1	 2	 43	 129
+
+June	 13	 1	 2	 39	 113
+
+Total	 136	 20	 20	 597	 1,604
+
+Month.	 Enginemen.	 Firemen.	 Switchmen.	 Wipers.
+
+July	 61	 74	 10	 40
+
+August	 51	 30 	 5	 29
+
+September	 47	 40	 4	 37
+
+October	 70	 64	 6	 60
+
+November	 83	 78	 6	 50
+
+December	 86	 79	 12	 55
+
+January	 77	 78	 16	 62
+
+February	 75	 66	 16	 62
+
+March	 74	 81	 22	 64
+
+April	 89	 89	 31	 66
+
+May	 48	 56	 17	 45
+
+June	 52	 49	 16	 46
+
+Total	 813	 784	 161	 616
+
+Month.	 Commissaries	 Carpenters	 Car	 Machinists.
+
+department.
+
+July	 76	 569	 92	 101
+
+August	 64	 572	 74	 83
+
+September	 82	 728	 77	 82
+
+October	 92	 725	 70	 99
+
+November	 89	 978	 99	 76
+
+December	 103	 986	 98	 95
+
+January	 117	 761	 100	 102
+
+February	 117	 813	 113	 101
+
+March	 128	 972	 138 	 116
+
+April	 145	 990	 135	 136
+
+May	 109	 913	 71	 79
+
+June	 111	 433	 75	 73
+
+Total	 1,233	 9,450	 1,142	 1,143
+
+Month.	 Blacksmiths.	 Stationary	 Pattern	 Copper and
+
+engineers.	 makers.	 tin smiths.
+
+July	 69	 11	 5	 18
+
+August	 48	 13	 5	 11
+
+September	 54	 14	 5	 12
+
+October	 58	 16	 5	 13
+
+November	 58	 41	 5	 16
+
+December	 66	 15	 5	 16
+
+January	 73	 17	 5	 16
+
+February	 72	 20	 5	 18
+
+March	 80	 22	 5	 18
+
+April	 81	 22	 5	 20
+
+May	 32	 12	 2	 9
+
+June	 32	 7	 2	 10
+
+Total	 723	 210	 54 	 177
+
+Month.	 Messenge	 Teamsters	 Pile	 Painters	 Laborers.
+
+rs.	 	 drivers.
+
+July	 12	 3 	 9 	 13	 1,069
+
+August	 8	 3	 9	 12	 914
+
+September	 15	 3	 21	 10	 932
+
+October	 16	 3	 20	 10	 884
+
+November	 11	 3	 22	 9	 1,480
+
+December	 13	 3	 19	 9	 1,260
+
+January	 15	 3	 19	 8	 1,345
+
+February	 16	 4	 11	 10	 1,490
+
+March	 17	 3	 12	 7	 1,841
+
+April	 18	 3	 11	 7	 2,278
+
+May	 23	 1	 10	 7	 1,954
+
+June	 14	 2	 10	 7	 781
+
+Total	 178	 34	 173	 109	 16,228
+
+Month.	 Watchmen.	 Photograph	 Boiler	 Total.
+
+department.	 makers.
+
+July	 36	 ---	 10	 2,512
+
+August	 25	 ---	 6	 2,103
+
+September	 30	 ---	 12	 2,369
+
+October	 27	 1	 11	 2,479
+
+November	 28	 ---	 14	 3,412
+
+December	 37	 3	 13	 3,241
+
+January	 33	 3	 11	 3,152
+
+February	 33	 3	 13	 3,327
+
+March	 33	 2	 11	 3,926
+
+April	 40	 2	 12	 4,542
+
+May	 25	 4	 12	 3,674
+
+June	 29	 3	 10	 1,983
+
+Total	 376	 21	 135	 36,720
+
+[Table 3.]
+
+U. S. MILITARY RAILROADS.
+
+Distribution of labor and material during fiscal year ending June.
+
+Accoun	 Freight	 Labor.	 Material.	 Total.
+
+t.	 and
+
+cartage.
+
+Alexan	 ----	 $685,099.30	 $474,350.74	 $1,159.450.04
+
+dria
+
+railro
+
+ads
+
+City	 ----	 648,371.90	 400,053.94	 1,048,425.84
+
+Point
+
+railro
+
+ads
+
+Winche	 ----	 305,586.69 	 129,606.75	 435,193.44
+
+ster
+
+and
+
+Potoma
+
+c
+
+Railro
+
+ad
+
+Norfol	 ----	 39,353.91	 25,548.82	 64,904.73
+
+k
+
+railra
+
+ods
+
+Virgin	 $12,523.89	 79,653.67 	 17,675.83	 109,853.39
+
+ia
+
+railro
+
+ads
+
+North	 ---	 2,631.33	 331,278.01	 333,909.34
+
+Caroli
+
+na
+
+railro
+
+ads
+
+Savann	 ---	 139.38	 9,208.54	 9,347.92
+
+ah
+
+railra
+
+ods
+
+Baltim	 ---	 ----	 1,300.00	 1,300.00
+
+ore
+
+and
+
+Ohio
+
+Railro
+
+ad
+
+Quarte	 ---	 198,035.46	 182,617.46	 380,653.04
+
+rmaste
+
+r's
+
+Depart
+
+ment
+
+Photog	 ---	 3,292.53	 3,271.14	 6,563.67
+
+raph
+
+depart
+
+ment
+
+Telegr	 ---	 306.86	 225.43	 532.29
+
+aph
+
+depart
+
+ment
+
+Total	 12,523.89	 1,962,473.15	 1,575,136.66	 3,550,133.70
+

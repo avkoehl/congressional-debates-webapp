@@ -1,0 +1,427 @@
+
+July. Augu-
+
+Disease	 Origna	 adminis	 Read	 missions	 Original	 admissi
+
+.	 l 	 sions.	 	 .	 	 ons.
+
+ Cases.	 Deaths.	 Cases.	 Deaths.	 Cases. 	 Deaths.
+
+Febris	 .	 1	 1	 1	 1	 1
+
+congest
+
+iva..
+
+Febris	 .	 .	 .	 .	 .	 .
+
+continu
+
+a
+
+communi
+
+s..
+
+Febris	 15	 .	 .	 .	 140	 4
+
+continu
+
+a
+
+simplex
+
+..
+
+Febris	 	 7	 .	 .	 324	 29
+
+intemit	 150
+
+tens
+
+quatidi
+
+ana..
+
+Febris	 139	 .	 .	 .	 .	 .
+
+intermi
+
+ttens
+
+tertian
+
+a..
+
+Febris	 56	 .	 .	 .	 .	 .
+
+intermi
+
+ttens
+
+quartan
+
+a..
+
+Febris	 .	 .	 .	 .	 .	 .
+
+remitte
+
+ns..
+
+Febris	 160	 15	 .	 .	 190	 12
+
+biliosa
+
+..
+
+Febris	 20	 39	 19	 19	 20	 32
+
+typhoid
+
+es..
+
+Febris	 .	 .	 .	 .	 .	 .
+
+typhus.
+
+.
+
+Febris	 .	 .	 .	 .	 .	 .
+
+typhus
+
+icterod
+
+es..
+
+All	 .	 .	 .	 .	 .	 .
+
+other
+
+disease
+
+s of
+
+this
+
+class..
+
+Erysipe	 .	 .	 .	 .	 .	 .
+
+las..
+
+Erysipl	 12	 .	 .	 .	 .	 .
+
+elas
+
+idiopat
+
+hic..
+
+Rubeola	 3	 .	 .	 .	 .	 .
+
+..
+
+Variola	 . 	 1	 1	 1	 .	 .
+
+..
+
+Variolo	 .	 3	 3	 3	 .	 1
+
+ides..
+
+All	 .	 .	 .	 .	 .	 .
+
+other
+
+disease
+
+of this
+
+class..
+
+Colica.	 14	 .	 .	 .	 .	 .
+
+.
+
+Constip	 810	 1	 .	 .	 557	 7
+
+atio..
+
+Dysente	 999	 215	 .	 .	 859	 364
+
+ria
+
+chronic
+
+a..
+
+Diarrhe	 180	 27	 .	 .	 187	 72
+
+a
+
+acuta..
+
+Diarrhe	 2,796	 517	 .	 .	 1,932	 742
+
+a
+
+acuta..
+
+Diarrhe	 349	 330	 .	 .	 470	 230
+
+a
+
+chronic
+
+a..
+
+Dyspeps	 5	 .	 .	 .	 .	 .
+
+ia..
+
+Enterit	 .	 .	 .	 .	 .	 .
+
+is..
+
+Gastrit	 40	 .	 .	 .	 100	 1
+
+is..
+
+Haemate	 .	 .	 .	 .	 .	 .
+
+mesis..
+
+Hepatit	 4	 .	 .	 .	 9	 3
+
+is
+
+acuta..
+
+Hepatit	 .	 .	 .	 .	 .	 .
+
+is
+
+chronic
+
+a..
+
+Icterus	 62	 4	 .	 .	 31	 8
+
+.
+
+st. Total.
+
+Disease	 Read	 missions.
+
+.
+
+ Cases.	 Deaths.	 Cases.	 Deaths.
+
+Febris	 .	 .	 8	 6
+
+congest
+
+iva..
+
+Febris	 .	 .	 126	 10
+
+continu
+
+a
+
+communi
+
+s..
+
+Febris	 .	 .	 155	 4
+
+continu
+
+a
+
+simplex
+
+..
+
+Febris	 .	 .	 1,170	 56
+
+intemit
+
+tens
+
+quatidi
+
+ana..
+
+Febris	 .	 .	 775	 2
+
+intermi
+
+ttens
+
+tertian
+
+a..
+
+Febris	 .	 .	 195	 .
+
+intermi
+
+ttens
+
+quartan
+
+a..
+
+Febris	 .	 .	 468	 28
+
+remitte
+
+ns..
+
+Febris	 .	 .	 350	 27
+
+biliosa
+
+..
+
+Febris	 .	 .	 472	 185
+
+typhoid
+
+es..
+
+Febris	 .	 .	 .	 .
+
+typhus.
+
+.
+
+Febris	 .	 .	 .	 .
+
+typhus
+
+icterod
+
+es..
+
+All	 .	 .	 13	 .
+
+other
+
+disease
+
+s of
+
+this
+
+class..
+
+Erysipe	 1	 1	 36	 4
+
+las..
+
+Erysipl	 1	 1	 13	 1
+
+elas
+
+idiopat
+
+hic..
+
+Rubeola	 .	 .	 68	 7
+
+..
+
+Variola	 .	 .	 57 	 31
+
+..
+
+Variolo	 .	 .	 62	 39
+
+ides..
+
+All	 .	 .	 13	 .
+
+other
+
+disease
+
+of this
+
+class..
+
+Colica.	 .	 .	 102	 .
+
+.
+
+Constip	 .	 .	 1,770	 9
+
+atio..
+
+Dysente	 .	 .	 3,544	 848
+
+ria
+
+chronic
+
+a..
+
+Diarrhe	 50	 50	 1,138	 151
+
+a
+
+acuta..
+
+Diarrhe	 50	 50	 9,775	 2,161
+
+a
+
+acuta..
+
+Diarrhe	 .	 .	 2,315	 1,369
+
+a
+
+chronic
+
+a..
+
+Dyspeps	 100	 50	 62	 .
+
+ia..
+
+ 	 	 100	 50
+
+enterit
+
+is..
+
+Gastrit	 .	 .	 150 	 1
+
+is..
+
+Haemate	 .	 .	 10	 .
+
+mesis..
+
+Hepatit	 .	 .	 33	 4
+
+is
+
+acuta..
+
+Hepatit	 .	 .	 16	 .
+
+is
+
+chronic
+
+a..
+
+Icterus	 .	 .	 123 	 12
+
+.
+

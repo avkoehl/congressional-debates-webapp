@@ -1,0 +1,118 @@
+
+Return of artillery ammunition expended by the batteries of the Army of the Tennessee from May 13 to September 4, 1864.
+
+ Fifteenth	 Sixteenth	 Seventeen	 Total.
+
+ Army	 Army	 th Army
+
+ Corps.	 Corps.	 Corps.
+
+20-pounder
+
+Parrott:
+
+Solid shot.	 712	 ...	 354	 ...
+
+Case-shot.	 756	 ...	 103	 ...
+
+Percussion-shell.	 973	 ...	 2,549	 ...
+
+Fuse-shell.	 2,570	 ...	 1,049	 ...
+
+Canister.	 172	 ...	 1	 ...
+
+Total.	 5,183	 ...	 4,056	 ....
+
+10-pounder
+
+Parrott:
+
+Solid shot.	 252	 ...	 ...	 ...
+
+Case-shot.	 1,474	 ...	 ...	 ...
+
+Percussion-shell.	 1,009	 ...	 ...	 ...
+
+Fuse-shell.	 1,321	 ...	 ...	 ...
+
+Canister.	 115	 ...	 ...	 ....
+
+Total.	 4,171	 ...	 ...	 ...
+
+3-inch Rodman:
+
+Solid shot.	 57	 ...	 10	 ..
+
+Case-shot.	 274	 ...	 2,767	 ...
+
+Percussion-shell.	 137	 ...	 2,062	 ...
+
+Fuse-shell.	 2,321	 ...	 6,154	 ...
+
+Canister.	 7	 ...	 53	 ...
+
+Total.	 2,796	 ...	 11,046	 ...
+
+6-pounder James:
+
+Case-shot.	 40	 ...	 ...	 ...
+
+Percussion-shell.	 21	 ...	 ...	 ...
+
+Fuse-shell.	 30	 ...	 ...	 ...
+
+Total.	 91	 ...	 ...	 ...
+
+12-pounder gun:
+
+Solid shot.	 2,147	 ...	 824	 ...
+
+Case-shot.	 4,764	 ...	 1,017	 ...
+
+Shell.	 2,911	 ...	 291	 ....
+
+Canister.	 223	 ...	 27	 ...
+
+Total.	 10,045	 ...	 2,159	 ...
+
+24-pounder
+
+howitzer:
+
+Solid shot.	 ....	 ...	 ...	 ...
+
+Case-shot.	 ...	 ...	 554	 ...
+
+Shell.	 ...	 ...	 661	 ...
+
+Canister.	 ..	 ...	 15	 ...
+
+Total.	 ...	 ...	 1,230	 ...
+
+12-pounder
+
+howitzer:
+
+Shell.	 841	 ...	 ...	 ...
+
+Case-shot.	 652	 ...	 ...	 ...
+
+Canister.	 ....	 ...	 ...	 ...
+
+Total.	 1,493	 ...	 ...	 ...
+
+Total number of	 23,779	 12,882	 18,491	 55,092
+
+rounds.
+
+T. W. OSBORN,
+
+Major First New York Light Artillery and Chief of Artillery, Dept. and Army of the Tennessee.
+
+Numbers 443.
+
+Report of Captain Chauncey B. Reese, U. S. Corps of Engineers, Chief Engineer.
+HEADQUARTERS DEPARTMENT OF THE TENNESSEE,Near East Point, Ga., September 14, 1864.
+
+SIR: In accordance with your instructions of the 4th instant, I have the honor to submit the following report of engineering operations
+

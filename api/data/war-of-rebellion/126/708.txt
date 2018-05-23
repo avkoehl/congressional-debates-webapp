@@ -1,0 +1,149 @@
+
+H.-Details of contractors to furnish supplies.
+
+State.	 Class.	 Quar	 Com	 Ordn	 Engi	 Navy	 Post-
+
+ 	 term	 mis	 ance	 neer	 Depa	 Offic
+
+ 	 aste	 sar	 Depa	 Depa	 rtme	 e
+
+ 	 r's	 y	 rtme	 rtme	 nt.	 Depar
+
+ 	 Depa	 Dep	 nt.	 nt.	 	 tment
+
+ 	 rtme	 art
+
+ 	 nt.	 men
+
+ 	 	 t.
+
+Virginia.	 18 and 45	 41	 8	 81	 ..	 19	 ..
+
+ 17 and 18	 ..	 ...	 ...	 ...	 ...	 ..
+
+ 45 and 50	 9	 ..	 ...	 ...	 ...	 ..
+
+ Total.	 50	 8	 81	 ...	 19	 ...
+
+North	 18 and 45	 9	 2	 4	 ..	 ...	 4
+
+Carolina.
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...	 ..
+
+ 45 and 50	 ...	 ...	 ..	 ...	 ...	 2
+
+ Total.	 9	 2	 4	 ...	 ...	 6
+
+South	 18 and 45	 20	 4	 10	 ...	 ...	 ..
+
+Carolina.
+
+ 17 and 18	 ...	 ..	 ...	 ...	 ..	 ..
+
+ 45 and 50	 2	 ...	 2	 ...	 ..	 ..
+
+ Total.	 22	 4	 12	 ..	 ...	 ..
+
+Georgia.	 18 and 45	 59	 22	 90	 26	 3	 6
+
+ 17 and 18	 ...	 ...	 3	 ...	 1	 ..
+
+ 45 and 50	 6	 4	 7	 3	 ...	 ...
+
+ Total.	 65	 26	 100	 29	 4	 6
+
+Alabama.	 18 and 45	 16	 1	 5	 ..	 ..	 ..
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...	 ..
+
+ 45 and 50	 1	 ..	 ...	 ..	 ..	 ..
+
+ Total.	 17	 1	 5	 ..	 ..	 ...
+
+East	 18 and 45	 ...	 ..	 ...	 ...	 ...	 ..
+
+Tennessee.
+
+ 17 and 18	 ...	 ...	 ..	 ....	 ...	 ....
+
+ 45 and 50	 ....	 ...	 ...	 ...	 ...	 ...
+
+ Total.	 ...	 ...	 ....	 ...	 ....	 ...
+
+ Grand	 ...	 ...	 ..	 ...	 ...	 ...
+
+ total.
+
+State.	 Class.	 Medica	 Treasu	 Niter	 State	 Total
+
+ 	 l	 ry	 and	 quart
+
+ 	 Depart	 Depart	 Minin	 ermas
+
+ 	 ment.	 ment.	 g	 ter's
+
+ 	 	 	 Burea	 depar
+
+ 	 	 	 u.	 tment
+
+Virginia.	 18 and 45	 4	 1	 67	 ..	 221
+
+ 17 and 18	 ...	 ..	 ...	 ...	 ..
+
+ 45 and 50	 2	 ..	 20	 ..	 31
+
+ Total.	 6	 1	 87	 ...	 252
+
+North	 18 and 45	 ...	 ...	 33	 27	 79
+
+Carolina.
+
+ 17 and 18	 ...	 ..	 ...	 ...	 ..
+
+ 45 and 50	 ...	 ...	 12	 ...	 14
+
+ Total.	 ...	 ...	 45	 27	 93
+
+South	 18 and 45	 ...	 1	 28	 ...	 63
+
+Carolina.
+
+ 17 and 18	 ...	 ...	 ..	 ...	 ...
+
+ 45 and 50	 1	 ...	 5	 ...	 10
+
+ Total.	 1	 1	 33	 ...	 73
+
+Georgia.	 18 and 45	 7	 ...	 2	 ..	 215
+
+ 17 and 18	 ..	 ..	 ...	 ..4
+
+ 45 and 50	 1	 ..	 ..	 ..	 21
+
+ Total.	 8	 ..	 2	 ..	 240
+
+Alabama.	 18 and 45	 2	 ...	 17	 ...	 41
+
+ 17 and 18	 ..	 ..	 ..	 ..	 ..
+
+ 45 and 50	 1	 ..	 1	 ..	 3
+
+ Total.	 3	 ...	 18	 ..	 44
+
+East	 18 and 45	 ..	 ...	 14	 ..	 14
+
+Tennessee.
+
+ 17 and 18	 ..	 ...	 ..	 ..	 ..
+
+ 45 and 50	 ..	 ..	 1	 ..	 1
+
+ Total.	 ...	 ..	 15	 ..	 15
+
+ Grand	 ..	 ..	 ..	 ...	 717
+
+ total.
+
+NOTE.-Detailed on certificates of heads of departments that these persons are skilled and indispensable, in conformity with General Orders, Nos. 77, and 82, Adjutant and Inspector General's Office, 1864.
+

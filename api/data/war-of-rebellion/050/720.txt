@@ -1,0 +1,359 @@
+
+Headquarters. Infantry.
+
+ Comm	 Enli	 Tot	 Comm	 Enlisted	 Total.
+
+ issi	 sted	 al.	 issi	 men.
+
+Command.	 oned	 men.	 	 oned
+
+ offi	 	 	 offi
+
+ cers	 	 	 cers
+
+ .	 	 	 .
+
+Second Division,
+
+Twenty-first Army
+
+Corps, Major-	 15	 48	 63	 ---	 ---	 ---
+
+General Palmer.
+
+First Brigade,
+
+Second Division,
+
+Brigadier General	 7	 17	 24	 74	 1,206	 1,280
+
+C. Cruft.
+
+Second Brigade,
+
+Second Division,
+
+Brigadier General	 7	 17	 24	 97	 1,346	 1,443
+
+W. B. Hazen.
+
+Third Brigade,
+
+Second
+
+Division, Colonel	 8	 35	 43	 120	 1,552	 1,642
+
+William Grose.
+
+Total.	 22	 69	 91	 291	 4,074	 4,365
+
+Battery H,4th U. S.
+
+Artillery,	 ---	 ---	 --	 ---	 ---	 ---
+
+Lieutenant H. C.	 	 	 -
+
+Cushing.
+
+Battery M, 4th
+
+U. S. Artillery,
+
+Lieutenant L. F. D.	 ---	 ---	 --	 ---	 ---	 ---
+
+Russell.
+
+Battery B, 1st
+
+Ohio Volunteer
+
+Artillery,	 ---	 ---	 --	 ---	 ---	 ---
+
+Lieutenant N. A.
+
+Baldwin.
+
+Battery F, 1st,
+
+Ohio Volunteer
+
+Artillery,	 ---	 ---	 --	 ---	 ---	 ---
+
+Lieutenant G. J.
+
+Cockerill.
+
+Total.	 ---	 ---	 --	 ---	 ---	 ---
+
+Grand total.	 37	 117	 154	 291	 4,074	 4,365
+
+Cavalry.
+
+Command.	 Comm	 Enli	 Tot
+
+ issi	 sted	 al.
+
+ oned	 men.
+
+ offi
+
+ cers
+
+ .
+
+Second Division,
+
+Twenty-first Army
+
+Corps, Major-	 2	 38	 40
+
+General Palmer.
+
+First Brigade,
+
+Second Division,
+
+Brigadier General	 ---	 ---	 --
+
+C. Cruft.
+
+Second Brigade,
+
+Second Division,
+
+Brigadier General	 ---	 ---	 --
+
+W. B. Hazen.
+
+Third Brigade,
+
+Second
+
+Division, Colonel	 ---	 ---	 --
+
+William Grose.
+
+Total.	 ---	 ---	 --
+
+Battery H,4th U. S.
+
+Artillery,	 ---	 ---	 --
+
+Lieutenant H. C.
+
+Cushing.
+
+Battery M, 4th
+
+U. S. Artillery,
+
+Lieutenant L. F. D.	 ---	 ---	 --
+
+Russell.
+
+Battery B, 1st
+
+Ohio Volunteer
+
+Artillery,	 ---	 ---	 --
+
+Lieutenant N. A.
+
+Baldwin.
+
+Battery F, 1st,
+
+Ohio Volunteer
+
+Artillery,	 ---	 ---	 --
+
+Lieutenant G. J.
+
+Cockerill.
+
+Total.	 ---	 ---	 --
+
+Grand total.	 2	 38	 40
+
+Artillery. Total.
+
+ Commis	 Enlist	 Total.	 Commis	 Enlisted
+
+ sioned	 ed	 	 sioned	 men.
+
+Command.	 office	 men.	 	 office
+
+ rs.	 	 	 rs.
+
+Second Division,
+
+Twenty-first Army
+
+Corps, Major-	 ---	 ---	 ---	 17	 86
+
+General Palmer.
+
+First Brigade,
+
+Second Division,
+
+Brigadier General	 ---	 ---	 ---	 81	 1,223
+
+C. Cruft.
+
+Second Brigade,
+
+Second Division,
+
+Brigadier General	 ---	 ---	 ---	 104	 1,363
+
+W. B. Hazen.
+
+Third Brigade
+
+Second Division,
+
+Colonel William	 ---	 ---	 ---	 128	 1,557
+
+Grose.
+
+Total.	 ---	 ---	 ---	 313	 4,143
+
+Battery H, 4th
+
+U. S. Artillery,
+
+Lieutenant H. C.	 2	 85	 87	 2	 85
+
+Cushing.
+
+Battery M, 4th,
+
+U. S. Artillery,
+
+Lieutenant F. L. D.	 2	 115	 117	 2	 115
+
+Russell.
+
+Battery B, 1st
+
+Ohio Volunteer
+
+Artillery	 2	 130	 132	 2	 130
+
+Lieutenant N. A.
+
+Baldwin.
+
+Battery F, 1st
+
+Ohio Volunteer
+
+Artillery,	 4	 106	 110	 4	 106
+
+Lieutenant G. J.
+
+Cockerill.
+
+Total.	 10	 436	 446	 10	 436
+
+Grand total.	 10	 436	 446	 340	 4,665
+
+Command.	 Aggregat	 Number	 Numbe
+
+ e.	 of	 r of
+
+ 	 horses	 guns.
+
+Second Division,
+
+Twenty-first Army
+
+Corps, Major-	 103	 51	 ---
+
+General Palmer.
+
+First Brigade,
+
+Second Division,
+
+Brigadier General	 1,304 	 ---	 ---
+
+C. Cruft.
+
+Second Brigade,
+
+Second Division,
+
+Brigadier General	 1,467	 ---	 ---
+
+W. B. Hazen.
+
+Third Brigade
+
+Second Division,
+
+Colonel William	 1,685	 ---	 ---
+
+Grose.
+
+Total.	 4,456	 ---	 ---
+
+Battery H, 4th
+
+U. S. Artillery,
+
+Lieutenant H. C.	 87	 73	 4
+
+Cushing.
+
+Battery M, 4th,
+
+U. S. Artillery,
+
+Lieutenant F. L. D.	 117 	 109	 6
+
+Russell.
+
+Battery B, 1st
+
+Ohio Volunteer
+
+Artillery	 132	 113	 6
+
+Lieutenant N. A.
+
+Baldwin.
+
+Battery F, 1st
+
+Ohio Volunteer
+
+Artillery,	 110	 90	 6
+
+Lieutenant G. J.
+
+Cockerill.
+
+Total.	 446	 385	 22
+
+Grand total.	 5,005	 436	 22
+
+J. M. PALMER,
+
+Major-General, Commanding.
+
+SEPTEMBER 19, 1863.
+
+[Indorsement.]
+
+Respectfully returned.
+
+The report is wanted by regiments, giving brigade totals.
+
+[P. P. OLDERSHAW,
+
+Assistant Adjutant-General.]
+
+[P. S.]-Don't delay this regimental return.
+

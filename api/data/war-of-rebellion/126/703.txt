@@ -1,0 +1,263 @@
+
+State.	 Age.	 Physi	 Confed	 State	 Minist	 Superi
+
+ 	 cial	 erate	 office	 ers of	 ntende
+
+ 	 disab	 office	 rs.	 religi	 nts
+
+ 	 ility	 rs.	 	 on.	 and
+
+ 	 .	 	 	 	 physic
+
+ 	 	 	 	 	 ians
+
+ 	 	 	 	 	 of
+
+ 	 	 	 	 	 deaf,
+
+ 	 	 	 	 	 dumb,
+
+ 	 	 	 	 	 and
+
+ 	 	 	 	 	 blind.
+
+Mississippi	 18 and 45	 1,402	 2	 91	 210	 1
+
+ 17 and 18	 65	 ...	 ...	 ...	 ...
+
+ 45 and 50	 552	 3	 138	 42	 1
+
+ Total.	 2,019	 5	 229	 252	 2
+
+Florida.	 18 and 45	 183	 5	 99	 13	 ...
+
+ 17 and 18	 6	 ...	 ...	 ..	 ...
+
+ 45 and 50	 48	 1	 21	 7	 ...
+
+ Total.	 237	 6	 120	 20	 ...
+
+East	 18 and 45	 270	 6	 38	 44	 ...
+
+Tennessee.
+
+ 17 and 18	 ..	 ...	 ...	 ...	 ...
+
+ 45 and 50	 21	 ....	 2	 ...	 ...
+
+ Total.	 291	 6	 40	 44	 ...
+
+East	 18 and 45	 ...	 ...	 ...	 ...	 ...
+
+Louisiana.
+
+ 17 and 18	 ...	 ....	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ...	 ...	 ...
+
+ Total.	 55	 24	 46	 15	 15
+
+ Grand	 ...	 ....	 ...	 ...	 ...
+
+ total.
+
+State.	 Age.	 Edito	 News	 Supe	 Apothe	 Physician
+
+ 	 rs.	 pape	 rint	 caries	 s.
+
+ 	 	 r	 ende	 .
+
+ 	 	 empl	 nts,
+
+ 	 	 oyes	 Stat
+
+ 	 	 .	 e
+
+ 	 	 	 publ
+
+ 	 	 	 ic
+
+ 	 	 	 prin
+
+ 	 	 	 ter,
+
+ 	 	 	 and
+
+ 	 	 	 empl
+
+ 	 	 	 oyes
+
+ 	 	 	 .
+
+Mississipp	 18 and 45	 6	 11	 ...	 36	 343
+
+i.
+
+ 17 and 18	 ...	 1	 ...	 ...	 ...
+
+ 45 and 50	 ...	 2	 ...	 3	 60
+
+ Total.	 6	 14	 ...	 39	 403
+
+Florida.	 18 and 45	 3	 6	 ...	 5	 23
+
+ 17 and 18	 ...	 2	 ...	 1	 ....
+
+ 45 and 50	 ...	 ...	 ...	 1	 4
+
+ Total.	 3	 8	 ...	 7	 27
+
+East	 18 and 45	 2	 4	 ...	 2	 38
+
+Tennessee
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ...	 ...	 ...
+
+ Total.	 2	 4	 ...	 2	 38
+
+East	 18 and 45	 ...	 ....	 ...	 ...	 ....
+
+Louisiana
+
+ 17 and 18	 ....	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ...	 ...	 ...
+
+ Total.	 1	 ...	 ...	 ..	 20
+
+ Grand	 ...	 ...	 ...	 ...	 ...
+
+ total.
+
+State.	 Age.	 Pre	 Superi	 Overs	 Railro	 Mail
+
+ 	 sid	 ntende	 eers	 ad	 contrac
+
+ 	 ent	 nts,	 and	 office	 tors.
+
+ 	 s	 physic	 agric	 rs and
+
+ 	 and	 ians,	 ultur	 employ
+
+ 	 tea	 and	 ists.	 es.
+
+ 	 che	 nurses
+
+ 	 rs	 in
+
+ 	 of	 public
+
+ 	 sch	 hospit
+
+ 	 ool	 als.
+
+ 	 s
+
+ 	 and
+
+ 	 col
+
+ 	 leg
+
+ 	 es.
+
+Mississippi.	 18 and 45	 119	 465	 258	 15	 ...
+
+ 17 and 18	 ...	 ...	 4	 22	 ...
+
+ 45 and 50	 15	 ...	 192	 36	 10
+
+ Total.	 134	 ...	 661	 316	 25
+
+Florida.	 18 and 45	 3	 ...	 124	 135	 8
+
+ 17 and 18	 ...	 ...	 ...	 1	 ...
+
+ 45 and 50	 2	 ...	 29	 16	 ...
+
+ Total.	 5	 ...	 153	 152	 8
+
+East	 18 and 45	 13	 ...	 ...	 62	 2
+
+Tennessee
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ..
+
+ 45 and 50	 ...	 ...	 ...	 3	 ...
+
+ Total.	 13	 ...	 ...	 65	 2
+
+East	 18 and 45	 ...	 ...	 ...	 ...	 ...
+
+Louisiana
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ...	 ....	 ...
+
+ Total.	 4	 ...	 41	 ...	 ..
+
+ Grand	 ...	 ...	 ...	 ...	 ...
+
+ total.
+
+State.	 Age.	 Driv	 No	 Fore	 By	 Misc	 Total.
+
+ 	 ers	 n-	 igne	 orde	 ella
+
+ 	 of	 com	 rs.	 r of	 neou
+
+ 	 post	 bat	 	 War	 s.
+
+ 	 coac	 ant	 	 Depa
+
+ 	 hes	 s.	 	 rtme
+
+ 	 and	 	 	 nt.
+
+ 	 hack
+
+ 	 s.
+
+Mississippi.	 18 and 45	 ...	 ...	 1	 1	 1	 2,962
+
+ 17 and 18	 ..	 ...	 ...	 ...	 ...	 92
+
+ 45 and 50	 ...	 ...	 ...	 ...	 ...	 1,054
+
+ Total.	 ...	 ...	 1	 1	 1	 4,108
+
+Florida.	 18 and 45	 1	 ...	 1	 ...	 ...	 609
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...	 10
+
+ 45 and 50	 ...	 ...	 ....	 ...	 ..	 129
+
+ Total.	 1	 ...	 1	 ...	 ...	 748
+
+East	 18 and 45	 ...	 66	 ...	 ...	 ...	 547
+
+Tennessee
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ....	 ...	 ...	 ...	 ...	 26
+
+ Total.	 ....	 66	 ...	 ...	 ...	 537
+
+East	 18 and 45	 ...	 ...	 ...	 ...	 ...	 ...
+
+Louisiana
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ...	 ...	 ...	 ...
+
+ Total.	 ....	 ...	 3	 10	 ...	 219
+
+ Grand	 ...	 ..	 ...	 ...	 ...	 67,054
+
+ total.
+

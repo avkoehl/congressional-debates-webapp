@@ -1,0 +1,105 @@
+
+No. 94. Return of killed and wounded in the Confederate forces, October 10-21.
+
+Command.	 Killed.	 Wounded.	 Aggregate.
+
+SECOND CORPS.
+
+RODES' DIVISION.
+
+Battle's Brigade.
+
+3rd Alabama	 1	 1	 2
+
+6th Alabama	 1	 1	 2
+
+12th Alabama	 2	 ---	 2
+
+26th Alabama	 ---	 3	 3
+
+Doles' Brigade.
+
+Staff	 ---	 1	 1
+
+4th Georgia	 ---	 4	 4
+
+12th Georgia	 ---	 7	 7
+
+21st Georgia	 ---	 1	 1
+
+Ramseur's Brigade.
+
+2nd North Carolina	 2	 2	 2
+
+14th North Carolina	 1	 4	 5
+
+30th North Carolina	 ---	 5	 4
+
+4th North Carolina	 ---	 2	 2
+
+Daniel's Brigade.
+
+32nd North Carolina	 ---	 3	 3
+
+43rd North Carolina	 ---	 2	 2
+
+45th North Carolina	 ---	 2	 2
+
+53rd North Carolina	 ---	 1	 1
+
+Johnston's Brigade.
+
+5th North Carolina	 2	 9	 11
+
+12th North Carolina	 3	 11	 14
+
+20th North Carolina	 ---	 4	 4
+
+23rd North Carolina	 2 	 5 	 7
+
+Artillery.
+
+Jones' battalion	 ---	 1	 1
+
+Andrews' battalion	 ---	 2	 2
+
+Total Second Corps.	 14	 71	 85
+
+THIRD CORPS.
+
+ANDERSON'S DIVISION.
+
+Mahone's Brigade.
+
+6th Virginia	 4	 6	 10
+
+12th Virginia	 ---	 1	 1
+
+16th Virginia	 ---	 1	 1
+
+61st Virginia	 ---	 1	 1
+
+Perry's Brigade.
+
+2nd Florida	 ---	 5	 5
+
+5th Florida	 1	 5	 6
+
+8th Florida	 2 	 11	 13
+
+Posey's Brigade.
+
+Staff	 ---	 1	 1
+
+12th Mississippi	 ---	 2	 2
+
+48th Mississippi	 1	 3	 4
+
+Wilcox's Brigade (old).
+
+8th Alabama	 1	 6	 7
+
+10th Alabama	 ---	 2	 2
+
+11th Alabama	 ---	 1	 1
+

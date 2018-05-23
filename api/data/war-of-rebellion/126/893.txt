@@ -1,0 +1,321 @@
+
+83	 Graham	 Commis	 10	 do.	 April	 Resigned July 5,
+
+ A.	 sioner	 	 	 29	 1863.
+
+ Root.	 	 	 	 1863
+
+84	 James	 do.	 10	 do.	 July	 Honorably discharged
+
+ H.	 	 	 	 6,	 May 8, 1865.
+
+ Morton	 	 	 	 1863.
+
+85	 Samuel	 Surge-	 10	 do.	 April	 Honorably discharged
+
+ Duncan	 on.	 	 	 29	 June 15, 1865.
+
+ 	 	 	 	 1863
+
+86	 Wil-	 Provos	 1	 Rhode	 April	 Honorably discharged
+
+ liam E	 t-mar-	 	 Island	 28	 April 30, 1865.
+
+ Hamlin	 shal.	 	 	 1863
+
+87	 Wil-	 Commis	 1	 do.	 April	 Do.
+
+ liam Y	 sioner	 	 	 28
+
+ Potter	 	 	 	 1863.
+
+88	 Char-	 Surge-	 1	 do.	 April	 Do.
+
+ les G	 on.	 	 	 28
+
+ McKni-	 	 	 	 1863.
+
+ ght.
+
+89	 A. B.	 Provos	 2	 do.	 April	 Do.
+
+ Chad-	 t-mar-	 	 	 28
+
+ sey.	 shal.	 	 	 1863.
+
+90	 James	 Commis	 2	 do.	 April	 Do.
+
+ H.	 sioner	 	 	 28
+
+ Cogges	 	 	 	 1863.
+
+ hall.
+
+91	 Fenner	 Surge-	 2	 do.	 April	 Do.
+
+ H. Pec	 on.	 	 	 28
+
+ kham.	 	 	 	 1863.
+
+92	 Lucius	 Provos	 1	 Connec	 April	 Honorably discharged
+
+ G. Goo	 t-mar-	 	 ticut.	 30	 Oct. 5, 1865.
+
+ drich.	 shal.	 	 	 1863.
+
+93	 George	 Commis	 1	 do.	 April	 Honorably discharged
+
+ M.	 sioner	 	 	 30	 May 8, 1865.
+
+ Ives	 	 	 	 1863
+
+94	 Harry 	 Surge-	 1	 do.	 April	 Resigned Feb. 3,
+
+ A.	 on.	 	 	 30	 1864
+
+ Grant.	 	 	 	 1863.
+
+95	 J. S.	 do.	 1	 do.	 March	 Honorably discharged
+
+ 	 	 	 	 1	 June 15, 1865.
+
+ Curtis	 	 	 	 1864.
+
+96	 Benja-	 Provos	 2	 do.	 April	 Resigned Nov. 17,
+
+ min S	 t-mar-	 	 	 30	 1863.
+
+ Pardee	 shal.	 	 	 1863.
+
+97	 Richa-	 do.	 2	 do.	 Decemb	 Honorably discharged
+
+ rd M.	 	 	 	 er 14	 Oct. 5, 1865.
+
+ 	 	 	 	 1863.
+
+ Clarke
+
+98	 D. R.	 Commis	 2	 do.	 April	 Honorably discharged
+
+ 	 sioner	 	 	 30	 May 8, 1865.
+
+ Wright	 	 	 	 1863.
+
+99	 Edwin	 Surge-	 2	 do.	 April	 Honorably discharged
+
+ A.	 on.	 	 	 30	 June 15, 1865.
+
+ Parke.	 	 	 	 1863.
+
+100	 Isaac	 Provos	 3	 do.	 April	 Resigned Aug. 2,
+
+ H.	 t-mar-	 	 	 30	 1864.
+
+ Brom	 shal.	 	 	 1863.
+
+ ley.
+
+101	 Theodo	 do.	 3	 do.	 Aug.8	 Honorably discharged
+
+ re C	 	 	 	 1864.	 Oct. 5, 1865.
+
+ Kibbe.
+
+102	 Samuel	 Commis	 3	 do.	 April	 Honorably discharged
+
+ Bing-	 sioner	 	 	 30	 May 8, 1865.
+
+ ham.	 	 	 	 1863.
+
+103	 Robert	 Sur-	 3	 do.	 April	 Honorably discharged
+
+ McCur	 geon.	 	 	 30	 June 15, 1865.
+
+ dy 	 	 	 	 1863.
+
+ Lord.
+
+104	 J. E.	 Provos	 4	 do.	 April	 Discharged Sept. 9,
+
+ 	 t-mars	 	 	 30	 1863.
+
+ Dunham	 hal.	 	 	 1863.
+
+105	 Wil-	 do.	 4	 do.	 Sept.9	 Appointment revoked
+
+ liam H	 	 	 	 1863.	 Jan. 9, 1864.
+
+ Riley.
+
+106	 Leve-	 do.	 4	 do.	 Jan.9	 Honorably discharged
+
+ rett	 	 	 	 1864.	 Oct. 5, 1865.
+
+ W.
+
+ Ves-
+
+ sells.
+
+107	 Jasper	 Commis	 4	 do.	 April	 Discharged Sept. 9,
+
+ P. Bre	 sioner	 	 	 30	 1863.
+
+ wster.	 	 	 	 1863.
+
+108	 Frede-	 do.	 4	 do.	 Sept.9	 Appointment revoked
+
+ rick	 	 	 	 1863.	 Jan. 9, 1864.
+
+ Ells-
+
+ worth.
+
+109	 Edward	 do.	 4	 do.	 Jan. 9	 Honorably discharged
+
+ J.	 	 	 	 1864.	 May 8, 1865.
+
+ Alvord
+
+110	 Samuel	 Surge-	 4	 do.	 April	 Dismissed by
+
+ T.	 on.	 	 	 30	 sentence of general
+
+ Salis	 	 	 	 1863.	 court martial Nov.
+
+ bury.
+
+ 	 	 	 	 	 9, 1863.*
+
+111	 W. H.	 do.	 4	 do.	 Decemb	 Honorably discharged
+
+ 	 	 	 	 er 22	 June 15, 1865.
+
+ Trow-	 	 	 	 1863.
+
+ bridge
+
+112	 Edwin	 Provos	 1	 New	 April	 Died Jan. 12, 1864.
+
+ Rose.	 t-mar-	 	 York. 	 15
+
+ 	 shal.	 	 	 1863.
+
+113	 James	 do.	 1	 do.	 Jan.30	 Honorably discharged
+
+ A.	 	 	 	 1864.	 May 31, 1865.
+
+ Fleury
+
+114	 W. S.	 Commis	 1	 do.	 April	 Honorably discharged
+
+ 	 sioner	 	 	 17	 May 8, 1865.
+
+ McCoun	 	 	 	 1863.
+
+115	 John 	 Surge-	 1	 do.	 April	 Resigned Aug. 4,
+
+ Ordro-	 on.	 	 	 17	 1863.
+
+ naux.	 	 	 	 1863.
+
+116	 George	 do.	 1	 do.	 Aug.13	 Appointment revoked
+
+ N.	 	 	 	 1863.	 Sept. 5, 1863.
+
+ Richar
+
+ dson.
+
+117	 Phile-	 do.	 1	 do.	 Sept.5	 Honorably discharged
+
+ mon F.	 	 	 	 1863.	 June 15, 1865.
+
+ Prior.
+
+118	 Samuel	 Provos	 2	 do.	 April	 Resigned June 27,
+
+ T.	 t-mar-	 	 	 15	 1864.
+
+ Maddox	 shal.	 	 	 1863.
+
+119	 Samuel	 do.	 2	 do.	 Aug.9	 Dismissed the
+
+ W. Wal	 	 	 	 1864.	 service June 5, 1865
+
+ dron.
+
+120	 Char-	 Commis	 2	 do.	 April	 Dismissed by
+
+ les W.	 sioner	 	 	 17	 sentence of general
+
+ 	 	 	 	 1863.	 court-martial July
+
+ Cheshi	 	 	 	 	 29, 1865.
+
+ re.
+
+121	 George	 Surge-	 2	 do.	 April	 Discharged April
+
+ S. Woo	 on.	 	 	 17	 28, 1865.
+
+ dman.	 	 	 	 1863.
+
+122	 Step-	 Provos	 3	 do.	 April	 Appointment revoked
+
+ hen B.	 t-mar-	 	 	 15	 April 18, 1864.
+
+ 	 shal.	 	 	 1863.
+
+ Grego-
+
+ ry.
+
+123	 E. B.	 do.	 3	 do.	 July 6	 Honorably discharged
+
+ 	 	 	 	 1864.	 Nov. 30, 1865.
+
+ Powler
+
+124	 Abner	 Commis	 3	 do.	 April	 Honorably discharged
+
+ M. 	 sioner	 	 	 17	 May 8, 1865.
+
+ 	 	 	 	 1863.
+
+ Beebe.
+
+125	 Nelson	 Surge-	 3	 do.	 April	 Resigned Feb. 10,
+
+ L.	 on.	 	 	 17	 1864.
+
+ North.	 	 	 	 1863.
+
+126	 G. T.	 do.	 3	 do.	 Feb.22	 Resigned Oct. 5,
+
+ 	 	 	 	 1864.	 1864.
+
+ Doug-
+
+ herty.
+
+127	 S. N.	 do.	 3	 do.	 Oct.18	 Honorably discharged
+
+ 	 	 	 	 1864.	 June 15, 1865.
+
+ Fisk.
+
+128	 Joel 	 Provos	 4	 do.	 April	 Resigned April 26,
+
+ B. Er-	 t-mar-	 	 	 15	 1865.
+
+ hardt.	 shal.	 	 	 1863.
+
+129	 Daniel	 Commis	 4	 do.	 April	 Honorably discharged
+
+ McFar-	 sioner	 	 	 17	 May 22, 1865.
+
+ land.	 	 	 	 1863.
+
+*Revoked Feb. 28, 1866, and was honorably discharged as of date of dismissal.
+

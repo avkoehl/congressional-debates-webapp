@@ -1,0 +1,333 @@
+
+TABLE Numbers 1.-Showing the number of drafted men rejected as "physically or mentally unfit for the service, etc.-Continued.
+
+State 	 Distri	 Number	 Number	 Paragr	 Paragr	 Paragr	 Paragr
+
+ct	 drafte	 examin	 aph 25	 aph 26	 aph 27	 aph 28
+
+d	 ed
+
+Maine	 Fourth	 2,933	 2,311	 15	 6	 78 	 1
+
+Do	 Fifth	 3,285	 2,943	 12	 ...	 95	 12
+
+Vermon	 Second 	 2,645	 2,554	 ...	 16	 138 	 3
+
+t
+
+Massac	 Fight	 2,905	 2,653	 17	 80	 93	 ...
+
+husett
+
+s
+
+Rhode	 First	 2,971	 2,728	 13	 13	 70	 3
+
+Island
+
+New	 Sevent	 2,730	 2,196	 ....	 10	 49	 2
+
+York	 eenth
+
+Do	 Twenti	 3,649	 (a)	 4	 23	 171	 3
+
+eth
+
+Do	 TWent	 3,102	 2,702	 11	 30	 72	 1
+
+h-
+
+second
+
+Do	 Twent	 3,383	 3,110	 17	 52	 122 	 7
+
+y-
+
+fourth
+
+Do	 Twent	 2,649	 2,424	 10	 ....	 88	 ...
+
+y-
+
+ninth
+
+Pennsy	 Fifth	 2,983	 2,328	 2	 ....	 91	 1
+
+lvania
+
+Do	 Ninete	 3,387	 3,053	 ...	 ...	 97	 1
+
+enth
+
+Do	 Twent	 2,873	 2,622	 ....	 ...	 50	 ...
+
+y-
+
+first
+
+Do	 Twent	 2,920	 2,608	 5	 53	 80	 4
+
+y-
+
+third
+
+Do	 Twent	 2,995	 2,665	 5	 25	 61	 5
+
+y-
+
+fourth
+
+Total	 .....	 45,416	 36,897	 111	 308	 1,355	 43
+
+State 	 Distr	 Parag	 Parag	 Paragr	 Parag	 Parag	 Para	 Parag
+
+ict	 raph	 arph	 aph 31	 raph	 raph 	 grap	 raph
+
+29	 30	 and 32	 33	 34	 h 35	 36
+
+Maine	 Fourt	 9	 ....	 1	 5	 13	 13	 4
+
+h
+
+Do	 Fifth	 20 	 ....	 .....	 2	 19	 ....	 ....
+
+Vermon	 Secon	 3	 .....	 4	 2	 10	 17	 7
+
+t	 d
+
+Massac	 Fight	 5	 ....	 2	 ....	 9	 8	 ....
+
+husett
+
+s
+
+Rhode	 	 8	 1	 2	 2	 12	 11	 11
+
+Island	 First
+
+New	 Seven	 3	 1	 .....	 3	 7	 7	 ....
+
+York	 teent
+
+h
+
+Do	 Twent	 ....	 1	 6	 6	 1	 8	 4
+
+ieth
+
+Do	 Twent	 11	 1	 3	 2	 21	 9	 6
+
+h-
+
+secon
+
+d
+
+Do	 Twent	 10	 2	 3	 15	 5	 ....	 8
+
+y-
+
+fourt
+
+h
+
+Do	 Twent	 7	 .....	 3	 3	 11	 5	 ....
+
+y-
+
+ninth
+
+Pennsy	 Fifth	 5	 ....	 2	 ....	 20	 21	 4
+
+lvania
+
+Do	 Ninet	 10	 ....	 1	 1	 3 	 ...	 1
+
+eenth
+
+Do	 Twent	 9	 ....	 8	 ....	 8	 9	 6
+
+y-
+
+first
+
+Do	 Twent	 16	 ...	 1	 ...	 15	 6	 2
+
+y-
+
+third
+
+Do	 Twent	 6	 1	 ....	 2	 12	 5	 1
+
+y-
+
+fourt
+
+h
+
+Total	 .....	 122	 7	 36	 43	 166 	 119	 54
+
+State 	 Distri	 Number	 Number	 Paragr	 Paragr	 Paragr	 Paragr
+
+ct	 drafte	 examin	 aph 37	 aph 38	 aph 39	 aph 40
+
+d	 ed	 	 	 	 to 44
+
+Maine	 Fourth	 2,933	 2,311	 29	 21	 12	 13
+
+Do	 Fifth	 3,285	 2,943	 50 	 17	 ...	 7
+
+Vermon	 Second 	 2,645	 2,554	 61	 24	 ....	 15
+
+t
+
+Massac	 Fight	 2,905	 2,653	 75	 7	 ....	 34
+
+husett
+
+s
+
+Rhode	 First	 2,971	 2,728	 65	 10	 7	 19
+
+Island
+
+New	 Sevent	 2,730	 2,196	 99	 28	 2	 21
+
+York	 eenth
+
+Do	 Twenti	 3,649	 (a)	 45	 39	 2	 29
+
+eth
+
+Do	 Twent	 3,102	 2,102	 75	 27	 ....	 37
+
+h-
+
+second
+
+Do	 Twent	 3,383	 3,110	 166	 29	 ....	 36
+
+y-
+
+fourth
+
+Do	 Twent	 2,649	 2,424	 171	 72	 ....	 30
+
+y-
+
+ninth
+
+Pennsy	 Fifth	 2,983	 2,328	 66	 24	 ....	 22
+
+lvania
+
+Do	 Ninete	 3,387	 3,053	 70	 98 	 26	 32
+
+enth
+
+Do	 Twent	 2,873	 2,622	 62	 3	 8	 20
+
+y-
+
+first
+
+Do	 Twent	 2,920	 2,608	 58	 54	 3	 14
+
+y-
+
+third
+
+Do	 Twent	 2,995	 2,665 	 89	 23	 ....	 16
+
+y-
+
+fourth
+
+Total	 .....	 45,416	 36,879	 1.181	 476	 60	 345
+
+Ratio per
+
+1,000 of-
+
+State 	 Distri	 Paragr	 Parag	 Misce	 Number	 Drafte	 Examine
+
+ct	 aph 50	 raph	 llane	 rejecte	 d	 d
+
+51	 ous	 d.
+
+Maine	 Fourth	 36	 ....	 107 	 812 	 276.8	 351.3
+
+Do	 Fifth	 42	 4	 203 	 991	 301.6	 336.7
+
+Vermon	 Second 	 11	 19	 57	 953	 360.3	 373.5
+
+t
+
+Massac	 Fight	 16 	 4	 51	 918	 316.0	 346.0
+
+husett
+
+s
+
+Rhode	 First	 19	 5	 77	 897	 301.9	 328.8
+
+Island
+
+New	 Sevent	 20	 2	 45	 639	 234.0	 280.9
+
+York	 eenth
+
+Do	 Twenti	 12	 5	 13	 935	 256.5	 ....
+
+eth
+
+Do	 Twent	 9	 13	 ...	 755	 243.3	 279.4
+
+h-
+
+second
+
+Do	 Twent	 23	 44	 26	 1,170	 346.5	 376.2
+
+y-
+
+fourth
+
+Do	 Twent	 14	 16	 37	 1,197	 451.8	 493.8
+
+y-
+
+ninth
+
+Pennsy	 Fifth	 21	 21	 72	 725	 243.0	 311.4
+
+lvania
+
+Do	 Ninete	 16	 12	 24	 748	 220.8	 245.0
+
+enth
+
+Do	 Twent	 7	 6	 ...	 665	 231.4	 253.6
+
+y-
+
+first
+
+Do	 Twent	 15	 5	 41	 773	 264.2	 296.3
+
+y-
+
+third
+
+Do	 Twent	 12	 8	 25	 691	 230.7	 259.1
+
+y-
+
+fourth
+
+Total	 .....	 273	 164	 778	 12,869	 285.2	 323.0
+
+aIncomplete.
+
+The numbers "examined," given in the foregoing table, are taken from the provost-marshals" reports (some of which are incomplete), the surgeons generally reporting only the numbers "drafted" and "rejected for physical disabilities." The rations "of rejected" are more correctly given in the subjoined table, compiled from the provost-marshal's returns as far as received.
+

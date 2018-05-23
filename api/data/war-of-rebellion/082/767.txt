@@ -1,0 +1,297 @@
+
+SCHEDULE A-Continued.
+
+ Articles	 Quality	 Description	 Quantity	 Price
+
+11	 Ship stuff	 Good	 -	 Per	 $8.40
+
+ 	 	 	 bushel
+
+ 	 	 	 of 37
+
+ 	 	 	 pounds
+
+12	 Bacon	 ...do...	 Hog round	 Per	 5.00
+
+ 	 	 	 pound
+
+13	 Pork: Salt	 ...do...	 -	 ...do...	 3.64
+
+14	 Fresh	 Fat and	 -	 Per	 3.29
+
+ 	 good	 	 pound,
+
+ 	 	 	 net
+
+ 	 	 	 weight
+
+15	 Lard	 Good	 -	 Per	 5.00
+
+ 	 	 	 pound
+
+16	 Horses and	 First-	 Artillery,	 Average	 1,200.00
+
+ mules	 class	 &amp;c.	 price
+
+ 	 	 	 per head
+
+ ...do...	 Second-	 ...do...	 ...do...	 1,000.00
+
+ 	 class
+
+ ...do...	 Third-	 ...do...	 ...do...	 800.00
+
+ 	 class
+
+17	 Wool	 Fair or	 Washed	 Per	 6.00
+
+ 	 merino	 	 pound
+
+18	 ...do...	 ...do...	 Unwashed	 ...do...	 4.00
+
+19	 Peas	 Good	 -	 Per	 30.00
+
+ 	 	 	 bushel
+
+20	 Beans	 ...do...	 -	 ...do...	 30.00
+
+21	 Potatoes	 ...do...	 Irish	 ...do...	 10.00
+
+22	 ...do...	 ...do...	 Sweet	 ...do...	 12.00
+
+23	 Onions	 ...do...	 -	 ...do...	 30.00
+
+24	 Dried	 ...do...	 Pealed	 ...do...	 12.00
+
+ peaches
+
+25	 ...do...	 ...do...	 Unpealed	 ...do...	 8.00
+
+26	 Dried	 ...do...	 Pealed	 ...do...	 8.00
+
+ apples
+
+27	 Hay,bales:	 ...do...	 Timothy or	 Per 100	 11.00
+
+ East of	 	 clover	 pounds
+
+ Blue Ridge
+
+ West of	 ...do...	 ...do...	 ...do...	 8.00
+
+ Blue Ridge
+
+28	 Hay,baled:	 ...do...	 Orchard or	 ...do...	 11.00
+
+ East of	 	 herd grass
+
+ Blue Ridge
+
+ West of	 ...do...	 ...do...	 ...do...	 8.00
+
+ Blue Ridge
+
+29	 Hay,	 ...do...	 ...do...	 ...do...	 10.00
+
+ unbaled:
+
+ East of
+
+ Blue Ridge
+
+ West of	 ...do...	 ...do...	 ...do...	 7.00
+
+ Blue Ridge
+
+30	 Sheaf	 ...do...	 -	 ...do...	 11.00
+
+ oats,
+
+ baled:
+
+ East of
+
+ Blue Ridge
+
+ West of	 ...do...	 -	 ...do...	 8.00
+
+ Blue Ridge
+
+31	 Sheaf	 ...do...	 -	 ...do...	 10.00
+
+ oats,
+
+ unbaled:
+
+ East of
+
+ Blue Ridge
+
+ West of	 ...do...	 -	 ...do...	 7.00
+
+ Blue Ridge
+
+32	 Blade	 ...do...	 -	 ...do...	 11.00
+
+ fodder,
+
+ baled:
+
+ East of
+
+ Blue Ridge
+
+ West of	 ...do...	 -	 ...do...	 8.00
+
+ Blue Ridge
+
+33	 Blade	 ...do...	 -	 ...do...	 10.00
+
+ fodder,
+
+ unbaled:
+
+ East of
+
+ Blue Ridge
+
+ West of	 ...do...	 -	 ...do...	 7.00
+
+ Blue Ridge
+
+34	 Shucks,	 ...do...	 -	 ...do...	 5.00
+
+ baled
+
+35	 Shucks,	 ...do...	 -	 ...do...	 4.00
+
+ unbaled
+
+36	 Wheat	 ...do...	 -	 ...do...	 3.00
+
+ straw,
+
+ baled
+
+37	 Wheat	 ...do...	 -	 ...do...	 2.00
+
+ straw,
+
+ unbaled
+
+38	 Pasturage	 ...do...	 Interior	 Per head	 3.00
+
+ 	 	 	 per
+
+ 	 	 	 month
+
+39	 ...do...	 Superior	 ...do...	 ...do...	 4.00
+
+40	 ...do...	 Good	 Near cities	 ...do...	 5.00
+
+42	 ...do...	 Superior	 ...do...	 ...do...	 6.00
+
+43	 ...do...	 First-	 ...do...	 ...do...	 7.00
+
+ 	 rate
+
+44	 Salt	 Good	 -	 Per	 5.00
+
+ 	 	 	 bushel
+
+ 	 	 	 of 50
+
+ 	 	 	 pounds
+
+45	 Soap	 ...do...	 -	 Per	 2.00
+
+ 	 	 	 pound
+
+46	 Candles	 ...do...	 Tallow	 ...do...	 3.00
+
+47	 Vinegar	 ...do...	 Cider	 Per	 3.00
+
+ 	 	 	 gallon
+
+48	 Whisky	 ...do...	 Trade	 ...do...	 15.00
+
+49	 Sugar	 ...do...	 Brown	 Per	 6.00
+
+ 	 	 	 pound
+
+50	 Molasses	 ...do...	 New Orleans	 Per	 25.00
+
+ 	 	 	 gallon
+
+51	 Rice	 ...do...	 -	 Per	 1.00
+
+ 	 	 	 pound
+
+52	 Coffee	 ...do...	 Rio	 ...do...	 8.00
+
+53	 Tea	 ...do...	 Trade	 ...do...	 15.00
+
+54	 Vinegar	 ...do...	 Manu-	 Per	 1.00
+
+ 	 	 factured	 gallon
+
+55	 Pig iron	 ...do...	 No. 1	 Per ton	 350.00
+
+ 	 	 quality
+
+56	 ...do...	 ...do...	 No. 2	 ...do...	 314.00
+
+ 	 	 quality
+
+57	 ...do...	 ...do...	 No. 3	 ...do...	 278.00
+
+ 	 	 quality
+
+58	 Bloom iron	 ...do...	 -	 ...do...	 716.00
+
+59	 Smith's	 ...do...	 Round plate	 ...do...	 1,030.00
+
+ iron	 	 and bar
+
+60	 Railroad	 ...do...	 -	 ...do...	 425.00
+
+ iron
+
+61	 Leather	 ...do...	 Harness	 Per	 5.30
+
+ 	 	 	 pound
+
+62	 ...do...	 ...do...	 Sole	 ...do...	 5.00
+
+63	 ...do...	 ...do...	 Upper	 ...do...	 5.60
+
+64	 Beef	 ...do...	 Gross	 Per 100	 30.00
+
+ cattle	 	 weight	 pounds
+
+65	 ...do...	 Superior	 ...do...	 ...do...	 40.00
+
+66	 ...do...	 First-	 ...do...	 ...do...	 50.00
+
+ 	 rate
+
+67	 Salt beef	 Good	 -	 Net per	 2.00
+
+ 	 	 	 pound
+
+68	 Sheep	 Fair	 -	 Per head	 50.00
+
+69	 Army	 Good	 10 ounces	 Per yard	 11.00
+
+ woolen	 	 per yard,
+
+ cloth, 3-4	 	 pro rata as
+
+ yard	 	 to greater
+
+ 	 	 or less
+
+ 	 	 width or
+
+ 	 	 weight
+

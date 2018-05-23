@@ -1,0 +1,129 @@
+
+GENERAL OBSERVATIONS, NOTES, AND QUERIES.
+
+156. Parrott rifled guns.
+
+There is, perhaps, no better system of rifled cannon than Parrotts; certainly none more simple in construction, more easily understood, or that can with more safety be placed in the hands of inexperienced men for use.
+
+The enormous and constant demand under which it has been rapidly developed, particularly among the large calibers, to its present state of efficiency and excellence, gives promise of a degree of perfection that will leave little to be desired at no distant future.
+
+157. Particulars of Parrott rifles.
+
+Gun	 Diameter of	 Length of	 Weight of	 Caliber
+
+ bore	 bore	 gun
+
+ Inches	 Inches	 Pounds
+
+10-pounder	 2.90	 70	 890	 3-pounder
+
+ 	 	 	 smooth-bore
+
+20-	 3.67	 79	 1,750	 6-pounder
+
+pounder,	 	 	 	 smooth-bore
+
+Army
+
+30-	 4.20	 120	 4,200	 9-pounder
+
+pounder,	 	 	 	 smooth-bore
+
+Army
+
+30-pounder	 4.20	 96.8	 3,550	 9-pounder
+
+ 	 	 	 smooth-bore
+
+100-	 6.40	 130	 9,700	 32-pounder
+
+pounder	 	 	 	 smooth-bore
+
+200-	 8.00	 136	 16,500	 8-inch
+
+pounder	 	 	 	 smooth-bore
+
+300-	 10.00	 ..........	 26,000	 10-inch
+
+pounder	 	 	 	 smooth-bore
+
+Charges and weights of projectiles.
+
+Gun	 Charge	 Weight of projectiles
+
+ Pounds
+
+10-pounder	 1	 9 3/4 to 10 1/2 pounds.
+
+20-pounder	 2	 18 3/4 to 19 1/2 pounds.
+
+30-pounder, Army	 3 1/4	 About 29 pounds.
+
+30-pounder, Navy	 3 1/4	 Do.
+
+100-pounder	 10	 80 pounds generally.
+
+200-pounder	 16	 150 pounds generally.
+
+300-pounder	 25	 250 pounds generally.
+
+Ranges.
+
+Gun	 Elevation	 Projectiles	 Range	 Time of
+
+ 	 	 	 flight
+
+ Degrees	 	 Yards	 Seconds.
+
+10-pounder	 1	 Case shot,	 600	 ..........
+
+ 	 10 1/2
+
+ 	 pounds
+
+Do......	 5	 Shell, 9	 2,000	 6 1/2
+
+ 	 3/4 pounds
+
+Do......	 10	 ..do....	 3,200	 10 3/4
+
+Do......	 20	 ..do....	 5,000	 21
+
+20-pounder	 1	 Case shot,	 620	 1 7/8
+
+ 	 19 1/2
+
+ 	 pounds
+
+Do......	 5	 Shell, 18	 2,100	 6 1/2
+
+ 	 3/4 pounds
+
+Do......	 10	 ..do....	 3,350	 11 1/2
+
+Do......	 15	 ..do....	 4,400	 17 1/4
+
+30-pounder	 3 1/4	 Shell, 29	 1,500	 4 1/2
+
+ 	 pounds
+
+Do......	 15	 ..do....	 4,800	 17 5/8
+
+Do......	 25	 ..do....	 6,700	 27
+
+100-	 3 1/4	 Long shell,	 1,450	 4 1/2
+
+pounder	 	 101 pounds
+
+Do......	 15	 ..do....	 4,790	 18
+
+Do......	 25	 ..do....	 6,820	 28
+
+Do......	 25	 Hollow	 7,180	 29 1/2
+
+ 	 shot, 80
+
+ 	 pounds
+
+Do......	 35	 ..do....	 8,453	 36 3/4
+

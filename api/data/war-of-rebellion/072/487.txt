@@ -1,0 +1,281 @@
+
+Below is the amount and kinds of ammunition expended by each battery in this command during the campaign. Also the casualties in each battery in this command during the campaign:
+
+12-pounder light guns.
+
+ Nu	 Cali	 Solid	 Spheri	 Fuse-	 Cani
+
+ mb	 ber.	 shot.	 cal	 shell.	 ster
+
+Command.	 er	 	 	 case.	 	 .
+
+ of
+
+ gu
+
+ ns
+
+ .
+
+5th Indiana Battery	 6	 {2	 1,243	 1,594	 476	 49
+
+Light Artillery,	 	 3-
+
+Captain A. Morrison.	 	 inch
+
+ 	 .
+
+ 	 4
+
+ 	 12-
+
+ 	 poun
+
+ 	 ders
+
+Battery B, Independent	 4	 12-	 1,512	 1,277	 1,470	 494
+
+Pennsylvania Light	 	 poun
+
+Artillery, Captain J.	 	 ders
+
+Ziegler	 	 .
+
+Battery A, First Ohio	 6	 12-	 1,157	 1,001	 344	 64
+
+Light Artillery,	 	 poun
+
+Captain W. F.	 	 ders
+
+Goodspeed.	 	 .
+
+Battery M, First	 4	 3-	 ---	 ---	 ---	 --
+
+Illinois Light	 	 inch
+
+Artillery, Captain
+
+George W. Spencer.
+
+Bridges' Battery,	 5	 3-	 ---	 ---	 ---	 --
+
+Illinois Light	 	 inch
+
+Artillery, First
+
+Lieutenant L. A.
+
+White.
+
+6th Ohio Battery,	 4	 12-	 	 1,309	 1,498	 77
+
+Light Artillery,	 	 poun	 1,504
+
+Captain Cullen	 	 ders
+
+Bradley.	 	 .
+
+Battery M, First Ohio	 6	 do	 205	 303	 154	 14
+
+Light Artillery,
+
+Captain Frederick
+
+Schultz.
+
+Total	 35	 	 5,621	 5,484	 3,942	 698
+
+Ammunition expended.
+
+3-inch rifle guns.
+
+ Sol	 Percu	 Fuse-	 Case-	 Can	 Total.
+
+ id	 ssion	 shell	 shot.	 ist
+
+Command.	 sho	 -	 .	 	 er.
+
+ t	 shell
+
+5th Indiana Battery	 20	 616	 967	 1,381	 86	 6,432
+
+Light Artillery,
+
+Captain A. Morrison.
+
+Battery B,	 -	 ---	 ---	 --	 -	 4,753
+
+Independent
+
+Pennsylvania Light
+
+Artillery, Captain
+
+J. Ziegler
+
+Battery A, First Ohio	 -	 ---	 ---	 --	 -	 2,566
+
+Light Artillery,
+
+Captain W. F.
+
+Goodspeed.
+
+Battery M, First	 205	 808	 2,113	 1,747	 112	 4,985
+
+Illinois Light
+
+Artillery, Captain
+
+George W. Spencer.
+
+Bridges' Battery,	 130	 1,815	 1,212	 2,092	 14	 5,263
+
+Illinois Light
+
+Artillery, First
+
+Lieutenant L. A.
+
+White.
+
+6th Ohio Battery,	 -	 ---	 ---	 --	 -	 4,388
+
+Light Artillery,
+
+Captain Cullen
+
+Bradley.
+
+Battery M, First Ohio	 -	 ---	 ---	 --	 -	 676
+
+Light Artillery,
+
+Captain Frederick
+
+Schultz.
+
+Total	 355	 3,239	 4,292	 5,220	 212	 29,063
+
+The Dyer projectile has proved a failure whenever used, and the Hotchkiss projectile a complete success in every engagement, especially with the percussion-shells. The ammunition furnished from the Alleghany Arsenal has proved the best.
+
+Casualties.
+
+Killed. Wounded. Missing.
+
+ Off	 Men	 Off	 Men	 Off	 Men
+
+ ice	 .	 ice	 .	 ice	 .
+
+Command.	 rs.	 	 rs.	 	 rs.
+
+5th Indiana Battery Light	 1	 5	 -	 3	 -	 -
+
+Artillery, Captain A.
+
+Morrison.
+
+Battery B, Independent	 1	 2	 1	 12	 -	 -
+
+Pennsylvania Light
+
+Artillery, Captain J.
+
+Ziegler
+
+Battery A, 1st Ohio Light	 -	 3	 -	 11	 -	 -
+
+Artillery, Captain W. F.
+
+Goodspeed.
+
+Battery M, 1st Illinois	 -	 2	 -	 8	 -	 -
+
+Light Artillery, Captain
+
+George W. Spencer.
+
+Bridges Battery, Illinois	 -	 2	 1	 5	 -	 -
+
+Light Artillery, First
+
+Lieutenant L. A. White.
+
+6th Ohio Battery Light	 -	 2	 1	 5	 -	 -
+
+Artillery, Captain Cullen
+
+Bradley.
+
+Battery M, 1st Ohio Light	 -	 1	 -	 5	 -	 2
+
+Artillery, Captain F.
+
+Schultz
+
+Total	 2	 17	 3	 49	 -	 2
+
+Prisoners. Total.
+
+ Off	 Men	 Off	 Men	 Agg	 Hor
+
+ ice	 .	 ice	 .	 reg	 ses
+
+Command.	 rs.	 	 rs.	 	 ate	 kil
+
+ 	 	 	 	 	 led
+
+ 	 	 	 	 	 and
+
+ 	 	 	 	 	 dis
+
+ 	 	 	 	 	 abl
+
+ 	 	 	 	 	 ed.
+
+5th Indiana Battery Light	 -	 -	 1 	 8	 9	 13
+
+Artillery, Captain A.
+
+Morrison.
+
+Battery B, Independent	 -	 -	 2	 14	 16	 17
+
+Pennsylvania Light
+
+Artillery, Captain J.
+
+Ziegler
+
+Battery A, 1st Ohio Light	 -	 -	 -	 14	 14	 33
+
+Artillery, Captain W. F.
+
+Goodspeed.
+
+Battery M, 1st Illinois	 -	 -	 -	 10	 10	 10
+
+Light Artillery, Captain
+
+George W. Spencer.
+
+Bridges Battery, Illinois	 -	 4	 1	 11	 12	 46
+
+Light Artillery, First
+
+Lieutenant L. A. White.
+
+6th Ohio Battery Light	 -	 -	 1	 7	 8	 25
+
+Artillery, Captain Cullen
+
+Bradley.
+
+Battery M, 1st Ohio Light	 -	 -	 -	 8	 8	 11
+
+Artillery, Captain F.
+
+Schultz
+
+Total	 -	 4	 5	 72	 77	 155
+

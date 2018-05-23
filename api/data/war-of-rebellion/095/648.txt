@@ -1,0 +1,321 @@
+
+Date	 No.of	 Length	 Kind	 Locati	 River	 Officer	 Remar
+
+ bridge	 	 of	 on	 	 in	 ks
+
+ 	 	 boat	 	 	 command
+
+ 	 	 	 	 	 of
+
+ 	 	 	 	 	 train
+
+1864.	 41	 Feet.	 Canvas	 Rail-	 North	 Captain
+
+May	 	 	 	 way	 Anna	 Folwell
+
+24	 	 100	 	 bridge
+
+24	 42	 100	 do...	 do...	 do...	 do...
+
+25	 43	 100	 do...	 Above	 do...	 do...
+
+ 	 	 	 rail-
+
+ 	 	 	 way
+
+ 	 	 	 bridge
+
+25	 44	 80	 Wooden	 Quarle	 do...	 Major	 Besid
+
+ 	 	 	 s'	 	 Beers	 es
+
+ 	 	 	 Mills	 	 	 pon-
+
+ 	 	 	 	 	 	 toon,
+
+ 	 	 	 	 	 	 200-
+
+ 	 	 	 	 	 	 feet
+
+ 	 	 	 	 	 	 crib
+
+ 	 	 	 	 	 	 brid-
+
+ 	 	 	 	 	 	 ge
+
+26	 45	 160	 do...	 Jeri-	 do...	 do...
+
+ 	 	 	 cho
+
+ 	 	 	 Mills
+
+26	 46	 100	 do...	 Below	 do...	 Captain
+
+ 	 	 	 rail-	 	 Mc-
+
+ 	 	 	 road	 	 Donald
+
+ 	 	 	 bridge
+
+26	 47	 100	 do...	 Above	 do...	 do...
+
+ 	 	 	 rail-
+
+ 	 	 	 road
+
+27	 48	 180	 Canvas	 Hano-	 Pamun-	 Captain
+
+ 	 	 	 ver-	 key	 Van
+
+ 	 	 	 town	 	 Broclin
+
+27	 49	 164	 do...	 do...	 do...	 Captain
+
+ 	 	 	 	 	 Folwell
+
+28	 50	 146	 do...	 Mrs.	 do...	 do...	 Or
+
+ 	 	 	 Nelson	 	 	 Mrs.
+
+ 	 	 	 's	 	 	 Hund-
+
+ 	 	 	 	 	 	 ley's
+
+28	 51	 140	 Wooden	 do...	 do...	 Major
+
+ 	 	 	 	 	 Beers
+
+28	 52	 180	 do...	 Hano-	 Pamun-	 Captain
+
+ 	 	 	 ver-	 key	 Mc-
+
+ 	 	 	 town	 	 Donald
+
+28	 53	 180	 ...	 Dun-	 Matta-	 Captain
+
+ 	 	 	 kirk	 pony	 Perso-
+
+ 	 	 	 	 	 nis
+
+June	 54	 188	 Canvas	 do...	 do...	 Captain
+
+1	 	 	 	 	 	 Van
+
+ 	 	 	 	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+3	 55	 160	 do...	 New	 Pamun-	 do...
+
+ 	 	 	 Castle	 key
+
+ 	 	 	 Ferry
+
+5	 56	 150	 do...	 do...	 do...	 Captain
+
+ 	 	 	 	 	 Folwell
+
+12	 57	 100	 Wooden	 Long	 Chicka	 Major	 Main
+
+ 	 	 	 Bridge	 -homi-	 Ford	 chan-
+
+ 	 	 	 	 ny	 	 nel
+
+12	 58	 60	 do...	 do...	 do...	 do...	 South
+
+ 	 	 	 	 	 	 bra-
+
+ 	 	 	 	 	 	 nch
+
+13	 59	 60	 Canvas	 Jones'	 do...	 Captain	 Main
+
+ 	 	 	 Bridge	 	 Folwell	 chan-
+
+ 	 	 	 	 	 	 nel
+
+13	 60	 40	 do...	 do...	 do...	 do...	 South
+
+ 	 	 	 	 	 	 bra-
+
+ 	 	 	 	 	 	 nch
+
+13	 61	 60	 Wooden	 do...	 do...	 Captain	 Main
+
+ 	 	 	 	 	 Palmer	 chan-
+
+ 	 	 	 	 	 	 nel
+
+13	 62	 40	 do...	 do...	 do...	 do...	 South
+
+ 	 	 	 	 	 	 bra-
+
+ 	 	 	 	 	 	 nch
+
+14	 63	 1,240	 Wooden	 Coles'	 do...	 Lieuten
+
+ 	 	 	 Ferry	 	 ant -
+
+ 	 	 	 	 	 Colonel
+
+ 	 	 	 	 	 Spauldi
+
+ 	 	 	 	 	 ng
+
+19	 64	 100	 do...	 Dun-	 Matta-	 Captain
+
+ 	 	 	 kirk	 pony	 Folwell
+
+23	 65	 60	 do...	 Jones'	 Chicka	 do...	 Main
+
+ 	 	 	 Bridge	 -homi-	 	 chan-
+
+ 	 	 	 	 ny	 	 nel
+
+23	 66	 40	 do...	 do...	 do...	 do...	 South
+
+ 	 	 	 	 	 	 bra-
+
+ 	 	 	 	 	 	 nch
+
+Decem	 67	 152	 do...	 Free-	 Notto-	 Brevet
+
+ber 7	 	 	 	 man's	 way	 Major
+
+ 	 	 	 Ford	 	 Van
+
+ 	 	 	 	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+9	 68	 56	 do...	 Near	 Three	 do...
+
+ 	 	 	 Hicks-	 Creek
+
+ 	 	 	 ford
+
+11	 69	 152	 do...	 Free-	 Notto-	 do...
+
+ 	 	 	 man's	 way
+
+ 	 	 	 Ford
+
+11	 70	 152	 do...	 do...	 do...	 Major
+
+ 	 	 	 	 	 Folwell
+
+1865.	 71	 65	 do...	 W.	 Hatche	 Brevet
+
+March 	 	 	 	 Perk-	 r's	 Major
+
+29	 	 	 	 ins'	 Run	 Van
+
+ 	 	 	 house	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+29	 72	 55	 do...	 Quaker	 Gravel	 do...
+
+ 	 	 	 road	 ly Run
+
+April	 73	 90	 Canvas	 Farm-	 Appo-	 do...
+
+8	 	 	 	 ville	 mattox
+
+12	 74	 90	 do...	 do...	 do...	 do...
+
+22	 75	 100	 do...	 Genito	 do...	 Major
+
+ 	 	 	 Bridge	 	 Folwell
+
+24	 76	 315	 do...	 Clark'	 Staun-	 Brevet
+
+ 	 	 	 s	 ton	 Major
+
+ 	 	 	 Ferry	 	 Van
+
+ 	 	 	 	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+27	 77	 270	 do...	 Roa-	 do...	 Major
+
+ 	 	 	 noke	 	 Folwell
+
+ 	 	 	 Sta-
+
+ 	 	 	 tion
+
+29	 78	 350	 do...	 Mose-	 do...	 Brevet
+
+ 	 	 	 ley's	 	 Major
+
+ 	 	 	 Ferry	 	 Van
+
+ 	 	 	 	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+30	 79	 50	 do...	 Roa-	 Little	 do...
+
+ 	 	 	 noke	 Roa-
+
+ 	 	 	 Sta-	 noke
+
+ 	 	 	 tion
+
+30	 80	 270	 do...	 do...	 Staunt	 do...
+
+ 	 	 	 	 on
+
+May 8	 81	 400	 do...	 Frank-	 Rappa-	 Major
+
+ 	 	 	 lin's	 han-	 Mc-
+
+ 	 	 	 Crossi	 nock	 Donald
+
+ 	 	 	 ng
+
+17	 82	 300	 do...	 Clark'	 Staunt	 Brevet
+
+ 	 	 	 s	 on	 Major
+
+ 	 	 	 Ferry	 	 Van
+
+ 	 	 	 	 	 Brock-
+
+ 	 	 	 	 	 lin
+
+20	 83	 100	 do...	 Goode'	 Appo-	 do...
+
+ 	 	 	 s	 mattox
+
+ 	 	 	 Bridge
+
+21	 84	 90	 do...	 Rich-	 Canal	 do...
+
+ 	 	 	 mond,
+
+ 	 	 	 Va.
+
+24	 85	 180	 do...	 Little	 Pamun-	 do...
+
+ 	 	 	 page's	 key
+
+ 	 	 	 Bridge
+
+28	 86	 65	 do...	 Near	 Po...	 do...
+
+ 	 	 	 Guiney
+
+ 	 	 	 's
+
+ 	 	 	 Sta-
+
+ 	 	 	 tion
+
+Total number of bridges..............................86
+
+Total length of bridges................feet......21,248
+
+Equal to...............................miles..... 4,022
+

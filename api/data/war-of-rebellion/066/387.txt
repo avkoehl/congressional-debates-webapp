@@ -1,0 +1,359 @@
+
+B a t t e r y.
+
+ Fort	 Mars	 Bee	 Mari	 Beau	 Rutl	 Gary
+
+ Moul	 hall	 	 on 	 rega	 edge
+
+ trie	 	 	 	 rd
+
+10-inch mortar	 --	 --	 --	 256	 --	 42	 --
+
+shell
+
+8-inch shot	 90	 95	 338	 --	 416	 --	 286
+
+8-inch shell	 53	 125	 134	 --	 111	 --	 57
+
+8-inch grape	 --	 71	 --	 --	 79	 --	 8
+
+8-inch canister	 --	 90	 30	 --	 113	 --	 28
+
+8-inch shell,	 --	 100	 --	 --	 160	 --	 --
+
+strapped and filled
+
+8-inch shrapnel	 --	 --	 --	 --	 --	 --	 --
+
+8-inch rifle shell	 --	 --	 --	 --	 --	 --	 --
+
+8-inch rifle bolts	 190	 --	 --	 --	 69	 --	 --
+
+8-inch shell,	 --	 --	 --	 --	 9	 --	 --
+
+filled
+
+7-inch rifle shell	 --	 a156	 --	 125	 --	 --	 --
+
+7-inch wrought and	 --	 --	 --	 522	 --	 --	 --
+
+cast iron bolts
+
+7-inch hollow shot	 --	 --	 --	 16	 --	 --	 --
+
+32-pounder shot	 --	 --	 --	 --	 101	 --	 --
+
+32-pounder shell	 274	 19	 --	 --	 b12	 --	 --
+
+32-pounder grape	 --	 12	 --	 --	 80	 --	 --
+
+32-pounder canister	 --	 16	 --	 --	 69	 --	 --
+
+32-pounder rifle	 120	 --	 --	 --	 166	 --	 --
+
+bolts
+
+32-pounder rifle	 --	 32	 --	 --	 7	 --	 --
+
+shot a
+
+32-pounder rifle	 --	 100	 --	 --	 156	 --	 --
+
+shell
+
+24-pounder shot	 553	 --	 --	 --	 229	 --	 --
+
+24-pounder shell	 --	 --	 --	 --	 --	 --	 --
+
+24-pounder grape	 83	 --	 --	 --	 126	 --	 --
+
+24-pounder conical	 --	 --	 --	 --	 2	 --	 --
+
+smoothbore shell
+
+24-pounder canister	 89	 --	 --	 --	 130	 --	 --
+
+12-pounder shot	 --	 292	 --	 --	 --	 --	 --
+
+12-pounder grape	 --	 124	 --	 --	 --	 --	 --
+
+12-pounder canister	 --	 124	 --	 --	 --	 --	 --
+
+12-pounder conical	 --	 25	 --	 --	 --	 --	 --
+
+rifle shot
+
+12-pounder conical	 --	 62	 --	 --	 --	 --	 --
+
+rifle shell
+
+4-inch Blakely	 --	 32	 --	 --	 --	 --	 --
+
+shell
+
+4-inch Blakely	 --	 23	 --	 --	 --	 --	 --
+
+grape
+
+4-inch Blakely	 --	 21	 --	 --	 --	 --	 --
+
+canister
+
+11-inch cartridges	 --	 --	 16	 --	 --	 --	 --
+
+(18 pounds)
+
+11-inch cartridges	 --	 --	 108	 --	 --	 --	 --
+
+(15 pounds)
+
+10-inch cartridges	 --	 --	 50	 --	 --	 21	 --
+
+(16 pounds)
+
+10-inch cartridges	 330	 --	 576	 131	 --	 198	 --
+
+(15 pounds)
+
+10-inch cartridges	 120	 --	 --	 121	 --	 17	 --
+
+(13 pounds)
+
+8-inch cartridges	 215	 --	 180	 137	 --	 --	 49
+
+(10 pounds)
+
+8-inch cartridges	 140	 --	 -- 	 64	 --	 --	 157
+
+(8 pounds)
+
+7-inch cartridges,	 --	 --	 --	 35	 --	 --	 --
+
+navy (17 pounds)
+
+7-inch cartridges,	 --	 --	 --	 41	 --	 --	 --
+
+navy (14 pounds)
+
+7-inch cartridges,	 --	 --	 --	 64	 --	 --	 --
+
+navy (12 pounds)
+
+7-inch cartridges	 --	 --	 --	 16	 --	 --	 --
+
+(16 pounds)
+
+7-inch cartridges	 --	 --	 --	 35	 --	 --	 --
+
+(14 pounds)
+
+7-inch cartridges	 --	 --	 --	 16	 --	 --	 --
+
+(12 pounds)
+
+32-pounder	 175	 --	 --	 --	 --	 --	 --
+
+cartridges (7
+
+pounds)
+
+32-pounder	 220	 --	 --	 --	 --	 --	 --
+
+cartridges (6
+
+pounds)
+
+32-pounder	 90	 --	 --	 --	 --	 --	 --
+
+cartridges (5
+
+pounds)
+
+32-pounder	 --	 --	 --	 --	 --	 --	 --
+
+cartridges
+
+24-pounder	 168	 --	 --	 --	 --	 --	 --
+
+cartridges (6
+
+pounds)
+
+15-pound cartridges	 --	 --	 --	 --	 39	 --	 --
+
+10-pound cartridges	 --	 126	 --	 --	 145	 --	 --
+
+8-pound cartridges	 --	 212	 --	 --	 90	 --	 --
+
+7 1/2-pound	 --	 46	 --	 --	 --	 --	 --
+
+cartridges
+
+Two-gun batteries.
+
+No. 1.	 No. 2.	 No. 3.	 No. 4.	 Batte
+
+ 	 	 	 	 ry at
+
+ 	 	 	 	 Kinlo
+
+ 	 	 	 	 ch's
+
+10-inch mortar shell	 --	 -- 	 --	 --	 --
+
+8-inch shot	 --	 --	 --	 --	 --
+
+8-inch shell	 --	 --	 --	 --	 --
+
+8-inch grape	 --	 --	 --	 --	 --
+
+8-inch canister	 --	 --	 --	 --	 --
+
+8-inch shell, strapped and	 --	 --	 --	 --	 --
+
+filled
+
+8-inch shrapnel	 --	 --	 --	 --	 --
+
+8-inch rifle shell	 --	 --	 --	 --	 --
+
+8-inch rifle bolts	 --	 --	 --	 --	 --
+
+8-inch shell, filled	 --	 --	 --	 --	 --
+
+7-inch rifle shell	 --	 --	 --	 --	 --
+
+7-inch wrought and cast	 --	 --	 --	 --	 --
+
+iron bolts
+
+7-inch hollow shot	 --	 --	 --	 --	 --
+
+32-pounder shot	 104	 --	 34	 --	 172
+
+32-pounder shell	 15	 --	 9	 --	 10
+
+32-pounder grape	 77	 --	 48	 --	 39
+
+32-pounder canister	 78	 --	 50	 --	 19
+
+32-pounder rifle bolts	 --	 --	 --	 --	 --
+
+32-pounder rifle shot a	 -- 	 --	 --	 --	 --
+
+32-pounder rifle shell	 --	 --	 --	 --	 --
+
+24-pounder shot	 --	 84	 --	 88	 --
+
+24-pounder shell	 --	 --	 --	 14	 --
+
+24-pounder grape	 --	 100	 --	 111 	 --
+
+24-pounder conical	 --	 --	 --	 --	 --
+
+smoothbore shell
+
+24-pounder canister	 --	 32	 --	 99	 --
+
+12-pounder shot	 --	 --	 --	 --	 --
+
+12-pounder grape	 --	 --	 --	 --	 --
+
+12-pounder canister	 --	 --	 --	 --	 --
+
+12-pounder conical rifle	 --	 --	 --	 --	 --
+
+shot
+
+12-pounder conical rifle	 --	 --	 --	 --	 --
+
+shell
+
+4-inch Blakely shell	 --	 --	 --	 --	 --
+
+4-inch Blakely grape	 --	 --	 --	 --	 --
+
+4-inch Blakely canister	 --	 --	 --	 --	 --
+
+11-inch cartridges (18	 --	 --	 --	 --	 --
+
+pounds)
+
+11-inch cartridges (15	 --	 --	 --	 --	 --
+
+pounds)
+
+10-inch cartridges (16	 --	 --	 --	 --	 --
+
+pounds)
+
+10-inch cartridges (15	 --	 --	 --	 --	 --
+
+pounds)
+
+10-inch cartridges (13	 --	 --	 --	 --	 --
+
+pounds)
+
+8-inch cartridges (10	 --	 --	 --	 --	 --
+
+pounds)
+
+8-inch cartridges (8	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges, navy (17	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges, navy (14	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges, navy (12	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges (16	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges (14	 --	 --	 --	 --	 --
+
+pounds)
+
+7-inch cartridges (12	 --	 --	 --	 --	 --
+
+pounds)
+
+32-pounder cartridges (7	 --	 --	 --	 --	 --
+
+pounds)
+
+32-pounder cartridges (6	 --	 --	 --	 --	 --
+
+pounds)
+
+32-pounder cartridges (5	 --	 --	 --	 --	 --
+
+pounds)
+
+32-pounder cartridges 	 93	 --	 46	 --	 --
+
+24-pounder cartridges (6	 --	 69	 --	 29	 --
+
+pounds)
+
+15-pound cartridges	 --	 --	 --	 --	 --
+
+10-pound cartridges	 --	 --	 --	 --	 --
+
+8-pound cartridges	 --	 --	 --	 --	 --
+
+7 1/2-pound cartridges	 --	 --	 --	 --	 --
+
+a Conical.
+
+b Strapped and filled.
+

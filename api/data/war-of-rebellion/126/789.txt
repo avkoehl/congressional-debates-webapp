@@ -1,0 +1,293 @@
+
+State,&amp;.	 Service.	 Rent.	 Transporta
+
+ 	 	 tion.
+
+Maine	 $100,712.36	 $3,264.64	 $48,600.99
+
+New Hampshire	 35,633.00	 1,670.45	 11,955.47
+
+Vermont	 33,311.96	 1,004.99	 12,592.47
+
+Massachusetts	 139,013.90	 9,400.37	 17,747.65
+
+Rhode Island	 24,604.59	 1,304.58	 468.42
+
+Connecticut	 43,486.98	 3,719.90	 1,438.24
+
+New York	 527,586.77	 34,983.24	 57,610.64
+
+New Jersey	 100,122.97	 4,621.81	 4,507.27
+
+Pennsylvania	 449,507.13	 16,542.44	 60,071.58
+
+Delaware	 25,172.95	 425.00	 4,829.71
+
+Maryland	 86,367.19	 4,722.00	 2,693.07
+
+Provost-Marshal-	 226,674.35	 8,251.00	 1,035.64
+
+General's
+
+District of	 39,078.01	 110.00	 62.60
+
+Columbia
+
+West Virginia	 34,562.41	 901.96	 3,373.02
+
+Kentucky	 169,265.35	 4,342.47	 1,159.60
+
+Missouri	 103,039.83	 2,799.53	 3,922.10
+
+Ohio	 292,431.24	 9,922.37	 41,982.04
+
+Indiana	 184,128.29	 5,078.62	 15,682.25
+
+Illinois	 279,155.39	 8,534.58	 16,053.53
+
+Michigan	 119,670.41	 2,750.25	 27,386.93
+
+Wisconsin	 131,799.87	 2,776.43	 34,350.46
+
+Iowa	 97,386.31	 2,843.31	 20,333.23
+
+Kansas	 22,010.57	 1,126.11	 500.71
+
+Nebraska Territory	 4,851.25 	 210.00	 556.87
+
+Colorado Territory	 4,407.01	 175.00	 428.43
+
+Dakota Territory	 3,285.58	 78.00	 43.30
+
+Minnesota	 68,161.90	 2,481.04	 25,167.00
+
+California and	 ----	 ----	 ----
+
+Nevada
+
+Oregon and	 ----	 ----	 ----
+
+Washington
+
+Territory
+
+Total	 3,345,427.57	 134,040.09	 414,553.22
+
+State,&.	 Public	 Incidental	 Printing.
+
+ property.	 expenses of
+
+ 	 Quartermast
+
+ 	 er's
+
+ 	 Department.
+
+Maine	 $4,190.93	 $159.56	 $5,574.87
+
+New Hampshire	 1,349.70	 298.47	 1,213.67
+
+Vermont	 910.38	 310.79	 929.22
+
+Massachusetts	 1,411.99	 759.35 	 5,959.08
+
+Rhode Island	 649.84	 ----	 297.74
+
+Connecticut	 1,309.17	 464.34	 1,211.06
+
+New York	 12,606.61	 5,555.26	 14,159.64
+
+New Jersey	 1,827.71	 464.44	 1,216.10
+
+Pennsylvania	 7,536.15	 5,782.48	 14,838.09
+
+Delaware	 1,640.04	 9.60	 112.70
+
+Maryland	 2,817.36	 353.30	 2,053.60
+
+Provost-Marshal-	 7,867.21	 ----	 3,299.19
+
+General's
+
+District of Columbia	 1,397.99	 142.50	 1,039.08
+
+West Virginia	 1,058.90	 224.40	 320.50
+
+Kentucky	 2,024.83	 548.67	 2,293.22
+
+Missouri	 857.22	 363.34	 2,088.92
+
+Ohio	 1,874.04	 2,499.93	 6,655.75
+
+Indiana	 11,330.66	 720.27	 3,054.26
+
+Illinois	 5,191.63	 875.76	 3,897.92
+
+Michigan	 958.42	 534.20	 3,761.34
+
+Wisconsin	 3,357.84	 457.92	 5,747.85
+
+Iowa	 1,118.73	 1,404.87	 1,241.74
+
+Kansas	 239.93	 199.60	 238.30
+
+Nebraska Territory	 46.00	 147.55	 31.50
+
+Colorado Territory	 ----	 ----	 49.50
+
+Dakota Territory	 92.00	 ----	 32.25
+
+Minnesota	 541.04	 417.26	 2,385.61
+
+California and Nevada	 ----	 261.22	 28.00
+
+Oregon and Washington	 ----	 ----	 ----
+
+Territory
+
+Total	 74,209.32	 22,954.78	 83,730.60
+
+State,&.	 Stationery.	 Postage.	 Subsistence.
+
+Maine	 $4,464.67	 $3, 182.79	 $11.24
+
+New Hampshire	 1,657.93	 877.04	 ----
+
+Vermont	 1,322.91	 1,478.08	 13.50
+
+Massachusetts	 4,214.93	 2,982.76	 ----
+
+Rhode Island	 495.73	 107.76	 ----
+
+Connecticut	 2,196.67	 524.63	 140.00
+
+New York	 17,360.47	 14,400.03	 1,872.81
+
+New Jersey	 3,209.26	 1,415.75	 ----
+
+Pennsylvania	 13,541.78	 13,343.13	 23.58
+
+Delaware	 433.90	 252.28	 ----
+
+Maryland	 3,068.21	 1,497.17	 ----
+
+Provost-Marshal-	 18,421.27	 38,440.86	 ----
+
+General's
+
+District of Columbia	 1,906.05	 225.51	 ----
+
+West Virginia	 2,157.53	 1,110.44	 ----
+
+Kentucky	 3,569.84	 1,844.66	 ----
+
+Missouri	 2,975.32	 1,069.51	 ----
+
+Ohio	 10,723.83	 7,726.95 	 39.79
+
+Indiana	 7,594.56	 4,512.49	 ----
+
+Illinois	 9,504.17	 7,913.96	 15.62
+
+Michigan	 2,689.96	 2,658.78	 139.12
+
+Wisconsin	 4,029.58	 1,919.33	 23.69
+
+Iowa	 2,309.99	 1,458.28	 36.72
+
+Kansas	 623.95	 448.04 	 ----
+
+Nebraska Territory	 38.55	 82.02	 ----
+
+Colorado Territory	 77.30	 76.65	 ----
+
+Dakota Territory	 62.71	 34.80	 ----
+
+Minnesota	 2,216.88	 1,143.07	 ----
+
+California and Nevada	 40.50	 ----	 ----
+
+Oregon and Washington	 ----	 ----	 ----
+
+Territory
+
+Total	 120,907.55	 110,726.77	 2,316.07
+
+State,&.	 Miscellaneous.	 Total.
+
+Maine	 $2,629.89	 $172,791.94
+
+New Hampshire	 811.68	 55,467.41
+
+Vermont	 2,258.69	 54,132.99
+
+Massachusetts	 3,790.73	 185,280.76
+
+Rhode Island	 428.59	 28,357.25
+
+Connecticut	 1,295.03	 55,786.02
+
+New York	 13,502.17	 699,637.54
+
+New Jersey	 3,084.61	 120,469.92
+
+Pennsylvania	 22,546.86	 603,736.22
+
+Delaware	 572.84	 33,449.02
+
+Maryland	 2,978.15	 106,550.05
+
+Provost-Marshal-	 10,630.89	 314,620.41
+
+General's
+
+District of Columbia	 1,782.93	 45,744.67
+
+West Virginia	 338.10	 44,047.26
+
+Kentucky	 3,789.17	 188,837.81
+
+Missouri	 529.64	 117,645.41
+
+Ohio	 15,207.48	 389,063.42
+
+Indiana	 4,668.53	 236,769.93
+
+Illinois	 5,457.12	 336,599.68
+
+Michigan	 3,423.32	 163,972.73
+
+Wisconsin	 3,450.63	 187,913.30
+
+Iowa	 1,970.51	 130,102.79
+
+Kansas	 381.45	 25,768.66
+
+Nebraska Territory	 128.20	 6,091.94
+
+Colorado Territory	 162.30	 5,376.19
+
+Dakota Territory	 40.60	 3,669.24
+
+Minnesota	 3,679.61	 106,193.41
+
+California and Nevada	 47,796.59	 48,126.31
+
+Oregon and Washington	 33,233.09	 33,233.09
+
+Territory
+
+Total	 190,569.40	 4,499,435.37
+
+The expenditures of the Bureau prior to July 1, 1864,cannot conveniently be itemized in accordance with the above form, and are consequently omitted in detail in this table. They amounted in the aggregate to..................................... $ 3,687,206.79
+
+Which being added to the amount expended from July
+
+1, 1864, to December 31, 1865 (as per table), viz.. 4,499,435.37
+
+--------------
+
+Shows a total expenditure from May 1, 1863,
+
+to December 31, 1865, of.......................... 8, 186,642.16
+

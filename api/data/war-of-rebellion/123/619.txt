@@ -1,0 +1,337 @@
+
+B.-Prices of small arms.
+
+Percussion lock.
+
+Parts.	 Musket.	 Rifle.	 Hall's	 Artill
+
+carbine	 ery
+
+musket
+
+oon.
+
+Barrel with sight, without	 $4.10	 $4.40	 $4.48	 $3.50
+
+breech screw
+
+Breech screw	 .10	 .10	 -	 .10
+
+Bayonet or band stud	 .01	 -	 -	 .01
+
+Tang screw	 .05	 .05	 -	 .05
+
+Breech sight	 -	 .06	 -	 -
+
+Cone	 .09	 .09	 .09	 .09
+
+Lock plate	 .50	 .50	 -	 .50
+
+Tumbler	 .27	 .27	 -	 .27
+
+Tubler screw	 .03	 .03	 -	 .03
+
+Bridle	 .16	 .16	 -	 .16
+
+Sear	 .20	 .20	 .13	 .20
+
+Sear spring	 .10	 .10	 .13	 .10
+
+Main spring	 .27	 .27	 .20	 .27
+
+Lock screw, each	 .03	 .03	 .04	 .03
+
+Hammer	 .60	 .60	 .60	 .60
+
+Side plate (with band for	 .07	 .10	 -	 .07
+
+pistol)
+
+Side screws, each	 .04	 .04	 .03	 .04
+
+Upper band	 .38	 .45	 .23	 .38
+
+Middle band	 .23	 -	 -	 -
+
+Lower band	 .15	 .18	 .11	 .21
+
+Upper band spring	 .09	 .09	 .05	 .09
+
+Middle band spring	 .08	 -	 -	 -
+
+Lower band spring	 .08	 .08	 -	 .08
+
+Guard plate	 .42	 .50	 .47	 .40
+
+Guard-plate screw, each	 .03	 .03	 .03	 .03
+
+Guard bow, without swivels	 .30	 .35	 .20	 .20
+
+Guard-bow nut, each	 .02	 .02	 .02	 .02
+
+Swivels and rivets, each	 .10	 .10	 -	 .10
+
+Swivel plate	 -	 -	 -	 .10
+
+Swivel-plate screw, each	 -	 -	 -	 .03
+
+Trigger	 .12	 .12	 .12	 .12
+
+Trigger screw	 .02	 .02	 -	 .02
+
+Butt plate	 .30	 .53	 .29	 .30
+
+Butt-plate screw, each	 .03	 .03	 .05	 .03
+
+Ramrod	 .50	 .50	 .50	 .40
+
+Ramrod spring	 .12	 .12	 .12	 .12
+
+Ramrod wires	 .01	 .01	 -	 .01
+
+Ramrod stop	 .01	 .01	 -	 .01
+
+Stock	 1.45	 1.85	 2.25	 1.36
+
+Bayonet	 1.45	 -	 -	 -
+
+Bayonet clasp	 .16	 -	 -	 -
+
+Bayonet-clasp screw	 .02	 -	 -	 -
+
+Box plate	 -	 .72	 -	 -
+
+Box catch	 -	 .05	 -	 -
+
+Box spring	 -	 .10	 -	 -
+
+Box-spring screw	 -	 	 -	 -
+
+Box screw, each	 -	 .02	 -	 -
+
+Ramrod swivel and rivet	 -	 .03	 -	 -
+
+Ramrod swivel and rivet	 -	 -	 -	 -
+
+screw
+
+Swivel bar	 -	 -	 .24	 -
+
+Swivel nut	 -	 -	 .02	 -
+
+Swivel screw	 -	 -	 .03	 -
+
+Swivel ring	 -	 -	 .03	 -
+
+Sword-bayonet blade	 -	 -	 -	 -
+
+Sword-bayonet hilt,	 -	 -	 -	 -
+
+without clasp
+
+Sword-bayonet clasp	 -	 -	 -	 -
+
+Sword-bayonet clasp screw	 -	 -	 -	 -
+
+Guide	 -	 -	 .06	 -
+
+Bridge	 -	 -	 .65	 -
+
+Supporters, each	 -	 -	 .43	 -
+
+Supporter screws, each	 -	 -	 .02	 -
+
+Chocks, each	 -	 -	 .07	 -
+
+Chock screws, each	 -	 -	 .03	 -
+
+Receiver	 -	 -	 2.66	 -
+
+Butt piece	 -	 -	 .08	 -
+
+Butt-piece screw	 -	 -	 .05	 -
+
+Strap	 -	 -	 .25	 -
+
+Strap screw	 -	 -	 .05	 -
+
+Set screw	 -	 -	 .03	 -
+
+Link	 -	 -	 .09	 -
+
+Link screw	 -	 -	 .03	 -
+
+Stop	 -	 -	 .14	 -
+
+Apron	 -	 -	 .13	 -
+
+Apron screw	 -	 -	 .03	 -
+
+Catch	 -	 -	 .19	 -
+
+Cavalry	 Sappers	 Pistol
+
+Parts.	 musketo	 "	 .
+
+on.	 musketo
+
+on
+
+Barrel with sight, without	 $3.55	 $3.55	 $2.00
+
+breech screw
+
+Breech screw	 .10	 .10	 .08
+
+Bayonet or band stud	 -	 .01	 -
+
+Tang screw	 .05	 .05	 .04
+
+Breech sight	 -	 -	 -
+
+Cone	 .09	 .09	 .09
+
+Lock plate	 .50	 .50 	 .40
+
+Tumbler	 .27	 .27	 .25
+
+Tubler screw	 .03	 .03	 .03
+
+Bridle	 .16	 .16	 .14
+
+Sear	 .20	 .20	 .17
+
+Sear spring	 .10	 .10	 .08
+
+Main spring	 .27	 .27	 .25
+
+Lock screw, each	 .03	 .03	 .03
+
+Hammer	 .60	 .60	 .45
+
+Side plate (with band for	 .12	 .07	 .40
+
+pistol)
+
+Side screws, each	 .04	 .04	 .03
+
+Upper band	 .38	 .58	 -
+
+Middle band	 -	 -	 -
+
+Lower band	 .28	 .21	 -
+
+Upper band spring	 .09	 .09	 -
+
+Middle band spring	 -	 -	 -
+
+Lower band spring	 -	 .08	 -
+
+Guard plate	 .50	 .40	 .35
+
+Guard-plate screw, each	 .03	 .03	 .02
+
+Guard bow, without swivels	 .25	 .20	 .20
+
+Guard-bow nut, each	 .02	 .02	 .02
+
+Swivels and rivets, each	 -	 .10	 -
+
+Swivel plate	 -	 .10	 -
+
+Swivel-plate screw, each	 -	 .03	 -
+
+Trigger	 .12	 .12	 .09
+
+Trigger screw	 .02	 .02	 .02
+
+Butt plate	 .50	 .30	 .28
+
+Butt-plate screw, each	 .03	 .03	 .02
+
+Ramrod	 .50	 .40	 .25
+
+Ramrod spring	 -	 .12	 -
+
+Ramrod wires	 -	 .01	 -
+
+Ramrod stop	 -	 .01	 -
+
+Stock	 1.36	 1.36	 .90
+
+Bayonet	 -	 -	 -
+
+Bayonet clasp	 -	 -	 -
+
+Bayonet-clasp screw	 -	 -	 -
+
+Box plate	 -	 -	 -
+
+Box catch	 -	 -	 -
+
+Box spring	 -	 -	 -
+
+Box-spring screw	 -	 -	 -
+
+Box screw, each	 -	 -	 -
+
+Ramrod swivel and rivet	 -	 -	 .25
+
+Ramrod swivel and rivet	 .25	 -	 .02
+
+screw
+
+Swivel bar	 .03	 -	 -
+
+Swivel nut	 .24	 -	 -
+
+Swivel screw	 .02	 -	 -
+
+Swivel ring	 .03	 -	 -
+
+Sword-bayonet blade	 .03	 -	 -
+
+Sword-bayonet hilt,	 -	 2.13	 -
+
+without clasp
+
+Sword-bayonet clasp	 -	 1.60	 -
+
+Sword-bayonet clasp screw	 -	 .21	 -
+
+Guide	 -	 .02	 -
+
+Bridge	 -	 -	 -
+
+Supporters, each	 -	 -	 -
+
+Supporter screws, each	 -	 -	 -
+
+Chocks, each	 -	 -	 -
+
+Chock screws, each	 -	 -	 -
+
+Receiver	 -	 -	 -
+
+Butt piece	 -	 -	 -
+
+Butt-piece screw	 -	 -	 -
+
+Strap	 -	 -	 -
+
+Strap screw	 -	 -	 -
+
+Set screw	 -	 -	 -
+
+Link	 -	 -	 -
+
+Link screw	 -	 -	 -
+
+Stop	 -	 -	 -
+
+Apron	 -	 -	 -
+
+Apron screw	 -	 -	 -
+
+Catch	 -	 -	 -
+

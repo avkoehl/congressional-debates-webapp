@@ -1,0 +1,77 @@
+
+When hollow projectiles are used the time of flight corresponding to the distance must be given to the man who goes for the projectile. He tells the ordnance sergeant, or the man who furnishes the ammunition, and the latter cuts the fuse to burn the required time.
+
+3. The gunner is responsible for the aiming. He must therefore know the distance to each prominent object in the field covered by his gun, the elevation required to reach that point, and the time of flight of the shell or case-shot corresponding to each distance or elevation. He must have a table of these ranges, taken from the Heavy Artillery Tactics, pages 236 to 247 (edition of 1862).a
+
+4. These tables will be promptly prepared under the direction of the commanding officer, and copies furnished for each gun and used habitually in the drills. They will be examined and verified by the chief of artillery.
+
+5. The attention of all officers in charge of artillery in the works is directed to the articles in the Tactics on "Pointing guns and howitzers," "Night firing," &amp; c., pages 76 to 90.
+
+6. Commanding officers of the works will keep themselves accurately informed of the amount and kinds of ammunition in the magazines. The supply must always be kept up to the amount prescribed by the chief of artillery or other competent authority. When it is less than that amount a special report of the fact will be made to the chief of artillery, with requisitions for the ammunition necessary to complete the supply. Commanding officers will also see that the necessary equipments are always on hand for the service of all the guns, as prescribed in the tactics or in general orders.
+
+7. Hand grenades are intended to be used against the enemy when he has reached such parts of the defenses (the bottom of the ditch, for example) as are not covered by the guns or by the muskets of the infantry posted on the banquettes.
+
+8. After the enemy has passed the abatis and jumped into the ditch hand grenades will be used; and then if he mounts the parapet he must be met there with muskets. A resolute defense against
+
+a NOTE. - (The last table on page 240 should read 8-inch sea- coast howitzer on barbette carriage, instead of 8-inch sea-coast mortar.) For example: The cartridges for the 24-pounder guns all weigh six pounds, as issued in the Defenses of Washington. The table (p. 236) therefore applies as follows:
+
+Twenty-four-pounder gun on siege or barbette carriage.
+
+Cart-	 Ball.	 Eleva-	 Range.
+
+ridge.	 	 tion.
+
+Lbs.	 	 ^ "	 Yards.
+
+6	 Shot ...	 0 0	 412	 That is, the bore
+
+(not line of sight)
+
+being level, a
+
+range of 400 yards.
+
+6	 ...do...	 1 0	 842	 1 degree elevation,
+
+range about 850
+
+yards.
+
+6	 ...do...	 1 30	 953	 1 1/2 degrees
+
+elevation, range
+
+about 950 yards.
+
+6	 ...do...	 2 0	 1,147	 2 degrees elevati-
+
+on, range about
+
+1,150 yards.
+
+6	 ...do...	 3 0	 1,417	 3 degrees elevati-
+
+on, range about
+
+1,400 yards.
+
+6	 ...do...	 4 0	 1,666	 4 degrees elevati-
+
+on, range about
+
+1,660 yards.
+
+6	 ...do...	 5 0	 1,901	 5 degrees elevati-
+
+on, range about
+
+1,900 yards. The
+
+extreme range of
+
+24-pounder round
+
+shot.
+
+Thus, supposing the enemy at a point 1,000 yards distant, by looking at the table it will be observed that 950 yards require 1^30" elevation; 1,150 yards require 2^; therefore, elevate a very little - 5" to 10" over 1^30", or simply give 1^30" full.
+

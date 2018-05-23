@@ -1,0 +1,251 @@
+
+I.-Government details of artisans, mechanics, &amp;c.
+
+State.	 Class.	 Quart	 Contr	 Commi	 Contra	 Ordnan
+
+ 	 ermas	 actor	 ssary	 ctors	 ce
+
+ 	 ter's	 s	 Depar	 with	 Depart
+
+ 	 Depar	 with	 tment	 Commis	 ment.
+
+ 	 tment	 Quart	 .	 sary
+
+ 	 .	 ermas	 	 Depart
+
+ 	 	 ter's	 	 ment.
+
+ 	 	 Depar
+
+ 	 	 tment
+
+ 	 	 .
+
+Virginia.	 18 and 45	 461	 39	 5	 35	 874
+
+ 17 and 18	 9	 ...	 ..	 ...	 5
+
+ 45 and 50	 35	 1	 10	 2	 29
+
+ Total.	 505	 40	 15	 37	 908
+
+North	 18 and 45	 154	 ..	 26	 ..	 454
+
+Carolina.
+
+ 17 and 18	 3	 ...	 ...	 ...	 ...
+
+ 45 and 50	 39	 ...	 2	 ...	 3
+
+ Total.	 196	 ...	 28	 ...	 457
+
+South	 18 and 45	 4	 59	 1	 1	 15
+
+Carolina.
+
+ 17 and 18	 ...	 4	 ...	 ...	 1
+
+ 45 and 50	 8	 12	 ...	 ...	 11
+
+ Total.	 12	 75	 1	 1	 27
+
+Georgia.	 18 and 45	 101	 85	 17	 7	 49
+
+ 17 and 18	 5	 3	 ...	 ...	 2
+
+ 45 and 50	 23	 8	 2	 ...	 2
+
+ Total.	 129	 96	 19	 7	 53
+
+Alabama.	 18 and 45	 3	 45	 ...	 ..	 61
+
+ 17 and 18	 ...	 3	 ...	 ...	 ...
+
+ 45 and 50	 ..	 15	 ...	 ...	 ...
+
+ Total.	 3	 63	 ...	 ..	 61
+
+State.	 Class.	 Contr	 Engin	 Navy	 Contra	 Post-
+
+ 	 actor	 eer	 Depar	 ctors	 Office
+
+ 	 s	 Depar	 tment	 with	 Depart
+
+ 	 with	 tment	 	 Navy	 ment.
+
+ 	 Ordna	 .	 	 Depart
+
+ 	 nce	 	 	 ment.
+
+ 	 Depar
+
+ 	 tment
+
+ 	 .
+
+Virginia.	 18 and 45	 726	 82	 398	 9	 ..
+
+ 17 and 18	 ...	 ...	 ..	 ...	 ..
+
+ 45 and 50	 1	 12	 46	 ...	 ...
+
+ Total.	 727	 94	 444	 9	 ...
+
+North	 18 and 45	 134	 14	 100	 3	 13
+
+Carolina.
+
+ 17 and 18	 ...	 ...	 ..	 ...	 ...
+
+ 45 and 50	 ..	 ...	 8	 ..	 ...
+
+ Total.	 134	 14	 108	 3	 13
+
+South	 18 and 45	 74	 2	 1	 ...	 ...
+
+Carolina.
+
+ 17 and 18	 3	 ..	 ..	 ..	 ..
+
+ 45 and 50	 3	 ..	 ..	 ..	 ...
+
+ Total.	 80	 2	 1	 ..	 ...
+
+Georgia.	 18 and 45	 27	 ...	 2	 29	 6
+
+ 17 and 18	 ...	 ...	 ...	 1	 ..
+
+ 45 and 50	 ...	 ...	 ...	 1	 ..
+
+ Total.	 27	 ...	 2	 31	 6
+
+Alabama.	 18 and 45	 1	 21	 6	 ..	 ...
+
+ 17 and 18	 ...	 ...	 ..	 ...	 ..
+
+ 45 and 50	 1	 2	 ...	 ...	 ...
+
+ Total.	 2	 23	 6	 ..	 ..
+
+State.	 Class.	 Contr	 Medic	 Contr	 Treasu	 Contra
+
+ 	 actor	 al	 actor	 ry	 ctors
+
+ 	 s	 Depar	 s	 Depart	 with
+
+ 	 with	 tment	 with	 ment.	 Treasu
+
+ 	 Post-	 .	 Medic	 	 ry
+
+ 	 Offic	 	 al	 	 Depart
+
+ 	 e	 	 Depar	 	 ment.
+
+ 	 Depar	 	 tment
+
+ 	 tment	 	 .
+
+Virginia.	 18 and 45	 ...	 1	 ..	 ...	 ...
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ..	 1	 ..	 ...	 ...
+
+ Total.	 ...	 2	 ..	 ...	 ..
+
+North	 18 and 45	 ...	 20	 ...	 2	 ...
+
+Carolina.
+
+ 17 and 18	 ...	 ...	 ...	 ...	 ...
+
+ 45 and 50	 ...	 ...	 ..	 ...	 ...
+
+ Total.	 ...	 20	 ...	 2	 ...
+
+South	 18 and 45	 ..	 ...	 16	 ..	 37
+
+Carolina.
+
+ 17 and 18	 ..	 ..	 ..	 ..	 1
+
+ 45 and 50	 ...	 ...	 2	 ...	 4
+
+ Total.	 ..	 ...	 18	 ..	 42
+
+Georgia.	 18 and 45	 1	 3	 8	 ..	 ..
+
+ 17 and 18	 ..	 ...	 ...	 ...	 ..
+
+ 45 and 50	 ..	 ..	 1	 ..	 ..
+
+ Total.	 1	 3	 9	 ..	 ..
+
+Alabama.	 18 and 45	 ..	 ..	 ...	 ..	 ..
+
+ 17 and 18	 ..	 ..	 ....	 ..	 ...
+
+ 45 and 50	 ..	 ...	 ...	 ...	 ..
+
+ Total.	 ..	 ..	 ..	 ...	 ..
+
+State.	 Class.	 Niter	 Contra	 State	 Total.
+
+ 	 and	 ctors	 quarter
+
+ 	 Mining	 with	 master"
+
+ 	 Bureau.	 Niter	 s
+
+ 	 	 and	 departm
+
+ 	 	 Mining	 ent.
+
+ 	 	 Bureau
+
+ 	 	 .
+
+Virginia.	 18 and 45	 26	 625	 ...	 3,281
+
+ 17 and 18	 ...	 14	 ...	 28
+
+ 45 and 50	 9	 29	 ..	 ...
+
+ Total.	 35	 668	 ...	 3,484
+
+North	 18 and 45	 399	 271	 191	 1,781
+
+Carolina.
+
+ 17 and 18	 4	 6	 1	 14
+
+ 45 and 50	 12	 26	 ...	 ..
+
+ Total.	 415	 303	 192	 1,885
+
+South	 18 and 45	 7	 ..	 ...	 217
+
+Carolina.
+
+ 17 and 18	 1	 ..	 ..	 10
+
+ 45 and 50	 4	 ..	 ...	 44
+
+ Total.	 12	 ..	 ...	 271
+
+Georgia.	 18 and 45	 ..	 184	 ..	 519
+
+ 17 and 18	 ...	 2	 ...	 13
+
+ 45 and 50	 ...	 12	 ...	 49
+
+ Total.	 ...	 198	 ...	 581
+
+Alabama.	 18 and 45	 333	 48	 ...	 518
+
+ 17 and 18	 9	 4	 ...	 16
+
+ 45 and 50	 14	 4	 ...	 36
+
+ Total.	 356	 56	 ...	 570
+

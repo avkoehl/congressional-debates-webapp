@@ -1,0 +1,247 @@
+
+ Article. 	 Quality.	 Description	 Quantity. 	 Price.
+
+ 	 	 .
+
+19	 Potatoes	 Good. . 	 Irish. . 	 Per bushel	 $4. 00
+
+20	 . . Do. . 	 . . Do.	 Sweet. 	 . . Do. . 	 5. 00
+
+ 	 .
+
+21	 Onions	 . . Do.	 . . . 	 . . Do. . 	 5. 00
+
+ 	 .
+
+22	 Dried	 . . Do.	 Peeled. . 	 Per bushel	 8. 00
+
+ peaches	 . 	 	 of 38
+
+ 	 	 	 pounds
+
+23	 . . Do. . 	 . . Do.	 Unhealed	 . . Do. . 	 4. 50
+
+ 	 .
+
+24	 Dried apples	 . . Do.	 Timothy or	 Per bushel	 3. 00
+
+ 	 . 	 clover	 of 28
+
+ 	 	 	 pounds
+
+25	 Hay, baled	 . . Do.	 Orchard or	 Per 100	 4. 00
+
+ 	 . 	 herd grass.	 pounds
+
+26	 . . Do. . 	 . . Do.	 . . Do. . 	 . . Do. . 	 4. 00
+
+ 	 .
+
+27	 Hay, unbaled	 . . Do.	 . . . 	 . . Do. . 	 3. 70
+
+ 	 .
+
+28	 Sheaf oats,	 . . Do.	 . . . 	 . . Do. . 	 4. 00
+
+ baled	 .
+
+29	 Sheaf oats,	 . . Do.	 . . . 	 . . Do. . 	 3. 70
+
+ unbaled	 .
+
+30	 Blade	 . . Do.	 . . . 	 . . Do. . 	 4. 00
+
+ fodder,	 .
+
+ baled
+
+31	 Blade	 . . Do.	 . . . 	 . . Do. . 	 3. 70
+
+ fodder,	 .
+
+ unbaled
+
+32	 Shucks,	 . . Do.	 . . . 	 . . Do. . 	 2. 50
+
+ baled	 .
+
+33	 Shucks,	 . . Do.	 . . . 	 . . Do. . 	 2. 20
+
+ unbaled	 .
+
+34	 Wheat straw,	 . . Do.	 . . . 	 . . Do. . 	 1. 30
+
+ baled	 .
+
+35	 Wheat straw,	 . . Do.	 . . . 	 . . Do. . 	 1. 00
+
+ unbred	 .
+
+36	 Pasturage	 . . Do.	 Interior	 Per head	 3. 00
+
+ 	 . 	 	 per month
+
+37	 . . Do. . 	 . . Do.	 Near cities	 . . Do. . 	 6. 00
+
+ 	 .
+
+38	 Salt	 . . Do.	 . . . 	 Per bushel	 5. 00
+
+ 	 . 	 	 of 50
+
+ 	 	 	 pounds
+
+39	 Sopa	 . . Do.	 . . . 	 Per pound	 . 30
+
+ 	 .
+
+40	 Candless	 . . Do.	 Tallow. 	 . . Do. . 	 1. 00
+
+ 	 .
+
+41	 Vinegar	 . . Do.	 Cider. 	 Per gallon	 1. 00
+
+ 	 .
+
+42	 Whisky	 . . Do.	 Trade. 	 . . Do. . 	 3. 00
+
+ 	 .
+
+43	 Sugar	 . . Do.	 Brown. 	 Per pound	 1. 00
+
+ 	 .
+
+44	 Molasses	 . . Do.	 New	 Per gallon	 8. 00
+
+ 	 . 	 Orleans.
+
+45	 Rice	 . . Do.	 . . . 	 Per pound	 . 15
+
+ 	 .
+
+46	 Coffee	 . . Do.	 Rio. 	 . . Do. . 	 3. 00
+
+ 	 .
+
+47	 Tea	 . . Do.	 Trade. 	 . . Do. . 	 10. 00
+
+ 	 .
+
+48	 Vinegar	 . . Do.	 Manufac-	 Per gallon	 . 50
+
+ 	 . 	 tured.
+
+49	 Pig-iron	 . . Do.	 No. 1	 Per ton	 125. 00
+
+ 	 . 	 quality
+
+50	 . . Do. . 	 . . Do.	 No. 2	 . . Do. . 	 110. 00
+
+ 	 . 	 quality
+
+51	 . . Do. . 	 . . Do.	 No. 3	 . . Do. . 	 100. 00
+
+ 	 . 	 quality
+
+52	 Bloom iron	 . . Do.	 . . . 	 . . Do. . 	 180. 00
+
+ 	 .
+
+53	 Smith's iron	 . . Do.	 Round,	 . . Do. . 	 380. 00
+
+ 	 . 	 plate, and
+
+ 	 	 bar.
+
+54	 Leather 	 . . Do.	 Harness. 	 Per pound	 2. 60
+
+ 	 .
+
+55	 . . Do. . 	 . . Do.	 Sole. 	 . . Do. . 	 2. 40
+
+ 	 .
+
+56	 . . Do. . 	 . . Do.	 Upper. 	 . . Do. . 	 2. 80
+
+ 	 .
+
+We respectfully suggest to the Secretary of War to instruct the agents of the Government not to impress any article of food going into cities to towns, or when held therein by retail dealers in small quantities for the daily or weekly consumption of the inhabitants; but this restriction not to apply to such articles held by speculators or those them up for higher prices.
+
+E. W. HUBBARD.
+
+ROBERT GIBBONEY.
+
+WM. B. HARRISON.
+
+SCHEDULE B. - Hire of labor, teams, wagons, and drivers.
+
+ 	 	 Price.
+
+1	 Baling long forage	 Per 100 pounds	 $0. 30
+
+2	 Shelling and bagging corn; 	 Per 56 pounds	 . 50
+
+ sacks furnished by the
+
+ Government.
+
+3	 Hauling	 Per hundred	 . 60
+
+ 	 weight per mile
+
+4	 Hauling grain	 Per bushel per	 . 03
+
+ 	 mile
+
+5	 Hire of 2-horse team, wagon, and	 Per day	 10. 00
+
+ drive; rations furnished by
+
+ owner.
+
+6	 Hire of same; rations furnished	 . . Do. . 	 5. 00
+
+ by the Government.
+
+7	 Hire of 4-horse team, wagon, and	 . . Do. . 	 13. 00
+
+ driver; rations furnished by
+
+ owner.
+
+8	 Hire of same; rations furnished	 . . Do. . 	 6. 50
+
+ by the Government.
+
+9	 Hire of 6-horse team, when, and	 . . Do. . 	 16. 00
+
+ driver; rations furnished by
+
+ owner.
+
+10	 Hire of laborer; rations	 . . Do. . 	 8. 00
+
+ furnished by the Government.
+
+11	 Hire of same; rations furnished	 . . Do. . 	 2. 00
+
+ by owner.
+
+12	 Hire os same; rations furnished	 . . Do. . 	 1. 25
+
+ by the Government.
+
+13	 Hire os same; rations furnished	 Per month	 40. 00
+
+ by owner.
+
+14	 Hire of same; rations furnished	 . . Do. . 	 20. 00
+
+ by the Government.
+
+E. W. HUBBARD.
+
+ROBERT GIBBONEY.
+
+WM. B. HARRISON.
+

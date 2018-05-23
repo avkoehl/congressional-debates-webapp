@@ -1,0 +1,125 @@
+
+Numbers 2.
+
+Return of Casualties in the Union forces commanded by Major General William T. Sherman, U. S. Army, in the skirmishes at Chickasaw Bayou, december 27 and 28, and on Chickasaw Bluffs, Miss., December 29, 1862.
+
+[Compiled from nominal lists of casualties, return, etc.]
+
+Command.	 Kill	 Kill	 Woun	 Wound	 Capt	 Captu	 Aggre
+
+ ed.	 ed.	 ded.	 ed.	 ured	 red	 gate.
+
+ 	 	 	 	 or	 or
+
+ 	 	 	 	 miss	 missi
+
+ 	 	 	 	 ing.	 ng.
+
+ Offi	 Enli	 Offi	 Enlis	 Offi	 Enlis	 Aggre
+
+ cers	 sted	 cers	 ted	 cers	 ted	 gate.
+
+ .	 men.	 .	 men.	 .	 men.
+
+General	 ...	 ...	 1	 ...	 ...	 ...	 1
+
+officers.
+
+3rd ilinois	 ...	 ...	 1	 2	 ...	 ...	 3
+
+Cavalry.
+
+13th Illinois.	 3 	 24	 8	 99	 2	 37	 137
+
+55th Illinois	 1	 1	 1	 3	 ...	 2	 8
+
+116th Illinois.	 ...	 ...	 ...	 5	 ...	 ...	 5
+
+127th Illinois.	 ...	 1	 2	 3	 ...	 ...	 6
+
+16th Indiana.	 ...	 ...	 ...	 1	 ...	 ...	 1
+
+49th Indiana.	 1	 5	 ...	 32	 ...	 18	 56
+
+54th Indiana.	 ...	 17	 10	 102	 ...	 132	 264
+
+67th Indiana.	 ...	 1	 ...	 ...	 3	 ...	 1
+
+69th Indiana.	 ...	 ...	 ...	 11	 ...	 2	 13
+
+83rd Indiana.	 1	 3	 2	 13	 ...	 ...	 19
+
+4th Iowa.	 1	 6	 4	 101	 ...	 ...	 112
+
+9th Iowa.	 ...	 ...	 ...	 6 	 ...	 2 	 8
+
+25th Iowa.	 ...	 1	 ...	 7	 ...	 2	 10
+
+30th Iowa.	 ...	 ...	 ...	 4	 ...	 ...	 4
+
+31st Iowa.	 ...	 ...	 ...	 2	 ...	 ...	 2
+
+7th Kentucky.	 1	 4	 ...	 6	 ...	 3	 14
+
+22nd Kentucky.	 3	 6	 5	 67 	 ...	 26	 107
+
+Michigan Light	 ...	 ...	 1	 10 	 ...	 ...	 11
+
+Artillery, 7th
+
+Battery.
+
+6th Missouri	 ...	 2	 ...	 2	 ...	 2	 6
+
+Cavalry.
+
+3rd Missouri.	 ...	 ...	 ...	 2	 ...	 ... 	 2
+
+6th Missouri.	 1	 13	 1	 42	 ...	 ...	 57
+
+8th Missouri.	 ...	 ...	 ...	 3	 ...	 ...	 3
+
+12th Missouri.	 ...	 2	 ...	 4	 ...	 ...	 6
+
+17th Missouri.	 ...	 3	 ...	 6	 ...	 ...	 9
+
+29th Missouri	 2	 17	 4	 66 	 4	 57	 150
+
+31st Missouri.	 ...	 17	 10	 62	 2	 60	 151
+
+32nd Missouri.	 ...	 ...	 ...	 2	 ...	 ...	 2
+
+Ohio Light	 ...	 ...	 ...	 2	 ...	 ...	 2
+
+Artillery, 4th
+
+Battery.
+
+16th Ohio.	 ...	 16	 4	 97	 12	 182	 311
+
+42nd Ohio.	 ...	 6	 ...	 36 	 ...	 ...	 42
+
+54th Ohio.	 ...	 4	 3	 10	 ...	 2	 19
+
+57th Ohio.	 1	 ...	 ...	 2	 ...	 2	 5
+
+58th Ohio.	 3	 33	 7	 71	 2	 9	 125
+
+114th Ohio.	 1	 5	 1	 29	 ...	 ...	 36
+
+120th Ohio.	 ...	 ...	 ...	 16	 ...	 ...	 16
+
+Wisconsin Light	 ...	 1	 ...	 2	 ...	 ...	 3
+
+Artillery, 1st
+
+Battery.
+
+13th U. S.	 ...	 1	 ...	 12	 ...	 ...
+
+Infantry, 1st	 	 	 	 	 	 	 13
+
+Battalion.
+
+Total	 19	 189	 65	 940	 25	 538	 1,776
+

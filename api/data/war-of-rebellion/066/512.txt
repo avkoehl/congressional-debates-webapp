@@ -1,0 +1,421 @@
+
+ Batter	 Batter	 Batte	 Fort	 Batter	 Headqu
+
+ y	 y	 ry	 Johnso	 y	 arters
+
+ Glover	 Wample	 Harle	 n.	 Simkin	 Brooke
+
+ .	 r.	 ston.	 	 s.	 gun.
+
+8-inch	 ...	 ...	 ...	 ...	 ...	 ...
+
+howitzers
+
+canister.
+
+12-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+howitzer
+
+spherical
+
+case.
+
+Cartridges:
+
+18-pound.	 ...	 ...	 ...	 ...	 18	 ...
+
+16-pound.	 ...	 ...	 ...	 ...	 33	 ...
+
+15-pound.	 ...	 ...	 ...	 ...	 343	 ...
+
+13-pound.	 ...	 ...	 ...	 ...	 40	 ...
+
+10-pound.	 ...	 ...	 ...	 ...	 116	 ...
+
+8-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+7-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+6-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+5-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+4-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+2 1/2-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+2-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+1 1/4-pound.	 ...	 ...	 ...	 ...	 ...	 ...
+
+Cannon powder.	 110	 ...	 ...	 ...	 ...	 ...
+
+6-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+spherical
+
+case.
+
+6-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+canister.
+
+ Batter	 New	 Batter	 Batter	 Batter
+
+ y	 mortar	 y	 y	 y Ryan
+
+ Cheves	 batter	 Haskel	 Tatom.	 (left)
+
+ .	 y.	 l.	 	 .
+
+8-inch howitzers	 ...	 ...	 15	 ...	 ...
+
+canister.
+
+12-pounder howitzer	 ...	 ...	 ...	 24	 ...
+
+spherical case.
+
+Cartridges:
+
+18-pound.	 ...	 ...	 ...	 ...	 ...
+
+16-pound.	 ...	 ...	 ...	 ...	 ...
+
+15-pound.	 ...	 ...	 ...	 ...	 ...
+
+13-pound.	 ...	 ...	 ...	 ...	 ...
+
+10-pound.	 324	 ...	 ...	 ...	 ...
+
+8-pound.	 108	 ...	 91	 11	 ...
+
+7-pound.	 ...	 ...	 124	 ...	 ...
+
+6-pound.	 ...	 ...	 196	 156	 ...
+
+5-pound.	 ...	 ...	 47	 ...	 ...
+
+4-pound.	 ...	 ...	 17	 ...	 ...
+
+2 1/2-pound.	 ...	 ...	 144	 ...	 ...
+
+2-pound.	 ...	 ...	 ...	 40	 ...
+
+1 1/4-pound.	 ...	 ...	 364	 232	 ...
+
+Cannon powder.	 ...	 ...	 ...	 180	 ...
+
+6-pounder spherical	 ...	 ...	 74	 ...	 ...
+
+case.
+
+6-pounder canister. 	 ...	 ...	 64	 ...	 ...
+
+Not lines.
+
+ Batter	 Redoub	 Secess	 Work	 Work	 Work
+
+ y Ryan	 t	 ionvil	 Number	 Number	 Number
+
+ (right	 Number	 le.	 s 1.	 s 2.	 s 3.
+
+).	 s 1.
+
+Columbiads: 	 ...	 ...	 ...	 ...	 ...	 ...
+
+10-inch,	 ...	 ...	 ...	 ...	 ...	 ...
+
+smooth-bore.
+
+8-inch,	 ...	 1	 3	 ...	 1	 ...
+
+smooth-bore.
+
+8-inch,	 ...	 ...	 ...	 ...	 ...	 ...
+
+shell-gun.
+
+42-pounder,	 ...	 ...	 ...	 ...	 ...	 ...
+
+rifled,
+
+single
+
+banded.
+
+42-pounder,	 ...	 ...	 ...	 ...	 ...	 ...
+
+rifled and
+
+banded
+
+(barbette).
+
+32-pounder,	 ...	 ...	 ...	 ...	 ...	 ...
+
+rifled and
+
+banded
+
+(columbiad
+
+carriages).
+
+32-pounders,	 ...	 ...	 ... 	 ...	 ...	 ...
+
+rifled and
+
+banded
+
+(barbette).
+
+32-pounders,	 ...	 1	 3	 ...	 ...	 ...
+
+rifled
+
+(barbette).
+
+32-pounder	 ...	 ...	 5 	 ...	 2	 ...
+
+smooth-bores
+
+(barbette).
+
+24-pounder,	 ...	 ...	 1	 ...	 ...	 ...
+
+rifled
+
+(barbette).
+
+24-pounder,	 ...	 ...	 1	 ...	 ...	 ...
+
+rifled
+
+(siege).
+
+24-pounder	 ...	 ...	 1	 ...	 1	 2
+
+smooth-bores
+
+(barbette).
+
+24-pounder	 ...	 ...	 ...	 2	 ...	 ...
+
+smooth-bores
+
+(siege).
+
+18-pounder	 ...	 ...	 1	 ...	 ...	 3
+
+smooth-bores
+
+(siege).
+
+12-pounder	 ...	 ...	 ...	 2	 ...	 ...
+
+smooth-bores
+
+(siege).
+
+6-pounder	 ...	 ...	 2	 ...	 ...	 ...
+
+smooth-bores,
+
+iron,
+
+(field).
+
+12-pounder,	 ...	 ...	 ...	 1	 ...	 ...
+
+rifled
+
+(siege).
+
+8-inch sea-	 ...	 ...	 ...	 ...	 1	 ...
+
+coast
+
+howitzers
+
+(siege).
+
+8-inch siege	 ...	 ...	 ...	 1	 ...	 1
+
+howitzers.
+
+24-pounder	 ...	 ...	 1	 ...	 ...	 ...
+
+howitzers.
+
+12-pounder	 4	 ...	 ...	 ...	 ...	 ...
+
+howitzers.
+
+10-inch shot.	 ...	 ...	 ...	 ...	 ...	 ...
+
+10-inch	 ...	 ...	 ...	 ...	 ...	 ...
+
+shell.
+
+10-inch	 ...	 ...	 ...	 ...	 ...	 ...
+
+canister.
+
+10-inch	 ...	 ...	 ...	 ...	 ...	 ...
+
+grape.
+
+8-inch shell.	 ...	 103	 212	 ...	 164	 ...
+
+8-inch	 ...	 30	 53	 ...	 30	 ...
+
+canister.
+
+8-inch grape.	 ...	 10	 135	 ...	 28	 ...
+
+8-inch shot.	 ...	 15	 ...	 ...	 ...	 ...
+
+42-pounder 	 ...	 ...	 ...	 ...	 ...	 ...
+
+conical shot.
+
+42-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+bolts.
+
+42-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+shell.
+
+42-pounder	 ...	 ...	 ...	 ...	 ...	 ...
+
+grape.
+
+32-pounder	 ...	 50	 252	 ...	 70	 ...
+
+shell.
+
+32-pounder	 ...	 ...	 60	 ...	 ...	 ...
+
+bolts.
+
+New lines.
+
+ Work	 Work	 Batter	 Batter	 Fort
+
+ Number	 Numbe	 y	 y	 Pember
+
+ s 4.	 rs 5.	 Pringl	 Tynes.	 ton.
+
+ 	 	 e.
+
+Columbiads:
+
+10-inch, smooth-bore.	 ...	 ...	 1	 ...	 ...
+
+8-inch, smooth-bore.	 ...	 ...	 1	 1	 ...
+
+8-inch, shell-gun.	 ...	 ...	 2	 ...	 ...
+
+42-pounder, rifled,	 ...	 ...	 2	 ...	 ...
+
+single banded.
+
+42-pounder, rifled and	 ...	 ...	 ...	 1	 ...
+
+banded (barbette).
+
+32-pounder, rifled and	 ...	 ...	 ...	 1	 ...
+
+banded (columbiad
+
+carriages).
+
+32-pounders, rifled	 ...	 ...	 ...	 2	 ...
+
+and banded (barbette).
+
+32-pounders, rifled	 ...	 ...	 2	 ...	 2
+
+(barbette).
+
+32-pounder smooth-	 2	 ...	 ...	 ...	 2
+
+bores (barbette).
+
+24-pounder, rifled	 ...	 ...	 ...	 ...	 ...
+
+(barbette).
+
+24-pounder, rifled	 ...	 ...	 ...	 ...	 ...
+
+(siege).
+
+24-pounder smooth-	 ...	 ...	 ...	 ...	 ...
+
+bores (barbette).
+
+24-pounder smooth-	 2	 2	 ...	 ...	 ...
+
+bores (siege).
+
+18-pounder smooth-	 ...	 ...	 ...	 ...	 ...
+
+bores (siege).
+
+12-pounder smooth-	 ...	 1	 ...	 ...	 ...
+
+bores (siege).
+
+6-pounder smooth-	 ...	 ...	 ...	 ...	 ...
+
+bores, iron, (field).
+
+12-pounder, rifled	 ...	 ...	 ...	 ...	 ...
+
+(siege).
+
+8-inch sea-coast	 1	 ...	 ...	 ...	 ...
+
+howitzers (siege).
+
+8-inch siege	 ...	 ...	 ...	 ...	 ...
+
+howitzers.
+
+24-pounder howitzers.	 ...	 1	 ...	 ...	 ...
+
+12-pounder howitzers.	 ...	 ...	 ...	 ...	 ...
+
+10-inch shot.	 ...	 ...	 90	 ...	 ...
+
+10-inch shell.	 ...	 ...	 143	 ...	 ...
+
+10-inch canister.	 ...	 ...	 23	 ...	 ...
+
+10-inch grape.	 ...	 ...	 25	 ...	 ...
+
+8-inch shell.	 ...	 ...	 167 	 74	 ...
+
+8-inch canister.	 ...	 ...	 46	 21	 ...
+
+8-inch grape.	 ...	 ...	 ...	 4	 ...
+
+8-inch shot.	 ...	 ...	 98	 155	 ...
+
+42-pounder conical	 ...	 ...	 119	 ...	 ...
+
+shot.
+
+42-pounder bolts.	 ...	 ...	 59	 199	 ...
+
+42-pounder shell.	 ...	 ...	 44	 36	 ...
+
+42-pounder grape.	 ...	 ...	 19	 ...	 ...
+
+32-pounder shell.	 192	 ...	 ...	 28	 15
+
+32-pounder bolts.	 ...	 ...	 269	 344	 ...
+

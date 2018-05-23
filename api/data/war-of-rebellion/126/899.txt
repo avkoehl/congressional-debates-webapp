@@ -1,0 +1,247 @@
+
+356	 George Eyster.	 Provost-	 16	 ...do...
+
+ 	 marshal
+
+357	 John T. McIlhenny.	 Commissioner	 16	 ...do...
+
+358	 John Culp.	 ...do...	 16	 ...do...
+
+359	 Raymond S. Seiss	 Surgeon	 16	 ...do...
+
+360	 Samuel G. Lane	 ...do...	 16	 ...do...
+
+361	 William C. Lane	 ...do...	 16	 ...do...
+
+362	 James D Campbell.	 Provost-	 17	 ...do...
+
+ 	 marshal
+
+363	 A. M. Lloyd.	 ...do...	 17	 ...do...
+
+364	 Mathias S. Harr	 Commissioner	 17	 ...do...
+
+365	 Abraham Rothrock.	 Surgeon	 17	 ...do...
+
+366	 William W. White	 Provost-	 18	 ...do...
+
+ 	 marshal
+
+367	 William H. Blair	 ...do...	 18	 ...do...
+
+368	 Robert Hawley.	 Commissioner	 18	 ...do...
+
+369	 James H. Dobbins	 Surgeon	 18	 ...do...
+
+370	 Thomas F. Duncan.	 ...do...	 18	 ...do...
+
+371	 Hugh S. Campbell.	 Provost-	 19	 ...do...
+
+ 	 marshal
+
+372	 Jerome Powell.	 Commissioner	 19	 ...do...
+
+373	 Edward Souther	 ...do...	 19	 ...do...
+
+374	 John Mechling.	 Surgeon	 19	 ...do...
+
+375	 Charles M. Matson.	 ...do...	 19	 ...do...
+
+376	 David V.	 Provost-	 20	 ...do...
+
+ Derickson.	 marshal
+
+377	 Henry Wetter.	 Commissioner	 20	 ...do...
+
+378	 Salmon S. Bates	 Surgeon	 20	 ...do...
+
+379	 Theodore B.	 ...do...	 20	 ...do...
+
+ Lashells.
+
+380	 William B. Coulter	 Provost-	 21	 ...do...
+
+ 	 marshal
+
+381	 Augustus Row	 Commissioner	 21	 ...do...
+
+382	 Frederick C.	 Surgeon	 21	 ...do...
+
+ Robinson.
+
+383	 James A Herron.	 Provost-	 22 	 ...do...
+
+ 	 marshal
+
+384	 James Heron	 ...do...	 22	 ...do...
+
+ Foster.
+
+385	 William H.	 Commissioner	 22	 ...do...
+
+ Campbell
+
+386	 Robert B. Simpson	 Surgeon	 22	 ...do...
+
+387	 James W. Kirker	 Provost-	 23	 ...do...
+
+ 	 marshal
+
+388	 Josiah Copley	 Commissioner	 23	 ...do...
+
+389	 John S. Kuhn	 Surgeon	 23	 ...do...
+
+390	 A. Perchment	 ...do...	 23	 ...do...
+
+391	 John Cuthbertson	 Provost-	 24	 ...do...
+
+ 	 marshal
+
+392	 Milo R. Adams	 Commissioner	 24	 ...do...
+
+393	 Robert D. Wallace	 Surgeon	 24	 ...do...
+
+394	 E. L. King	 ...do...	 24	 ...do...
+
+395	 Edwin Wilmer	 Provost-	 1	 Delaware
+
+ 	 marshal
+
+396	 Leonard E. Waqles	 Commissioner	 1	 ...do...
+
+397	 Samuel Biddle	 ...do...	 1	 ...do...
+
+398	 Lawrence M. Cahall	 Surgeon	 1	 ...do...
+
+399	 Daniel G. Fisher	 ...do...	 1	 ...do...
+
+400	 John Frazier, jr.	 Provost-	 1	 Maryland
+
+ 	 marshal
+
+401	 William J. Leonard	 ...do...	 1	 ...do...
+
+402	 Andrew Stafford	 ...do...	 1	 ...do...
+
+403	 David Blockson	 Commissioner	 1	 ...do...
+
+404	 Charles R.	 ...do...	 1	 ...do...
+
+ Mullekin
+
+405	 William H. Farrow	 Surgeon	 1	 ...do...
+
+356	 April 18, 1863.	 Honorably discharged Sept. 30, 1865.
+
+357	 April 18, 1863.	 Resigned Feb. 2, 1864.
+
+358	 Feb. 13, 1864.	 Honorably discharged May 8, 1865.
+
+359	 April 18, 1863.	 Resigned March 7, 1864.
+
+360	 March 11, 1864.	 Resigned Aug. 13, 1864.
+
+361	 Aug. 17, 1864.	 Honorably discharged June 15, 1865.
+
+362	 April 18, 1863.	 Dismissed the service Jan. 25, 1864.
+
+363	 Jan. 27, 1864.	 Honorably discharged Sept. 30, 1865.
+
+364	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+365	 April 18, 1863.	 Honorably discharged June 15, 1865.
+
+366	 April 18, 1863.	 Dismissed the service Jan. 11,
+
+ 	 1864.*
+
+367	 Jan. 11, 1864.	 Honorably discharged Nov. 30, 1865.
+
+368	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+369	 April 18, 1863.	 Resigned Nov. 2, 1863.
+
+370	 December 16,	 Honorably discharged June 15, 1865.
+
+ 1863.
+
+371	 April 18, 1863.	 Honorably discharged Sept. 30, 1865.
+
+372	 April 18, 1863.	 Resigned Sept. 8, 1864.
+
+373	 Sept. 14, 1864.	 Honorably discharged May 8, 1865.
+
+374	 April 18, 1863.	 Resigned April 11, 1864.
+
+375	 April 21, 1864.	 Honorably discharged June 15, 1865.
+
+376	 April 18, 1863.	 Honorably discharged Nov. 10, 1865.
+
+377	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+378	 April 18, 1863.	 Resigned Aug. 22, 1864.
+
+379	 Sept. 29, 1864.	 Honorably discharged June 15, 1865.
+
+380	 April 18, 1863.	 Honorably discharged Sept. 30, 1865.
+
+381	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+382	 April 18, 1863.	 Honorably discharged June 15, 1865.
+
+383	 April 18, 1863.	 Appointment revoked June 5, 1863.
+
+384	 June 5, 1863.	 Honorably discharged December 31,
+
+ 	 1865.
+
+385	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+386	 April 18, 1863.	 Honorably discharged June 15, 1865.
+
+387	 April 18, 1863.	 Honorably discharged Sept. 30, 1865.
+
+388	 April 18., 1863.	 Honorably discharged May 8, 1865.
+
+389	 April 18, 1863.	 Resigned Aug. 7, 1863.
+
+390	 Aug. 14, 1863.	 Honorably discharged June 15., 1865.
+
+391	 April 18, 1863.	 Died Sept. 21, 1865.
+
+392	 April 18, 1863.	 Honorably discharged May 8, 1865.
+
+393	 April 18, 1863.	 Resigned Feb. 15, 1865.
+
+394	 April 12, 1863.	 Appointment revoked June 2, 1865.
+
+395	 May 1, 1863.	 Dismissed by sentence of general
+
+ 	 court-martial June 15, 1865.
+
+396	 May 1, 1863.	 Resigned Sept. 23, 1864.
+
+397	 Sept. 30, 1864.	 Honorably discharged April 30,
+
+ 	 1865.
+
+398	 May 1, 1863.	 Resigned Aug. 31, 1863.
+
+399	 Aug. 31, 1863.	 Appointment revoked April 22, 1865.
+
+400	 May 16, 1863.	 Appointment revoked Feb. 15, 1864.
+
+401	 Feb. 15, 1864.	 Appointment revoked Sept. 15, 1864.
+
+402	 Sept. 15, 1864.	 Honorably discharged Aug. 10, 1865.
+
+403	 June 1, 1863.	 Appointment revoked Feb. 15, 1864.
+
+404	 Feb. 15, 1864.	 Honorably discharged April 30,
+
+ 	 1865.
+
+405	 May 16, 1863.	 Honorably discharged June 15, 1865.
+
+*Dismissal revoked and honorably discharged January 11, 1864.
+

@@ -1,0 +1,283 @@
+
+[Inclosure.]
+
+Name	 Command	 Station
+
+Major General J. 	 Army of the	 Camp near Silver
+
+A. Logan. 	 Tennessee	 Springs
+
+Major General W. 	 Fifteenth Army	 Camp near Meridian
+
+B. Hazen. 	 Corps	 Hill
+
+Major General C. 	 First Division	 Camp near Crystal
+
+R. Woods. 	 	 Spring.
+
+Brigadier General 	 First Brigade,	 Do.
+
+W. B. Woods. 	 First Division
+
+Brigadier General 	 Second Division	 Camp near
+
+J. M. Oliver. 	 	 Brightwood.
+
+Major General J. 	 Fourth Division	 Seventh street toll
+
+M. Corse. 	 	 gate.
+
+Brigadier General 	 First Brigade,	 With troops.
+
+E. W. Rice. 	 Fourth Division
+
+Brigadier General 	 Second Brigade,	 Absent till 31st
+
+W. T. Clark. 	 Fourth Division	 instant.
+
+Brigadier General 	 Third Brigade,	 With troops.
+
+R. Rowett. 	 Fourth Division
+
+Major General F. 	 Seventeenth Army	 Do.
+
+P. Blair. 	 Corps
+
+Brigadier General 	 First Division	 Fourteenth street,
+
+M. F. Force. 	 	 near Piney Branch.
+
+Brigadier General 	 First Brigade,	 Do.
+
+J. W. Fuller. 	 First Division
+
+Brigadier General 	 Second Brigade,	 Do.
+
+J. W. Sprague. 	 First Division
+
+Brigadier General 	 Third Brigade,	 Do.
+
+J. Tillson. 	 First Division
+
+Major General M. 	 Third Division	 Do.
+
+D. Leggett
+
+Brigadier General 	 Second Brigade,	 Do.
+
+R. K. Scott. 	 Third Division
+
+Brigadier General 	 First Brigade,	 Do.
+
+C. Ewing. 	 Third Division
+
+Major General G. 	 Fourth Division	 Do.
+
+A. Smith.
+
+Brigadier General 	 First Brigade,	 Do.
+
+B. F. Potts. 	 Fourth Division
+
+Brigadier General 	 Second Brigade,	 Do.
+
+C. J. Stolbrand. 	 Fourth Division
+
+Brigadier General 	 Third Brigade,	 Do.
+
+W. W. Belknap. 	 Fourth Division
+
+Major General H. 	 Army of Georgia	 Near Hoover's farm.
+
+W. Slocum.
+
+Major General J. 	 Twentieth Army	 Near Bladensburg.
+
+A. Mower. 	 Corps
+
+Major General A. 	 First Division	 Near Hoover's farm.
+
+S. Williams.
+
+Major General J. 	 Second Division	 Do.
+
+W. Geary.
+
+Bvt. Major 	 Third Division,
+
+General W. T. 	 Twentieth Army
+
+Ward. 	 Corps
+
+Brigadier General 	 Third Brigade,
+
+J. S. Robinson. 	 First Division,
+
+ Twentieth Army
+
+ Corps
+
+Brigadier General 	 Second Brigade,
+
+P. H. Jones. 	 Second Division
+
+ Twentieth Army
+
+ Corps
+
+Bvt. Brigadier 	 First Brigade,
+
+General J. L. 	 First Division,
+
+Selfridge. 	 Twentieth Army
+
+ Corps
+
+Bvt. Brigadier 	 Second Brigade,
+
+General W. 	 First Division,
+
+Hawley. 	 Twentieth Army
+
+ Corps
+
+Bvt. Brigadier 	 Third Brigade,
+
+General S. J. 	 Second Division,
+
+McGroarty. 	 Twentieth Army
+
+ Corps. *
+
+Bvt. Brigadier 	 . . . . . . do . .	 Near Bladensburg
+
+General H. A. 	 . . . . . .
+
+Barnum.
+
+Bvt. Brigadier 	 First Brigade,	 Do.
+
+General A. 	 Second Division,
+
+Pardee, Jr. 	 Twentieth Army
+
+ Corps
+
+Bvt. Brigadier 	 Third Brigade,	 Near Fort Lincoln
+
+General W. 	 Third Division,
+
+Cogswell. 	 Twentieth Army
+
+ Crops
+
+Bvt. Brigadier 	 First Brigade,	 Do.
+
+General B. 	 Third Division,
+
+Harrison. 	 Twentieth Army
+
+ Corps
+
+Bvt. Brigadier 	 Second Brigade,	 Do.
+
+General D. 	 Third Division,
+
+Dustin. 	 Twentieth Army
+
+ Corps.
+
+Bvt. Brigadier 	 136th New York	 Do.
+
+General J. Wood. 	 Volunteers
+
+Bvt. Brigadier 	 102nd Illinois	 Do.
+
+General F. Smith.	 Volunteers
+
+Bvt. Major 	 Fourteenth Army	 In camp.
+
+General J. C. 	 Corps
+
+Davis.
+
+Brigadier General 	 First Division,	 Do.
+
+C. C. Walcutt. 	 Fourteenth Army
+
+ Corps
+
+Bvt. Brigadier 	 First Brigade,	 Do.
+
+General H. C. 	 First Division,
+
+Hobart. 	 Fourteenth Army
+
+ Corps
+
+Bvt. Brigadier 	 Second Brigade,	 Do.
+
+General G. P. 	 First Division,
+
+Buell. 	 Fourteenth Army
+
+ Corps
+
+Bvt. Major 	 Second Division,	 Do.
+
+General J. D. 	 Fourteenth Army
+
+Morgan. 	 Corps
+
+Brigadier General 	 First Brigade,	 Do.
+
+W. Vandever. 	 Second Division,
+
+ Fourteenth Army
+
+ Corps.
+
+Brigadier General 	 Second Brigade,	 Do.
+
+J. G. Mitchell. 	 Second Division,
+
+ Fourteenth Army
+
+ Corps
+
+Bvt. Brigadier 	 Third Brigade,	 Do. +
+
+General B. D. 	 Second Division,
+
+Fearing. 	 Fourteenth Army
+
+ Corps
+
+Brigadier General 	 Third Division,	 Absent, wounded. +
+
+A. Baird. 	 Fourteenth Army
+
+ Corps
+
+Brigadier General 	 Third Brigade,	 In camp.
+
+G. S. Greene. 	 Third Division,
+
+ Fourteenth Army
+
+ Corps
+
+---------------
+
+*McRoarty commanded his regiment (Eighty-second Ohio) in the Third, First Division, Twentieth Corps.
+
+---------------
+
++So in original, but Fearing was "absent, wounded," and Baird was in command of his division.
+
+Very respectfully, your obedient servant,
+
+W. T. SHERMAN,
+
+Major-General, Commanding.
+

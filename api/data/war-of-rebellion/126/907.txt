@@ -1,0 +1,305 @@
+
+721	 Joseph C. Hinsey	 Surgeon	 4	 ...do...
+
+722	 N. S. Hamlin	 ...do...	 4	 ...do...
+
+723	 Samuel C. Brownell	 Provost-	 5	 ...do...
+
+ 	 marshal
+
+724	 J. N. Cornish	 Commissione	 5	 ...do...
+
+ 	 r
+
+725	 E. S. Hedges	 ...do...	 5	 ...do...
+
+726	 John P. Fenley	 Surgeon	 5	 ...do...
+
+727	 Warner H. Curtiss	 Provost-	 6	 ...do...
+
+ 	 marshal
+
+728	 Woolsey Welles	 Commissione	 6	 ...do...
+
+ 	 r
+
+729	 William R. Smith	 Surgeon	 6	 ...do...
+
+730	 Richard Stebbins	 ...do...	 6	 ...do...
+
+731	 Charles H. See	 Provost-	 1 	 Minnesota
+
+ 	 marshal
+
+732	 Ormango Allen	 ...do...	 1 	 ...do...
+
+733	 Charles C. Cole	 Commissione	 1	 ...do...
+
+ 	 r
+
+734	 Reuben Reynolds	 ...do...	 1	 ...do...
+
+735	 William M. Mayo	 Surgeon	 1	 ...do...
+
+736	 E. C. Cross	 ...do...	 1	 ...do...
+
+737	 George H. Keith	 Provost-	 2	 ...do...
+
+ 	 marshal
+
+738	 Joseph A. Thacher	 Commissione	 2 	 ...do...
+
+ 	 r
+
+739	 Jared D. Wheelock	 Surgeon	 2	 ...do...
+
+740	 Jacob H. Stewart	 ...do...	 2	 ...do...
+
+741	 Charles D. Colman	 Provost-	 1 	 Missouri
+
+ 	 marshal
+
+742	 Nathaniel McDonald	 Commissione	 1	 ...do...
+
+ 	 r
+
+743	 Arba N. Crane	 ...do...	 1	 ...do...
+
+744	 Julian Bates	 Surgeon	 1	 ...do...
+
+745	 C. C. Manwarning	 Provost-	 2 	 ...do...
+
+ 	 Marshal
+
+746	 Henry C. Wright	 ...do...	 2	 ...do...
+
+747	 L. D. Morse	 Commissione	 2	 ...do...
+
+ 	 r
+
+748	 William Taussig	 Surgeon	 2	 ...do...
+
+749	 Emil Seeman	 ...do...	 2	 ...do...
+
+750	 Charles W. Noell	 Provost-	 3 	 ...do...
+
+ 	 marshal
+
+751	 Carroll R. Peck	 ...do...	 3	 ...do...
+
+752	 James A. Greason	 Commissione	 3	 ...do...
+
+ 	 r
+
+753	 James R. McCormick	 Surgeon	 3	 ...do...
+
+754	 William F. Bodenhamer	 Provost-	 4 	 ...do...
+
+ 	 marshal
+
+755	 John M. Richardson	 ...do...	 4	 ...do...
+
+756	 J. T. Hubbard	 ...do...	 4	 ...do...
+
+757	 J. W. D. L. F. Mack	 Commissione	 4	 ...do...
+
+ 	 r
+
+758	 A. M. Julian	 ...do...	 4	 ...do...
+
+759	 James L. Robberson	 ...do...	 4	 ...do...
+
+760	 Nicholas B. Hocker	 Surgeon	 4	 ...do...
+
+761	 E. Ebert	 ...do...	 4	 ...do...
+
+762	 Asa C. Marvin	 Provost-	 5 	 ...do...
+
+ 	 marshal
+
+763	 Charles M. Ward	 ...do...	 5	 ...do...
+
+764	 A. S. O"Bannon	 Commissione	 5	 ...do...
+
+ 	 r
+
+765	 Bernard Bruns	 Surgeon	 5	 ...do...
+
+766	 John R. Veeter	 ...do...	 5	 ...do...
+
+767	 Abraham Comingo	 Provost-	 6 	 ...do...
+
+ 	 marshal
+
+721	 April 30, 1863.	 Resigned March 14, 1864.
+
+722	 April 2, 1864.	 Honorably discharged May 30,
+
+ 	 1865.
+
+723	 April 30, 1863.	 Honorably discharged Oct. 31,
+
+ 	 1865.
+
+724	 April 30, 1863.	 Resigned December 9, 1863.
+
+725	 December 15, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+726	 April 30, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+727	 April 30, 1863.	 Honorably discharged Oct. 31,
+
+ 	 1865.
+
+728	 April 30, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+729	 April 30, 1863.	 Resigned May 6, 1865.
+
+730	 Nov. 25, 1864.	 Honorably discharged May 30,
+
+ 	 1865.
+
+731	 April 24, 1863.	 Appointment revoked March 1,
+
+ 	 1865.
+
+732	 March 1, 1865.	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+733	 April 24, 1863.	 Appointment revoked March 1,
+
+ 	 1865.
+
+734	 March 1, 1865.	 Honorably discharged May 5,
+
+ 	 1865.
+
+735	 April 24, 1863.	 Dismissed the service Feb.
+
+ 	 21.1865.
+
+736	 March 1, 1865.	 Honorably discharged May 30,
+
+ 	 1865.
+
+737	 April 24, 1863.	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+738	 April 24, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+739	 April 24, 1863.	 Resigned Oct. 25, 1864.
+
+740	 Nov. 2, 1864.	 Honorably discharged May 30,
+
+ 	 1865.
+
+741	 June 2, 1863.	 Dismissed the service, sentence
+
+ 	 of general court-martial, July
+
+ 	 7, 1865.
+
+742	 June 2, 1863.	 Resigned Nov. 10, 1864.
+
+743	 Nov. 22, 1864.	 Appointed acting provost-marshal
+
+ 	 May 1, 1865; honorably
+
+ 	 discharged May 30, 1865.
+
+744	 June 2, 1863.	 Honorably discharged May 30,
+
+ 	 1865.
+
+745	 June 2, 1863.	 Died May 14, 1865.
+
+746	 May 19, 1864.	 Honorably discharged December
+
+ 	 31.1865.
+
+747	 June 2, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+748	 June 2, 1863.	 Resigned Jan. 20, 1865.
+
+749	 Jan. 24, 1865.	 Honorably discharged May 30,
+
+ 	 1865.
+
+750	 June 2, 1863.	 Resigned April 7, 1864.
+
+751	 May 7, 1864.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+752	 July 18, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+753	 June 2, 1863. 	 Honorably discharged May 30,
+
+ 	 1865.
+
+754	 June 2, 1863.	 Appointment revoked March 7,
+
+ 	 1865.
+
+755	 March 7, 1864.	 Resigned Jan. 3, 1865.
+
+756	 Jan 13.1865.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+757	 June 2, 1863.	 Resigned Nov. 10, 1865.
+
+758	 Feb. 22, 1864.	 Appointment revoked Jan. 18,
+
+ 	 1865,
+
+759	 Jan. 17, 1865.	 Honorably discharged May 5,
+
+ 	 1865.
+
+760	 June 2, 1863.	 Resigned December 31.1865.
+
+761	 Jan. 14, 1864.	 Honorably discharged May 30,
+
+ 	 1865.
+
+762	 June 2, 1863.	 Appointment revoked Sept. 26,
+
+ 	 1864.
+
+763	 Sept. 26, 1864.	 Honorably discharged Oct. 15,
+
+ 	 1865.
+
+764	 June 2, 1863.	 Honorably discharged May 5,
+
+ 	 1865.
+
+765	 June 2, 1863.	 Died March 31.1864.
+
+766	 June 16, 1864.	 Honorably discharged May 30,
+
+ 	 1865.
+
+767	 June 2, 1863.	 Appointment revoked April 20,
+
+ 	 1865.
+
+*Again appointed October 10, 1864; honorably discharged May 5, 1865.
+
++Again appointed February 13, 1865; honorably discharged May 30, 1865.
+

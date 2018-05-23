@@ -1,0 +1,256 @@
+
+D.
+
+Medals of honor.
+
+No.	 Name.	 Rank.	 Com	 Regiment.
+
+pan
+
+y.
+
+1	 Frederick C.	 Private..	 H	 18th
+
+Anderson.. 	 	 	 Massachusetts
+
+Veteran
+
+Volunteers.
+
+2	 Robert Buffum..	 ................	 H	 21st Ohio
+
+Volunteers.
+
+3	 William	 ................	 G	 Do.
+
+Bensinger..
+
+4	 Wilson Wright	 Corporal..	 F	 Do.
+
+Brown..
+
+5	 Chester B.	 Color corporal..	 I	 1st New York
+
+Bowen..	 	 	 Dragoons.
+
+6	 Philip	 Private..	 A	 2nd
+
+Baybutt..	 	 	 Massachusetts
+
+Cavalry.
+
+7	 Gabriel Cole..	 ......do........	 I	 5th Michigan
+
+Cavalry.
+
+8	 John Creed..	 ......do........	 D	 23rd Illinois
+
+Veteran
+
+Volunteers.
+
+9	 James Connors..	 ......do........	 E	 43rd New York
+
+Volunteers.
+
+10	 Daniel A.	 ................	 H	 33rd Ohio
+
+Dorsey..	 	 	 Volunteers.
+
+11	 Henry M. Fox..	 Sergeant..	 M	 5th Michigan
+
+Cavalry.
+
+12	 John Gray..	 ................	 B	 5th Ohio
+
+Volunteers.
+
+13	 Isaac Gause..	 Corporal..	 E	 2nd Ohio
+
+Cavalry.
+
+14	 Martin J.	 ................	 A	 33rd Ohio
+
+Hawkins..	 	 	 Volunteers.
+
+15	 John C. Hesse..	 Corporal..	 A	 8th U. S.
+
+Infantry.
+
+16	 Franklin	 ......do........	 A	 45th
+
+Hogan..	 	 	 Pennsylvania
+
+Veteran
+
+Volunteers.
+
+17	 Edward R.	 Private..	 H	 2nd U. S.
+
+Hanford..	 	 	 Cavalry.
+
+18	 Samuel	 ................	 G	 9th Pennsylvania
+
+Johnston..	 	 	 Reserves.
+
+19	 Willie	 ................	 D	 3rd Vermonth
+
+Johnson..	 	 	 Volunteers.
+
+20	 William	 ................	 E	 21st Ohio
+
+Knight..	 	 	 Volunteers.
+
+21	 Thomas Kelly..	 Private..	 ...	 6th New York
+
+Cavalry.
+
+22	 Frank Leslie..	 ......do........	 ...	 4th New York
+
+Cavalry.
+
+23	 George W.	 ......do........	 C	 3rd Missouri
+
+Lucas..	 	 	 Cavalry.
+
+24	 Andrew J.	 Commissary-	 ...	 1st New York
+
+Lorish..	 sergeant..	 	 Dragoons.
+
+25	 Elihu H.	 Sergeant..	 K	 21st Ohio
+
+Mason..	 	 	 Volunteers.
+
+26	 Harry Joseph	 First sergeant..	 ...	 4th New York
+
+Mandy..	 	 	 Cavalry.
+
+27	 Patrick H.	 Sergeant..	 D	 6th New York
+
+McEnroe..	 	 	 Cavalry.
+
+28	 George E.	 Farrier..	 I	 Do.
+
+Meach..
+
+29	 George G.	 Private..	 D	 [11th West
+
+Moore..	 	 	 Virginia
+
+Volunteer
+
+Infantry.
+
+30	 Thomas Murphy..	 Corporal..	 K	 158th New York
+
+Volunteers.
+
+31	 Jacob Parrott..	 ................	 K	 33rd Ohio
+
+Volunteers.
+
+32	 William	 Corporal..	 G	 2nd Ohio
+
+Pittenger..	 	 	 Volunteers.
+
+33	 John R.	 Sergeant..	 G	 21st Ohio
+
+Porter..	 	 	 Volunteers.
+
+34	 William Henry	 Corporal..	 B	 33rd Ohio
+
+Reddick..	 	 	 Volunters.
+
+35	 Otis O.	 Sergeant..	 H	 6th Maine
+
+Roberts..	 	 	 Volunteers.
+
+36	 George W.	 Private..	 E	 11th
+
+Reed..	 	 	 Pennsylvania
+
+Volunteers.
+
+37	 George	 ......do........	 M	 9th New York
+
+Reynolds..	 	 	 Cavalry.
+
+38	 James Smith..	 ................	 I	 2nd Ohio
+
+Volunteers.
+
+39	 John Shilling..	 First sergeant..	 H	 3rd Delaware
+
+Volunteers.
+
+40	 John Wollam..	 ................	 C	 33rd Ohio
+
+Volunteers.
+
+41	 Mark Wood..	 Corporal..	 C	 21st Ohio
+
+Volunteers.
+
+42	 John A.	 ................	 C	 Do.
+
+Wilson..
+
+43	 David H.	 Quartermaster	 ...	 5th New York
+
+Scofield..	 sergt..	 	 Cavalry.
+
+44	 T. M. Wells..	 Chief bugler..	 ...	 6th New York
+
+Cavalry.
+
+45	 James Sweeney..	 Private..	 A	 1st Vermont
+
+Cavalry.
+
+46	 Fred. A. Lyon.. 	 Corporal..	 A	 Do.
+
+47	 Ulric Crocker..	 Private..	 M	 6th Michigan
+
+Cavalry.
+
+48	 John Walsh..	 Corporal..	 D	 5th New York
+
+Cavalry.
+
+49	 Daniel P.	 ......do........	 F	 87th
+
+Reighle..	 	 	 Pennsylvania
+
+Veteran
+
+Volunteers.
+
+50	 E. D.	 Sergeant..	 E	 1st Vermont
+
+Woodbury..	 	 	 Cavalry.
+
+51	 Ira Hough..	 Private..	 E	 8th Indiana
+
+Veteran
+
+Infantry.
+
+52	 Jeremiah	 ......do........	 A	 9th New York
+
+Parks..	 	 	 Cavalry.
+
+53	 James	 ......do........	 D	 91st Ohio
+
+Cumpston..	 	 	 Volunteers.
+
+54	 Richard	 ......do........	 E	 18th Indiana
+
+Taylor..	 	 	 Volunteers.
+HEADQUARTERS ARMY OF THE POTOMAC,October 17, 1864.
+
+Statement showing the names of soldiers of the Army of the Potomac who have individually captured flags from the enemy since July 1, 1863, and who for their gallantry are recommended to the War Department as worthy to receive medals of honor.
+
+SECOND ARMY CORPS.
+
+1. Sergt. William Westerhold, Company C, Fifty-second New York Volunteers, captured the flag of the Twenty-third Virginia, with the
+

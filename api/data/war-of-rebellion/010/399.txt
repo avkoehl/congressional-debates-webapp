@@ -1,0 +1,289 @@
+
+Numbers 137. Field return of the Army of the Mississippi after the battle of Shiloh (April 10, 1862).
+
+PRESENT.
+
+For duty. Sick.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps.	 461	 7,198	 93	 1,828
+
+Second Corps.	 590	 8,453	 277	 4,748
+
+Third Corps.	 425	 4,305	 144	 2,301
+
+Reserve Corps.	 379	 4,334	 94	 1,475
+
+Total infantry.	 1,855	 24,692	 608	 9,752
+
+ARTILLERY.
+
+First Corps.	 18	 386	 1	 99
+
+Second Corps.	 19	 487	 210	 1
+
+Third Corps.	 8	 272	 3	 60
+
+Reserve Corps.	 25	 489	 1	 44
+
+Total artillery.	 70	 1,634	 9	 413
+
+Cavalry.	 259	 3,584	 42	 1,507
+
+Grand total.	 2,184	 29,910	 659	 11,672
+
+CONTINUATION:
+
+PRESENT.
+
+Extra duty. In arrest.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps.	 2	 378	 4	 10
+
+Second Corps.	 23	 628	 5	 35
+
+Third Corps.	 9	 559	 2	 1
+
+Reserve Corps.	 10	 491	 2	 7
+
+Total infantry.	 54	 2,056	 13	 53
+
+ARTILLERY.
+
+First Corps.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Second Corps.	 1	 15
+
+--------
+
+1
+
+Third Corps.
+
+--------
+
+12	 1
+
+-------
+
+Reserve Corps.
+
+--------
+
+15
+
+--------
+
+-------
+
+Total artillery.	 1	 43	 1	 1
+
+Cavalry.	 5	 248	 2	 1
+
+Grand total.	 60	 2,247	 15	 55
+
+CONTINUATION:
+
+PRESENT.
+
+Command.	 Effective 	 Total.	 Aggregate.
+
+ total.
+
+INFANTRY.
+
+First Corps.	 7,582	 9,414	 9,974
+
+Second Corps.	 9,118	 13,866	 14,761
+
+Third Corps.	 4,865	 7,166	 7,746
+
+Reserve Corps.	 5,232	 6,707	 7,192
+
+Total infantry.	 26,697	 37,153	 39,673
+
+ARTILLERY.
+
+First Corps.	 390	 489	 504
+
+Second Corps.	 504	 714	 738
+
+Third Corps.	 284	 344	 356
+
+Reserve Corps.	 504	 548	 574
+
+Total artillery.	 1,682	 2,095	 2,172
+
+Cavalry.	 3,833	 5,340	 5,648
+
+Grand total.	 32,212	 44,588	 47,493
+
+CONTINUATION:
+
+ABSENT.
+
+Detached duty. With leave.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps.	 34	 274	 122	 1,224
+
+Second Corps.	 46	 455	 80	 1,440
+
+Third Corps.	 27	 227	 56	 959
+
+Reserve Corps.	 26	 238	 90	 1,455
+
+Total infantry.	 129	 1,194	 348	 5,078
+
+ARTILLERY.
+
+First Corps.	 6	 2	 2	 39
+
+Second Corps.	 1	 5
+
+--------
+
+13
+
+Third Corps.
+
+--------
+
+1	 1	 7
+
+Reserve Corps.	 1	 10	 1	 34
+
+Total artillery.	 8	 18	 4	 83
+
+Cavalry.	 33	 527	 48	 691
+
+Grand total.	 170	 1,739	 400	 5,852
+
+CONTINUATION:
+
+ABSENT.
+
+Without leave. Sick.
+
+Command.	 Officers.	 Enlisted	 Officers.	 Enlisted
+
+ 	 men.	 	 men.
+
+INFANTRY.
+
+First Corps.	 18	 544	 86	 1,426
+
+Second Corps.	 9	 370	 67	 1,065
+
+Third Corps.	 5	 820	 47	 1,303
+
+Reserve Corps.	 5	 702	 110	 1,887
+
+Total infantry.	 37	 2,436	 310	 5,681
+
+ARTILLERY.
+
+First Corps.
+
+--------
+
+20	 5	 58
+
+Second Corps.
+
+--------
+
+3	 2	 70
+
+Third Corps.
+
+--------
+
+--------
+
+5	 47
+
+Reserve Corps.
+
+--------
+
+46	 3	 65
+
+Total artillery.
+
+--------
+
+69	 15	 240
+
+Cavalry.	 3	 155	 17	 228
+
+Grand total.	 40	 2,660	 342	 6,149
+
+CONTINUATION:
+
+PRESENT AND ABSENT.
+
+Command.	 Total.	 Aggregate.
+
+INFANTRY.
+
+First Corps.	 12,855	 13,671
+
+Second Corps.	 17,196	 18,293
+
+Third Corps.	 10,475	 11,190
+
+Reserve Corps.	 10,989	 11,705
+
+Total infantry.	 51,515	 54,859
+
+ARTILLERY.
+
+First Corps.	 608	 636
+
+Second Corps.	 805	 832
+
+Third Corps.	 399	 417
+
+Reserve Corps.	 703	 734
+
+Total artillery.	 2,515	 2,619
+
+Cavalry.	 6,931	 7,022
+
+Grand total.	 60,961	 64,500
+
+NOTE.-The difference in aggregate and totals between this and the preceding return is accounted for thus: First, by killed, wounded, and missing in battle, and the arrival of Carroll's brigade and a portion of the cavalry, heretofore detached.
+
+Respectfully submitted and forwarded.
+
+[JUNE 30, 1862.]
+
+BRAXTON BRAGG,
+
+General, Commanding.
+

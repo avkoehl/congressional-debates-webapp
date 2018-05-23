@@ -1,0 +1,143 @@
+
+Table showing the population by sexes, and the preponderance of either sex in certain States according to the Census of 1860, and the total number enrolled April 30, 1865, with the ratio of enrollment to male and total population.
+
+State	 Males	 Females	 Excess of	 Excesses
+
+ 	 	 females	 of females
+
+ 	 	 over males	 over males
+
+Maine	 317, 189	 311,090	 6,099	 ...
+
+New	 159,816	 166,257	 ...	 6,441
+
+Hampshire
+
+Vermont	 158,786	 156,312	 2,474	 ...
+
+Massachuse	 596,713	 634,353	 ...	 37,640
+
+tts
+
+Rhode	 84,133	 90,487	 ...	 6,640
+
+Island
+
+Connecticu	 225,994	 234,153	 ...	 8,159
+
+t
+
+New York	 1,933,532	 1,947,203	 ...	 13,671
+
+New Jersey	 336,045	 336,972	 ...	 927
+
+Pennsylvan	 1,454,319	 1,451,796	 2,523	 ...
+
+ia
+
+Delaware	 55,829	 54,639	 190	 ...
+
+Maryland	 296,585	 313,275	 ...	 16,690
+
+Dist. of	 35,499	 39,581	 ...	 4,082
+
+Columbia
+
+Ohio	 1,190,162	 1,149,349	 41,813	 ...
+
+Indiana	 699,260	 651,168	 48,092	 ...
+
+Illinois	 900,761	 809,190	 91,751	 ...
+
+Kentucky	 479,312	 450,889	 28,423	 ...
+
+Missouri	 564,841	 502,240	 62,601	 ...
+
+Michigan	 393,486	 353,112	 40,374	 ...
+
+Wisconsin	 407,459	 368,432	 39,027	 ...
+
+Iowa	 354,593	 320,420	 34,173	 ...
+
+Minnesota	 91,930	 77,824	 14,106	 ...
+
+Kansas	 59,178	 48,026	 11,152	 ...
+
+Total	 10,795,422	 10,466,768	 422,618	 93,964
+
+State	 Total	 Number	 Ratio of	 Ratio of
+
+ population	 enrolled	 enrollment	 enrollment
+
+ 	 April 30,	 to male	 to total
+
+ 	 1865	 population	 population
+
+Maine	 628,279	 46,121	 14.53	 7.34
+
+New	 326,073	 26,302	 16.45	 8.07
+
+Hampshire
+
+Vermont	 315,098	 23,326	 14.49	 7.40
+
+Massachuse	 1,231,066	 105,650	 17.70	 8.58
+
+tts
+
+Rhode	 174,620	 16,256	 19.32	 9.30
+
+Island
+
+Connecticu	 460,147	 40,708	 18.00	 8.84
+
+t
+
+New York	 3,880,735	 431,462	 22.31	 11.11
+
+New Jersey	 673,017	 70,055	 20.84	 10.40
+
+Pennsylvan	 2,906,115	 236,436	 18.11	 9.06
+
+ia
+
+Delaware	 110,468	 7,011	 12.55	 6.34
+
+Maryland	 609,860	 55,802	 18.81	 9.15
+
+Dist. of	 75,080	 10,725	 30.21	 14.28
+
+Columbia
+
+Ohio	 2,339,511	 205,867	 17.29	 8.79
+
+Indiana	 1,350,428	 153,238	 21.91	 11.34
+
+Illinois	 1,709,951	 274,409	 30.46	 16.04
+
+Kentucky	 930,201	 104,082	 21.71	 11.18
+
+Missouri	 1,067,081	 133,501	 23.63	 12.51
+
+Michigan	 746,598	 75,248	 19.12	 10.07
+
+Wisconsin	 775,891	 54,737	 13.43	 7.05
+
+Iowa	 675,013	 82,803	 23.35	 12.26
+
+Minnesota	 169,754	 18,556	 20.18	 10.81
+
+Kansas	 107,204	 23,022	 38.90	 21.47
+
+Total	 21,262,190	 2,222,317	 a 20.61	 a 10.51
+
+a Average ratio per cent.
+
+It will be seen from this table and Table 3, Document 6, of Appendix, that some of the Western States, with quotas under the calls of 1861 and 1862 (assigned on the basis of population) nearly the same as some of the Eastern States, furnished all required, and yet had a much larger proportion of men liable to military duty left than Eastern States which did not fill the quotas assigned under those calls, and were, in consequence, charged with a deficiency on subsequent calls. In some instances, therefore, where a deficiency existed it may be attributed somewhat to excessive quotas in 1861 and 1862, assigned on the basis of population, and the excess of troops furnished by some States may, on the same principle, be due in a measure to their surplus of men.
+
+The States showing the larger ratios of enrollment to male population are-
+
+First. Those to which the more recent immigration has been most considerable, meaning immigration both from foreign countries and that resulting from the movement from the Atlantic States westward. Under this head Indiana, Illinois, Missouri, Minnesota, and Kansas are examples.
+
+Second. Those States having large cities, to which all able- bodied men resort for employment, especially those near the depots of foreign immigration, in which males from abroad remain upon landing, or to which males from abroad remain upon landing, or to Jersey, Pennsylvania, and Maryland. The State of New York is the most striking instance of the above, containing, as it does, the chief depot of foreign immigration and, as well, a metropolitan district
+

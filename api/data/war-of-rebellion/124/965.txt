@@ -1,0 +1,295 @@
+
+Designation.	 Location.	 Designation.	 Location.
+
+Division	 Annapolis, Md.	 U. S. General,	 Louisville,
+
+Numbers 1	 	 Numbers 7...	 Ky.
+
+Division	 Do.	 U. S. General,	 Jeffersonville
+
+Numbers 2	 	 Numbers 16..., Ind.
+
+Annapolis	 Annapolis	 Marine...	 Saint Louis,
+
+Junction	 Junction, Md.	 	 Mo.
+
+U. S. General 	 Cumberland,	 New House of	 Do.
+
+Md.	 Refuge.
+
+Do.	 Grafton, Va.	 Lawson.	 Do.
+
+Do.	 Parkesburg,	 Smallpox.	 Do.
+
+Va.
+
+Do. 	 Point	 Banton	 Do.
+
+Pleasant, Va.	 Barracks.
+
+Do.	 Gallipolis,	 Jefferson	 Do.
+
+Ohio.	 Barracks
+
+Do.	 Frederick, Md.	 U. S. General.	 Jefferson
+
+City, Mo.
+
+Hammond	 Point Lookout,	 Do.	 Springfield,
+
+Md.	 	 Mo.
+
+Satterlee	 Philadelphia,	 Do.	 Rolla, Mo.
+
+Pa.
+
+Mower	 Do. 	 Do. 	 Kansas City,
+
+Mo.
+
+Cuyler	 Do. 	 Do.	 Leavenworth,
+
+Kans.
+
+Christian	 Do. 	 Do.	 Fort Scott,
+
+Street 	 	 	 Kans.
+
+South Street	 Do.	 U. S. General,	 Nashville,
+
+Numbers 1...	 Tenn.,
+
+Citizens"	 Do.	 U. S. General,	 Do.
+
+Volunteer	 	 Numbers 2...
+
+McClellan	 Do.	 U. S. General,	 Do.
+
+Numbers 3...
+
+Convalescent	 Do.	 U. S. General,	 Do.
+
+Numbers 5...
+
+Turner's Lane	 Do.	 U. S. General,	 Do.
+
+Numbers 8...
+
+Islington Lane	 Do.	 U. S. General,	 Do.
+
+Numbers 9...
+
+Officers	 Do.	 U. S. General,	 Do.
+
+Hospital	 	 Numbers 11...
+
+Summit House	 Do.	 U. S. General,	 Do.
+
+No. 12...
+
+Haddington	 Do.	 U. S. General,	 Do.
+
+Numbers 13...
+
+Broad Street	 Do.	 U. S. General,	 Do.
+
+Numbers 14...
+
+Chester	 Chester, Pa.	 U. S. General,	 Do.
+
+Numbers 15...
+
+West Walnut	 Harrisburg,	 U. S. General,	 Do.
+
+Street	 Pa.	 Numbers 16...
+
+Chestnut	 Do.	 U. S. General,	 Do.
+
+Street	 	 No. 17...
+
+Cotton Factory	 Do.	 U. S. General,	 Do.
+
+Numbers 19...
+
+Town Hall	 Chambersburg,	 Cumberland...	 Do.
+
+Pa.
+
+York	 York, Pa.	 Prison...	 Do.
+
+Mulberry	 Harrisburg,	 Saint James...	 New Orleans,
+
+Street	 Pa.	 	 La.
+
+Camp Letterman	 Gettysburg,	 University...	 Do.
+
+Pa.
+
+Pittsburg	 Pittsburg, Pa.	 Marine...	 Do.
+
+U. S. General	 Hampton, Va.	 U. S.	 Do.
+
+Barracks...
+
+Chesapeake	 Fort Monroe,	 Saint Louis...	 Do.
+
+Va.
+
+Balfour	 Portsmouth,	 Charity...	 Do.
+
+Va.
+
+De Camp	 Davids Island,	 Convalescent..	 Baton Rouge,
+
+N. Y.	 	 La.
+
+McDougall	 Fort Schuyler,	 U. S.	 Do.
+
+N. Y.	 General..
+
+Fort Wood	 Bedloe's	 Overton...	 Memphis, Tenn.
+
+Island, N. Y.
+
+Harbor.
+
+Harbor.	 Jackson.	 Do.
+
+Fort	 Governor's	 Gayso...	 Do.
+
+Columbus...	 Island, N. Y.
+
+Harbor.	 Adams...	 Do.
+
+Ladies" Home	 New York City.	 Jefferson...	 Do.
+
+Saint Joseph's 	 Do. 	 Union....	 Do.
+
+Newark	 Newark, N. J. 	 Officer's...	 Do.
+
+Lowell	 Portsmouth, R.	 Old State...	 Do.
+
+I.
+
+Knight	 New Haven,	 Washington...	 Do.
+
+Conn.
+
+Brattleborough	 Brattleborough	 Webster...	 Do.
+
+, Vt.
+
+Marine	 Burlington,	 Church...	 Do.
+
+Vt.
+
+Mason	 Boston, Mass.	 U. S.	 Mound City,
+
+General...	 Ill.
+
+Washington	 Cincinnati,	 Do...	 Cairo, Ill.
+
+Park	 Ohio.
+
+West End	 Do. 	 Do...	 Paducah, Ky.
+
+Marine 	 Do.	 Do...	 Helena, Ark.
+
+Main Street	 Covington, Ky.	 U. S. General,	 Vicksburg,
+
+Numbers 1...	 Miss.
+
+Seminary	 Do.	 U. S. General,	 Do.
+
+Numbers 2...
+
+Dennison	 Camp Dennison,	 U. S. General,	 Do.
+
+Ohio.	 Numbers 3...
+
+U. S. General	 Cleveland,	 U. S. General,	 Do.
+
+Ohio.	 Numbers 4...
+
+Do.	 Camp Chase,	 Nashville	 Do.
+
+Ohio.	 Floating...
+
+Seminary	 Columbus,	 Pest...	 Do.
+
+Ohio.
+
+U. S. General 	 Chicago, Ill.	 Foster...	 New Berne, N.
+
+C.
+
+Marine	 Do. 	 Hammond...	 Beaufort, N.
+
+C.
+
+U. S. General	 Quicky, Ill.	 Mansfield...	 Morehead City,
+
+N. C.
+
+Do.	 Ashland, Ky.	 U. S.	 Hilton Head,
+
+General...	 S. C.
+
+Do.	 Lexinton, Ky.	 U. S. General,	 Beaufort, S.
+
+Numbers 1...	 C.
+
+Do.	 Hickman's	 U. S. General,	 Do.
+
+Bridge, Ky.	 Numbers 2...
+
+Do.	 Indianapolis,	 U. S. General,	 Do.
+
+Ind.	 Numbers 3...
+
+Do. 	 Madison, Ind.	 U. S. General,	 Do.
+
+Numbers 4...
+
+U. S. General,	 Evansville,	 U. S. General,	 Do.
+
+Numbers 1	 Ind.	 Numbers 5...
+
+U. S. General,	 Do. 	 U. S. General,	 Do.
+
+Numbers 2	 	 Numbers 6...
+
+U. S. General,	 New Albany,	 U. S. General,	 Do.
+
+Numbers 1.	 Ind.	 Numbers 7...
+
+U. S. General,	 Do. 	 U. S. General,	 Do.
+
+Numbers 3	 	 Numbers 8...
+
+U. S. General,	 New Albany,	 U. S. General,	 Do.
+
+Numbers 4	 Ind.	 Numbers 9...
+
+U. S. General,	 Do.	 U. S. General,	 Do.
+
+Numbers 5	 	 Numbers 10...
+
+U. S. General,	 Do.	 U. S. General,	 Do.
+
+Numbers 6	 	 Numbers 11...
+
+U. S. General,	 Louisville,	 U. S. General,	 Do.
+
+Numbers 1	 Ky.	 Numbers 12...
+
+U. S. General,	 Do. 	 U. S. General,	 Do.
+
+Numbers 2	 	 Numbers 13...
+
+U. S. General,	 Do.	 U. S.	 Keokuk, Iowa.
+
+Numbers 3	 	 General...
+
+The report of sickness and mortality usually accompanying the annual report cannot be compiled at this time, and when completted will be submitted as a supplement.
+

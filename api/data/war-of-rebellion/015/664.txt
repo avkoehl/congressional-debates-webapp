@@ -1,0 +1,625 @@
+
+Numbers 40. Return of Casualties in the Union forces at the battle of Cross Keys.
+
+[Compiled from nominal lists of casualties, returns, &amp;c.]
+
+Killed. Wounded.
+
+Command.	Officers.	Enlisted	Officers.	Enlisted
+
+men.		men.
+
+General staff.	 1
+
+--------
+
+--------
+
+-------
+
+BLENKER'S
+
+DIVISION.
+
+Brigadier General
+
+LOUIS
+
+BLENKER.
+
+Staff.
+
+--------
+
+--------
+
+2
+
+-------
+
+First Brigade.
+
+Brigadier General
+
+JULIUS STAHEL.
+
+8th New York
+
+--------
+
+43	 2	 132
+
+Infantry.
+
+39th New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Infantry.
+
+41st New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Infantry.
+
+45th New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Infantry.
+
+27th Pennsylvania	 1	 16	 3	 58
+
+Infantry.
+
+New York Light
+
+Artillery, 2nd
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery.
+
+West Virginia
+
+Light Artillery,
+
+--------
+
+--------
+
+--------
+
+2
+
+Battery C.
+
+Howitzer battery.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Total First	 3	 65	 12	 228
+
+Brigade.
+
+Second Brigade
+
+(Steinwehr's).
+
+Colonel JOHN A.
+
+KOLTES.
+
+29th New York
+
+--------
+
+--------
+
+1
+
+-------
+
+Infantry.
+
+68th New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Infantry.
+
+73rd Pennsylvania
+
+--------
+
+--------
+
+--------
+
+-------
+
+Infantry.
+
+New York Light
+
+Artillery, 13th
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery.
+
+Total Second
+
+--------
+
+--------
+
+1
+
+-------
+
+Brigade.
+
+Third Brigade.
+
+Brigadier General
+
+HENRY BOHLEN.
+
+54th New York
+
+--------
+
+1
+
+--------
+
+4
+
+Infantry.
+
+58th New York
+
+--------
+
+7	 1	 17
+
+Infantry.
+
+74th Pennsylvania
+
+--------
+
+3	 1	 10
+
+Infantry.
+
+75th Pennsylvania
+
+--------
+
+2
+
+--------
+
+16
+
+Infantry.
+
+1st New York Light
+
+Artillery, Battery
+
+--------
+
+--------
+
+--------
+
+3
+
+I.
+
+Total Third
+
+--------
+
+13	 2	 50
+
+Brigade.
+
+4th New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Cavalry.
+
+Total Blenker's	 3	 78	 17	 278
+
+division.
+
+Unattached
+
+Cavalry.
+
+3rd West Virginia
+
+--------
+
+--------
+
+--------
+
+-------
+
+(detachment).
+
+6th Ohio.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Total unattached
+
+--------
+
+--------
+
+--------
+
+-------
+
+cavalry.
+
+CONTINUATION:
+
+Captured or missing.
+
+Command.	Officers.	Enlisted 	Aggregate	Remarks.
+
+men.
+
+General staff.
+
+--------
+
+--------
+
+1
+
+BLENKER'S
+
+DIVISION.
+
+Brigadier General
+
+LOUIS
+
+BLENKER.
+
+Staff.
+
+--------
+
+--------
+
+2
+
+First Brigade.
+
+Brigadier General
+
+JULIUS STAHEL.
+
+8th New York	 2	 41	 220
+
+Infantry.
+
+39th New York
+
+--------
+
+--------
+
+(*)
+
+Infantry.
+
+41st New York
+
+--------
+
+--------
+
+(*)
+
+Infantry.
+
+45th New York
+
+--------
+
+--------
+
+(*)
+
+Infantry.
+
+27th Pennsylvania
+
+--------
+
+14	 92
+
+Infantry.
+
+New York Light				No loss
+
+Artillery, 2nd
+
+--------
+
+--------
+
+--------
+
+reported
+
+Battery.
+
+West Virginia
+
+Light Artillery,
+
+--------
+
+--------
+
+2
+
+Battery C.
+
+Howitzer battery.
+
+--------
+
+--------
+
+--------
+
+Total First	 4	 86	 398
+
+Brigade.
+
+Second Brigade
+
+(Steinwehr's).
+
+Colonel JOHN A.
+
+KOLTES.
+
+29th New York
+
+--------
+
+6	 7
+
+Infantry.
+
+68th New York
+
+--------
+
+2	 2
+
+Infantry.
+
+73rd Pennsylvania
+
+--------
+
+--------
+
+--------
+
+No loss
+
+Infantry.				reported
+
+New York Light				No loss
+
+Artillery, 13th
+
+--------
+
+--------
+
+--------
+
+reported
+
+Battery.
+
+Total Second
+
+--------
+
+8	 9
+
+Brigade.
+
+Third Brigade.
+
+Brigadier General
+
+HENRY BOHLEN.
+
+54th New York
+
+--------
+
+--------
+
+5
+
+Infantry.
+
+58th New York
+
+--------
+
+4	 29
+
+Infantry.
+
+74th Pennsylvania
+
+--------
+
+1	 15
+
+Infantry.
+
+75th Pennsylvania
+
+--------
+
+3	 21
+
+Infantry.
+
+1st New York Light
+
+Artillery, Battery
+
+--------
+
+--------
+
+3
+
+I.
+
+Total Third
+
+--------
+
+8	 73
+
+Brigade.
+
+4th New York
+
+--------
+
+--------
+
+--------
+
+No loss
+
+Cavalry.				reported
+
+Total Blenker's	 4	 102	 482
+
+division.
+
+Unattached
+
+Cavalry.
+
+3rd West Virginia
+
+--------
+
+--------
+
+--------
+
+No loss
+
+(detachment).				reported
+
+6th Ohio.
+
+--------
+
+--------
+
+--------
+
+No loss
+
+reported
+
+Total unattached
+
+--------
+
+--------
+
+--------
+
+cavalry.
+
+---------------
+
+*Only partial reports of casualties on file; losses embraced in the brigade total.
+
+---------------
+

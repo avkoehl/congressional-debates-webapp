@@ -1,0 +1,331 @@
+
+SCHEDULE A-Continued.
+
+ Articles. 	 Quality. 	 Description.
+
+30	 Sheaf oats, baled. 	 Good. 	 . . . . .
+
+31	 Sheaf oats,	 do. 	 . . . .
+
+ unbaled.
+
+32	 Blade fodder,	 do. 	 . . . .
+
+ baled.
+
+33	 Blade fodder,	 do. 	 . . . .
+
+ unbaled.
+
+34	 Shucks, baled. 	 do. 	 . . . . .
+
+35	 Shucks, unbaled. 	 do. 	 . . . .
+
+36	 Wheat straw, baled.	 do. 	 . . . .
+
+37	 Wheat straw,	 do. 	 . . . .
+
+ unbaled.
+
+38	 Pasturage. 	 do. 	 Interior.
+
+39	 do. 	 Superior. 	 do.
+
+40	 do. 	 First rate. 	 do.
+
+41	 do. 	 Good. 	 Near cities.
+
+42	 do. 	 Superior. 	 do.
+
+43	 do. 	 First rate. 	 do.
+
+44	 Salt. 	 Good. 	 . . .
+
+45	 Soap. 	 do. 	 . . .
+
+46	 Candles. 	 do. 	 Tallow.
+
+47	 Vinegar. 	 do. 	 Cider.
+
+48	 Whisky. 	 do. 	 Trade.
+
+49	 Sugar. 	 do. 	 Brown.
+
+50	 Molasses. 	 do. 	 New Orleans.
+
+51	 Rice. 	 do. 	 . . .
+
+52	 Coffee. 	 do. 	 Rio.
+
+53	 Tea. 	 do. 	 Trade.
+
+54	 Vinegar. 	 do. 	 Manufactured.
+
+55	 Pig iron. 	 do. 	 Numbers 1 quality.
+
+56	 do. 	 do. 	 Numbers 2 quality.
+
+57	 do. 	 do. 	 Numbers 3 quality.
+
+58	 Bloom iron. 	 do. 	 . . .
+
+59	 Smith's iron. 	 do. 	 Round plate and
+
+ 	 	 bar.
+
+60	 Railroad iron. 	 do. 	 . . . .
+
+61	 Leather. 	 do. 	 Harness.
+
+62	 do. 	 do. 	 Sole.
+
+63	 do	 do. 	 Upper.
+
+34	 Beef-cattle. 	 do. 	 Gross weight.
+
+65	 do. 	 Superior. 	 do.
+
+66	 do. 	 First rate. 	 do.
+
+67	 Salt beef. 	 Good. 	 . . .
+
+68	 Sheep. 	 Fair. 	 . . . .
+
+69	 Army woolen cloth,	 Good. 	 10 ounces per yard.
+
+ 3-4 yard.
+
+70	 Army woolen cloth. 	 do. 	 . . .
+
+71	 Army woolen cloth,	 do. 	 20 ounces per yard.
+
+ 6-4 yard.
+
+72	 Army woolen cloth. 	 do. 	 . . . .
+
+73	 Flannels, 3-4. 	 do. 	 6 ounces per yard.
+
+74	 Cotton shirting, 3-	 do. 	 4 1/2 yards to pound.
+
+ 4.
+
+75	 Cotton shirting, 7-	 do. 	 3 3/4 yards to
+
+ 8. 	 	 pound.
+
+76	 Cotton sheeting, 4-	 do. 	 3 yards to pound.
+
+ 4.
+
+77	 Cotton, Osnaburg,	 do. 	 6 ounces per yard.
+
+ 3-4.
+
+78	 Cotton, Osnaburg,	 do. 	 8 ounces per yard.
+
+ 7-8.
+
+79	 Cotton tent cloths.	 do. 	 10 ounces per yard.
+
+80	 . . . 	 . . . 	 . . . .
+
+81	 Army shoes. 	 Good. 	 . . .
+
+82	 Shoe thread. 	 do. 	 . . .
+
+83	 Wool socks, men's	 do. 	 . . .
+
+84	 Corntop fodder,	 do. 	 . . .
+
+ baled.
+
+85	 Corntop fodder,	 do. 	 . . .
+
+ unbaled.
+
+86	 Wheat chaff, baled.	 do. 	 . . . .
+
+87	 Wheat chaff,	 do. 	 . . . .
+
+ unbaled.
+
+88	 Sorghum molasses. 	 do. 	 . . .
+
+89	 Pasturage for	 do. 	 Interior.
+
+ sheep.
+
+90	 do. 	 Superior. 	 do.
+
+91	 do. 	 First rate. 	 do.
+
+ Articles. 	 Quantity. 	 Price.
+
+30	 Sheaf oats, baled. 	 Per 100	 $4. 40
+
+ 	 pounds.
+
+31	 Sheaf oats,	 do. 	 3. 50
+
+ unbaled.
+
+32	 Blade fodder,	 do. 	 3. 90
+
+ baled.
+
+33	 Blade fodder,	 do. 	 3. 00
+
+ unbaled.
+
+34	 Shucks, baled. 	 do. 	 2. 60
+
+35	 Shucks, unbaled. 	 do. 	 1. 70
+
+36	 Wheat straw, baled.	 do. 	 2. 20
+
+37	 Wheat straw,	 do. 	 1. 30
+
+ unbaled.
+
+38	 Pasturage. 	 Per head per	 3. 00
+
+ 	 month.
+
+39	 do. 	 do. 	 4. 00
+
+40	 do. 	 do. 	 5. 00
+
+41	 do. 	 do. 	 5. 00
+
+42	 do. 	 do. 	 6. 00
+
+43	 do. 	 do. 	 7. 00
+
+44	 Salt. 	 Per bushel of	 5. 00
+
+ 	 50 pounds.
+
+45	 Soap. 	 Per pound. 	 1. 00
+
+46	 Candles. 	 do. 	 3. 00
+
+47	 Vinegar. 	 Per gallon. 	 2. 00
+
+48	 Whisky. 	 do. 	 2. 00
+
+49	 Sugar. 	 Per pound. 	 10. 00
+
+50	 Molasses. 	 Per gallon. 	 3. 00
+
+51	 Rice. 	 Per pound. 	 25. 00
+
+52	 Coffee. 	 do. 	 . 20
+
+53	 Tea. 	 do. 	 3. 00
+
+54	 Vinegar. 	 Per gallon. 	 7. 00
+
+55	 Pig iron. 	 Per ton. 	 . 50
+
+56	 do. 	 do. 	 150. 00
+
+57	 do. 	 do. 	 132. 00
+
+58	 Bloom iron. 	 do. 	 120. 00
+
+59	 Smith's iron. 	 do. 	 216. 00
+
+60	 Railroad iron. 	 do. 	 456. 00
+
+61	 Leather. 	 Per pound. 	 190. 00
+
+62	 do. 	 do. 	 3. 90
+
+63	 do	 do. 	 3. 60
+
+34	 Beef-cattle. 	 Per 100	 4. 20
+
+ 	 pounds.
+
+65	 do. 	 do. 	 20. 00
+
+66	 do. 	 do. 	 25. 00
+
+67	 Salt beef. 	 Net per pound.	 30. .
+
+68	 Sheep. 	 Per head. 	 1. 50
+
+69	 Army woolen cloth,	 Per yard. 	 30. 00
+
+ 3-4 yard.
+
+70	 Army woolen cloth. 	 . . . 	 5. 00
+
+71	 Army woolen cloth,	 Per yard. 	 (a)
+
+ 6-4 yard.
+
+72	 Army woolen cloth. 	 . . . 	 10. 00
+
+73	 Flannels, 3-4. 	 Per yard. 	 (a)
+
+74	 Cotton shirting, 3-	 do. 	 4. 00
+
+ 4.
+
+75	 Cotton shirting, 7-	 do. 	 1. 11
+
+ 8.
+
+76	 Cotton sheeting, 4-	 do. 	 1. 35
+
+ 4.
+
+77	 Cotton, Osnaburg,	 do. 	 1. 75
+
+ 3-4.
+
+78	 Cotton, Osnaburg,	 do. 	 1. 50
+
+ 7-8.
+
+79	 Cotton tent cloths.	 do. 	 1. 93
+
+80	 . . . 	 . . . . 	 2. 50
+
+81	 Army shoes. 	 Per pair. 	 (b)
+
+82	 Shoe thread. 	 Per pound. 	 15. 003. 00
+
+83	 Wool socks, men's	 Per pair. 	 1. 25
+
+84	 Corntop fodder,	 Per 100	 2. 40
+
+ baled. 	 pounds.
+
+85	 Corntop fodder,	 do. 	 1. 50
+
+ unbaled.
+
+86	 Wheat chaff, baled.	 do. 	 2. 40
+
+87	 Wheat chaff,	 do. 	 1. 50
+
+ unbaled.
+
+88	 Sorghum molasses. 	 Per gallon. 	 20. 00
+
+89	 Pasturage for	 Per head. 	 . 40
+
+ sheep.
+
+90	 do. 	 do. 	 . 50
+
+91	 do. 	 do. 	 . 60
+
+a Pro rata as to greater or less width or weight.
+
+b On the above enumerated cotton cloths, pro rate as to greater or less width or weight.
+
+In assessing the average value of first-class artillery and wagon horses and mules at $500, we designed that the term should be accepted and acted upon according to its obvious common-sense import. In other words, that they should be selected and then impressed accordingly as their working qualities and adaptation to army service, together with their intrinsic value, would warrant a judicious purchaser in considering them as coming within the contemplation of the commissioners when they assessed the average value of such horses as the Government needed at $500. But cases might arise, however, when the public exigencies would be so urgent as to demand that all horses at hand should be
+

@@ -1,0 +1,289 @@
+
+448	 Samuel H. Dunning	 ...do...	 2	 ...do...
+
+449	 William H. McKinney	 Commissioner	 2 	 ...do...
+
+450	 M. P. Gaddis, jr.	 ...do...	 2	 ...do...
+
+451	 John A. Murphy	 Surgeon	 2	 ...do...
+
+452	 John Mills	 Provost-	 3	 ...do...
+
+ 	 marshal
+
+453	 Montgomery P. Alston	 Commissioner	 3	 ...do...
+
+454	 W. L. Schenck	 Surgeon	 3	 ...do...
+
+455	 Abraham C. Deuel	 Provost-	 4	 ...do...
+
+ 	 marshal
+
+456	 Matthias H. Jones	 Commissioner	 4 	 ...do...
+
+457	 George D. Burgess	 ...do...	 4	 ...do...
+
+458	 E. D. Gilson	 Surgeon	 4	 ...do...
+
+459	 Israel Fisher	 ...do...	 4	 ...do...
+
+460	 Daniel S. Brown	 Provost-	 5	 ...do...
+
+ 	 marshal
+
+461	 Charles D. Robbins	 ...do...	 5	 ...do...
+
+462	 John Walkup	 Commissioner	 5	 ...do...
+
+463	 T. E. Cunningham	 ...do...	 5	 ...do...
+
+464	 Corban J. Neff	 Surgeon	 5	 ...do...
+
+465	 Joseph K. Marlay	 Provost-	 6	 ...do...
+
+ 	 marshal
+
+466	 George B. Gardner	 Commissioner	 6	 ...do...
+
+467	 George B. Bailey	 Surgeon	 6	 ...do...
+
+468	 David Noble	 ...do...	 6	 ...do...
+
+469	 James A. Wilcox	 Provost-	 7	 ...do...
+
+ 	 marshal
+
+470	 Benjamin Nesbitt	 ...do...	 7	 ...do...
+
+471	 S. S. Henkle	 Commissioner	 7	 ...do...
+
+472	 M. Lemon	 Surgeon	 7	 ...do...
+
+473	 William Shunk	 Provost-	 8	 ...do...
+
+ 	 marshal
+
+474	 James Cobean	 Commissioner	 8	 ...do...
+
+475	 Timothy B. Fisher	 Surgeon	 8	 ...do...
+
+476	 John J. Steiner	 Provost-	 9	 ...do...
+
+ 	 marshal
+
+477	 F. A. Wildman	 ...do...	 9	 ...do...
+
+478	 Benjamin Turner	 Commissioner	 9	 ...do...
+
+479	 Rice Harper	 ...do...	 9	 ...do...
+
+480	 M. Skinner	 Surgeon	 9	 ...do...
+
+481	 James M. Corey	 ...do...	 9	 ...do...
+
+482	 Charles Kent	 Provost-	 10	 ...do...
+
+ 	 marshal
+
+483	 William O. Ensign	 Commissioner	 10	 ...do...
+
+484	 Silas Bailey	 Surgeon	 10	 ...do...
+
+485	 E. D. Peck	 ...do...	 10	 ...do...
+
+486	 Benjamin F. Cory	 Provost-	 11	 ...do...
+
+ 	 marshal
+
+487	 James W. Longbon	 Acting	 11	 ...do...
+
+ 	 provost-
+
+ 	 marshal
+
+488	 Isaac Roberts	 Commissioner	 11	 ...do...
+
+489	 James W. Longbon	 ...do...	 11	 ...do...
+
+490	 David Coleman	 Surgeon	 11	 ...do...
+
+491	 Orlando C. Miller	 ...do...	 11	 ...do...
+
+492	 George W. Roby	 Provost-	 12	 ...do...
+
+ 	 marshal
+
+493	 William D. Wesson	 ...do..	 12	 ...do...
+
+448	 Feb. 21, 1865	 Honorably discharged July 10,
+
+ 	 1865.
+
+449	 April 30, 1863	 Appointment revoked September
+
+ 	 22, 1863.
+
+450	 Sept. 22, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+451	 April 30, 1863	 Honorably discharged June 15,
+
+ 	 1865.
+
+452	 April 30, 1863	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+453	 April 30, 1863	 Resigned Oct. 6, 1863;
+
+ 	 reappointed Oct. 20, 1863;
+
+ 	 honorably discharged May 8,
+
+ 	 1865.
+
+454	 April 30, 1863	 Honorably discharged Jun 15,
+
+ 	 1865.
+
+455	 April 30, 1863	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+456	 May 27, 1863	 Resigned Aug. 19, 1864.
+
+457	 Sept. 15, 1864	 Honorably discharged May 8,
+
+ 	 1865.
+
+458	 April 30, 1863	 Resigned December 2, 1864.
+
+459	 December 12, 1864	 Honorably discharged June 15,
+
+ 	 1865.
+
+460	 April 30, 1863	 Resigned Feb. 2, 1865.
+
+461	 Feb. 14, 1865	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+462	 April 30, 1863	 Resigned Feb. 22.1864.
+
+463	 Feb.29, 1864	 Honorably discharged May 8,
+
+ 	 1865.
+
+464	 April 30, 1863	 Honorably discharged June 15,
+
+ 	 1865.
+
+465	 April 30, 1863	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+466	 April 30, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+467	 April 30, 1863	 Resigned April 1, 1864.
+
+468	 April 1, 1864	 Honorably discharged June 15,
+
+ 	 1865.
+
+469	 April 30, 1863	 Vacated Sept. 2, 1864, and
+
+ 	 appointed acting assistant
+
+ 	 provost-marshal-general of Ohio.
+
+470	 Sept. 5, 1864	 Honorably discharged December
+
+ 	 18, 1865.
+
+471	 April 30, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+472	 April 30, 1863	 Honorably discharged June 15,
+
+ 	 1865.
+
+473	 April 30, 1863	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+474	 April 30, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+475	 April 30, 1863	 Honorably discharged June 15,
+
+ 	 1865.
+
+476	 April 30, 1863	 Resigned March 17, 1865.
+
+477	 March 27, 1865	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+478	 April 30, 1863	 Appointment canceled July 13,
+
+ 	 1863.
+
+479	 July 2, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+480	 April 30, 1863	 Appointment revoked Feb.
+
+ 	 22.1865.
+
+481	 March 29, 1865	 Honorably discharged June 15,
+
+ 	 1865.
+
+482	 April 30, 1863	 Honorably discharged December
+
+ 	 9, 1865.
+
+483	 April 30, 1863	 Honorably discharged May 8,
+
+ 	 1865.
+
+484	 April 30, 1863	 Resigned Jan. 17, 1865.
+
+485	 Feb. 2, 1865	 Honorably discharged June 5,
+
+ 	 1865.
+
+486	 April 30, 1863	 Discharged April 29, 1865.
+
+487	 April 29, 1865	 Honorably discharged Sept. 30,
+
+ 	 1865.
+
+488	 April 30, 1863	 Resigned Aug. 16, 1864.
+
+489	 Aug. 25, 1864	 Appointed acting provost-marshal
+
+ 	 April 29, 1865; honorably
+
+ 	 discharged as such Sept. 30,
+
+ 	 1865.
+
+490	 April 30, 1863	 Resigned December 15, 1864.
+
+491	 December 28, 1864	 Honorably discharged June 15,
+
+ 	 1865.
+
+492	 April 30, 1863	 Resigned Jan. 10, 1865.
+
+493	 Feb. 6, 1865	 Honorably discharged December
+
+ 	 9, 1865.
+

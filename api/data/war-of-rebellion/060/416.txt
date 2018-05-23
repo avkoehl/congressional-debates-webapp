@@ -1,0 +1,177 @@
+
+Wagons.
+
+ 	 	 8-	 6-	 4-	 Anim
+
+ 	 	 mu	 mul	 hor	 als.
+
+ 	 	 le	 e	 se
+
+Kind of loads. 	 	 Kind. 	 te	 tea	 tea
+
+ Numb	 	 am	 ms.	 ms.
+
+ ers 	 	 s.
+
+Train Numbers 2.
+
+Boat, long balks, anchor,	 10	 Pontoon
+
+cable, oars, &amp;c.
+
+Abutment sills, claw-	 1	 Pontoon	 12	 -	 -	 96
+
+balks, rammers, &c.
+
+Long balks (16), 1	 1	 Pontoon
+
+anchor, 1 cable
+
+Chess (60 each)	 4	 Chess
+
+Officers' and company	 1	 Army	 -	 13	 -	 78
+
+baggage, rations, company
+
+tool-chest.
+
+Teamsters' baggage,	 1	 Army
+
+rations, and picket-ropes
+
+Forage	 7	 Army
+
+Total in train Numbers 	 25	 ---	 12	 13	 -	 174
+
+2.
+
+Train Numbers 3.
+
+Boat, long balks, anchor,	 10	 Pontoon
+
+cable, oars, &c.
+
+Abutment sills, claw-	 1	 Pontoon	 12	 -	 -	 96
+
+balks, rammers.
+
+Long balks (16), 1	 1	 Pontoon
+
+anchor, 1 cable
+
+Chess (60 each)	 4	 Chess
+
+Officers' and company	 1	 Army	 -	 12	 -	 72
+
+baggage, rations, company
+
+tool-chest.
+
+Teamsters' baggage,	 1	 Army
+
+rations, and picket-ropes
+
+Forage	 6	 Army
+
+Total in train Numbers 	 24	 ---	 12	 12	 -	 168
+
+3.
+
+Train Numbers 4.
+
+Boat, long balks, anchor,	 10	 Pontoon	 12	 -	 -	 96
+
+cable, oars, &c.
+
+Abutment sills, claw-	 1	 Pontoon
+
+balks, rammers
+
+Long balks (16), 1	 1	 Pontoon
+
+anchor, 1 cable
+
+Chess (60 each)	 4	 Chess
+
+Officers' and company	 1	 Army	 -	 12	 -	 72
+
+baggage, rations, company
+
+tool-chest.
+
+Teamsters' baggage,	 1	 Army
+
+rations, and picket-ropes
+
+Forage	 6	 Army
+
+Total in train Numbers 4	 24	 ---	 12	 12	 -	 168
+
+Train Numbers 5.
+
+Abutment sills, claw-	 1	 Pontoon	 3	 -	 -	 24
+
+balks, rammers, &c.
+
+Extra long balks (16	 2	 Pontoon
+
+each)
+
+Extra chess (60 each)	 4	 Chess
+
+Extra cordage, buckets,	 1	 Army	 -	 6	 -	 36
+
+lanterns, &c.
+
+Intrenching tools, &c. 	 1	 Army
+
+Headquarters	 1	 Army	 -	 -	 2	 8
+
+Quartermaster's stores	 1	 Army
+
+Hospital stores	 1	 Army
+
+Commissary stores	 6	 Army
+
+Carpenter's tool-chest,	 1	 Army	 -	 19	 -	 114
+
+shoeing frames
+
+Teamsters' baggage,	 1	 Army
+
+rations, and picket-ropes
+
+Forage	 8	 Army
+
+Forge, iron, blacksmith's	 2	 Forge
+
+tools, &c.
+
+Total in train Numbers 	 30	 ---	 3	 25	 2	 182
+
+5.
+
+Summary.
+
+Train Numbers 1. 	 21	 ---	 12	 	 	 186
+
+Train Numbers 2. 	 25	 ---	 12	 	 	 174
+
+Train Numbers 3. 	 24	 ---	 12	 	 	 168
+
+Train Numbers 4	 24	 ---	 12	 	 	 168
+
+Train Numbers 5. 	 30	 ---	 3	 	 	 182
+
+Grand total	 130	 ---	 51	 	 	 878
+
+Load of each boat-wagon: 1 anchor, 1 boat, 7 common balks.
+
+In each boat: 1 cable, 2 spring-lines, 5 oars, 1 boat-hook.
+
+In each locker: 22 lashings, 1 steel scoop-shovel or 1 bucket and 1 small scoop, 1 pick, 2 shovels, 2 axes, 2 hatches, 10 rack-sticks.
+
+Load of each abutment-wagon: 14 claw-balks, 2 abutment sills, 2 earth rammers, 1 anchor, 1 cable, 2 spring-lines, 4 pickets.
+
+Each load of extra long balks: 16 balks, 1 anchor, 1 cable, 2 spring-lines.
+

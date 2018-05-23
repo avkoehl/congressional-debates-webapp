@@ -1,0 +1,291 @@
+
+SCHEDULE B. - Consolidated report of means of transportation, clothing, camp and garrison equipage. Army of the Potomac, May 1, 1864.
+
+MEANS OF TRANSPORTATION.
+
+Horses on hand. Allowance.
+
+Commands.	 Servi-	 Unservi-	 Mules on	 Horses.	 Mules.
+
+ ceable.	 ceable.	 hand,
+
+ 	 	 servi-
+
+ 	 	 ceable.
+
+Second Army	 582	 1	 284	 581	 274
+
+Corps.
+
+Fifth Army	 528	 ---	 348	 535	 354
+
+Corps.
+
+Sixth Army	 403	 ---	 313	 404	 312
+
+Corps.
+
+Cavalry Corps	 401	 ---	 189	 ---	 218
+
+Artillery	 56	 ---	 73	 56	 66
+
+Reserve.
+
+General	 29	 ---	 24	 29	 24
+
+Patrick's
+
+brigade.
+
+Engineer	 36	 ---	 24	 36	 24
+
+Brigade
+
+Total	 2,035	 1	 1,255	 1,641	 1,272
+
+Continuation: Needed. Army wagons on hand.
+
+Commands.	 Horses.	 Mules.	 Servi-	 Allowance.
+
+ 	 	 ceable.
+
+Second Army	 6	 ---	 56	 56
+
+Corps.
+
+Fifth Army	 7	 6	 58	 59
+
+Corps.
+
+Sixth Army	 1	 ---	 52	 53
+
+Corps.
+
+Cavalry Corps	 ---	 39	 36	 36
+
+Artillery	 ---	 ---	 11	 11
+
+Reserve.
+
+General	 ---	 ---	 4	 4
+
+Patrick's
+
+brigade.
+
+Engineer	 ---	 ---	 5	 ---
+
+Brigade
+
+Total	 14	 45	 222	 219
+
+Continuation: Medicine wagons. Ambulances.
+
+Commands.	 Autenrieth	 Perot.	 Service-	 Allowance.
+
+ 	 	 able.
+
+Second Army	 7	 8	 178	 181
+
+Corps.
+
+Fifth Army	 6	 5	 171	 176
+
+Corps.
+
+Sixth Army	 3	 6	 144	 144
+
+Corps.
+
+Cavalry Corps	 5	 1	 77	 77
+
+Artillery	 1	 ---	 26	 ---
+
+Reserve.
+
+General	 1	 ---	 11	 11
+
+Patrick's
+
+brigade.
+
+Engineer	 1	 ---	 12	 12
+
+Brigade
+
+Total	 24	 20	 619	 601
+
+CAMP AND GARRISON EQUIPAGE.
+
+Tents on hand.
+
+Commands.	 Hospital.	 Wall.	 Common.	 Shelter.
+
+Second Army	 87	 9	 3	 ---
+
+Corps.
+
+Fifth Army	 87	 ---	 ---	 ---
+
+Corps.
+
+Sixth Army	 63	 6	 4	 118
+
+Corps.
+
+Cavalry Corps	 34	 ---	 ---	 ---
+
+Artillery	 16	 5	 ---	 ---
+
+Reserve.
+
+General	 3	 1	 ---	 ---
+
+Patrick's
+
+brigade.
+
+Engineer	 4	 1	 ---	 ---
+
+Brigade.
+
+Total	 294	 22	 7	 118
+
+Continuation: Tents allowed.
+
+Commands.	 Hospital.	 Wall.	 Common.
+
+Second Army	 85	 9	 3
+
+Corps.
+
+Fifth Army	 ---	 ---	 ---
+
+Corps.
+
+Sixth Army	 ---	 ---	 ---
+
+Corps.
+
+Cavalry Corps	 34	 ---	 ---
+
+Artillery	 14	 5	 ---
+
+Reserve.
+
+General	 3	 1	 ---
+
+Patrick's
+
+brigade.
+
+Engineer	 4	 1	 ---
+
+Brigade.
+
+Total	 140	 16	 3
+
+Continuation: Tools on hand.
+
+Commands.	 Axes.	 Shovels.	 Spades.	 Picks.
+
+Second Army	 60	 26	 6	 21
+
+Corps.
+
+Fifth Army	 ---	 ---	 ---	 ---
+
+Corps.
+
+Sixth Army	 67	 34	 16	 23
+
+Corps.
+
+Cavalry Corps	 13	 3	 2	 ---
+
+Artillery	 12	 4	 6	 4
+
+Reserve.
+
+General	 3	 4	 ---	 2
+
+Patrick's
+
+brigade.
+
+Engineer	 ---	 ---	 ---	 ---
+
+Brigade.
+
+Total	 155	 71	 30	 50
+
+SCHEDULE C. - Consolidated classified statement of wounds, &amp; c., of the Army of the Potomac at the battle of the Wilderness, Va., May 5, 6, and 7, 1864.
+
+Location of	 Second	 Fifth	 Sixth	 Cavalry	 Total.
+
+injury, & c.	 Corps.	 Corps.	 Corps.	 Corps.
+
+Head and	 255	 169	 198	 18	 640
+
+face
+
+Neck	 55	 43	 30	 2	 130
+
+Shoulder	 209	 122	 146	 7	 484
+
+Thorax	 211	 152	 96	 14	 473
+
+Abdomen	 135	 90	 92	 9	 326
+
+Back and	 144	 116	 110	 8	 378
+
+hips
+
+Perineum and	 29	 13	 5	 1	 48
+
+genitals
+
+Superior	 973	 780	 621	 42	 2,416
+
+extremities
+
+Inferior	 895	 792	 653	 63	 2,403
+
+extremities
+
+Large	 1	 3	 ---	 ---	 4
+
+arteries or
+
+nerves
+
+Total	 2,907	 2,280	 1,957	 164	 7,302
+
+Deaths in	 83	 71	 53	 ---	 207
+
+field
+
+hospitals
+
+Shell wounds	 8	 176	 38	 9	 231
+
+Cannon-shot	 2	 1	 3	 ---	 6
+
+wounds
+
+Bullet	 2,893	 2,100	 1,904	 149	 7,046
+
+wounds
+
+Sword wounds	 ---	 ---	 ---	 2	 2
+
+Bayonet	 2	 ---	 2	 ---	 4
+
+wounds
+
+Amputations	 207	 205	 141 	 7	 560
+
+performed
+
+15 R R - VOL XXXVI, PT I
+

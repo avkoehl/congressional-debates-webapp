@@ -1,0 +1,829 @@
+
+List A.
+
+Name 	 Nu	 Blan	 Coat	 Pant	 Shi
+
+of	 mb	 kets	 s.	 s.	 rts
+
+pris	 er	 .	 	 	 .
+
+on.	 of
+
+ pr
+
+ is
+
+ on
+
+ er
+
+ s.
+
+Elmi	 8,	 1,94	 2,57	 2,81	 2,3
+
+ra,	 14	 8	 5	 0	 94
+
+N.	 3
+
+Y.
+
+Poin	 10	 3,14	 3,63	 3,58	 3,8
+
+t,1	 8	 7	 7	 18
+
+Look	 40
+
+out,
+
+Md.
+
+Fort	 6,	 2,85	 1,87	 3,14	 2,2
+
+Dela	 95	 0	 4	 1	 60
+
+ware	 5
+
+,
+
+Del.
+
+Fort	 13	 20	 35	 27	 80
+
+Lafa	 3
+
+yett
+
+e,
+
+N.
+
+Y.,
+
+Camp	 5,	 2,48	 1,76	 2,34	 2,2
+
+Chas	 81	 4	 0	 0	 80
+
+e,	 9
+
+Colu
+
+mbus
+
+,
+
+Ohio
+
+.
+
+Camp	 8,	 1,98	 2,76	 2,74	 3,5
+
+Doug	 33	 4	 4	 0	 30
+
+las,	 1
+
+Chic
+
+ago,
+
+Ill.
+
+Camp	 4,	 1,50	 1,58	 1,58	 1,7
+
+Mort	 62	 0	 0	 5	 30
+
+on,	 6
+
+Ind.
+
+Rock	 5,	 1,58	 1,75	 1,88	 2,7
+
+Isla	 81	 0	 0	 5	 60
+
+nd,	 9
+
+Ill.
+
+Fort	 28	 114	 117	 260	 ...
+
+McHe	 1
+
+nry,
+
+Balt
+
+imor
+
+e.
+
+West	 24	 50	 60	 146	 100
+
+'s	 3
+
+Buil
+
+ding
+
+s
+
+Hosp
+
+ital
+
+,
+
+Balt
+
+imor
+
+e.
+
+Fort	 21	 70	 50	 105	 207
+
+Warr	 9
+
+en,
+
+Bost
+
+on
+
+Harb
+
+or.
+
+Alto	 1,	 400	 800	 820	 790
+
+n,	 39
+
+Ill.	 3
+
+Linc	 82	 ...	 ...	 11	 19
+
+oln
+
+Gene
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Wash
+
+ingt
+
+on.
+
+John	 2,	 1,00	 1,34	 1,67	 1,1
+
+son'	 69	 0	 7	 0	 30
+
+s	 8
+
+Isla
+
+nd,
+
+Ohio
+
+.
+
+Gove	 32	 49	 25	 20	 20
+
+rnor	 2
+
+'s
+
+Isla
+
+nd,
+
+N.
+
+Y.
+
+Nash	 14	 ...	 495	 510	 680
+
+vill	 0
+
+e,
+
+Tenn
+
+.
+
+Pris	 50	 2	 3	 12	 11
+
+on
+
+in
+
+New
+
+York
+
+City
+
+.
+
+Fort	 15	 ...	 ...	 ...	 ...
+
+Pick
+
+ens.
+
+Gene	 ..	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Alex
+
+andr
+
+ia,
+
+Va.
+
+Gene	 10	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Hamm
+
+ond,
+
+Wash
+
+ingt
+
+on.
+
+Gene	 39	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Memp
+
+his,
+
+Tenn
+
+.
+
+Hosp	 40	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Beau
+
+fort
+
+, S.
+
+C.
+
+Hosp	 2	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Lexi
+
+ngto
+
+n,
+
+Ky.
+
+Hosp	 64	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Whee
+
+ling
+
+, W.
+
+Va.
+
+Hosp	 37	 ...	 ...	 ...	 ...
+
+ital	 5
+
+,
+
+Old
+
+Capi
+
+tol.
+
+Hosp	 10	 ...	 ...	 ...	 ...
+
+ital	 2
+
+,
+
+Lous
+
+vill
+
+e.
+
+Barr	 11	 ...	 ...	 ...	 ...
+
+acks
+
+,
+
+Cinc
+
+inna
+
+ti,
+
+Ohio
+
+.
+
+Litt	 37	 ...	 ...	 ...	 ...
+
+le	 0
+
+Rock
+
+,
+
+Ark.
+
+Grat	 10	 ...	 ...	 ...	 ...
+
+iot	 2
+
+Stre
+
+et
+
+Pris
+
+on,
+
+Sain
+
+t
+
+Loui
+
+s.
+
+New	 16	 ...	 ...	 ...	 ...
+
+Orle	 2
+
+ans.
+
+Tota	 56	 17,1	 18,8	 21,6	 21,
+
+l.,6	 99	 72	 69	 809
+
+ 87
+
+Name 	 Dra	 Socks	 Shoe	 Packa
+
+of	 wer	 .	 s.	 ges
+
+pris	 s.	 	 	 from
+
+on.	 	 	 	 South
+
+ 	 	 	 .
+
+Elmi	 2,8	 3,758	 2,32	 307
+
+ra,	 30	 	 0
+
+N.
+
+Y.
+
+Poin	 1,5	 2,688	 4,38	 171
+
+t	 00	 	 0
+
+Look
+
+out,
+
+Md.
+
+Fort	 2,9	 3,992	 2,45	 821
+
+Dela	 47	 	 7
+
+ware
+
+,
+
+Del.
+
+Fort	 40	 50	 22	 41
+
+Lafa
+
+yett
+
+e,
+
+N.
+
+Y.,
+
+Camp	 1,8	 2,604	 2,60	 58
+
+Chas	 00	 	 0
+
+e,
+
+Colu
+
+mbus
+
+,
+
+Ohio
+
+.
+
+Camp	 2,0	 2,200	 3,65	 21
+
+Doug	 44	 	 0
+
+las,
+
+Chic
+
+ago,
+
+Ill.
+
+Camp	 1,6	 1,460	 1,81	 12
+
+Mort	 00	 	 0
+
+on,
+
+Ind.
+
+Rock	 1,4	 1,700	 1,90	 45
+
+Isla	 00	 	 0
+
+nd,
+
+Ill.
+
+Fort	 350	 360	 170	 12
+
+McHe
+
+nry,
+
+Balt
+
+imor
+
+e.
+
+West	 150	 50	 115	 2
+
+'s
+
+Buil
+
+ding
+
+s
+
+Hosp
+
+ital
+
+,
+
+Balt
+
+imor
+
+e.
+
+Fort	 111	 160	 162	 15
+
+Warr
+
+en,
+
+Bost
+
+on
+
+Harb
+
+or.
+
+Alto	 777	 670	 800	 22
+
+n,
+
+Ill.
+
+Linc	 23	 19	 14	 ...
+
+oln
+
+Gene
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Wash
+
+ingt
+
+on.
+
+John	 710	 1,289	 1,52	 685
+
+son'	 	 	 0
+
+s
+
+Isla
+
+nd,
+
+Ohio
+
+.
+
+Gove	 90	 107	 41	 4
+
+rnor
+
+'s
+
+Isla
+
+nd,
+
+N.
+
+Y.
+
+Nash	 230	 79	 520	 ...
+
+vill
+
+e,
+
+Tenn
+
+.
+
+Pris	 12	 1	 10	 2
+
+on
+
+in
+
+New
+
+York
+
+City
+
+.
+
+Fort	 ...	 ...	 ...	 ...
+
+Pick
+
+ens.
+
+Gene	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Alex
+
+andr
+
+ia,
+
+Va.
+
+Gene	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Hamm
+
+ond,
+
+Wash
+
+ingt
+
+on.
+
+Gene	 ...	 ...	 ...	 ...
+
+ral
+
+Hosp
+
+ital
+
+,
+
+Memp
+
+his,
+
+Tenn
+
+.
+
+Hosp	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Beau
+
+fort
+
+, S.
+
+C.
+
+Hosp	 ...	 ...	 	 ...
+
+ital	 	 	 ...
+
+,
+
+Lexi
+
+ngto
+
+n,
+
+Ky.
+
+Hosp	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Whee
+
+ling
+
+, W.
+
+Va.
+
+Hosp	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Old
+
+Capi
+
+tol.
+
+Hosp	 ...	 ...	 ...	 ...
+
+ital
+
+,
+
+Lous
+
+vill
+
+e.
+
+Barr	 ...	 ...	 ...	 ...
+
+acks
+
+,
+
+Cinc
+
+inna
+
+ti,
+
+Ohio
+
+.
+
+Litt	 ...	 ...	 ...	 ...
+
+le
+
+Rock
+
+,
+
+Ark.
+
+Grat	 ...	 ...	 ...	 ...
+
+iot
+
+Stre
+
+et
+
+Pris
+
+on,
+
+Sain
+
+t
+
+Loui
+
+s.
+
+New	 ...	 ...	 ...	 ...
+
+Orle
+
+ans.
+
+Tota	 16,	 21,18	 22,5	 2,218
+
+l.	 614	 7	 09
+
+WAR DEPARTMENT, BUREAU OF MILITARY JUSTICE,
+
+September 16, 1865.
+
+The SECRETARY OF WAR FOR THE PRESIDENT:
+
+In the case of Edward A. Swain, lately a midshipman in the rebel Navy and now in confinement at San Francisco, Cal., under sentence of a military commission, an application for pardon being referred to this Bureau, it is reported to the Secretary of War for the President, on the 6th of September, instant, that the record of the prisoner's trial had not reached its files, but that from a general order of Major-General McDowell, in which the proceedings of the military commission before which he was tried were fully reviewed, it appeared that the prisoner, with certain associates, had been convicted of an atrocious crime, for th guilt of which the brief imprisonment to which they had been subjected could not, in the opinion of this office, be considered an expiation, and that in the absence of the record no just reason was found for disturbing the execution of their sentence. The record of the trial is now at hand. It appears from it that the prisoner, with T. E. Hogg, John S. Hiddle, W. L. Black, T. J. Grady, R. B. Lyon, and Joseph Higgin, was found guilty by a military commission convened in
+

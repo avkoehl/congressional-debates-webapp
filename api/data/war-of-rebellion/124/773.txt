@@ -1,0 +1,237 @@
+
+THREE-YEARS.
+
+Arm of service.	 Infantry.	 Cavalry.	 Sharpshooters.
+
+1861.	 1,047	 ---	 ---
+
+1st Regiment
+
+2nd Regiment	 1,046	 ---	 ---
+
+7th Regiment	 1,046	 ---	 ---
+
+9th Regiment	 1,047	 ---	 ---
+
+10th Regiment	 1,047	 ---	 ---
+
+11th Regiment	 1,050	 ---	 ---
+
+12th Regiment	 1,055	 ---	 ---
+
+13th Regiment	 1,021	 ---	 ---
+
+14th Regiment	 1,305	 ---	 ---
+
+15th Regiment	 1,040	 ---	 ---
+
+16th Regiment	 1,003 	 ---	 ---
+
+17th Regiment	 951	 ---	 ---
+
+18th Regiment	 1,012 	 --- 	 ---
+
+19th Regiment	 852	 ---	 ---
+
+20th Regiment	 762	 ---	 ---
+
+21st Regiment	 1,007	 ---	 ---
+
+22nd Regiment	 1,050	 ---	 ---
+
+23rd Regiment	 1,062 	 ---	 ---
+
+24th Regiment	 989	 ---	 ---
+
+25th Regiment	 1,032	 ---	 ---
+
+26th Regiment	 1,050	 ---	 ---
+
+27th Regiment	 983	 ---	 ---
+
+28th Regiment	 950	 ---	 ---
+
+29th Regiment	 881	 ---	 ---
+
+30th Regiment	 929	 ---	 ---
+
+31st Regiment	 941	 ---	 ---
+
+Cavalry	 ---	 1,857	 ---
+
+1st Battery	 ---	 ---	 ---
+
+2nd Battery	 ---	 ---	 ---
+
+3rd Battery	 ---	 ---	 ---
+
+4th Battery	 ---	 ---	 ---
+
+5th Battery	 ---	 ---	 ---
+
+6th Battery	 ---	 ---	 ---
+
+7th Battery	 ---	 ---	 ---
+
+8th Battery	 ---	 ---	 ---
+
+Sharpshooters	 ---	 ---	 208
+
+1862.	 1,018 	 --- 	 ---
+
+32nd Regiment
+
+33rd Regiment	 942	 ---	 ---
+
+34th Regiment	 1,027	 ---	 ---
+
+35th Regiment	 1,018	 ---	 ---
+
+36th Regiment	 1,015	 ---	 ---
+
+37th Regiment	 979	 ---	 ---
+
+38th Regiment	 1,018	 ---	 ---
+
+39th Regiment	 987	 ---	 ---
+
+40th Regiment	 992	 ---	 ---
+
+41st Regiment	 1,127	 ---	 ---
+
+9th Battery	 ---	 ---	 ---
+
+10th Battery	 ---	 ---	 ---
+
+11th Battery	 ---	 ---	 ---
+
+12th Battery	 ---	 ---	 ---
+
+13th Battery	 ---	 ---	 ---
+
+1st Company	 ---	 ---	 ---
+
+2nd Company	 ---	 ---	 ---
+
+3rd Company	 ---	 ---	 ---
+
+Total	 36,281	 1,857	 208
+
+A r t i l l e r y.
+
+Arm of service.	 Light batteries.	 Heavy.	 Total.
+
+1861.	 ---	 ---	 ---
+
+1st Regiment
+
+2nd Regiment	 ---	 ---	 ---
+
+7th Regiment	 ---	 ---	 ---
+
+9th Regiment	 ---	 ---	 ---
+
+10th Regiment	 ---	 ---	 ---
+
+11th Regiment	 ---	 ---	 ---
+
+12th Regiment	 ---	 ---	 ---
+
+13th Regiment	 ---	 ---	 ---
+
+14th Regiment	 ---	 ---	 ---
+
+15th Regiment	 ---	 ---	 ---
+
+16th Regiment	 ---	 ---	 ---
+
+17th Regiment	 ---	 ---	 ---
+
+18th Regiment	 ---	 ---	 ---
+
+19th Regiment	 ---	 ---	 ---
+
+20th Regiment	 ---	 ---	 ---
+
+21st Regiment	 ---	 ---	 ---
+
+22nd Regiment	 ---	 ---	 ---
+
+23rd Regiment	 ---	 ---	 ---
+
+24th Regiment	 ---	 ---	 ---
+
+25th Regiment	 ---	 ---	 ---
+
+26th Regiment	 ---	 ---	 ---
+
+27th Regiment	 ---	 ---	 ---
+
+28th Regiment	 ---	 ---	 ---
+
+29th Regiment	 ---	 ---	 ---
+
+30th Regiment	 ---	 ---	 ---
+
+31st Regiment	 ---	 ---	 26,1 58
+
+Cavalry	 ---	 ---	 1,857
+
+1st Battery	 170	 ---	 ---
+
+2nd Battery	 152	 ---	 ---
+
+3rd Battery	 157	 ---	 ---
+
+4th Battery	 154	 ---	 ---
+
+5th Battery	 156	 ---	 ---
+
+6th Battery	 139	 ---	 ---
+
+7th Battery	 152	 ---	 ---
+
+8th Battery	 155	 ---	 1,235
+
+Sharpshooters	 ---	 ---	 208
+
+1862.	 ---	 ---	 ---
+
+32nd Regiment
+
+33rd Regiment	 ---	 ---	 ---
+
+34th Regiment	 ---	 ---	 ---
+
+35th Regiment	 ---	 ---	 ---
+
+36th Regiment	 ---	 ---	 ---
+
+37th Regiment	 ---	 ---	 ---
+
+38th Regiment	 ---	 ---	 ---
+
+39th Regiment	 ---	 ---	 ---
+
+40th Regiment	 ---	 ---	 ---
+
+41st Regiment	 ---	 ---	 10,123
+
+9th Battery	 152	 ---	 ---
+
+10th Battery	 156	 ---	 ---
+
+11th Battery	 152	 ---	 ---
+
+12th Battery	 136	 ---	 ---
+
+13th Battery	 148	 ---	 744
+
+1st Company	 ---	 147	 ---
+
+2nd Company	 ---	 140	 ---
+
+3rd Company	 ---	 156	 443
+
+Total	 1,979	 443	 40,768
+

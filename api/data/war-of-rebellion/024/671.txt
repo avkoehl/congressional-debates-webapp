@@ -1,0 +1,152 @@
+
+Numbers 26.
+
+Return of Casualties in the Confederate forces at Chickasaw Bayou and Chickasaw Bluffs, Miss., December 26-29, 1862.
+
+Killed.
+
+Command.	 Officers.	 Enlisted	 Total.
+
+ 	 men.
+
+STEVENSON'S COMMAND.
+
+Barton's brigade:
+
+40th Georgia.	 ...	 4	 4
+
+42nd Georgia.	 2	 8	 10
+
+43rd Georgia.	 ...	 ...	 ...
+
+52nd Georgia.	 ...	 1	 1
+
+Total.	 2	 13	 15
+
+Vaughn's brigade:
+
+79th [60th] Tennessee.	 ...	 5	 5
+
+80th [62d] Tennessee.	 1	 1	 2
+
+81st Tennessee.	 ...	 1	 1
+
+Total.	 1	 7	 8
+
+LEE'S COMMAND.
+
+Staff.	 1	 ...	 1
+
+17th Louisiana.	 ...	 1	 1
+
+22nd Louisiana.	 ...	 1	 1
+
+26th Louisiana.	 1	 7	 8
+
+28th Louisiana.	 1	 8	 9
+
+31st Louisiana.	 1	 8	 9
+
+4th Mississippi.	 ...	 ...	 ...
+
+46th Mississippi.	 ...	 ...	 ...
+
+3rd Tennessee.	 1	 ...	 1
+
+30th Tennessee.	 ...	 ...	 ...
+
+Hill's company (cavalry).	 ...	 ...	 ...
+
+Johnson's company (cavalry).	 ...	 ...	 ...
+
+Bowman's battery.	 ...	 1	 1
+
+Drew's battery.	 ...	 2	 2
+
+Wofford's battery.	 ...	 1	 1
+
+Total.	 5	 29	 34
+
+Grand total.	 8	 49	 57
+
+Wounded.
+
+Command.	 Offi	 Enlis	 Tota	 Missi	 Aggr
+
+ cers	 ted	 l.	 ng.	 egat
+
+ t.	 men.	 	 	 e.
+
+STEVENSON'S COMMAND.
+
+Barton's brigade:
+
+40th Georgia.	 3	 14	 17	 ...	 21
+
+42nd Georgia.	 1	 17	 18	 ...	 28
+
+43rd Georgia.	 1	 ...	 1	 ...	 1
+
+52nd Georgia.	 ..	 3	 3	 ...	 4
+
+Total.	 5	 34	 39	 ...	 54
+
+Vaughn's brigade:
+
+79th [60th] Tennessee.	 ...	 1	 1	 ...	 6
+
+80th [62d] Tennessee.	 2	 4	 6	 ...	 8
+
+81st Tennessee.	 1	 2	 3	 ...	 4
+
+Total.	 3	 7	 10	 ...	 18
+
+LEE'S COMMAND.
+
+Staff.	 ...	 ...	 ...	 ...	 1
+
+17th Louisiana.	 1	 9	 10	 1	 12
+
+22nd Louisiana.	 ...	 2	 2	 ...	 3
+
+26th Louisiana.	 ...	 2	 2	 ...	 10
+
+28th Louisiana.	 ...	 25	 25	 9	 43
+
+31st Louisiana.	 1	 15	 16	 ...	 25
+
+4th Mississippi.	 ...	 4	 4	 ...	 4
+
+46th Mississippi.	 ...	 1	 1	 ...	 1
+
+3rd Tennessee.	 1	 ...	 1	 ...	 2
+
+30th Tennessee.	 ...	 2	 2	 ...	 2
+
+Hill's company (cavalry).	 ...	 1	 1	 ...	 1
+
+Johnson's company	 ...	 ...	 ...	 ...	 ...
+
+(cavalry).
+
+Bowman's battery.	 ...	 ...	 ...	 ...	 1
+
+Drew's battery.	 ...	 3	 3	 ...	 5
+
+Wofford's battery.	 ...	 4	 4	 ...	 5
+
+Total.	 3	 68	 71	 10	 115
+
+Grand total.	 11	 109	 120	 10	 187
+
+Numbers 27.
+
+Report of Major General Martin L. Smith, C. S. Army, commanding forces in front of Vicksburg, of operations December 25-30, 1862.
+HEADQUARTERS,Vicksburg, Miss., January --, 1863.
+
+COLONEL: I have the honor to forward a report of the operations during the recent assaults upon our line by the Federal Army under Major General [W. T.] Sherman, together with the reports of the brigadier-generals under my command:
+
+A brief description of the position of the troops and the reasons controlling their disposition are first given.
+
+The broken ridge of hills touching the Mississippi at Vicksburg extends into the interior in nearly a direct line and has a direction at about right angles with the general course of the river. The Yazoo in its
+

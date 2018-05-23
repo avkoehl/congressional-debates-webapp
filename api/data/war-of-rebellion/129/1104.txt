@@ -1,0 +1,249 @@
+
+E. - Agricultural details.
+
+State. 	 Age. 	 Over 15	 Between 10	 Between 5
+
+ 	 hands. 	 and 15. 	 and 10.
+
+Virginia	 18 and 45	 3	 10	 53
+
+ 17 and 18	 . . . 	 1	 . . .
+
+ 45 and 50	 3	 29	 215
+
+Total	 . . . 	 6	 40	 268
+
+North	 18 and 45	 . . . 	 7	 40
+
+Carolina
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 1	 8
+
+Total	 . . . 	 . . . 	 8	 48
+
+South	 18 and 45	 12	 14	 16
+
+Carolina
+
+ 17 and 18	 . . . 	 1	 1
+
+ 45 and 50	 17	 22	 99
+
+Total	 . . . 	 29	 37	 116
+
+Georgia	 18 and 45	 312	 157	 218
+
+ 17 and 18	 7	 3	 1
+
+ 45 and 50	 99	 105	 224
+
+Total	 . . . 	 418	 265	 443
+
+Alabama	 18 and 45	 3	 6	 14
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 1	 . . . 	 . . .
+
+Total	 . . . 	 4	 6	 14
+
+Mississippi	 18 and 45	 . . . 	 3	 3
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 . . . 	 . . .
+
+Total	 . . . 	 . . . 	 3	 3
+
+Florida	 18 and 45	 . . . 	 . . . 	 2
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 5	 2	 7
+
+Total	 . . . 	 5	 2	 9
+
+East	 18 and 45	 . . . 	 1	 1
+
+Tennessee
+
+Continuation:
+
+State. 	 Age. 	 Less than	 Miscella-	 Total.
+
+ 	 5. 	 neous.
+
+Virginia	 18 and 45	 81	 . . . 	 147
+
+ 17 and 18	 9	 . . . 	 10
+
+ 45 and 50	 201	 . . . 	 448
+
+Total	 . . . 	 291	 . . . 	 605
+
+North	 18 and 45	 102	 . . . 	 149
+
+Carolina
+
+ 17 and 18	 3	 . . . 	 3
+
+ 45 and 50	 68	 . . . 	 77
+
+Total	 . . . 	 173	 . . . 	 229
+
+South	 18 and 45	 8	 5	 55
+
+Carolina
+
+ 17 and 18	 5	 . . . 	 7
+
+ 45 and 50	 68	 28	 214
+
+Total	 . . . 	 81	 33	 296
+
+Georgia	 18 and 45	 93	 56	 836
+
+ 17 and 18	 10	 10	 31
+
+ 45 and 50	 155	 59	 642
+
+Total	 . . . 	 258	 125	 1,509
+
+Alabama	 18 and 45	 14	 . . . 	 37
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 . . . 	 1
+
+Total	 . . . 	 14	 . . . 	 38
+
+Mississippi	 18 and 45	 9	 . . . 	 15
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 5	 . . . 	 5
+
+Total	 . . . 	 14	 . . . 	 20
+
+Florida	 18 and 45	 . . . 	 . . . 	 2
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 2	 . . . 	 16
+
+Total	 . . . 	 2	 . . . 	 18
+
+East	 18 and 45	 . . . 	 . . . 	 2
+
+Tennessee
+
+Grand total, 2,717.
+
+NOTE. - Since General Orders, No. 77, Adjutant and Inspector General's Office, only men found for "light duty" have been detailed as agriculturists.
+
+F. - Details on account of public necessity.
+
+State. 	 Age. 	 Railroad	 Telegraph	 Navigati-
+
+ 	 companies. 	 companies. 	 on compa-
+
+ 	 	 	 nies.
+
+Virginia	 18 and 45	 68	 93	 45
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 11	 . . . 	 12
+
+Total	 . . . 	 79	 93	 57
+
+North	 18 and 45 	 88	 14	 1
+
+Carolina
+
+ 17 and 18	 11	 . . . 	 . . .
+
+ 45 and 50	 26	 . . . 	 . . .
+
+Total	 . . . 	 125	 14	 1
+
+Continuation:
+
+State. 	 Age. 	 Cotton and	 Paper	 Iron
+
+ 	 wool	 mills. 	 manufac-
+
+ 	 factories. 	 	 tories.
+
+Virginia	 18 and 45	 . . . 	 . . . 	 4
+
+ 17 and 18	 2	 . . . 	 8
+
+ 45 and 50	 30	 . . . 	 5
+
+Total	 . . . 	 32	 . . . 	 17
+
+North	 18 and 45 	 3	 . . . 	 . . .
+
+Carolina
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 . . . 	 . . .
+
+Total	 . . . 	 3	 . . . 	 . . .
+
+Continuation:
+
+State. 	 Age. 	 Foundries. 	 Printing	 Fire
+
+ 	 	 establish-	 depart-
+
+ 	 	 ments. 	 ment.
+
+Virginia	 18 and 45	 2	 5	 . . .
+
+ 17 and 18	 2	 . . . 	 . . .
+
+ 45 and 50	 37	 4	 16
+
+Total	 . . . 	 41	 9	 16
+
+North	 18 and 45 	 . . . 	 . . . 	 . . .
+
+Carolina
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 . . . 	 . . .
+
+Total	 . . . 	 . . . 	 . . . 	 . . .
+
+Continuation:
+
+State. 	 Age. 	 Police	 Gas works. 	 Salt
+
+ 	 department.	 	 manufac-
+
+ 	 	 	 tories.
+
+Virginia	 18 and 45	 22	 3	 30
+
+ 17 and 18	 . . . 	 . . . 	 3
+
+ 45 and 50	 5	 . . . 	 8
+
+Total	 . . . 	 27	 3	 41
+
+North	 18 and 45 	 . . . 	 . . . 	 . . .
+
+Carolina
+
+ 17 and 18	 . . . 	 . . . 	 . . .
+
+ 45 and 50	 . . . 	 . . . 	 5
+
+Total	 . . . 	 . . . 	 . . . 	 5
+

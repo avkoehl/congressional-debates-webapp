@@ -1,0 +1,33 @@
+
+Average range obtained with guns on Morris Island.
+
+Elevation Charge Range
+
+Gun	 Degrees	 Minutes	 Pounds	 Yards
+
+300-pounder	 13	 30	 26	 4,290
+
+200-pounder	 11	 47	 16	 4,272
+
+100-pounder	 13	 30	 10	 4,272
+
+300-pounder	 5	 12	 25 1/2	 1,950
+
+200-pounder	 4	 12	 16	 1,750
+
+100-pounder	 4	 15	 10	 1,750
+
+158. The Parrott guns are not without defects, the most serious of which we found to be their very unequal endurance. Some of our most valuable batteries were disabled at a very early stage in the operations. The 8-inch rifle in the Marsh Battery burst at the 36th discharge, at a constant elevation of 31^30' and a constant charge of 16 pounds. The projectiles weighed 150 pounds.
+
+For the purpose of comparison, take two 100-pounders which burst as follows: One of them at the 122nd round t 3^15' elevation, the greatest elevation having been 3^20', and the average 3^18', while the other burst at the 1,151st round at 12^30'. Ten pounds of powder was the charge for both pieces.
+
+159. By far the most remarkable example of endurance furnished by any of our guns, and perhaps the most remarkable on record, was that of a 30-pounder Parrott rifle. The following history of the piece is furnished by Captain Modecai, chief of ordnance of this department: The gun was cast at the West Point Foundry in 1863; its ordnance number is 193; it was mounted on Cumming's Point in December, 1863, for the purpose of throwing shells into the city of Charleston; it was placed on a plain wooden carriage manufactured on Morris Island. Sixty-nine days elapsed between the first and last discharge of the gun. It was being fired the 4,606 round when it burst. There were fired 4,594 rounds with 3 3/4 pounds of powder, and percussion shells of 29 pounds charged with 1 1/2 pounds of powder, with an elevation of 40^. One round with the same as above excepting the elevation, which was 49^45'; 7 rounds with the same as above, excepting that time fuses were used, with 40^ elevation; 4 rounds with 3 1/4 pounds of powder, time fuse, 4 1/2-inch shells, weighing 29 pounds and charged with 1 1/2 pounds of powder; elevation, 2^50'.
+
+Of these rounds, 4, 253 shells reached the city; 259 tripped and fell short; 10 took the rifling and fell short; 80 exploded prematurely, but none in the gun; and 4 were fired at Fort Sumter, and reached it, the distance being 1,390 yards.
+
+The first 2,164 rounds were fired at intervals of five minutes, but the firing was not continuous, 237 rounds being the greatest number fired in any one twenty-four hours, and 2 rounds the least. The average per day was 127 rounds.
+
+The last 2,442 rounds were fired at intervals of fifteen minutes, not continuously, 157 rounds being the greatest number fired in any one day, and 7 the least; the daily average being 97 rounds.
+
+All the shells were wedged and greased. The gun was cleaned after each discharge, first with a dry sponge and then with an oiled one; it was washed out with water and cooled after every ten fires. After the gun was loaded, and while waiting to be fired, a canvas cap was placed over the muzzle to keep out drifting sand, and every
+

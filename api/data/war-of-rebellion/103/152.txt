@@ -1,0 +1,139 @@
+
+ARTILLERY PROJECTILES.
+
+Solid shot, 10-inch columbiads.............. 2,100
+
+Shell, 10-inch columbiads................... 2,000
+
+-----
+
+4,100
+
+Solid shot, 8-inch columbiads............... 1,000
+
+Shell, 8-inch columbiads.................... 1,200
+
+Stand of grape, 8-inch columbiads........... 197
+
+-----
+
+2,397
+
+Solid shot, 7-inch rifles................... 1,000
+
+Shell, 7-inch rifles........................ 2,200
+
+-----
+
+3,200
+
+200
+
+Solid shot, 42-pounder, smooth-bore.........
+
+-----
+
+Solid shot, 32-pounder, smooth-bore......... 3,500
+
+Shell, 32-pounder, smooth-bore.............. 1,000
+
+-----
+
+4,500
+
+Solid shot, 32-pounder, rifle............... 2,200
+
+Shell, 32-pounder, rifle.................... 592
+
+-----
+
+2,792
+
+Solid shot, 24-pounder, smooth-bore......... 5,000
+
+Shell, 24-pounder, smooth-bore.............. 364
+
+Spherical case, 24-pounder, smooth-bore..... 450
+
+Stand of grape, 24-pounder, smooth-bore..... 2,000
+
+Canister, 24-pounder smooth-bore............ 600
+
+-----
+
+8,414
+
+Shell, 24-pounder rifle..................... 260
+
+Shell, 30-pounder Parrott................... 600
+
+Shell, 20-pounder Parrott................... 900
+
+Shell, 20-pounder Blakely, rifled........... 1,000
+
+10-inch mortar shell........................ 1,200
+
+-----
+
+3,960
+
+Solid shot, 12-pounder, smooth-bore......... 2,000
+
+Grape-shot, 12-pounder, smooth-bore......... 360
+
+-----
+
+2,260
+
+Solid shot, 6-pounder, smooth-bore................ 1,500
+
+ARTILLERY AMMUNITION (FIXED).
+
+Rounds.
+
+24-pounder gun ammunition.................... 600
+
+12-pounder gun and howitzer ammunition....... 10,000
+
+6-pounder gun ammunition..................... 3,000
+
+POWDER, CARTRIDGES, ETC.
+
+10-inch columbiad, cartridges................. 600
+
+8-inch columbiad, cartridges.................. 300
+
+32-pounder smooth-bore, cartridges............ 200
+
+24-pounder smooth-bore, cartridge............. 100
+
+20-pounder Blakely, rifled, cartridges........ 72
+
+20-pounder Parrott, cartridges................ 700
+
+10-pounder Parrott, cartridges................ 225
+
+12-pounder siege gun, cartridges.............. 100
+
+Rifle musket, caliber .577, cartridges........25,000
+
+Buck and ball, caliber .59, cartridges........20,000
+
+Pounds cannon powder..........................14,000
+
+Pounds measled powder.......................... 100
+
+10-inch fire ball............................. 80
+
+ARTILLERY, CARRIAGES, IMPLEMENTS, ETC.
+
+Siege guns, carriages, and limbers complete... 8
+
+Field guns, carriages, and limbers complete... 12
+
+Caissons, field............................... 20
+
+Caissons, filed............................... 7
+
+Forge......................................... 1
+

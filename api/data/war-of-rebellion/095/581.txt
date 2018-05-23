@@ -1,0 +1,823 @@
+
+Numbers 2. Return of casualties in the Union Forces commanded by Lieutenant General Ulysses S. Grant, March 29-April 9, 1865.
+
+[Compiled from nominal lists of casualties.]
+
+Killed. Wounded.
+
+Command.	 Officers.	 Men.	 Officers.	 Men.
+
+GENERAL
+
+HEADQUARTERS.
+
+ESCORT.
+
+5th U. S. Cavalry,
+
+Companies B, F,
+
+--------
+
+--------
+
+--------
+
+-------
+
+and K.
+
+HEADQUARTERS
+
+GUARD.
+
+4th United States.
+
+--------
+
+--------
+
+--------
+
+-------
+
+ARMY OF THE
+
+POTOMAC.
+
+Major General
+
+GEORGE G. MEADE.
+
+PROVOST GUARD.
+
+Bvt. Brigadier
+
+General GEORGE N.
+
+MACY.
+
+1st Indiana
+
+Cavalry, Company
+
+--------
+
+--------
+
+--------
+
+-------
+
+K.
+
+1st Massachusetts
+
+Cavalry, Companies
+
+--------
+
+--------
+
+--------
+
+1
+
+C and D.
+
+3rd Pennsylvania
+
+--------
+
+1
+
+--------
+
+-------
+
+Cavalry.
+
+11th United
+
+States, 1st
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battalion.
+
+14th United
+
+States, 2nd
+
+--------
+
+1
+
+--------
+
+-------
+
+Battalion.
+
+Total Provost
+
+--------
+
+2
+
+--------
+
+1
+
+Guard.
+
+HEADQUARTERS
+
+GUARD.
+
+3rd United States.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Signal Detachment.
+
+--------
+
+--------
+
+--------
+
+1
+
+QUARTERMASTER'S
+
+GUARD.
+
+Oneida (New York)
+
+--------
+
+--------
+
+--------
+
+-------
+
+Cavalry.
+
+ENGINEER BRIGADE.
+
+Brigadier General
+
+HENRY W. BENHAM.
+
+15th New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+(nine companies).
+
+50th New York.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Total Engineer
+
+--------
+
+--------
+
+--------
+
+-------
+
+Brigade.
+
+Battalion U. S.
+
+--------
+
+--------
+
+--------
+
+-------
+
+Engineers.
+
+ARTILLERY.
+
+Brigadier General
+
+HENRY J. HUNT.
+
+SIEGE TRAIN.
+
+Colonel HENRY L.
+
+ABBOT.
+
+1st Connecticut
+
+--------
+
+3
+
+--------
+
+11
+
+Heavy.
+
+Connecticut Light,
+
+--------
+
+--------
+
+--------
+
+-------
+
+3rd Battery.
+
+Total Siege Train.
+
+--------
+
+3
+
+--------
+
+11
+
+ARTILLERY RESERVE.
+
+Brigadier General
+
+WILLIAM HAYS.
+
+Maine Light, 2nd
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery (B).
+
+Maine Light, 3rd
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery (C).
+
+Maine Light, 4th
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery (D).
+
+Maine Light, 6th
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery (F).
+
+Massachusetts
+
+Light, 5th Battery
+
+--------
+
+--------
+
+1	 3
+
+(E).
+
+Massachusetts
+
+Light, 9th
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery.
+
+Massachusetts
+
+Light, 14th
+
+--------
+
+--------
+
+--------
+
+1
+
+Battery.
+
+New Jersey Light,
+
+--------
+
+--------
+
+--------
+
+-------
+
+3rd Battery.
+
+1st New York
+
+--------
+
+1
+
+--------
+
+2
+
+Light, Battery C.
+
+1st New York
+
+--------
+
+--------
+
+--------
+
+1
+
+Light, Battery E.
+
+1st New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Light, Battery G.
+
+1st New York
+
+--------
+
+--------
+
+--------
+
+-------
+
+Light, Battery L.
+
+New York Light,
+
+--------
+
+--------
+
+--------
+
+-------
+
+12th Battery.
+
+1st Ohio Light,
+
+--------
+
+--------
+
+--------
+
+-------
+
+Battery H.
+
+1st Pennsylvania
+
+--------
+
+2
+
+--------
+
+2
+
+Light, Battery B.
+
+CONTINUATION:
+
+Captured or missing.
+
+Command.	 Officers.	 Men.	 Aggregate
+
+GENERAL HEADQUARTERS.
+
+ESCORT.
+
+5th U. S. Cavalry, Companies
+
+--------
+
+--------
+
+--------
+
+B, F, and K.
+
+HEADQUARTERS GUARD.
+
+4th United States.
+
+--------
+
+--------
+
+--------
+
+ARMY OF THE POTOMAC.
+
+Major General GEORGE G.
+
+MEADE.
+
+PROVOST GUARD.
+
+Bvt. Brigadier General
+
+GEORGE N. MACY.
+
+1st Indiana Cavalry, Company
+
+--------
+
+--------
+
+--------
+
+K.
+
+1st Massachusetts Cavalry,
+
+--------
+
+--------
+
+1
+
+Companies C and D.
+
+3rd Pennsylvania Cavalry.
+
+--------
+
+--------
+
+1
+
+11th United States, 1st
+
+--------
+
+--------
+
+--------
+
+Battalion.
+
+14th United States, 2nd
+
+--------
+
+--------
+
+1
+
+Battalion.
+
+Total Provost Guard.
+
+--------
+
+--------
+
+3
+
+HEADQUARTERS GUARD.
+
+3rd United States.
+
+--------
+
+--------
+
+--------
+
+Signal Detachment.
+
+--------
+
+--------
+
+1
+
+QUARTERMASTER'S GUARD.
+
+Oneida (New York) Cavalry.
+
+--------
+
+--------
+
+--------
+
+ENGINEER BRIGADE.
+
+Brigadier General HENRY W.
+
+BENHAM.
+
+15th New York (nine
+
+--------
+
+--------
+
+--------
+
+companies).
+
+50th New York.
+
+--------
+
+--------
+
+--------
+
+Total Engineer Brigade.
+
+--------
+
+--------
+
+--------
+
+Battalion U. S. Engineers.
+
+--------
+
+--------
+
+--------
+
+ARTILLERY.
+
+Brigadier General HENRY J.
+
+HUNT.
+
+SIEGE TRAIN.
+
+Colonel HENRY L. ABBOT.
+
+1st Connecticut Heavy.
+
+--------
+
+--------
+
+14
+
+Connecticut Light, 3rd
+
+--------
+
+--------
+
+--------
+
+Battery.
+
+Total Siege Train.
+
+--------
+
+--------
+
+14
+
+ARTILLERY RESERVE.
+
+Brigadier General WILLIAM
+
+HAYS.
+
+Maine Light, 2nd Battery
+
+--------
+
+--------
+
+--------
+
+(B).
+
+Maine Light, 3rd Battery
+
+--------
+
+--------
+
+--------
+
+(C).
+
+Maine Light, 4th Battery
+
+--------
+
+--------
+
+--------
+
+(D).
+
+Maine Light, 6th Battery
+
+--------
+
+--------
+
+--------
+
+(F).
+
+Massachusetts Light, 5th
+
+--------
+
+--------
+
+4
+
+Battery (E).
+
+Massachusetts Light, 9th
+
+--------
+
+--------
+
+--------
+
+Battery.
+
+Massachusetts Light, 14th
+
+--------
+
+--------
+
+1
+
+Battery.
+
+New Jersey Light, 3rd
+
+--------
+
+--------
+
+--------
+
+Battery.
+
+1st New York Light, Battery
+
+--------
+
+--------
+
+3
+
+C.
+
+1st New York Light, Battery
+
+--------
+
+--------
+
+1
+
+E.
+
+1st New York Light, Battery
+
+--------
+
+--------
+
+--------
+
+G.
+
+1st New York Light, Battery
+
+--------
+
+--------
+
+--------
+
+L.
+
+New York Light, 12th
+
+--------
+
+--------
+
+--------
+
+Battery.
+
+1st Ohio Light, Battery H.
+
+--------
+
+--------
+
+--------
+
+1st Pennsylvania Light,
+
+--------
+
+--------
+
+4
+
+Battery B.
+

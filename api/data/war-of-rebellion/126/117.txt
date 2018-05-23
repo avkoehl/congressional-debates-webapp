@@ -1,0 +1,569 @@
+
+Exhibit showing the number of colored recruits enlisted in the service of the United States, &amp;c.-Continued.
+
+Sta-	 Alab	 Arka	 Conn	 Dela	 Dist	 Flor	 Geor	 Illi	 Indi
+
+te	 ama	 nsas	 ecti	 ware	 rict	 ida	 gia	 nois	 ana
+
+cut	 	 of
+
+Colu
+
+mbia
+
+New	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+York
+
+Nor-	 ...	 ...	 36	 ...	 ...	 ...	 ...	 ...	 ...
+
+th
+
+Caro
+
+lina
+
+Ohio	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Penn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+syl-
+
+vani
+
+a
+
+Rhod	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+e
+
+Isla
+
+nd
+
+Sout	 ...	 ...	 353	 ...	 ...	 ...	 ...	 ...	 ...
+
+h
+
+Caro
+
+lina
+
+Tenn	 2	 18	 ..	 ...	 ...	 ...	 1	 4	 ...
+
+esse
+
+e
+
+Verm	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ont
+
+Vir-	 ...	 ...	 123	 ...	 1	 ...	 ...	 ...	 ...
+
+gini
+
+a
+
+Wis-	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+con-
+
+sin
+
+West	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Virg
+
+inia
+
+To-	 2972	 190	 778	 34	 164	 8	 2171	 556	 188
+
+tal
+
+num-
+
+ber
+
+cred
+
+ited
+
+Sta-	 Iowa	 Kans	 Kent	 Louisi	 Maine	 Mary	 Massa	 Michi
+
+te	 	 as	 ucky	 ana	 	 land	 chuse	 gan
+
+tts
+
+New	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+York
+
+Nor-	 ...	 ...	 ...	 ...	 27	 ...	 91	 ...
+
+th
+
+Caro
+
+lina
+
+Ohio	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Penn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+syl-
+
+vani
+
+a
+
+Rhod	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+e
+
+Isla
+
+nd
+
+Sout	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+h
+
+Caro
+
+lina
+
+Tenn	 ...	 ...	 ...	 ...	 1	 ...	 203	 ...
+
+esse
+
+e
+
+Verm	 ...	 ...	 11	 1	 1	 ...	 6	 ...
+
+ont
+
+Vir-	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+gini
+
+a
+
+Wis-	 ...	 ...	 ...	 ...	 12	 2	 87	 ...
+
+con-
+
+sin
+
+West	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Virg
+
+inia
+
+To-	 29	 178	 5920	 844	 79	 565	 1306	 167
+
+tal
+
+num-
+
+ber
+
+cred
+
+ited
+
+Sta-	 Minn	 Miss	 Miss	 New	 New	 New	 Nort	 Ohio	 Penn
+
+te	 esot	 issi	 ouri	 Hamp	 Jers	 York	 h	 	 sylv
+
+a	 ppi	 	 shir	 ey	 	 Caro	 	 ania
+
+e	 	 	 lina
+
+Alab	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ama
+
+Arka	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+nsas
+
+Conn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ecti
+
+cut
+
+Dela	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ware
+
+Dist	 ...	 ...	 ...	 1	 ...	 4	 ...	 ...	 5
+
+rict
+
+of
+
+Colu
+
+mbia
+
+Flor	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ida
+
+Geor	 ...	 ...	 ...	 ...	 ...	 331	 ...	 ...	 ...
+
+gia
+
+Illi	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+nois
+
+Indi	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ana
+
+Iowa	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Kans	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+as
+
+Kant	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ucky
+
+Loui	 ...	 30	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+sian
+
+a
+
+Main	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+e
+
+Mary	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+land
+
+Mass	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+achu
+
+sett
+
+s
+
+Mich	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+igan
+
+Minn	 25	 ...	 ...	 ....	 ..	 109	 ...	 20	 ...
+
+esot
+
+a
+
+Miss	 ...	 501	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+issi
+
+ppi
+
+Miss	 ...	 ...	 1083	 ...	 ...	 ...	 ...	 ...	 ...
+
+ouri
+
+New	 ...	 ...	 ...	 31	 ...	 ...	 ...	 ...	 ...
+
+Hamp
+
+shir
+
+e
+
+New	 ...	 ...	 ...	 ...	 262	 ...	 ...	 ...	 ...
+
+Jers
+
+ey
+
+New	 ...	 ...	 ...	 ...	 ...	 416	 ...	 ...	 ...
+
+York
+
+Nort	 ...	 ...	 ...	 ...	 ...	 248	 1379	 ...	 ...
+
+h
+
+Caro
+
+lina
+
+Ohio	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 774	 ...
+
+Penn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 1067
+
+sylv
+
+ania
+
+Rho-	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+de
+
+Isla
+
+nd
+
+Sout	 ...	 ...	 ...	 ...	 ...	 600	 ...	 ...	 ...
+
+h
+
+Caro
+
+lina
+
+Tenn	 ...	 ...	 ...	 ...	 ...	 3	 1	 5	 ...
+
+esse
+
+e
+
+Verm	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ont
+
+Virg	 ...	 ...	 ...	 ...	 43	 62	 5	 ...	 10
+
+inia
+
+Wis-	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+cons
+
+in
+
+West	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+Virg
+
+inia
+
+To-	 25	 531	 1083	 32	 305	 1773	 1385	 799	 1082
+
+tal
+
+num-
+
+ber
+
+cred
+
+ited
+
+Sta-	 Rhode	 South	 Tenn	 Verm	 Virg	 Wiscon	 West	 Total
+
+te	 Island	 Carol	 esse	 ont	 inia	 sin	 Virg	 numbe
+
+ina	 e	 	 	 	 inia	 r
+
+enlis
+
+ted
+
+Alab	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 2,982
+
+ama
+
+Arka	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 172
+
+nsas
+
+Conn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 77
+
+ecti
+
+cut
+
+Dela	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 34
+
+ware
+
+Dist	 ...	 ...	 ...	 1	 ...	 ...	 ...	 178
+
+rict
+
+of
+
+Colu
+
+mbia
+
+Flor	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 19
+
+ida
+
+Geor	 ...	 ...	 5	 ...	 ...	 ...	 ...	 2,707
+
+gia
+
+Illi	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 530
+
+nois
+
+Indi	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 187
+
+ana
+
+Iowa	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 29
+
+Kans	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 178
+
+as
+
+Kant	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+ucky	 	 	 	 	 	 	 	 5,910
+
+Loui	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 859
+
+sian
+
+a
+
+Main	 ...	 ...	 ...	 ...	 ...	 ...	 ..	 36
+
+e
+
+Mary	 ...	 ...	 ...	 ...	 ...	 ...	 ..	 563
+
+land
+
+Mass	 ...	 ...	 ...	 ..	 ...	 ..	 ...	 135
+
+achu
+
+sett
+
+s
+
+Mich	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 166
+
+igan
+
+Minn	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 25
+
+esot
+
+a
+
+Miss	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+issi	 	 	 	 	 	 	 	 1,412
+
+ppi
+
+Miss	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 1,085
+
+ouri
+
+New	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 31
+
+Hamp
+
+shir
+
+e
+
+New	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 262
+
+Jers
+
+ey
+
+New	 ...	 ...	 ....	 ...	 ...	 ...	 ...	 416
+
+York
+
+Nort	 ...	 ...	 ....	 ...	 ...	 ...	 ...	 1,781
+
+h
+
+Caro
+
+lina
+
+Ohio	 ...	 ...	 ...	 ...	 ...	 ...	 ...	 774
+
+Penn	 ...	 ...	 ...	 ...	 ...	 ...	 ...
+
+sylv	 	 	 	 	 	 	 	 1,067
+
+ania
+
+Rho-	 59	 ...	 ...	 ...	 ...	 ...	 ...	 59
+
+de
+
+Isla
+
+nd
+
+Sout	 ...	 858	 ...	 ..	 1	 ...	 ...
+
+h	 	 	 	 	 	 	 	 2,015
+
+Caro
+
+lina
+
+Tenn	 ...	 ...	 2443	 ...	 ...	 ...	 ...	 2,497
+
+esse
+
+e
+
+Verm	 ...	 ...	 ...	 1	 ...	 ...	 ...	 1
+
+ont
+
+Virg	 6	 ...	 ...	 ...	 364	 ...	 ...	 715
+
+inia
+
+Wis-	 ...	 ...	 ...	 ...	 ...	 26	 ...	 26
+
+cons
+
+in
+
+West	 ...	 ...	 ...	 ...	 ...	 ...	 33	 33
+
+Virg
+
+inia
+
+To-	 65	 858	 2448	 2	 365	 26	 33	 26961
+
+tal
+
+num-
+
+ber
+
+cred
+
+ited
+
+THOMAS M. VINCENT,
+
+Assistant Adjutant-General.
+
+WAR DEPARTMENT, ADJUTANT-GENERAL'S OFFICE,
+
+September 20, 1865.
+

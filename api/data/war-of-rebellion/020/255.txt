@@ -1,0 +1,283 @@
+
+[Inclosure Numbers 5.]
+
+Table of effects of projectiles on walls of Fort Sumter.
+
+[The numbers correspond with those on drawing of elevations, showing the locations of points of impact.]
+
+Caster.
+
+No.	 Projectile	 Penetrat	 Penetra	 Height	 Height
+
+ 	 ion	 tion
+
+ 	 Feet	 Inches	 Feet	 Inches
+
+1	 ...	 ...	 2	 ...	 ..
+
+2	 Fragment of	 ...	 6	 ... 	 ...
+
+ shell
+
+3 	 ...	 2	 3	 4	 ...
+
+4	 15-inch	 ...	 9	 3	 ...
+
+5	 11-inch	 1	 ...	 1 	 ...
+
+6	 15-inch	 ...	 33	 ... 	 ...
+
+7	 Fragment of	 ...	 ...	 ...	 ...
+
+ shell
+
+8	 ...	 1	 ...	 2	 ...
+
+9	 3 shots	 2	 6	 10 	 ...
+
+10	 15-inch	 2	 3	 6	 ...
+
+11	 Fragment of	 ...	 ... 	 ...	 ...
+
+ shell
+
+12	 15-inch	 1	 6	 3	 ...
+
+13	 Fragment of	 ...	 ...	 ...	 ...
+
+ shell
+
+14	 Fragment of	 ... 	 6	 ...	 ...
+
+ shell
+
+15	 ...	 1	 2	 3	 ...
+
+16	 ...	 2 	 15	 3	 ...
+
+17	 15-inch	 ... 	 6	 ...	 ...
+
+18	 ...	 1	 ...	 3	 ...
+
+19	 ...	 3 	 6	 5	 ...
+
+20	 ...	 1	 6	 3	 ...
+
+21	 ...	 1	 ... 	 4	 ..
+
+22	 15-inch	 5	 	 4	 ...
+
+23	 11-inch	 5	 ...	 2	 ...
+
+24	 ...	 2 	 6	 3	 6
+
+25	 15-inch	 5	 ... 	 4 	 ...
+
+26	 11-inch	 ..	 ...	 ...	 ...
+
+27	 ...	 1	 4	 2	 3
+
+28	 ...	 1 	 ...	 ...	 ...
+
+29	 ...	 2	 4	 5	 ...
+
+30	 ...	 ...	 ...	 ...	 ...
+
+31	 15-inch	 1	 ...	 3	 ...
+
+32	 11-inch	 ...	 6	 2	 6
+
+33	 ...	 ...	 5	 3 	 ...
+
+34	 Fragment of	 ...	 ...	 ...	 ...
+
+ shell
+
+35	 ...	 1	 6	 2	 6
+
+36	 25-inch	 1	 3	 3	 ...
+
+37	 ...	 ...	 10	 2	 ...
+
+38	 Fragment of	 ...	 4 	 2 	 ...
+
+ shell
+
+39	 ...	 ...	 2	 4	 ...
+
+40	 ...	 1	 ...	 2	 ...
+
+41	 ...	 2	 1	 3	 ...
+
+42	 ...	 ...	 10 	 1	 6
+
+43	 ...	 1	 2 	 2	 ...
+
+44	 ...	 ...	 ...	 ...	 ...
+
+45	 Fragment of	 ...	 ...	 ...	 ...
+
+ shell
+
+No.	 Width	 Width	 Remarks
+
+ Feet	 Inches
+
+1	 ..	 ..	 Scaled.
+
+2	 ...	 ...	 Scaled.
+
+3 	 4	 ...	 Embrasure A; exterior
+
+ 	 	 concrete keystone and
+
+ 	 	 interior embrasure arch
+
+ 	 	 knocked out; masonry
+
+ 	 	 cracked.
+
+4	 4	 ...	 Assisted Numbers 3; spent.
+
+5	 1	 ..	 Penetrated concrete and new
+
+ 	 	 masonry facing.
+
+6	 ...	 ...	 Ricochet and spent.
+
+7	 ...	 .. 	 Scaled.
+
+8	 2	 ..	 Apparently rifle shot; no
+
+ 	 	 serious injury.
+
+9	 8	 ..	 One 15-inch; other two not
+
+ 	 	 known; parapet wall cracked
+
+ 	 	 25 feet in perhaps by
+
+ 	 	 exploding shell
+
+10	 4	 ..	 Interior arch of embrasure
+
+ 	 	 B dislocated; masonry
+
+ 	 	 between piers and embrasure
+
+ 	 	 badly shaken and
+
+ 	 	 projecting.
+
+11	 ...	 ..	 Scaled.
+
+12 	 3 	 ..	 Shook masonry.
+
+13	 ...	 ..	 Scaled.
+
+14	 ...	 ..	 Scaled.
+
+15	 3 	 .. 	 Interior embrasure C; arch
+
+ 	 	 broken; masonry cracked.
+
+16	 3	 ..	 Perhaps exploding shell.
+
+17	 ...	 ..	 Scaled; spent ball
+
+18	 3	 ..	 Masonry shaken.
+
+19	 5	 ..	 Exploding shell on pier;
+
+ 	 	 not much internal injury.
+
+20	 3	 ..	 No serious injury
+
+21	 3	 ..	 Masonry around embrasure D
+
+ 	 	 badly cracked and
+
+ 	 	 projecting inside
+
+22	 3	 ..	 Penetrated, striking head
+
+ 	 	 of arch and thrown upward,
+
+ 	 	 tearing away a quantity of
+
+ 	 	 masonry, not seriously
+
+ 	 	 damaging body of masonry;
+
+ 	 	 exploded in casemate.
+
+23	 2	 ..	 Same effect as 22;
+
+ 	 	 destroyed embrasure E.
+
+24	 3	 6	 Not seriously damaging body
+
+ 	 	 of masonry.
+
+25	 4	 ..	 Same effect as 22;
+
+ 	 	 destroyed embrasure F;
+
+ 	 	 exploded in parade.
+
+26	 ...	 ..	 Scaled; ricochet and spent.
+
+27	 2	 ..	 No serious damage.
+
+28	 ...	 ..	 No serious damage.
+
+29	 5 	 ..	 Serious damage; wall not
+
+ 	 	 much cracked.
+
+30	 ...	 ..	 Scaled.
+
+31	 4	 ..	 Knocked off 1 foot of
+
+ 	 	 angle.
+
+32	 2	 ..	 Knocked off 6 inches of
+
+ 	 	 angle
+
+33	 2	 ..	 Oblique fire; scaled.
+
+34	 ...	 ..	 Scaled.
+
+35	 2	 ..	 Shook masonry
+
+36	 4	 ..	 Broke and projected in sole
+
+ 	 	 of embrasure G.
+
+37	 3	 ..	 Very oblique fire; no
+
+ 	 	 damage
+
+38	 2	 ..	 Very oblique fire; no
+
+ 	 	 damage
+
+39	 4	 ..	 Very oblique fire; no
+
+ 	 	 damage
+
+40	 4	 ..	 Very oblique fire; no
+
+ 	 	 damage
+
+41	 3	 ..	 Exploding shell.
+
+42	 1	 6	 Oblique; scaled
+
+43	 2	 ..	 No serious injury.
+
+44	 ...	 ..
+
+45	 ...	 ..	 Scaled.
+

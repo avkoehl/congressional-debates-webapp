@@ -1,0 +1,227 @@
+
+[Inclosure.]
+
+List of Western veteran regiments, &amp;c., in the Department of the Cumberland.
+
+ Date of	 Veter	 Recru	 Aggr
+
+ report.	 ans.	 its	 egat
+
+Command.	 	 	 gaine	 e.
+
+ 	 	 d
+
+5th Ohio Volunteer Infantry	 March	 128	 155	 283
+
+ 1, 1864
+
+13th Ohio Volunteer Infantry	 ---	 181	 ---	 ---
+
+14th Ohio Volunteer Infantry	 March 1,	 421	 215	 636
+
+ 1864
+
+15th Ohio Volunteer Infantry	 April 1,	 301	 313	 614
+
+ 1864
+
+17th Ohio Volunteer Infantry	 ---	 326	 ---	 ---
+
+19th Ohio Volunteer Infantry	 ---	 310	 ---	 ---
+
+21st Ohio Volunteer Infantry	 March 1,	 252	 196	 448
+
+ 1864
+
+26th Ohio Volunteer Infantry	 do	 185	 89	 274
+
+29th Ohio Volunteer Infantry	 do	 304	 110	 414
+
+31st Ohio Volunteer Infantry	 do	 259	 375	 634
+
+33rd Ohio Volunteer Infantry	 do	 219	 166	 385
+
+36th Ohio Volunteer Infantry	 ---	 343	 ---	 ---
+
+38th Ohio Volunteer Infantry	 March 1,	 462	 219	 681
+
+ 1864
+
+40th Ohio Volunteer Infantry	 ---	 172	 ---	 ---
+
+41st Ohio Volunteer Infantry	 March	 196	 80	 276
+
+ 1, 1864
+
+49th Ohio Volunteer Infantry	 ---	 261	 ---	 ---
+
+51st Ohio Volunteer Infantry	 March	 237	 248	 485
+
+ 1, 1864
+
+55th Ohio Volunteer Infantry	 do	 314	 94	 408
+
+61st Ohio Volunteer Infantry	 ---	 118	 ---	 ---
+
+64th Ohio Volunteer Infantry	 March	 226	 70	 296
+
+ 1, 1864
+
+65th Ohio Volunteer Infantry	 April	 170	 17	 187
+
+ 1, 1864
+
+66th Ohio Volunteer Infantry	 March	 255	 52	 307
+
+ 1, 1864
+
+69th Ohio Volunteer Infantry	 ---	 302	 ---	 ---
+
+71st Ohio Volunteer Infantry	 April	 302	 117	 419
+
+ 1, 1864
+
+73rd Ohio Volunteer Infantry	 March	 ---	 111	 ---
+
+ 1, 1864
+
+74th Ohio Volunteer Infantry	 do	 159	 131	 290
+
+82nd Ohio Volunteer Infantry	 do	 265	 142	 407
+
+9th Indiana Vol. Infantry	 do	 280	 135	 415
+
+17th Indiana Vol. Infantry	 do	 278	 ---	 ---
+
+(mounted)
+
+22nd Indiana Vol. Infantry	 ---	 312	 ---	 ---
+
+27th Indiana Vol. Infantry	 ---	 152	 ---	 ---
+
+29th Indiana Vol. Infantry	 March	 32	 87	 119
+
+ 1, 1864
+
+30th Indiana Vol. Infantry	 ---	 120	 ---	 ---
+
+31st Indiana Vol. Infantry	 ---	 285	 ---	 ---
+
+33rd Indiana Vol. Infantry	 ---	 448	 ---	 ---
+
+35th Indiana Vol. Infantry	 March	 182	 68	 250
+
+ 1, 1864
+
+37th Indiana Vol. Infantry	 ---	 193	 ---	 ---
+
+38th Indiana Vol. Infantry	 March	 218	 78	 296
+
+ 1, 1864
+
+40th Indiana Vol. Infantry	 ---	 246	 ---	 ---
+
+42nd Indiana Vol. Infantry	 March	 215	 99	 314
+
+ 1, 1864
+
+44th Indiana Vol. Infantry	 ---	 264	 ---	 ---
+
+51st Indiana Vol. Infantry	 April	 291	 24	 315
+
+ 1, 1864
+
+57th Indiana Vol. Infantry	 ---	 215	 ---	 ---
+
+58th Indiana Vol. Infantry	 ---	 202	 ---	 ---
+
+10th Illinois Vol. Infantry	 March	 378	 184	 562
+
+ 1, 1864
+
+16th Illinois Vol. Infantry	 do	 378	 308	 686
+
+34th Illinois Vol. Infantry	 do	 296	 188	 484
+
+36th Illinois Vol. Infantry	 do	 211	 52	 263
+
+38th Illinois Vol. Infantry	 ---	 171	 ---	 ---
+
+42nd Illinois Vol. Infantry	 ---	 226	 ---	 ---
+
+44th Illinois Vol. Infantry	 ---	 224	 ---	 ---
+
+51st Illinois Vol. Infantry	 ---	 146	 ---	 ---
+
+59th Illinois Vol. Infantry	 March	 248	 89	 371
+
+ 1, 1864
+
+60th Illinois Vol. Infantry	 ---	 333	 ---	 ---
+
+4th Kentucky Vol. Infantry	 ---	 215	 ---	 ---
+
+18th Kentucky Vol. Infantry	 March 	 175	 45	 220
+
+ 1, 1864
+
+21st Kentucky Vol. Infantry	 do	 296	 14	 310
+
+23rd Kentucky Vol. Infantry	 ---	 192	 ---	 ---
+
+28th Kentucky Vol. Infantry	 ---	 243	 ---	 ---
+
+9th Michigan Vol. Infantry	 March	 289	 210	 499
+
+ 1, 1864
+
+10th Michigan Vol. Infantry	 ---	 391	 ---	 ---
+
+13th Michigan Vol. Infantry	 April	 190	 383	 573
+
+ 1, 1864
+
+14th Michigan Vol. Infantry	 ---	 350	 ---	 ---
+
+3rd Wisconsin Vol. Infantry	 March	 238	 300	 538
+
+ 1, 1864
+
+13th Wisconsin Vol. Infantry	 April	 392	 59	 451
+
+ 1, 1864
+
+15th Missouri Vol. Infantry	 ---	 168	 ---	 ---
+
+2nd Minnesota Vol. Infantry	 March	 244	 143	 387
+
+ 1, 1864
+
+8th Kansas Vol. Infantry	 ---	 205	 ---	 ---
+
+1st Ohio Vol. Cavalry	 March	 331	 335	 666
+
+ 1, 1864
+
+3rd Ohio Volunteer Cavalry	 do	 296	 ---	 ---
+
+4th Ohio Volunteer Cavalry	 do	 194	 160	 354
+
+8th Indiana Vol. Cavalry	 ---	 296	 ---	 ---
+
+2nd Kentucky Vol. Cavalry	 ---	 184	 ---	 ---
+
+3rd Kentucky Vol. Cavalry	 ---	 237	 ---	 ---
+
+4th Kentucky Vol. Cavalry	 March	 110	 26	 136
+
+ 1, 1864
+
+6th Kentucky Vol. Cavalry	 ---	 76	 ---	 ---
+
+2nd Michigan Vol. Cavalry	 ---	 320	 ---	 ---
+
+5th Iowa Volunteer Cavalry	 March	 416	 197	 613
+
+ 1, 1864
+

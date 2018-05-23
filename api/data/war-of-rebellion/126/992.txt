@@ -1,0 +1,131 @@
+
+1. Number of persons employed and amount paid for service.
+
+Per employed monthly.
+
+Year.	 Greatest	 Average number	 Amount paid
+
+ number in one	 per month.	 for services.
+
+ month.
+
+1864	 16,364	 11,586	 $6,316,861.45
+
+1865	 17,035	 10,061	 6,513,384.15
+
+Total	 17,035	 10,787	 12,830,245.60
+
+2. Locomotives engines provided and final disposition made of them.
+
+Locomotives procured. Locomotives disposed of.
+
+Sold -
+
+Year.	 Purch	 Captu	 Total	 Lost	 For	 To	 Retur	 Total
+
+ ased.	 red.	 .	 or	 cash.	 South	 ned	 .
+
+ 	 	 	 destr	 	 ern	 to
+
+ 	 	 	 oyed	 	 railr	 for-
+
+ 	 	 	 in	 	 oads	 mer
+
+ 	 	 	 servi	 	 under	 ow-
+
+ 	 	 	 ce or	 	 Execu	 ners.
+
+ 	 	 	 in	 	 tive
+
+ 	 	 	 trans	 	 or-
+
+ 	 	 	 it.	 	 ders
+
+ 	 	 	 	 	 of
+
+ 	 	 	 	 	 Aug.
+
+ 	 	 	 	 	 8 and
+
+ 	 	 	 	 	 Oct.
+
+ 	 	 	 	 	 14.
+
+1862	 18	 35	 53	 ...	 ...	 ...	 ...	 ...
+
+1863	 20	 14	 34	 ...	 ...	 ...	 ...	 ...
+
+1864	 154	 17	 171	 2 	 ...	 ...	 ...	 2
+
+1865	 2	 ...	 2	 ...	 ...	 161	 63	 224
+
+1866	 ...	 ...	 ...	 ...	 32	 ...	 2	 34
+
+Total	 194	 66	 260	 2	 32	 161	 65	 260
+
+3. Cars provided and final disposition made of them.
+
+Cars procured. Cars disposed of.
+
+Sold -
+
+ Purch	 Built	 Total	 Lost	 Fors	 To	 Retur	 Total
+
+ ased.	 .	 .	 or	 cash.	 South	 ned	 .
+
+ 	 	 	 destr	 	 ern	 to
+
+ 	 	 	 oyed	 	 railr	 for-
+
+ 	 	 	 in	 	 oads	 mer
+
+ 	 	 	 servi	 	 under	 ow-
+
+ 	 	 	 ce or	 	 Execu	 ners.
+
+ 	 	 	 in	 	 tive
+
+ 	 	 	 trans	 	 or-
+
+ 	 	 	 it.	 	 ders
+
+ 	 	 	 	 	 of
+
+ 	 	 	 	 	 Aug.
+
+ 	 	 	 	 	 8 and
+
+ 	 	 	 	 	 Oct.
+
+ 	 	 	 	 	 14.
+
+On	 ...	 ...	 755	 ...	 ...	 ...	 ...	 ...
+
+hand
+
+Febru
+
+ary
+
+1,
+
+1864
+
+Year
+
+end-
+
+ing
+
+June
+
+30 -
+
+1864	 1,081	 ...	 1,081	 160	 ...	 ...	 ...	 160
+
+1865	 1,522	 25	 1,547	 243	 ...	 ...	 ...	 243
+
+1866	 ...	 ...	 ...	 32	 536	 2,311	 101	 2,980
+
+Total	 2,603	 25	 3,383	 435	 536	 2,311	 101	 3,383
+

@@ -1,0 +1,257 @@
+
+Bridge built.
+
+Date.	 Number of	 Length.	 Kind of	 Location.
+
+ bridge.	 	 bridge.
+
+1864.	 	 Feet.
+
+April 	 1	 180	 Canvas--	 Kelly's
+
+29	 	 	 	 Ford--
+
+May 4	 2	 150	 --do--	 Ely's
+
+ 	 	 	 Ford--
+
+4	 3	 190	 Wooden--	 --do--
+
+4	 4	 220	 --do--	 Germanna
+
+ 	 	 	 Ford--
+
+4	 5	 220	 Canvas--	 --do--
+
+4 	 6	 160	 Wooden--	 Culpeper
+
+ 	 	 	 Ford--
+
+7	 7	 190	 --do--	 Ely's
+
+ 	 	 	 Ford--
+
+10	 8	 420	 --do--	 Fredericks
+
+ 	 	 	 burg
+
+ 	 	 	 (lower
+
+ 	 	 	 crossing).
+
+10	 9	 50	 Canvas--	 --
+
+10	 10	 50	 --do--	 --
+
+18	 11	 440	 Wooden--	 Fredericks
+
+ 	 	 	 burg
+
+ 	 	 	 (Lacy
+
+ 	 	 	 house).
+
+23	 12	 160	 Canvas--	 Jericho
+
+ 	 	 	 Mills--
+
+24	 13	 100	 --do--	 Railway
+
+ 	 	 	 bridge--
+
+24	 14	 100	 --do--	 --do--
+
+25	 15	 100	 --do--	 Above
+
+ 	 	 	 railroad
+
+ 	 	 	 bridge.
+
+25 	 16	 80	 Wooden--	 Quarles'
+
+ 	 	 	 Mills a--
+
+26	 17	 160	 --do--	 Jericho
+
+ 	 	 	 Mills--
+
+26	 18	 100	 --do--	 Below
+
+ 	 	 	 rialroad
+
+ 	 	 	 bridge.
+
+26	 19	 100	 --do--	 Above
+
+ 	 	 	 railroad
+
+ 	 	 	 bridge.
+
+27	 20	 180	 Canvas--	 Hanovertow
+
+ 	 	 	 n--
+
+27	 21	 164	 --do--	 --do--
+
+28	 22	 146	 --do--	 Mrs.
+
+ 	 	 	 Nelson's
+
+ 	 	 	 b--
+
+28	 23	 140	 Wooden--	 --do--
+
+28	 24 	 180	 --do--	 Hanovertow
+
+ 	 	 	 n--
+
+28	 25	 180	 --do--	 Dunkirk--
+
+June 1	 26	 188	 Canvas--	 --do--
+
+3	 27	 160	 --do--	 New Castle
+
+ 	 	 	 Ferry.
+
+5	 28	 150	 --do--	 --do--
+
+12	 29	 100	 Wooden--	 Long
+
+ 	 	 	 Bridge c--
+
+12	 30	 60	 --do--	 Long
+
+ 	 	 	 Bridge d--
+
+13	 31 	 60	 Canvas--	 Jones'
+
+ 	 	 	 Bridge c--
+
+13	 32	 40	 --do--	 Jones'
+
+ 	 	 	 Bridge d--
+
+13	 33	 60	 Wooden--	 Jones'
+
+ 	 	 	 Brige c--
+
+13	 34	 40	 --do--	 Jones'
+
+ 	 	 	 Bridge d--
+
+14	 35	 1,240	 Wooden and	 Cole's
+
+ 	 	 canvas.	 Ferry
+
+19	 36	 100	 Canvas--	 Dunkirk--
+
+23	 37	 60	 --do--	 Jones'
+
+ 	 	 	 Bridge
+
+23	 38	 40	 --do--	 --do--
+
+ 	 6,458
+
+Date.	 River.	 Officer in command of train.
+
+1864.
+
+April 	 Rappahannock--	 Captain Folwell.
+
+29
+
+May 4	 Rapidan--	 Do.
+
+4	 --do--	 Major Brainerd.
+
+4	 --do--	 Captain McDonald.
+
+4	 --do--	 Captain Van Brocklin.
+
+4	 --do--	 Captain Palmer.
+
+7	 --do--	 Captain McDonald.
+
+10	 Rappahannock--	 Major Brainerd.
+
+10	 Po--	 Captain Van Brocklin.
+
+10	 --do--	 Do.
+
+18	 Rappahannock--	 Major Beers.
+
+23	 North Anna--	 Captain Van Brocklin.
+
+24	 --do--	 Captain Folwell.
+
+24	 --do--	 Do.
+
+25	 --do--	 Do.
+
+25	 --do--	 Major Beers.
+
+26	 --do--	 Do.
+
+26	 --do--	 Captain McDonald.
+
+26	 --do--	 Do.
+
+27	 Pamunkey--	 Captain Van Brocklin.
+
+27	 --do--	 Captain Folwell.
+
+28	 --do--	 Do.
+
+28	 --do--	 Major Beers.
+
+28	 --do--	 Captain Van Brocklin.
+
+28	 Mattapony--	 Captain Personius.
+
+June 1	 --do--	 Captain Van Brocklin.
+
+3	 Pamunkey--	 Do.
+
+5	 --do--	 Captain Folwell.
+
+12	 Chickahominy--	 Major Ford.
+
+12	 --do--	 Do.
+
+13	 --do--	 Lieutenant Folwell.
+
+13	 --do--	 Do.
+
+13	 --do--	 Captain Palmer.
+
+13	 --do--	 Do.
+
+14	 --do--	 Lieutenant-Colonel Spaulding.
+
+19	 Mattapony--	 Captain Folwell.
+
+23	 Chickahominy--	 Do.
+
+23	 --do--	 Do.
+
+aBesides pontoon, 220 feet crib bridge.
+
+bOr Mrs. Hundley's.
+
+cMain channel.
+
+dSouth branch.
+
+From the above statement it appears that the total number of pontoon bridges built was thirty-eight, and their aggregate length 6,458 feet. I have endeavored to be as brief as possible, but in carrying out your instructions as to detailed descriptions of all the operations of this command I have been compelled to make this report much longer than I could have wished. During the whole time covered by this report I believe the pontoon trains have been promptly on time when ordered, the bridges rapidly and skillfully built, and all other engineering operations of this command faithfully performed. Whatever credit may be awarded for this sis mainly flue to the energy and skill of the officers in immediate charge of the several works and to the zealous and faithful co-operation of the men under their command.
+
+Very respectfully,
+
+I. SPAULDING,
+
+Lieutenant-Colonel, Commanding.
+
+Major J. C. DUANE,
+
+Chief Engineer, Army of the Potomac.
+
