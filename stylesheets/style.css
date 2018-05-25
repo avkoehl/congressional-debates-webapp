@@ -78,6 +78,29 @@ p
   border: 1px solid #909090;
 }
 
+.select a {
+  text-decoration: none;
+  margin-top: 16px;
+  color: #909090;
+  border: 1px solid #fff;
+}
+
+.select a:hover {
+  text-decoration: none;
+  margin-top: 16px;
+  color: #303030;
+  border: 1px solid #fff;
+}
+
+
+.selected a {
+  text-decoration: none;
+  margin-top: 16px;
+  color: #303030;
+  border: 1px solid #fff;
+}
+  
+
 
 .title
 {
