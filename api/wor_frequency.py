@@ -6,37 +6,46 @@ from joblib import Parallel, delayed
 import json
 import time
 
-def get_count (dirname, fname, searchword):
-    f = open(dirname + '/' + fname, "r")
+def get_count (d, fname, searchword):
+    f = open(d + '/' + fname, "r")
     doc = f.read().lower()
     words = doc.split(" ")
     return words.count(searchword), len(words)
 
-def frequency (searchword, num_cores):
-    searchword =searchword.lower()
-    freqs = [] 
-    dirnames = []
+def frequency (searchword, d):
+
     total_words = 0
+    freq = 0 
 
-    for dirname, subdirlist, filelist in os.walk("./data/war-of-rebellion/"):
+    filelist = os.listdir(d)
+    for fname in filelist:
+        res = get_count(d, fname, searchword)
+
+        freq = freq + res[0]
+        total_words = total_words + res[1]
+
+    return freq, total_words
+
+
+def main(searchword, num_cores):
+    searchword =searchword.lower()
+    dirnames = []
+    freqs = [] 
+    wc = []
+
+    for dirname, subdirlist, filelist in os.walk("./data/war-of-rebellion"):
         dirnames.append(dirname)
+    dirnames = dirnames[1:] # to get rid of self (root)  in directory list
 
-    dirnames =dirnames[1:]
+    result = Parallel(n_jobs=num_cores)(delayed(frequency)(searchword, d) for d in dirnames)
+    for f,o in result:
+        freqs.append(f)
+        wc.append(o)
 
-    for dirname in dirnames:
-        print (dirname)
-        freq = 0 
-        filelist = os.listdir(dirname)
-        print (len(filelist))
-        occurances = Parallel(n_jobs=num_cores)(delayed(get_count)(dirname, fname, searchword) for fname in filelist)
-        for j,k in occurances: 
-            total_words = total_words + k 
-            freq = freq + j
-        freqs.append(freq)
-    
-    
-    return freqs
+    return freqs, wc
 
-result = frequency("soldier", 30)
-for r in result:
-    print (r)
+
+if __name__ == "__main__":
+    freq, wc = main("contraband", 20)
+    for i in range(0, len(freq)):
+      print ("serial #: ", '%04d' % int(i), " ", '%04d' % int(freq[i]), " || ",  (freq[i] / wc[i]))
