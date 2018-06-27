@@ -1,5 +1,5 @@
 #python 3
-import os, time, gensim
+import os, time, gensim, re, enchant
 import multiprocessing
 from joblib import Parallel, delayed
 import json
@@ -9,64 +9,83 @@ import json
             [1] use gensim to computer the word2vec model (skip grams sg=1)
 """
 
-##
 
-def get_sentences(dirname, fname):
-    myfile = open(dirname + '/' + fname, "r")
-    lines = []
-    for line in myfile:
-      lines.append(line.lower())
-    return lines
+def get_clean_sentences(dirname, fname):
+    d = enchant.Dict("en_US")
+    stoplist = "mr on cay clay for a of the and to in".split()
+    words = []
+    with open(dirname + '/' + fname, "r") as ifile:
+        lines = []
+        for line in ifile:
+            tokens = line.rstrip().split(" ")
+            for t in tokens:
+              t = re.sub("[^a-zA-Z]+", "", t).lower()
+              if len(t) < 2:
+                  continue
+              if stoplist.count(t) == 0 and d.check(t):
+                  words.append(t)
+                
 
-def gen_models(dirname, all_sentences, i):
-    model = gensim.models.Word2Vec(all_sentences, sg=1, window=5, workers=30)
-    sessionid = str(i) + "_" + dirname.split('/')[-1]
-    print (sessionid)
-    model.save("./models/" + sessionid + ".model")
-    modeldict = {}
-    vocab = []
-    for word in model.wv.vocab:
-      vocab.append(word)
-    modeldict["vocabulary"] = vocab
-    modeldict["id"] = sessionid
-    f = open("./vocab/all.vocab", "a")
-    Json = json.dumps(modeldict)
-    print (Json, file=f)
+    c = 0
+    ngram = []
+    ngrams = []
+    for w in words:
+        if c < 10:
+            ngram.append(w)
+            c = c + 1
+        else:
+            ngrams.append(ngram)
+            ngram = []
+            c = 0
+    
+    return ngrams
+
+def gen_models(dirname, i):
+    print ("processing :", dirname)
+    start = time.time()
+    num_cores = multiprocessing.cpu_count()
+
+    sentences = get_clean_sentences(dirname, "all.txt") 
+    end = time.time()
+    print ("parse sentence time: ", end - start)
+
+    start1 = time.time()
+    if sentences:
+        model = gensim.models.Word2Vec(sentences, sg=1, window=5, workers=30)
+        sessionid = str(i) + "_" + dirname.split('/')[-1]
+        print (sessionid)
+        model.save("./models/" + sessionid + ".model")
+        modeldict = {}
+        vocab = []
+        for word in model.wv.vocab:
+           vocab.append(word)
+        modeldict["vocabulary"] = vocab
+        modeldict["id"] = sessionid
+        f = open("./vocab/" + sessionid + ".vocab", "w")
+        Json = json.dumps(modeldict)
+        print (Json, file=f)
+        end2 = time.time()
+        print ("time elapsed: ", end2 - start1)
+
+    else:
+        print ("empty!")
+
     return
 
-def models ():
-    path = "../text/"
+
+
+def main ():
+    path = "../congressional-globe/"
+    num_cores = 10
 
     for i in range (23, 42):
         dirnames = []
         for dirname, subdirlist, filelist in os.walk(path + str(i)):
-            dirnames.append(dirname)
-
-        for dirname in dirnames:
             if "session" in dirname:
-                all_sentences = []
-                start = time.time()
-                filelist = os.listdir(dirname)
-                num_cores = multiprocessing.cpu_count()
+                dirnames.append(dirname)
 
-                sentences = Parallel(n_jobs=num_cores)(delayed(get_sentences)(dirname, fname) for fname in filelist)
+        Parallel(n_jobs=num_cores)(delayed(gen_models)(d, i) for d in dirnames)
 
 
-                for k in range(len(sentences)):
-                    for j in range(len(sentences[k])):
-                        all_sentences.append(sentences[k][j].split())
-
-                end = time.time()
-                print ("parse sentence time: ", end - start)
-
-
-                start1 = time.time()
-                if all_sentences:
-                    gen_models(dirname, all_sentences, i)
-                    end2 = time.time()
-                    print ("time elapsed: ", end2 - start1)
-                else:
-                    print ("empty!")
-
-
-models()
+if __name__ == "__main__":
+    main()
